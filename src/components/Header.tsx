@@ -25,13 +25,13 @@ const Header: React.FC = () => {
             <Container className="!px-0">
                 <nav className="shadow-md md:shadow-none bg-white md:bg-transparent mx-auto flex justify-between items-center py-2 px-5 md:py-10">
                     {/* Logo */}
-                    <Link href="/" className="relative block h-16 md:h-20 w-[180px] overflow-hidden">
+                    <Link href="/" className="flex items-center gap-2">
                         <Image
                             src={siteDetails.siteLogo}
                             alt={siteDetails.siteName}
                             width={400}
                             height={120}
-                            className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 h-[150%] w-auto max-w-none object-contain"
+                            className="h-24 md:h-32 w-auto object-contain"
                         />
                     </Link>
 

@@ -12,13 +12,13 @@ const Footer: React.FC = () => {
         <footer className="bg-hero-background text-foreground py-10">
             <div className="max-w-7xl w-full mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-10">
                 <div>
-                    <Link href="/" className="relative block h-14 md:h-16 w-[160px] overflow-hidden">
+                    <Link href="/" className="flex items-center gap-2">
                         <Image
                             src={siteDetails.siteLogo}
                             alt={siteDetails.siteName}
                             width={300}
                             height={100}
-                            className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 h-[150%] w-auto max-w-none object-contain"
+                            className="h-20 md:h-28 w-auto object-contain"
                         />
                     </Link>
                     <p className="mt-3.5 text-foreground-accent">

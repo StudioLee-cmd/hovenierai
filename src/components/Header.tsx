@@ -36,7 +36,7 @@ const Header: React.FC = () => {
                     </Link>
 
                     {/* Desktop Menu */}
-                    <ul className="hidden md:flex items-center space-x-4 mt-2">
+                    <ul className="hidden md:flex items-center space-x-4 mt-2 pointer-events-auto">
                         {menuItems.map(item => (
                             <li key={item.text}>
                                 <Link href={item.url} className="text-foreground hover:text-foreground-accent transition-colors whitespace-nowrap text-[15px] font-medium">

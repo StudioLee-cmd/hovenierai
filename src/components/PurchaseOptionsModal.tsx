@@ -96,15 +96,15 @@ const PurchaseOptionsModal: React.FC<PurchaseOptionsModalProps> = ({ isOpen, onC
                             href={stripeUrl}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className={`flex flex-col items-center justify-center p-6 border-2 border-primary rounded-xl bg-primary text-white hover:bg-primary-accent transition-all group cursor-pointer text-center shadow-lg transform hover:-translate-y-1 ${stripeUrl === '#' ? 'opacity-50 pointer-events-none' : ''}`}
+                            className={`flex flex-col items-center justify-center p-6 border-2 border-primary rounded-xl bg-primary hover:bg-primary-accent transition-all group cursor-pointer text-center shadow-lg transform hover:-translate-y-1 ${stripeUrl === '#' ? 'opacity-50 pointer-events-none' : ''}`}
                         >
-                            <div className="w-12 h-12 bg-white/20 rounded-full flex items-center justify-center mb-4 text-white group-hover:scale-110 transition-transform">
+                            <div className="w-12 h-12 bg-black/20 rounded-full flex items-center justify-center mb-4 text-black group-hover:scale-110 transition-transform">
                                 <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
                                 </svg>
                             </div>
-                            <h3 className="font-bold text-white mb-1">Direct Starten</h3>
-                            <p className="text-sm text-blue-100">
+                            <h3 className="font-bold text-black mb-1">Direct Starten</h3>
+                            <p className="text-sm text-gray-800">
                                 {isAnnual ? 'Jaarlijks abonnement' : 'Maandelijks (Kwartaal)'}
                             </p>
                         </a>

@@ -8,23 +8,18 @@ import Container from '@/components/Container';
 const N8N_WEBHOOK_URL = "JOUW_N8N_WEBHOOK_URL_HIER";
 
 const NICHE_OPTIONS = [
-    "Restaurants",
+    "Dakdekkers",
+    "Aannemers",
+    "Installateurs",
+    "Schilders",
+    "Stukadoors",
+    "Glazenwassers",
+    "Hoveniers",
+    "Schoonmaakbedrijven",
     "Kappers",
     "Beauty & Nagel Salons",
-    "Schilders",
-    "Loodgieters",
-    "Elektro Installateurs",
-    "Fysiotherapeuten",
-    "Makelaars",
-    "Stukadoors",
-    "Dakdekkers",
-    "Rijscholen",
-    "Huisartsen",
-    "Beauty & Nagel Klinieken",
-    "Fietsenmakers",
-    "Dierenartsen",
-    "Verhuizers",
-    "Reparateurs (Telefoon)",
+    "Restaurants",
+    "Overig"
 ];
 
 const FreeTrialPage = () => {
@@ -32,7 +27,7 @@ const FreeTrialPage = () => {
     const [formData, setFormData] = useState({
         email: '',
         businessName: '',
-        niche: '',
+        niche: 'Dakdekkers',
         termsAccepted: false,
     });
     const [isLoading, setIsLoading] = useState(false);
@@ -69,7 +64,7 @@ const FreeTrialPage = () => {
         setError('');
 
         try {
-            const response = await fetch(N8N_WEBHOOK_URL, {
+            const response = await fetch('/api/signup', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
@@ -78,12 +73,25 @@ const FreeTrialPage = () => {
                     email: formData.email,
                     business_name: formData.businessName,
                     niche: formData.niche,
+                    name: formData.businessName, // Fallback name
+                    source: 'website_signup_page',
                 }),
             });
 
+            const data = await response.json();
+
             if (response.ok) {
-                // Success - redirect to Mollie checkout
-                router.push('/checkout/activate');
+                // Success - redirect to success page/Stripe
+                let redirectUrl = typeof data.data === 'string' ? data.data.trim() : '';
+                if (redirectUrl.startsWith('"') && redirectUrl.endsWith('"')) {
+                    redirectUrl = redirectUrl.slice(1, -1);
+                }
+
+                if (redirectUrl && redirectUrl.startsWith('http')) {
+                    window.location.href = redirectUrl;
+                } else {
+                    router.push('/aanmelding-gelukt');
+                }
             } else {
                 throw new Error('Er is iets misgegaan bij het versturen van je aanmelding.');
             }
@@ -146,40 +154,11 @@ const FreeTrialPage = () => {
                                     value={formData.businessName}
                                     onChange={handleChange}
                                     className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none text-gray-900"
-                                    placeholder="Jouw Bedrijfsnaam"
+                                    placeholder="Jouw Dakdekkersbedrijf"
                                     disabled={isLoading}
                                 />
                             </div>
 
-                            {/* Niche Dropdown */}
-                            <div>
-                                <label htmlFor="niche" className="block text-sm font-semibold text-gray-700 mb-2">
-                                    Niche <span className="text-red-500">*</span>
-                                </label>
-                                <select
-                                    id="niche"
-                                    name="niche"
-                                    required
-                                    value={formData.niche}
-                                    onChange={handleChange}
-                                    className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none text-gray-900 bg-white appearance-none cursor-pointer"
-                                    style={{
-                                        backgroundImage: `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%236B7280'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M19 9l-7 7-7-7'%3E%3C/path%3E%3C/svg%3E")`,
-                                        backgroundRepeat: 'no-repeat',
-                                        backgroundPosition: 'right 0.75rem center',
-                                        backgroundSize: '1.5em 1.5em',
-                                        paddingRight: '2.5rem',
-                                    }}
-                                    disabled={isLoading}
-                                >
-                                    <option value="">Selecteer je branche...</option>
-                                    {NICHE_OPTIONS.map((niche) => (
-                                        <option key={niche} value={niche}>
-                                            {niche}
-                                        </option>
-                                    ))}
-                                </select>
-                            </div>
 
                             {/* Terms Checkbox */}
                             <div className="flex items-start">
@@ -249,8 +228,8 @@ const FreeTrialPage = () => {
                     {/* Footer Note */}
                     <p className="text-center text-sm text-gray-500 mt-6">
                         Heb je vragen? Neem contact met ons op via{' '}
-                        <a href="mailto:support@loodgieterai.nl" className="text-blue-600 hover:text-blue-700 font-medium">
-                            support@loodgieterai.nl
+                        <a href="mailto:Info@dakdekkerai.nl" className="text-blue-600 hover:text-blue-700 font-medium">
+                            Info@dakdekkerai.nl
                         </a>
                     </p>
                 </div>

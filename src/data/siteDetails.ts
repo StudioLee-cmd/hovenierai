@@ -1,9 +1,9 @@
 export const siteDetails = {
-    siteName: 'KapperAI',
-    siteUrl: 'http://localhost:3000/',
+    siteName: 'Dakdekker AI',
+    siteUrl: 'https://dakdekkerai.nl/',
     metadata: {
-        title: 'KapperAI - De slimme assistent voor jouw kapsalon',
-        description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. KapperAI regelt je agenda, telefoon en administratie volledig automatisch.',
+        title: 'Dakdekker AI - De slimme assistent voor jouw dakdekkersbedrijf',
+        description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. Dakdekker AI regelt je agenda, telefoon en administratie volledig automatisch.',
     },
     language: 'nl-nl',
     locale: 'nl-NL',

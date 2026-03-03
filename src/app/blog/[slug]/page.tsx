@@ -2,20 +2,26 @@ import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { posts } from '@/data/posts';
+import { getAllPosts, getPostBySlug, getPostHtml } from '@/utils/posts';
 import { getAuthorBySlug } from '@/data/authors';
 import Container from '@/components/Container';
 import BlogContent from '@/components/BlogContent';
-import { FiArrowLeft, FiClock, FiUser } from 'react-icons/fi';
+import { FiArrowLeft, FiClock } from 'react-icons/fi';
+
+export async function generateStaticParams() {
+    const posts = getAllPosts();
+    return posts.map((post) => ({ slug: post.slug }));
+}
 
 const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) => {
     const { slug } = await params;
-    const post = posts.find((p) => p.slug === slug);
+    const post = getPostBySlug(slug);
 
     if (!post) {
         notFound();
     }
 
+    const contentHtml = await getPostHtml(slug);
     const author = getAuthorBySlug(post.authorSlug);
 
     return (
@@ -71,9 +77,8 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
                         </div>
                     </div>
 
-                    <BlogContent content={post.content} />
+                    <BlogContent content={contentHtml} />
 
-                    {/* Author Bio Card */}
                     {author && (
                         <div className="mt-12 p-6 bg-[var(--card-background)] rounded-2xl border border-[var(--card-border)]">
                             <div className="flex gap-4 items-start">
@@ -103,4 +108,3 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
 };
 
 export default BlogPostPage;
-

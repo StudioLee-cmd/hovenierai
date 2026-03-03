@@ -7,6 +7,8 @@ import Footer from "@/components/Footer";
 import { ThemeProvider } from "@/components/ThemeProvider";
 import { siteDetails } from '@/data/siteDetails';
 
+import { Analytics } from "@vercel/analytics/next"
+
 import "./globals.css";
 
 const manrope = Manrope({ subsets: ['latin'] });
@@ -59,6 +61,7 @@ export default function RootLayout({
             {children}
           </main>
           <Footer />
+          <Analytics />
         </ThemeProvider>
       </body>
     </html>

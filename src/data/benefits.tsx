@@ -10,28 +10,33 @@ export const benefits: IBenefit[] = [
         description: "Configureert de spraakassistent en instellingen direct in het dashboard.",
         bullets: [
             {
-                title: "Meertalig & Accenten",
-                description: "Spreekt en begrijpt meerdere talen vloeiend. Schakelt moeiteloos over tijdens het gesprek.",
+                title: "Meertalig & Intelligent",
+                description: "Spreekt vloeiend Nederlands, Engels & meer. Herkent direct de taal van de beller.",
                 icon: <FiGlobe size={26} />
             },
             {
-                title: "Workflows & Acties",
-                description: "Volledige opties voor workflows, uitgaande calls en alle gewenste features.",
-                icon: <FiCpu size={26} />
+                title: "Klantgeheugen & Historie",
+                description: "Herkent terugkerende klanten en heeft direct inzicht in alle eerdere klussen en klantdata.",
+                icon: <FiUsers size={26} />
             },
             {
-                title: "Slim Doorverbinden",
-                description: "Schakelt gesprekken automatisch door naar andere nummers indien nodig.",
-                icon: <FiSmartphone size={26} />
+                title: "Slimme Routing",
+                description: "Verbind door naar de juiste persoon op basis van specifieke woorden of situaties.",
+                icon: <FiZap size={26} />
             },
             {
-                title: "Multi-Agenda Booking",
-                description: "Plant afspraken direct in meerdere agenda's en systemen tegelijk.",
+                title: "Zelfstandig Uitbellen",
+                description: "Kan zelf klanten bellen voor opvolging, bevestigingen of het inplannen van afspraken.",
+                icon: <FiPhoneMissed size={26} />
+            },
+            {
+                title: "Multi-Agenda Beheer",
+                description: "Real-time sync met meerdere agenda's. Boekt direct zonder dubbele afspraken te maken.",
                 icon: <FiCalendar size={26} />
             },
             {
-                title: "Alles Inclusief",
-                description: "Alle features en updates zijn inbegrepen. Geen extra kosten.",
+                title: "Alles Inbegrepen",
+                description: "Alle geavanceerde features en koppelingen zijn standaard inbegrepen.",
                 icon: <FiCheckCircle size={26} />,
                 isHighlighted: true
             }
@@ -146,6 +151,7 @@ export const benefits: IBenefit[] = [
         ],
 
 
+        imageSrc: "/images/benefits/factuur-ai.png",
         videoSrc: "/videos/benefits/sales-deck-ai.mp4"
     },
 
@@ -513,7 +519,7 @@ export const benefits: IBenefit[] = [
                 isHighlighted: true
             }
         ],
-        imageSrc: "/images/benefits/ad-manager.jpg"
+        imageSrc: "/images/benefits/ad-manager.png"
     },
 
     // 14. Websites & Funnels
@@ -585,7 +591,7 @@ export const benefits: IBenefit[] = [
                 isHighlighted: true
             }
         ],
-        imageSrc: "/images/benefits/klantebeheer.jpg"
+        imageSrc: "/images/benefits/klantebeheer.png"
     },
 
     // 16. AI Fotostudio

@@ -63,7 +63,7 @@ const Hero: React.FC = () => {
                             style={{ x: xLeft, opacity, display: 'inline-block' }}
                             className="mr-2"
                         >
-                            De grootste kans voor&nbsp;<Highlight color="primary">kappers</Highlight>
+                            De grootste kans voor&nbsp;<Highlight color="primary">salons</Highlight>
                         </motion.span>
                         <br className="hidden md:block" />
                         <motion.span
@@ -75,7 +75,7 @@ const Hero: React.FC = () => {
                         <motion.span
                             style={{ x: xLeft, opacity, display: 'inline-block' }}
                         >
-                            <Highlight color="secondary">schaar</Highlight>.
+                            <Highlight color="secondary">nagellak</Highlight>.
                         </motion.span>
                     </h1>
                 </motion.div>
@@ -101,14 +101,14 @@ const Hero: React.FC = () => {
 
                         <RotatingText
                             texts={[
-                                'Winst tot in de Puntjes 💇‍♀️',
-                                'Alles-in-1 Systeem ✂️',
+                                'Winst uit elke Behandeling 💆‍♀️',
+                                'Alles-in-1 Systeem ✨',
                                 'Nooit Meer Gemiste Afspraken 📅',
-                                'Weg Met Losse Briefjes 🗑️',
-                                'Knippen Zonder Zorgen 💇‍♀️',
+                                'Geknipt voor Jouw Business ✂️',
+                                'Ondernemen Zonder Zorgen 🚀',
                                 'Je Salon in je Broekzak 📱',
                                 'Jouw AI Receptioniste 🤖',
-                                'Stop Omzetlekkages 💸',
+                                'Je Cijfers Strak in de Lak 💅',
                                 'Geen Gedoe Met Facturen 🧾',
                                 'Alle Tools in 1 App 📱',
                                 'Meer Vrijheid, Minder Stress 🧘',

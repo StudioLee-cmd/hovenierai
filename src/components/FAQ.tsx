@@ -19,8 +19,8 @@ const FAQ: React.FC = () => {
                         <p className="text-[var(--foreground-accent)] font-medium mb-2">
                             Staat je vraag er niet bij?
                         </p>
-                        <a href="mailto:Tim@KapperAI.nl" className="text-xl lg:text-2xl text-primary font-bold hover:text-primary-accent transition-colors">
-                            Tim@KapperAI.nl
+                        <a href="mailto:Info@dakdekkerai.nl" className="text-xl lg:text-2xl text-primary font-bold hover:text-primary-accent transition-colors">
+                            Info@dakdekkerai.nl
                         </a>
                     </div>
 

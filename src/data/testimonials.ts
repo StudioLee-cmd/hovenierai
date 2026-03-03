@@ -3,72 +3,72 @@ import { ITestimonial } from "@/types";
 
 export const testimonials: ITestimonial[] = [
     {
-        name: 'Marieke Jansen',
-        role: 'Loodgietersbedrijf Jansen, Utrecht',
-        message: 'Mijn vrouw is blij dat ik eindelijk weer eens op tijd thuis ben voor het eten. De planning vult zichzelf, ik hoef alleen maar te rijden. Top spul.',
+        name: 'Mark Janssen',
+        role: 'Dakservice Janssen, Utrecht',
+        message: 'Sta je net op een dakkapel, belt er een klant voor een lekkage. Voorheen nam ik niet op, nu pakt de AI het direct op en plant de afspraak in. Ideaal.',
         avatar: '/images/testimonials/testimonial-1.jpg',
         stars: 5
     },
     {
-        name: 'Sarah de Vries',
-        role: 'De Vries Installatietechniek, Rotterdam',
-        message: 'Ik was sceptisch over "AI", dacht dat het robotachtig zou klinken. Maar klanten hebben géén idee. Ze zijn gewoon blij dat er opgenomen wordt.',
+        name: 'Sander de Vries',
+        role: 'Sander Daktechniek, Rotterdam',
+        message: 'Ik was bang dat het robotachtig zou klinken, maar klanten merken het verschil niet. Ze zijn blij dat ze direct iemand "spreken" als ik bezig ben.',
         avatar: '/images/testimonials/testimonial-2.png',
         stars: 5
     },
     {
-        name: 'Peter Bakker',
-        role: 'Bakker Totaalonderhoud, Amsterdam',
-        message: 'Eerst nam ik de telefoon op tijdens het solderen. Niet handig. Nu doet de AI het, en hij klinkt nog vriendelijker dan ik als ik gestrest ben ook.',
+        name: 'Pieter Bakker',
+        role: 'Bakker Dakwerken, Amsterdam',
+        message: 'Offertes maken was altijd een drama in de avonduren. Nu doet het systeem het meeste werk. Ik heb weer tijd voor mijn gezin.',
         avatar: '/images/testimonials/testimonial-3.png',
         stars: 5
     },
     {
-        name: 'Johan "De Pijp" Visser',
-        role: 'Visser Loodgieters, Den Haag',
-        message: 'Minder lekkages in mijn agenda dan bij de klant! Serieus, geen gaten meer, geen dubbele afspraken. Het systeem betaalt zichzelf terug in een week.',
+        name: 'Lars Visser',
+        role: 'Visser Renovatie, Den Haag',
+        message: 'Geen dubbele afspraken meer en mijn routes zijn veel logischer. Het systeem snapt gewoon hoe een dakdekker werkt. Scheelt me uren per week.',
         avatar: '/images/testimonials/testimonial-4.jpg',
         stars: 5
     },
     {
         name: 'Karel van den Berg',
-        role: 'Karel Klust, Eindhoven',
-        message: 'Als ZZP’er is de telefoon je grootste vijand. Nu is het mijn beste vriend. Ik krijg gewoon een appje: "Nieuwe klus in agenda". Heerlijk.',
+        role: 'Dakspecialist Brabant, Eindhoven',
+        message: 'Als je handen onder de bitumen zitten, pak je je telefoon niet. Nu krijg ik gewoon een appje met de klusdetails. Top oplossing.',
         avatar: '/images/testimonials/testimonial-5.png',
         stars: 5
     },
     {
-        name: 'Thijs de Groot',
-        role: 'De Groot Sanitair, Arnhem',
-        message: 'De automatische facturatie is goud. Vroeger deed ik zondagavond de administratie, nu lig ik op de bank. Mijn boekhouder is er ook blij mee.',
+        name: 'Erik de Groot',
+        role: 'De Groot Dak & Zink, Arnhem',
+        message: 'De automatische facturatie is goud. Klus klaar, factuur de deur uit. Vroeger deed ik dat pas in het weekend, nu is het meteen geregeld.',
         avatar: '/images/testimonials/testimonial-6.png',
         stars: 5
     },
     {
         name: 'Tom van Dijk',
-        role: 'Van Dijk & Zonen, Groningen',
-        message: 'Wij groeiden hard, maar de telefoniste was ziek. Paniek. Deze software opgezet en het liep gewoon door. Klanten worden netjes te woord gestaan.',
+        role: 'Van Dijk Dakbedekking, Groningen',
+        message: 'Mijn planner was ziek, maar de zaak draaide gewoon door. Klanten werden netjes te woord gestaan en ingepland. Redde mijn week.',
         avatar: '/images/testimonials/testimonial-7.png',
         stars: 4
     },
     {
         name: 'Arjan Meijer',
-        role: 'Meijer Installaties, Zwolle',
-        message: 'Het stukje "Gemiste Oproep SMS" levert me direct geld op. Klant belt, ik neem niet op, zij krijgen appje, en boeken zelf een afspraak. Briljant.',
+        role: 'Meijer Dakonderhoud, Zwolle',
+        message: 'De "Gemiste Oproep SMS" levert me direct geld op. Mensen bellen verder als je niet opneemt, maar nu blijven ze hangen door dat berichtje.',
         avatar: '/images/testimonials/testimonial-8.jpg',
         stars: 5
     },
     {
         name: 'Daan de Jong',
-        role: 'Daan Doet Het, Tilburg',
-        message: 'Ik ben handig met buizen, niet met computers. Maar dit dashboard snap ik zelfs. Simpel, duidelijk en het doet wat het moet doen.',
+        role: 'Dakservice De Jong, Tilburg',
+        message: 'Ik ben handig met branders, niet met computers. Maar dit systeem is simpel. Duidelijk overzicht en geen gedoe.',
         avatar: '/images/testimonials/testimonial-9.jpg',
         stars: 5
     },
     {
         name: 'Robert Veenstra',
-        role: 'Veenstra Loodgieters, Maastricht',
-        message: 'De investering waard? Dubbel en dwars. Eén spoedklus die je anders had gemist en je hebt het er al uit. Niet twijfelen, gewoon doen.',
+        role: 'Veenstra Daktechniek, Maastricht',
+        message: 'De investering waard? Eén grote klus die je anders had gemist en je hebt het er al uit. Niet twijfelen, gewoon doen.',
         avatar: '/images/testimonials/testimonial-10.png',
         stars: 5
     },

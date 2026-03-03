@@ -18,6 +18,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
         email: '',
         phone: '+31 ',
         businessName: '',
+        niche: 'Dakdekker',
         termsAccepted: false,
         newsletter: true,
     });
@@ -49,8 +50,9 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
         };
     }, [isOpen]);
 
-    const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-        const { name, value, type, checked } = e.target;
+    const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>) => {
+        const { name, value, type } = e.target;
+        const checked = (e.target as HTMLInputElement).checked;
 
         setFormData(prev => ({
             ...prev,
@@ -90,7 +92,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                     email: formData.email,
                     phone: formData.phone,
                     business_name: formData.businessName,
-                    niche: 'Loodgieter',
+                    niche: formData.niche,
                     source: 'website_signup',
                     newsletter_subscribed: formData.newsletter,
                     interval: isAnnual ? 'Yearly' : 'Monthly'
@@ -265,10 +267,12 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                                         value={formData.businessName}
                                         onChange={handleChange}
                                         className="w-full px-4 py-3 border border-gray-300 dark:border-gray-600 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none text-gray-900 dark:text-white bg-white dark:bg-gray-800"
-                                        placeholder="Jouw Loodgietersbedrijf"
+                                        placeholder="Jouw Dakdekkersbedrijf"
                                         disabled={isLoading}
                                     />
                                 </div>
+
+
 
                                 {/* Terms Checkbox */}
                                 <div className="flex items-start">

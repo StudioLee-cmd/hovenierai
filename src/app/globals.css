@@ -26,7 +26,7 @@
 }
 
 [data-theme="dark"] {
-  --background: #0a0a0a;
+  --background: #121212;
   --foreground: #e0e7ff;
   /* Very light blue instead of pure white */
   --primary: #FED835;

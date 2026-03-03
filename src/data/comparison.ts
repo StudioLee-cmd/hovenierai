@@ -58,4 +58,4 @@ export const comparisonData: IComparisonItem[] = [
 ];
 
 export const totalTraditionalCost = 3220;
-export const loodgieterAICost = 297;
+export const kapperAICost = 297;

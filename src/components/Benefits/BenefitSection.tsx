@@ -127,7 +127,16 @@ const BenefitSection: React.FC<Props> = ({ benefit, imageAtRight }: Props) => {
                                     <div className="absolute inset-0 shadow-[inset_0_0_20px_-5px_white] pointer-events-none rounded-[30px]" />
                                 </div>
                             ) : (
-                                <Image src={imageSrc!} alt="title" width="384" height="762" quality={100} className="lg:ml-0" />
+                                <div className="relative w-full max-w-[384px] h-auto">
+                                    <Image
+                                        src={imageSrc!}
+                                        alt={title}
+                                        width={384}
+                                        height={762}
+                                        quality={100}
+                                        className="lg:ml-0 w-full h-auto object-cover"
+                                    />
+                                </div>
                             )}
                         </div>
                     </motion.div>

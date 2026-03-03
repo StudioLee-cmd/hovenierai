@@ -1,20 +1,20 @@
-'use client';
-
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import { posts } from '@/data/posts';
+import { getAllPosts } from '@/utils/posts';
 import { getAuthorBySlug } from '@/data/authors';
 import Container from '@/components/Container';
 
-const BlogPage = () => {
+const BlogPage = async () => {
+    const posts = await Promise.resolve(getAllPosts());
+
     return (
         <div className="py-24 bg-[var(--background)]">
             <Container>
                 <div className="mb-12 text-center">
-                    <h1 className="text-4xl md:text-5xl font-bold mb-4 text-[var(--foreground)]">Waarom Kiezen Voor KapperAI</h1>
+                    <h1 className="text-4xl md:text-5xl font-bold mb-4 text-[var(--foreground)]">Waarom Kiezen Voor HovenierAI</h1>
                     <p className="text-xl text-[var(--foreground-accent)] max-w-2xl mx-auto">
-                        Het laatste nieuws, tips en inzichten over AI voor kappers.
+                        Het laatste nieuws, tips en inzichten over AI voor hoveniers en hoveniersbedrijven.
                     </p>
                 </div>
 
@@ -73,4 +73,3 @@ const BlogPage = () => {
 };
 
 export default BlogPage;
-

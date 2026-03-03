@@ -7,11 +7,11 @@ export const faqs: IFAQ[] = [
     },
     {
         question: "Wat levert het mij concreet op (ROI)?",
-        answer: "Gemiddeld besparen onze klanten 10+ uur per week aan administratie en telefoontjes. Daarnaast mis je geen oproepen meer, wat direct leidt tot meer omzet. Eén geredde klus per maand dekt vaak de kosten al, nog los van de professionele uitstraling.",
+        answer: "Gemiddeld besparen onze klanten 10+ uur per week aan administratie en telefoontjes. Daarnaast mis je geen oproepen meer, wat direct leidt tot meer omzet. Eén geredde lekkageklus per maand dekt vaak de kosten al, nog los van de professionele uitstraling.",
     },
     {
         question: "Heb ik technische kennis nodig om dit te beheren?",
-        answer: "Nee, absoluut niet. Ons dashboard is ontworpen voor gebruiksgemak: als je WhatsApp kunt gebruiken, kun je LoodgieterAI gebruiken. Voor complexere inrichting bieden we bovendien onze 'Managed Service' aan.",
+        answer: "Nee, absoluut niet. Ons dashboard is ontworpen voor gebruiksgemak: als je WhatsApp kunt gebruiken, kun je Dakdekker AI gebruiken. Voor complexere inrichting bieden we bovendien onze 'Managed Service' aan.",
     },
     {
         question: "Kan ik de AI koppelen aan mijn eigen software?",
@@ -23,11 +23,11 @@ export const faqs: IFAQ[] = [
     },
     {
         question: "Is dit geschikt voor ZZP'ers of alleen grote bedrijven?",
-        answer: "Ons systeem is schaalbaar. Voor ZZP'ers is het ideaal om bereikbaar te zijn terwijl je onder de vloer zit. Voor grotere bedrijven biedt het krachtige dispatch- en routingmogelijkheden om het kantoorpersoneel te ontlasten.",
+        answer: "Ons systeem is schaalbaar. Voor ZZP'ers is het ideaal om bereikbaar te zijn terwijl je op het dak zit. Voor grotere bedrijven biedt het krachtige dispatch- en routingmogelijkheden om het kantoorpersoneel te ontlasten.",
     },
     {
         question: "Kan ik 's avonds en in het weekend andere instellingen gebruiken?",
-        answer: "Zeker. Je kunt specifieke 'flows' instellen voor buiten openingstijden. Bijvoorbeeld: 'Alleen doorverbinden bij spoed, anders een afspraak inplannen voor maandagochtend'. Zo heb je ook écht weekend.",
+        answer: "Zeker. Je kunt specifieke 'flows' instellen voor buiten openingstijden. Bijvoorbeeld: 'Alleen doorverbinden bij stormschade spoed, anders een afspraak inplannen voor maandagochtend'. Zo heb je ook écht weekend.",
     },
     {
         question: "Is het testen echt gratis?",

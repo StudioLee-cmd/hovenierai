@@ -65,39 +65,39 @@ const FallingText = () => {
         });
 
         const allWords = [
-            // HERO USPs (KAPPER EDITION)
-            "Winst tot in de Puntjes 💇‍♀️",
-            "Alles-in-1 Systeem ✂️",
-            "Nooit Meer Gemiste Afspraken 📅",
-            "Je Balie Eindelijk Opgeruimd ✨",
-            "Knippen Zonder Zorgen 💇‍♀️",
-            "Je Salon in je Broekzak 📱",
+            // HERO USPs (DAKDEKKER EDITION)
+            "Meer Winst per Dak 🏠",
+            "Alles-in-1 Systeem 🛠️",
+            "Nooit Meer Gemiste Oproepen 📞",
+            "Je Werkbonnen op Orde 📋",
+            "Ondernemen Zonder Zorgen 🚀",
+            "Je Kantoor in je Broekzak 📱",
             "Jouw AI Receptioniste 🤖",
-            "Stop Omzetlekkages 💸",
+            "Je Cijfers Waterdicht 💧",
             "Geen Gedoe Met Facturen 🧾",
             "Alle Tools in 1 App 📱",
             "Meer Vrijheid, Minder Stress 🧘",
             "100% Jouw Eigen Stijl 🎨",
             "Klanten & AI in 1 Systeem 🤝",
             "Volgeboekte Agenda 📈",
-            "Klanten die terugkomen als een boemerang 🪃",
+            "Offertes die scoren 📝",
             "Slapende klanten wakker schudden ⏰",
 
-            // KAPPERS PUNS & FUN (PUNCHIER)
-            "Minder lullen, meer krullen 💇‍♂️",
-            "Tijd voor koffie & roddels ☕",
+            // DAKDEKKER PUNS & FUN
+            "Minder kantoor, meer dak op 🏠",
+            "Tijd voor koffie & je klus ☕",
             "Laat de telefoon maar rinkelen (AI pakt op) 📞",
-            "Laat de AI je agenda vullen 🤖",
-            "Föhnen, niet telefoneren 💨",
-            "Geen uitgroei in je planning 📅",
-            "Geknipt voor succes ✂️",
-            "Jij de schaar, AI de rest 💈",
-            "Van kapster naar top-ondernemer 🚀",
+            "Laat de AI je planning doen 🤖",
+            "Sleutelen, niet telefoneren 🔨",
+            "Geen lekkage in je planning 📅",
+            "Geknipt voor Jouw Business ✂️",
+            "Jij de vakman, AI de rest 👷‍♂️",
+            "Van dakdekker naar top-ondernemer 🚀",
             "Handen in het haar? Nergens voor nodig! 👐",
             "Meer omzet in minder tijd ⏳",
-            "Altijd scherp, net als je schaar 🔪",
-            "Strakke coupe, strakke planning 📏",
-            "Eindelijk rustig lunchen 🥗"
+            "Altijd scherp, net als je tools 🔪",
+            "Strakke planning, blije klanten 📅",
+            "Eindelijk rustig lunchen 🥪"
         ];
 
         // Pick random 10 unique words

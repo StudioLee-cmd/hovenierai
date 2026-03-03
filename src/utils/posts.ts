@@ -20,7 +20,7 @@ export function getAllPosts(): IPost[] {
     if (!fs.existsSync(postsDirectory)) return [];
 
     const filenames = fs.readdirSync(postsDirectory)
-        .filter(f => f.endsWith('.md'));
+        .filter(f => f.endsWith('.md') && !f.startsWith('._'));
 
     const posts = filenames.map((filename) => {
         const slug = filename.replace(/\.md$/, '');

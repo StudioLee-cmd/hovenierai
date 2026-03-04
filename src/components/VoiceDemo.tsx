@@ -4,7 +4,7 @@ import Vapi from '@vapi-ai/web';
 
 const vapi = new Vapi("5cf7462d-30fe-4d70-9ea1-89ce0bd65ec5"); // Public Key
 
-const assistantId = "9f646537-0e3b-4b3a-a024-e6e32c5cd60a"; // Assistant ID from Dakdekker AI
+const assistantId = "9c03abc4-56f3-4134-abad-661734908c92"; // Assistant ID from Dakdekker AI
 
 const VoiceDemo: React.FC = () => {
     const [isCalling, setIsCalling] = useState(false);

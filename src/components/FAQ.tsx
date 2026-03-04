@@ -3,6 +3,7 @@ import { Disclosure, DisclosureButton, DisclosurePanel } from "@headlessui/react
 import { BiMinus, BiPlus } from "react-icons/bi";
 
 import SectionTitle from "./SectionTitle";
+import { footerDetails } from '@/data/footer';
 import { faqs } from "@/data/faq";
 
 const FAQ: React.FC = () => {
@@ -19,8 +20,8 @@ const FAQ: React.FC = () => {
                         <p className="text-[var(--foreground-accent)] font-medium mb-2">
                             Staat je vraag er niet bij?
                         </p>
-                        <a href="mailto:Info@dakdekkerai.nl" className="text-xl lg:text-2xl text-primary font-bold hover:text-primary-accent transition-colors">
-                            Info@dakdekkerai.nl
+                        <a href={`mailto:${footerDetails.email}`} className="text-xl lg:text-2xl text-primary font-bold hover:text-primary-accent transition-colors">
+                            {footerDetails.email}
                         </a>
                     </div>
 

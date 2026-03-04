@@ -7,6 +7,6 @@ export const siteDetails = {
     },
     language: 'nl-nl',
     locale: 'nl-NL',
-    siteLogo: '/images/logo.png',
+    siteLogo: '/images/logo-transparent.png',
     googleAnalyticsId: '', // e.g. G-XXXXXXX,
 }

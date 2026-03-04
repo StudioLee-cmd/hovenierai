@@ -66,7 +66,7 @@ const Footer: React.FC = () => {
                     <Link href="/algemene-voorwaarden" className="hover:text-foreground">Algemene Voorwaarden</Link>
                     <Link href="/privacy" className="hover:text-foreground">Privacy Policy</Link>
                     <Link href="/legal" className="hover:text-foreground">Bedrijfsgegevens</Link>
-                    <Link href="mailto:tim@hovenierai.nl?subject=Feature%20Request" className="hover:text-foreground">✨ Features Aanvragen</Link>
+                    <Link href={`mailto:${footerDetails.email}?subject=Feature%20Request`} className="hover:text-foreground">✨ Features Aanvragen</Link>
                 </div>
             </div>
         </footer >

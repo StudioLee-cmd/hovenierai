@@ -2,6 +2,7 @@
 import React, { useState, useEffect, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import Header from "@/components/Header";
+import { siteDetails } from '@/data/siteDetails';
 import { motion, AnimatePresence } from "framer-motion";
 import { BsGlobe, BsPerson, BsEnvelope, BsCheckCircleFill } from "react-icons/bs";
 
@@ -154,7 +155,7 @@ export default function GratisScanPage() {
             await fetch('https://n8n.aireclamestudio.nl/webhook/free-scan', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ ...data, niche: 'Hovenier' }),
+                body: JSON.stringify({ ...data, niche: siteDetails.siteName }),
             });
         } catch (err) {
             console.error('Webhook error:', err);

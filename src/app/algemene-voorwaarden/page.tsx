@@ -1,5 +1,7 @@
 import React from "react";
 import Container from "@/components/Container";
+import { siteDetails } from "@/data/siteDetails";
+import { footerDetails } from "@/data/footer";
 
 const TermsPage: React.FC = () => {
     return (
@@ -13,12 +15,12 @@ const TermsPage: React.FC = () => {
 
                     <h2 className="text-2xl font-semibold text-foreground mt-8 mb-4">1. Algemeen</h2>
                     <p>
-                        Deze algemene voorwaarden zijn van toepassing op alle diensten van KapperAI. Door gebruik te maken van onze diensten, ga je akkoord met deze voorwaarden.
+                        Deze algemene voorwaarden zijn van toepassing op alle diensten van {siteDetails.siteName}. Door gebruik te maken van onze diensten, ga je akkoord met deze voorwaarden.
                     </p>
 
                     <h2 className="text-2xl font-semibold text-foreground mt-8 mb-4">2. Dienstverlening</h2>
                     <p>
-                        KapperAI is een handelsnaam van <strong>DigitalStudioLee</strong> (KVK: 98933353). Wij leveren software-oplossingen (SaaS) voor kapperszaken, waaronder AI-telefonie, chatbots en social media automatisering.
+                        {siteDetails.siteName} is een handelsnaam van <strong>{footerDetails.legalName}</strong> (KVK: {footerDetails.kvk}). Wij leveren software-oplossingen (SaaS) voor ondernemers, waaronder AI-telefonie, chatbots en social media automatisering.
                     </p>
 
                     <h2 className="text-2xl font-semibold text-foreground mt-8 mb-4">3. Abonnement & Opzegging</h2>
@@ -26,33 +28,33 @@ const TermsPage: React.FC = () => {
                         Onze abonnementen zijn maandelijks opzegbaar. Er is geen sprake van lange contracten, tenzij expliciet anders overeengekomen. Opzegging dient schriftelijk of via het online dashboard te geschieden vóór de nieuwe factuurdatum.
                     </p>
                     <p className="mt-4">
-                        KapperAI behoudt zich daarnaast het recht voor om accounts te allen tijde, en om welke reden dan ook, per direct te beëindigen of op te schorten. Dit kan bijvoorbeeld gebeuren bij een vermoeden van misbruik, maar is niet beperkt tot deze reden.
+                        {siteDetails.siteName} behoudt zich daarnaast het recht voor om accounts te allen tijde, en om welke reden dan ook, per direct te beëindigen of op te schorten. Dit kan bijvoorbeeld gebeuren bij een vermoeden van misbruik, maar is niet beperkt tot deze reden.
                     </p>
 
                     <h2 className="text-2xl font-semibold text-foreground mt-8 mb-4">4. Betaling</h2>
                     <p>
-                        Betaling geschied per maand vooruit. Bij niet-tijdige betaling behoudt KapperAI zich het recht voor om de dienstverlening (tijdelijk) op te schorten.
+                        Betaling geschiedt per maand vooruit. Bij niet-tijdige betaling behoudt {siteDetails.siteName} zich het recht voor om de dienstverlening (tijdelijk) op te schorten.
                     </p>
 
                     <h2 className="text-2xl font-semibold text-foreground mt-8 mb-4">5. Aansprakelijkheid & Verantwoordelijkheid</h2>
                     <p>
-                        KapperAI is niet aansprakelijk voor indirecte schade, gevolgschade of winstderving. Onze maximale aansprakelijkheid is te allen tijde beperkt tot het bedrag van de, voor de desbetreffende dienst, in de maand van de gebeurtenis betaalde abonnementsgelden.
+                        {siteDetails.siteName} is niet aansprakelijk voor indirecte schade, gevolgschade of winstderving. Onze maximale aansprakelijkheid is te allen tijde beperkt tot het bedrag van de, voor de desbetreffende dienst, in de maand van de gebeurtenis betaalde abonnementsgelden.
                     </p>
                     <p className="mt-4">
-                        <strong>Belangrijk:</strong> Ons systeem is uitsluitend een hulpmiddel (tool). Als gebruiker blijf je te allen tijde zelf verantwoordelijk en behoud je de volledige controle over de output en acties van de AI. Omdat jij als gebruiker de functies activeert, configureert en goedkeurt, ben je volledig verantwoordelijk voor enig gebruik, incorrect gebruik of schade die voortvloeit uit de inzet van onze systemen.
+                        Belangrijk: Ons systeem is uitsluitend een hulpmiddel (tool). Als gebruiker blijf je te allen tijde zelf verantwoordelijk en behoud je de volledige controle over de output en acties van de AI. Omdat jij als gebruiker de functies activeert, configureert en goedkeurt, ben je volledig verantwoordelijk voor enig gebruik, incorrect gebruik of schade die voortvloeit uit de inzet van onze systemen.
                     </p>
                     <p className="mt-4">
-                        Op al onze aanbiedingen en overeenkomsten zijn de <strong>NLdigital Voorwaarden 2020</strong> van toepassing, gedeponeerd bij de Rechtbank Midden-Nederland, locatie Utrecht. In geval van strijdigheid tussen deze algemene voorwaarden en de NLdigital Voorwaarden 2020, prevaleren de bepalingen uit deze algemene voorwaarden.
+                        Op al onze aanbiedingen en overeenkomsten zijn de NLdigital Voorwaarden 2020 van toepassing, gedeponeerd bij de Rechtbank Midden-Nederland, locatie Utrecht. In geval van strijdigheid tussen deze algemene voorwaarden en de NLdigital Voorwaarden 2020, prevaleren de bepalingen uit deze algemene voorwaarden.
                     </p>
 
                     <h2 className="text-2xl font-semibold text-foreground mt-8 mb-4">6. Uitsluitingen</h2>
                     <p>
-                        De verzekering en aansprakelijkheid van KapperAI sluit specifieke activiteiten en situaties uit. De volgende zaken zijn expliciet <strong>uitgesloten</strong> van dekking en aansprakelijkheid:
+                        De verzekering en aansprakelijkheid van {siteDetails.siteName} sluit specifieke activiteiten en situaties uit. De volgende zaken zijn expliciet uitgesloten van dekking en aansprakelijkheid:
                     </p>
-                    <ul className="list-disc pl-6 mt-4 space-y-2">
+                    <ul className="list-disc pl-6 space-y-2 mt-4">
                         <li>Exploitatie van sociale media-websites (websites waar gebruikers inhoud kunnen maken en/of delen).</li>
                         <li>Exploitatie van streamingdiensten (zoals film- en muziekstreaming).</li>
-                        <li>Planning, ontwerp, constructie, softwareontwikkeling, productie, levering, of toezicht op machines die het productieproces rechtstreeks regelen (zoals PLC's) en hun onderdelen.</li>
+                        <li>Planning, ontwerp, constructie, softwareontwikkeling, productie, levering, of toezicht op machines die het productieproces rechtstreeks regelen (zoals PLC&apos;s) en hun onderdelen.</li>
                         <li>Planning, ontwerp, constructie, softwareontwikkeling, productie, levering, of supervisie van bagageafhandelingssystemen voor luchthavens.</li>
                         <li>Planning, ontwerp, constructie, softwareontwikkeling, productie, levering, of toezicht op medische en laboratoriumtechnologie (zoals besturingssoftware van röntgenapparatuur).</li>
                         <li>Fouten die uitsluitend vallen onder de verantwoordelijkheid van een derde (zoals fabrikant of leverancier) of gebrekkige levering van internet-/telecomdiensten door derden (indien regresrecht is afgestaan).</li>
@@ -73,23 +75,27 @@ const TermsPage: React.FC = () => {
 
                     <h2 className="text-2xl font-semibold text-foreground mt-8 mb-4">8. Wijzigingen in Prijzen en Functionaliteit</h2>
                     <p>
-                        KapperAI heeft het recht deze voorwaarden te wijzigen. Wijzigingen worden minimaal 30 dagen van tevoren gecommuniceerd.
+                        {siteDetails.siteName} heeft het recht deze voorwaarden te wijzigen. Wijzigingen worden minimaal 30 dagen van tevoren gecommuniceerd.
                     </p>
                     <p className="mt-4">
-                        Wij behouden ons tevens het recht voor om onze prijzen, pakketten en de kosten per credit ("credit cost") te wijzigen. Daarnaast kan de werking van de AI-modellen worden aangepast of geüpdatet om de kwaliteit te waarborgen of te verbeteren. Indien er prijswijzigingen plaatsvinden, zullen wij de gebruiker hierover meerdere keren en ruim van tevoren inlichten, zodat je nooit voor verrassingen komt te staan.
+                        Wij behouden ons tevens het recht voor om onze prijzen, pakketten en de kosten per credit (&quot;credit cost&quot;) te wijzigen. Daarnaast kan de werking van de AI-modellen worden aangepast of geüpdatet om de kwaliteit te waarborgen of te verbeteren. Indien er prijswijzigingen plaatsvinden, zullen wij de gebruiker hierover meerdere keren en ruim van tevoren inlichten, zodat je nooit voor verrassingen komt te staan.
                     </p>
+
                     <h2 className="text-2xl font-semibold text-foreground mt-8 mb-4">9. Gratis Testaccount (Free Trial)</h2>
                     <p>
-                        Het aanvragen van een gratis testaccount geeft geen automatisch recht op toegang. Wij hanteren een limiet op het aantal beschikbare gratis accounts dat tegelijkertijd actief kan zijn. KapperAI behoudt zich het recht voor om een aanvraag voor een testaccount te weigeren, bijvoorbeeld (maar niet uitsluitend) bij een vermoeden van misbruik, eerdere overtredingen of wanneer de limiet van het aantal testaccounts is bereikt. Er kan geen aanspraak worden gemaakt op compensatie indien een gratis account wordt geweigerd of ingetrokken.
+                        Het aanvragen van een gratis testaccount geeft geen automatisch recht op toegang. Wij hanteren een limiet op het aantal beschikbare gratis accounts dat tegelijkertijd actief kan zijn. {siteDetails.siteName} behoudt zich het recht voor om een aanvraag voor een testaccount te weigeren, bijvoorbeeld (maar niet uitsluitend) bij een vermoeden van misbruik, eerdere overtredingen of wanneer de limiet van het aantal testaccounts is bereikt. Er kan geen aanspraak worden gemaakt op compensatie indien een gratis account wordt geweigerd of ingetrokken.
                     </p>
+
                     <h2 className="text-2xl font-semibold text-foreground mt-8 mb-4">10. Bedrijfsgegevens</h2>
-                    <p>
-                        <strong>Bedrijfsnaam:</strong> DigitalStudioLee (h.o.d.n. KapperAI)<br />
-                        <strong>Adres:</strong> De Donge 9, 3448CJ, Woerden<br />
-                        <strong>KVK:</strong> 98933353<br />
-                        <strong>BTW:</strong> NL005362803B09<br />
-                        <strong>Email:</strong> Tim@kapperai.nl
-                    </p>
+                    <div className="bg-hero-background p-6 rounded-lg border border-border mt-4">
+                        <ul className="space-y-3">
+                            <li><strong>Bedrijfsnaam:</strong> {footerDetails.legalName} (h.o.d.n. {siteDetails.siteName})</li>
+                            <li><strong>Adres:</strong> {footerDetails.address}</li>
+                            <li><strong>KVK:</strong> {footerDetails.kvk}</li>
+                            <li><strong>BTW:</strong> {footerDetails.btw}</li>
+                            <li><strong>Email:</strong> <a href={`mailto:${footerDetails.email}`} className="text-primary hover:underline">{footerDetails.email}</a></li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </Container>

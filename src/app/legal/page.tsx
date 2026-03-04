@@ -20,7 +20,7 @@ const LegalPage: React.FC = () => {
                             <li><strong>Adres:</strong> {footerDetails.address}</li>
                             <li><strong>KVK (KvK):</strong> {footerDetails.kvk}</li>
                             <li><strong>BTW (VAT):</strong> {footerDetails.btw}</li>
-                            <li><strong>Email:</strong> <a href={`mailto:${footerDetails.email}`} className="text-primary hover:underline">{footerDetails.email}</a></li>
+                            <li><strong>Email:</strong> <a href="mailto:tim@studiolee.nl" className="text-primary hover:underline">tim@studiolee.nl</a></li>
                         </ul>
                     </div>
                 </div>

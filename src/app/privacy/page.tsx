@@ -1,5 +1,6 @@
 import React from "react";
 import Container from "@/components/Container";
+import { siteDetails } from "@/data/siteDetails";
 
 const PrivacyPage: React.FC = () => {
     return (
@@ -12,7 +13,7 @@ const PrivacyPage: React.FC = () => {
                     </p>
 
                     <p>
-                        Je privacy is voor KapperAI (onderdeel van <strong>DigitalStudioLee</strong>) van groot belang. Wij houden ons dan ook aan de privacywetgeving (AVG/GDPR). Dit betekent dat je gegevens bij ons veilig zijn en dat wij ze altijd netjes gebruiken.
+                        Je privacy is voor {siteDetails.siteName} (onderdeel van <strong>DigitalStudioLee</strong>) van groot belang. Wij houden ons dan ook aan de privacywetgeving (AVG/GDPR). Dit betekent dat je gegevens bij ons veilig zijn en dat wij ze altijd netjes gebruiken.
                     </p>
 
                     <h2 className="text-2xl font-semibold text-foreground mt-8 mb-4">1. Gegevensverwerking</h2>
@@ -37,7 +38,7 @@ const PrivacyPage: React.FC = () => {
 
                     <h2 className="text-2xl font-semibold text-foreground mt-8 mb-4">5. Inzage & Wijzigen</h2>
                     <p>
-                        Je hebt altijd het recht op inzage in je gegevens. Ook kun je ons verzoeken gegevens aan te passen of te verwijderen. Neem hiervoor contact op via Tim@kapperai.nl.
+                        Je hebt altijd het recht op inzage in je gegevens. Ook kun je ons verzoeken gegevens aan te passen of te verwijderen. Neem hiervoor contact op via <a href="mailto:tim@studiolee.nl" className="text-primary hover:underline">tim@studiolee.nl</a>.
                     </p>
 
                     <h2 className="text-2xl font-semibold text-foreground mt-8 mb-4">6. Cookies</h2>

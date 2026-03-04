@@ -173,7 +173,7 @@ export default function GratisScanPage() {
                             Gratis AI & SEO Scan
                         </h1>
                         <p className="text-lg text-gray-600 dark:text-gray-300">
-                            We brengen in kaart hoe je scoort ten opzichte van andere hoveniersbedrijven, waar je kansen laat liggen en hoe ons systeem je direct vooruit helpt.
+                            We brengen in kaart hoe je scoort ten opzichte van concurrenten, waar je kansen laat liggen en hoe ons systeem je direct vooruit helpt.
                         </p>
                     </div>
 

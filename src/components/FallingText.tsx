@@ -65,39 +65,39 @@ const FallingText = () => {
         });
 
         const allWords = [
-            // HERO USPs (DAKDEKKER EDITION)
-            "Meer Winst per Dak 🏠",
-            "Alles-in-1 Systeem 🛠️",
-            "Nooit Meer Gemiste Oproepen 📞",
-            "Je Werkbonnen op Orde 📋",
+            // HERO USPs (HOVENIER EDITION)
+            "Meer Winst per Tuin 🌳",
+            "Alles-in-1 Systeem 🌿",
+            "Nooit Meer Gemiste Aanvragen 📅",
+            "Je Werkrooster op Orde 🗓️",
             "Ondernemen Zonder Zorgen 🚀",
-            "Je Kantoor in je Broekzak 📱",
+            "Je Bedrijf in je Broekzak 📱",
             "Jouw AI Receptioniste 🤖",
-            "Je Cijfers Waterdicht 💧",
+            "Stop Omzetlekkages 💸",
             "Geen Gedoe Met Facturen 🧾",
             "Alle Tools in 1 App 📱",
             "Meer Vrijheid, Minder Stress 🧘",
             "100% Jouw Eigen Stijl 🎨",
             "Klanten & AI in 1 Systeem 🤝",
             "Volgeboekte Agenda 📈",
-            "Offertes die scoren 📝",
+            "Klanten die terugkomen als een boemerang 🪃",
             "Slapende klanten wakker schudden ⏰",
 
-            // DAKDEKKER PUNS & FUN
-            "Minder kantoor, meer dak op 🏠",
-            "Tijd voor koffie & je klus ☕",
+            // HOVENIER PUNS & FUN
+            "Minder wieden, meer verdienen 🌿",
+            "Tijd voor koffie & je kruiwagen ☕",
             "Laat de telefoon maar rinkelen (AI pakt op) 📞",
-            "Laat de AI je planning doen 🤖",
-            "Sleutelen, niet telefoneren 🔨",
-            "Geen lekkage in je planning 📅",
-            "Geknipt voor Jouw Business ✂️",
-            "Jij de vakman, AI de rest 👷‍♂️",
-            "Van dakdekker naar top-ondernemer 🚀",
-            "Handen in het haar? Nergens voor nodig! 👐",
-            "Meer omzet in minder tijd ⏳",
-            "Altijd scherp, net als je tools 🔪",
-            "Strakke planning, blije klanten 📅",
-            "Eindelijk rustig lunchen 🥪"
+            "Laat de AI je agenda vullen 🤖",
+            "Snoeien, niet telefoneren ✂️",
+            "Geen onkruid in je planning 🌱",
+            "Jij de schop, AI de rest 🤖",
+            "Van hovenier naar top-ondernemer 🚀",
+            "Handen vol modder? AI helpt 🌱",
+            "Meer tuinen in minder tijd ⏳",
+            "Altijd groen, net als je gras 🌿",
+            "Strakke borders, strakke planning 🌸",
+            "Zaai nu, oogst later 💰",
+            "Eindelijk rustig lunchen onder de boom 🌳"
         ];
 
         // Pick random 10 unique words

@@ -5,7 +5,7 @@ import React, { useState } from 'react';
 import { heroDetails } from '@/data/hero';
 import Highlight from './Highlight';
 import VoiceDemo from './VoiceDemo';
-import FreeTrialModal from './FreeTrialModal';
+import StartChoiceModal from './StartChoiceModal';
 import LightRays from './LightRays';
 import { motion, useScroll, useTransform } from 'framer-motion';
 import RotatingText from './RotatingText';
@@ -158,7 +158,7 @@ const Hero: React.FC = () => {
                 </motion.div>
             </div>
 
-            <FreeTrialModal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} isAnnual={false} />
+            <StartChoiceModal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} />
         </section >
     );
 };

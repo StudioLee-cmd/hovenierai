@@ -7,7 +7,7 @@ import { Transition } from '@headlessui/react';
 import { HiOutlineXMark, HiBars3 } from 'react-icons/hi2';
 
 import Container from './Container';
-import FreeTrialModal from './FreeTrialModal';
+import StartChoiceModal from './StartChoiceModal';
 import { AnimatedThemeToggler } from './ui/animated-theme-toggler';
 import { siteDetails } from '@/data/siteDetails';
 import { menuItems } from '@/data/menuItems';
@@ -109,7 +109,7 @@ const Header: React.FC = () => {
                 </div>
             </Transition>
 
-            <FreeTrialModal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} isAnnual={false} />
+            <StartChoiceModal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} />
         </header>
     );
 };

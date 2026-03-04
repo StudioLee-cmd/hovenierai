@@ -18,7 +18,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
         email: '',
         phone: '+31 ',
         businessName: '',
-        niche: 'Dakdekker',
+        niche: 'Hovenier',
         termsAccepted: false,
         newsletter: true,
     });
@@ -267,7 +267,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                                         value={formData.businessName}
                                         onChange={handleChange}
                                         className="w-full px-4 py-3 border border-gray-300 dark:border-gray-600 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none text-gray-900 dark:text-white bg-white dark:bg-gray-800"
-                                        placeholder="Jouw Dakdekkersbedrijf"
+                                        placeholder="Jouw Hoveniersbedrijf"
                                         disabled={isLoading}
                                     />
                                 </div>

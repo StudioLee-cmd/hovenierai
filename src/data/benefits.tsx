@@ -16,7 +16,7 @@ export const benefits: IBenefit[] = [
             },
             {
                 title: "Klantgeheugen & Historie",
-                description: "Herkent terugkerende klanten en heeft direct inzicht in alle eerdere klussen en klantdata.",
+                description: "Herkent terugkerende klanten en heeft direct inzicht in alle eerdere tuinklussen en klantdata.",
                 icon: <FiUsers size={26} />
             },
             {
@@ -400,7 +400,7 @@ export const benefits: IBenefit[] = [
             },
             {
                 title: "Niche Pitching",
-                description: "Schrijft Probleem/Oplossing slides op maat voor jouw klant.",
+                description: "Schrijft Probleem/Oplossing slides op maat voor jouw tuinklant.",
                 icon: <FiTarget size={26} />
             },
             {
@@ -411,7 +411,7 @@ export const benefits: IBenefit[] = [
             }
         ],
 
-        imageSrc: "/images/benefits/offerte-ai.png"
+        imageSrc: "/images/benefits/factuur-ai.png"
     },
 
     // 12. AI Email Assistent
@@ -591,7 +591,7 @@ export const benefits: IBenefit[] = [
                 isHighlighted: true
             }
         ],
-        imageSrc: "/images/benefits/klantebeheer.png"
+        imageSrc: "/images/benefits/klantbeheer.png"
     },
 
     // 16. AI Fotostudio

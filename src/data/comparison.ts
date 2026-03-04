@@ -43,19 +43,10 @@ export const comparisonData: IComparisonItem[] = [
     {
         role: "Social Media Tools",
         cost: 100,
-        description: "Vervangt Hootsuite, Buffer & Later"
-    },
-    {
-        role: "Reserveringssysteem & Kassa",
-        cost: 45,
-        description: "Vervangt Salonized, Treatwell & BarberBooking"
-    },
-    {
-        role: "Agenda & Planning Tools",
-        cost: 25,
-        description: "Vervangt Calendly, Acuity & team-agenda's"
+        description: "Vervangt dure planners, marketingbureaus & software",
     }
 ];
 
-export const totalTraditionalCost = 3220;
-export const kapperAICost = 297;
+// Comparison values
+export const totalTraditionalCost = 3000;
+export const hovenierAICost = 297;

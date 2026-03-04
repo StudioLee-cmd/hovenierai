@@ -63,7 +63,7 @@ const Hero: React.FC = () => {
                             style={{ x: xLeft, opacity, display: 'inline-block' }}
                             className="mr-2"
                         >
-                            De grootste kans voor&nbsp;<Highlight color="primary">salons</Highlight>
+                            De grootste kans voor&nbsp;<Highlight color="primary">hoveniers</Highlight>
                         </motion.span>
                         <br className="hidden md:block" />
                         <motion.span
@@ -75,7 +75,7 @@ const Hero: React.FC = () => {
                         <motion.span
                             style={{ x: xLeft, opacity, display: 'inline-block' }}
                         >
-                            <Highlight color="secondary">nagellak</Highlight>.
+                            <Highlight color="secondary">grasmaaier</Highlight>.
                         </motion.span>
                     </h1>
                 </motion.div>

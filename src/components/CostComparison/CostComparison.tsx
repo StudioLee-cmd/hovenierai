@@ -8,13 +8,14 @@ import { comparisonData, totalTraditionalCost, kapperAICost } from '@/data/compa
 import { BsCheckCircleFill } from 'react-icons/bs';
 import Highlight from '../Highlight';
 import { motion } from 'framer-motion';
+import { siteDetails } from '@/data/siteDetails';
 
 const CostComparison: React.FC = () => {
     return (
         <Section
             id="comparison"
             title="Waarom teveel betalen?"
-            description="Stop met het verspillen van geld aan dure kantoorpersoneel. Dakdekker AI doet het beter, sneller en goedkoper."
+            description={`Stop met het verspillen van geld aan dure kantoorpersoneel. ${siteDetails.siteName} doet het beter, sneller en goedkoper.`}
         >
             <Container>
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
@@ -40,7 +41,7 @@ const CostComparison: React.FC = () => {
                             <div className="absolute bottom-0 left-0 -mb-10 -ml-10 w-40 h-40 bg-secondary opacity-20 rounded-full blur-3xl"></div>
 
                             <h3 className="text-2xl lg:text-3xl font-bold mb-2 relative z-10">
-                                De <Highlight color="primary" className="text-3xl lg:text-4xl">Dakdekker AI</Highlight> Manier
+                                De <Highlight color="primary" className="text-3xl lg:text-4xl">{siteDetails.siteName}</Highlight> Manier
                             </h3>
                             <p className="text-gray-300 mb-8 relative z-10">Alles-in-één oplossing voor marktdominantie.</p>
 

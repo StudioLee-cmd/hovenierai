@@ -102,8 +102,7 @@ h6 {
 
 /* Logo dark mode filter - removes white background */
 [data-theme="dark"] .logo-dark-filter {
-  filter: invert(1) hue-rotate(180deg);
-  mix-blend-mode: screen;
+  filter: invert(1);
 }
 
 /* Video blend mode - use multiply to remove white background in light mode */

@@ -91,7 +91,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                     email: formData.email,
                     phone: formData.phone,
                     business_name: formData.businessName,
-                    niche: siteDetails.siteName,
+                    niche: siteDetails.niche,
                     source: 'website_signup',
                     newsletter_subscribed: formData.newsletter,
                     interval: isAnnual ? 'Yearly' : 'Monthly'

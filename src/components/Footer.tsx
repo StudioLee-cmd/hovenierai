@@ -61,7 +61,7 @@ const Footer: React.FC = () => {
                 </div>
             </div>
             <div className="mt-8 md:text-center text-foreground-accent px-6 flex flex-col md:flex-row justify-between items-center gap-4">
-                <p>Copyright &copy; {new Date().getFullYear()} {siteDetails.siteName}. Alle rechten voorbehouden. <span className="mx-2">|</span> <a href="https://studiolee.nl" target="_blank" rel="noopener noreferrer" className="hover:text-foreground">Speciaal voor hoveniers door Studiolee.nl</a></p>
+                <p>Copyright &copy; {new Date().getFullYear()} {siteDetails.siteName}. Alle rechten voorbehouden. <span className="mx-2">|</span> <a href="https://www.studiolee.nl" target="_blank" rel="noopener noreferrer" className="hover:text-foreground">Speciaal voor hoveniers door www.Studiolee.nl</a></p>
                 <div className="flex gap-6 text-sm flex-wrap justify-center md:justify-end">
                     <Link href="/algemene-voorwaarden" className="hover:text-foreground">Algemene Voorwaarden</Link>
                     <Link href="/privacy" className="hover:text-foreground">Privacy Policy</Link>

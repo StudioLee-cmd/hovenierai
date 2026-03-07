@@ -34,7 +34,7 @@ const FAQ: React.FC = () => {
                         <p className="text-gray-300 mb-6 text-sm leading-relaxed relative z-10">
                             Gemiddeld besparen onze klanten 10+ uur per week aan administratie en telefoontjes. Daarnaast heb je geen gaten meer in je agenda door no-shows of gemiste oproepen. Eén extra gevulde stoel per week dekt vaak de kosten al.
                         </p>
-                        <a href="#pricing" className="relative z-10 inline-block w-full">
+                        <a href="/#pricing" className="relative z-10 inline-block w-full">
                             <button className="w-full px-6 py-3 rounded-xl bg-gradient-to-r from-yellow-400 to-yellow-600 text-black font-bold hover:from-yellow-300 hover:to-yellow-500 transition-all shadow-lg transform hover:scale-[1.02]">
                                 Start gratis
                             </button>

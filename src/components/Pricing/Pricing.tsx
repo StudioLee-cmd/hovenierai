@@ -29,7 +29,7 @@ const UnlimitedOptionBlock = () => {
             viewport={{ once: true }}
             className="max-w-4xl mx-auto mt-12 cursor-pointer relative z-20"
         >
-            <a href="#credit-pricing" className="block relative group overflow-hidden rounded-3xl">
+            <a href="/#credit-pricing" className="block relative group overflow-hidden rounded-3xl">
                 {/* Scroll-Linked Shine */}
                 <motion.div
                     style={{ left: shineX }}
@@ -190,7 +190,7 @@ const Pricing: React.FC = () => {
                     whileHover={{ scale: 1.02 }}
                     className="max-w-4xl mx-auto mt-8 cursor-pointer relative z-20"
                 >
-                    <a href="#credit-pricing" className="block relative group">
+                    <a href="/#credit-pricing" className="block relative group">
                         {/* Shine Effect Container */}
                         <div className="absolute inset-0 rounded-3xl overflow-hidden z-10 pointer-events-none">
                             <div className="absolute top-0 left-[-100%] w-1/2 h-full bg-gradient-to-r from-transparent via-[var(--secondary)]/40 to-transparent skew-x-[-15deg] animate-[shine_3s_infinite]" />

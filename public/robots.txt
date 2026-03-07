@@ -1,2 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /aanmelding-gelukt
+Disallow: /api
+
+Sitemap: https://www.hovenierai.nl/sitemap.xml

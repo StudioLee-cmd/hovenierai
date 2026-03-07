@@ -235,7 +235,7 @@ export default function GratisScanPage() {
                                     onClick={() => setIsModalOpen(false)}
                                     className="text-gray-400 hover:text-gray-600 dark:text-gray-500 dark:hover:text-gray-300 text-sm underline"
                                 >
-                                    Sluiten (Dev Only)
+                                    Sluiten
                                 </button>
                             </div>
                         </motion.div>

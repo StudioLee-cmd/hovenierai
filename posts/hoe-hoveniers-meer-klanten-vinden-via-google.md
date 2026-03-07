@@ -99,7 +99,7 @@ Jij werkt in de tuin. Wij zorgen dat klanten jou vinden:
 - **SEO-pagina's** per dienst en seizoen
 - **Maandrapportage** over aanvragen en groei
 
-**Plan een gratis kennismaking via hovenierai.nl.**
+**Plan een gratis kennismaking via [hovenierai.nl](https://www.hovenierai.nl).**
 
 ---
 

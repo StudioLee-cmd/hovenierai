@@ -36,4 +36,4 @@ Hoveniers worden gevonden via Google Maps en Werkspot. Hoge beoordelingen met re
 
 ## Conclusie
 
-Hoveniers die AI inzetten, vullen hun agenda slimmer, winnen meer offertes en bouwen een loyale klantenkring. Meer weten? Ga naar [hovenierai.nl](https://hovenierai.nl).
+Hoveniers die AI inzetten, vullen hun agenda slimmer, winnen meer offertes en bouwen een loyale klantenkring. Meer weten? Ga naar [hovenierai.nl](https://www.hovenierai.nl).

@@ -96,6 +96,16 @@ export default function BlogContent({ content }: BlogContentProps) {
                     margin-bottom: 0;
                 }
 
+                .blog-content a {
+                    color: var(--secondary);
+                    text-decoration: underline;
+                    text-underline-offset: 2px;
+                    transition: color 0.2s;
+                }
+                .blog-content a:hover {
+                    color: var(--foreground);
+                }
+
                 /* Dark mode overrides for specific elements if needed */
                 .dark .blog-content {
                     color: #d1d5db; /* gray-300 */

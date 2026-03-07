@@ -5,38 +5,39 @@ import { authors } from '@/data/authors'
 export default function sitemap(): MetadataRoute.Sitemap {
     const baseUrl = 'https://www.hovenierai.nl'
 
-    // Static routes
-    const staticRoutes = [
-        '',
-        '/blog',
-        '/gratis-scan',
-        '/review-pakket',
-        '/privacy',
-        '/legal',
-        '/algemene-voorwaarden',
-    ].map((route) => ({
+    // Static routes — rarely change
+    const staticPages = ['', '/gratis-scan', '/review-pakket', '/privacy', '/legal', '/algemene-voorwaarden']
+    const staticRoutes = staticPages.map((route) => ({
         url: `${baseUrl}${route}`,
         lastModified: new Date(),
-        changeFrequency: 'monthly' as const,
-        priority: route === '' ? 1 : 0.8,
+        changeFrequency: 'yearly' as const,
+        priority: route === '' ? 1 : 0.5,
     }))
 
-    // Dynamic blog post routes
+    // Blog index — new posts daily
+    const blogIndex = [{
+        url: `${baseUrl}/blog`,
+        lastModified: new Date(),
+        changeFrequency: 'daily' as const,
+        priority: 0.9,
+    }]
+
+    // Individual blog posts — updated yearly at most
     const posts = getAllPosts()
     const blogRoutes = posts.map((post) => ({
         url: `${baseUrl}/blog/${post.slug}`,
         lastModified: new Date(post.date),
-        changeFrequency: 'monthly' as const,
+        changeFrequency: 'yearly' as const,
         priority: 0.6,
     }))
 
-    // Dynamic author routes
+    // Author pages
     const authorRoutes = authors.map((author) => ({
         url: `${baseUrl}/author/${author.slug}`,
         lastModified: new Date(),
-        changeFrequency: 'monthly' as const,
-        priority: 0.4,
+        changeFrequency: 'yearly' as const,
+        priority: 0.3,
     }))
 
-    return [...staticRoutes, ...blogRoutes, ...authorRoutes]
+    return [...staticRoutes, ...blogIndex, ...blogRoutes, ...authorRoutes]
 }

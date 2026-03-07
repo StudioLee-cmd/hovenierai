@@ -1,9 +1,9 @@
 import { MetadataRoute } from 'next'
-import { posts } from '@/data/posts'
+import { getAllPosts } from '@/utils/posts'
 import { authors } from '@/data/authors'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-    const baseUrl = 'https://dakdekkerai.nl'
+    const baseUrl = 'https://www.hovenierai.nl'
 
     // Static routes
     const staticRoutes = [
@@ -17,11 +17,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ].map((route) => ({
         url: `${baseUrl}${route}`,
         lastModified: new Date(),
-        changeFrequency: 'weekly' as const,
+        changeFrequency: 'monthly' as const,
         priority: route === '' ? 1 : 0.8,
     }))
 
     // Dynamic blog post routes
+    const posts = getAllPosts()
     const blogRoutes = posts.map((post) => ({
         url: `${baseUrl}/blog/${post.slug}`,
         lastModified: new Date(post.date),

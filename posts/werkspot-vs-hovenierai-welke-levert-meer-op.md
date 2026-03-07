@@ -51,4 +51,4 @@ Met onze managed service hoef je zelf niets te doen. We houden alles draaiend â€
 
 **Groei-of-Geld-Terug Garantie** â€” Wij voeren op dag 1 een nulmeting uit. Geen groei in bereik of AI-vindbaarheid? Dan krijg je je geld terug. Het risico ligt 100% bij ons.
 
-Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://studiolee.nl) om te ontdekken wat er mogelijk is.
+Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://www.studiolee.nl) om te ontdekken wat er mogelijk is.

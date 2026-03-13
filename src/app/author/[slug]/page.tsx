@@ -1,5 +1,5 @@
 import { authors, getAuthorBySlug } from '@/data/authors';
-import { posts } from '@/data/posts';
+import { getAllPosts } from '@/utils/posts';
 import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
@@ -36,7 +36,7 @@ export default async function AuthorPage({ params }: { params: Promise<{ slug: s
     }
 
     // Get all posts by this author
-    const authorPosts = posts.filter(post => post.authorSlug === author.slug);
+    const authorPosts = getAllPosts().filter(post => post.authorSlug === author.slug);
 
     return (
         <div className="min-h-screen bg-hero-background">

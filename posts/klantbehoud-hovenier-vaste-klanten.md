@@ -13,7 +13,7 @@ tags: ["klantbehoud", "hovenier", "vaste klanten"]
 
 Een hovenier die elke maand opnieuw moet werven, heeft een kwetsbaar bedrijf. Een hovenier met 30 vaste klanten die elk seizoen terugkomen, heeft een stabiel bedrijf met voorspelbare omzet.
 
-Het verschil is enorm: nieuwe klanten kosten je tijd en geld via [Google](/blog/hoe-hoveniers-meer-klanten-vinden-google) of [Werkspot](/blog/werkspot-vs-hovenierai). Vaste klanten bellen je direct — geen concurrentie, geen acquisitiekosten, geen prijsonderhandeling.
+Het verschil is enorm: nieuwe klanten kosten je tijd en geld via [Google](/blog/hoe-hoveniers-meer-klanten-vinden-via-google) of [Werkspot](/blog/hovenierai-vs-personeel). Vaste klanten bellen je direct — geen concurrentie, geen acquisitiekosten, geen prijsonderhandeling.
 
 ## Nazorg die indruk maakt
 
@@ -27,7 +27,7 @@ De meeste hoveniers leveren het project op en gaan door. Maar een paar minuten n
 
 ## Onderhoudscontracten als basis
 
-Een [onderhoudscontract](/blog/onderhoudscontracten-hovenier) is de heilige graal. Het geeft je voorspelbare omzet en houdt de relatie warm.
+Een [onderhoudscontract](/blog/onderhoudscontracten-hovenier-vaste-inkomsten) is de heilige graal. Het geeft je voorspelbare omzet en houdt de relatie warm.
 
 **Wat bied je aan?** Maandelijks of seizoensgebonden tuinonderhoud: snoeien, onkruid verwijderen, gazon maaien, bladeren ruimen. Stem het af op de grootte en complexiteit van de tuin.
 
@@ -53,7 +53,7 @@ Tevreden tuinklanten praten met buren. Maak doorverwijzen makkelijk:
 
 **Beloning**. "Voor elke doorverwijzing die tot een opdracht leidt, ontvangt u een gratis seizoensonderhoud." De kosten zijn minimaal vergeleken met advertenties.
 
-**[Portfolio](/blog/tuinenportfolio-hovenier) online**. Zet projectfoto's op je website. Klanten die je doorverwijzen, sturen vaak je website mee.
+**[Portfolio](/blog/tuinenportfolio-hovenier-projectfotos) online**. Zet projectfoto's op je website. Klanten die je doorverwijzen, sturen vaak je website mee.
 
 ## Aan de slag
 

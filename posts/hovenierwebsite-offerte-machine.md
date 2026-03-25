@@ -31,7 +31,7 @@ De meeste klanten zoeken lokaal: "hovenier [plaatsnaam]" of "tuinaanleg [regio]"
 
 - Gebruik je plaatsnaam in titels en tekst
 - Maak een apart "werkgebied" pagina met de regio's die je bedient
-- Schrijf blogartikelen over [seizoensgebonden tuinwerk](/blog/seizoensplanning-hoveniers) en [duurzame tuinen](/blog/duurzame-tuinen-hovenier)
+- Schrijf blogartikelen over [seizoensgebonden tuinwerk](/blog/seizoensplanning-hovenier-heel-jaar-werk) en [duurzame tuinen](/blog/duurzame-tuinen-hovenier-groeiende-markt)
 - Houd je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-hovenier) actueel met foto's en berichten
 
 Content over tuintips trekt bezoekers aan die later klant kunnen worden. Een artikel over "wanneer moet ik mijn heg snoeien?" rankt in Google en leidt bezoekers naar je website.

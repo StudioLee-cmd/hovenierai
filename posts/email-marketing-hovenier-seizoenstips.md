@@ -35,15 +35,15 @@ De kracht van email marketing voor hoveniers zit in timing. Vier keer per jaar e
 
 **Mei/juni — zomertips**. "Je tuin in topvorm voor de zomer: bewateringstips, gazononderhoud en het juiste moment om te planten." Combineer het met een aanbod voor tuinonderhoud in de zomermaanden.
 
-**September/oktober — herfsttips**. "Bereid je tuin voor op de winter: bladeren ruimen, bollen planten en [gevoelige planten](/blog/duurzame-tuinen-hovenier) beschermen." Herfstwerk is vaak groot en levert goede opdrachten op.
+**September/oktober — herfsttips**. "Bereid je tuin voor op de winter: bladeren ruimen, bollen planten en [gevoelige planten](/blog/duurzame-tuinen-hovenier-groeiende-markt) beschermen." Herfstwerk is vaak groot en levert goede opdrachten op.
 
-**December — terugblik en planning**. "Terugblik op het tuinjaar en wat je in 2027 kunt verwachten. Wil je alvast je jaaronderhoud plannen?" Dit is het perfecte moment om [onderhoudscontracten](/blog/onderhoudscontracten-hovenier) aan te bieden.
+**December — terugblik en planning**. "Terugblik op het tuinjaar en wat je in 2027 kunt verwachten. Wil je alvast je jaaronderhoud plannen?" Dit is het perfecte moment om [onderhoudscontracten](/blog/onderhoudscontracten-hovenier-vaste-inkomsten) aan te bieden.
 
 ## Project-updates delen
 
 Naast seizoenstips zijn project-updates krachtige emails:
 
-**Voor-en-na foto's**. Heb je een mooie tuin aangelegd of gerenoveerd? Stuur een paar foto's met een korte beschrijving. "Onlangs hebben we deze verwaarloosde achtertuin in Haarlem getransformeerd naar een [onderhoudsarme buitenkamer](/blog/tuinenportfolio-hovenier)." Dit inspireert klanten die twijfelen over hun eigen tuin.
+**Voor-en-na foto's**. Heb je een mooie tuin aangelegd of gerenoveerd? Stuur een paar foto's met een korte beschrijving. "Onlangs hebben we deze verwaarloosde achtertuin in Haarlem getransformeerd naar een [onderhoudsarme buitenkamer](/blog/tuinenportfolio-hovenier-projectfotos)." Dit inspireert klanten die twijfelen over hun eigen tuin.
 
 **Nieuwe diensten**. Bied je iets nieuws aan, zoals verticale tuinen, daktuin-aanleg of biodivers tuinieren? Laat het je klantenbestand weten. Bestaande klanten zijn vaak de eersten die nieuwe diensten afnemen.
 

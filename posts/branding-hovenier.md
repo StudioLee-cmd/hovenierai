@@ -51,7 +51,7 @@ Investeer in goede foto's van je projecten:
 - Fotografeer bij mooi weer (of bewolkte maar lichte hemel)
 - Toon variatie: kleine tuinen, grote tuinen, onderhoud, aanleg
 
-Deel deze foto's consequent op je website, [social media](/blog/social-media-hoveniers-tuinprojecten-opdrachten), en Google Bedrijfsprofiel.
+Deel deze foto's consequent op je website, [social media](/blog/social-media-hoveniers-tuinprojecten), en Google Bedrijfsprofiel.
 
 ## Hoe branding je bedrijf laat groeien
 
@@ -93,4 +93,4 @@ De Groei-of-Geld-Terug Garantie maakt het risicovloos: geen groei? Geld terug. H
 
 De hovenier die investeert in een herkenbaar merk, stapt uit de prijsconcurrentie en wordt de eerste keuze in de regio. Het begint met een duidelijke positionering, visuele consistentie en het consequent tonen van je beste werk. Branding is een investering die zich dubbel en dwars terugbetaalt.
 
-Lees ook hoe je [meer opdrachten binnenhaalt via je website](/blog/hovenier-website-offerte-machine) en hoe [email marketing seizoenstips klanten terugbrengt](/blog/email-marketing-hoveniers-seizoenstips).
+Lees ook hoe je [meer opdrachten binnenhaalt via je website](/blog/hovenierwebsite-offerte-machine) en hoe [email marketing seizoenstips klanten terugbrengt](/blog/email-marketing-hovenier-seizoenstips).

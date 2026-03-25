@@ -9,7 +9,7 @@ tags: ["leadgeneratie", "hovenier", "klanten werven"]
 
 # Leadgeneratie als hovenier: meer tuinklussen via slimme kanalen
 
-Als hovenier ben je afhankelijk van een constante stroom nieuwe opdrachten. [Google](/blog/hoe-hoveniers-meer-klanten-vinden-via-google) en mond-tot-mond zijn de basis, maar ze zijn niet genoeg om het hele jaar door vol te zitten — vooral niet in de [rustigere maanden](/blog/seizoensplanning-hoveniers-werk-heel-jaar).
+Als hovenier ben je afhankelijk van een constante stroom nieuwe opdrachten. [Google](/blog/hoe-hoveniers-meer-klanten-vinden-via-google) en mond-tot-mond zijn de basis, maar ze zijn niet genoeg om het hele jaar door vol te zitten — vooral niet in de [rustigere maanden](/blog/seizoensplanning-hovenier-heel-jaar-werk).
 
 Slimme hoveniers bouwen meerdere leadkanalen tegelijk. Dit artikel laat zien welke kanalen het meest opleveren.
 
@@ -28,7 +28,7 @@ Tuincentra verkopen planten en materialen, maar installeren niet. Partner met lo
 Nieuwe huiseigenaren investeren vaak in hun tuin. Makelaars kunnen jou aanbevelen als de go-to hovenier:
 
 - Bied een gratis tuinadviesgesprek aan voor nieuwe kopers
-- Lever professionele [portfolio-foto's](/blog/tuinenportfolio-hovenier-projectfotos-overtuigen) aan
+- Lever professionele [portfolio-foto's](/blog/tuinenportfolio-hovenier-projectfotos) aan
 
 ### 3. VvE's en woningcorporaties
 
@@ -40,7 +40,7 @@ Architecten ontwerpen tuinen maar voeren niet uit. Bouw relaties met lokale land
 
 ### 5. Social media als portfolio
 
-[Social media](/blog/social-media-hoveniers-tuinprojecten-meer-opdrachten) is het perfecte platform voor hoveniers. Elke tuin is visueel content:
+[Social media](/blog/social-media-hoveniers-tuinprojecten) is het perfecte platform voor hoveniers. Elke tuin is visueel content:
 
 - Voor-en-na transformaties
 - Timelapse video's van aanlegprojecten
@@ -51,10 +51,10 @@ Architecten ontwerpen tuinen maar voeren niet uit. Bouw relaties met lokale land
 
 | Online | Offline |
 |--------|---------|
-| [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-hovenier-meer-tuinklussen) | Tuincentra-partnerships |
+| [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-hovenier) | Tuincentra-partnerships |
 | Website met portfolio | VvE-contracten |
 | Social media projecten | Architecten-netwerk |
-| [Email marketing](/blog/email-marketing-hoveniers-seizoenstips) | Doorverwijzingsprogramma |
+| [Email marketing](/blog/email-marketing-hovenier-seizoenstips) | Doorverwijzingsprogramma |
 
 ## Het hele jaar door leads
 
@@ -67,7 +67,7 @@ Architecten ontwerpen tuinen maar voeren niet uit. Bouw relaties met lokale land
 
 ## Geen tijd voor leadgeneratie?
 
-Bij StudioLee nemen we de complete online marketing over. Van [klantcommunicatie](/blog/klantcommunicatie-hovenier-nazorg-herhaalopdrachten) tot content die opdrachten oplevert. Met slechts **15 minuten per maand** aan jouw kant.
+Bij StudioLee nemen we de complete online marketing over. Van [klantcommunicatie](/blog/klantcommunicatie-hovenier-nazorg) tot content die opdrachten oplevert. Met slechts **15 minuten per maand** aan jouw kant.
 
 De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
 

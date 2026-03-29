@@ -7,8 +7,6 @@ image: "/images/blog/google-bedrijfsprofiel-hovenier.png"
 tags: ["Google", "Lokaal", "Vindbaarheid"]
 ---
 
-# Google Bedrijfsprofiel als hovenier: meer tuinklussen uit je buurt
-
 "Hovenier in de buurt" — het is een van de meest gebruikte zoekopdrachten als huiseigenaren hun tuin willen laten aanleggen of onderhouden. En wat ze zien is het Google Maps-blok met drie hoveniers, hun reviews, en een bel-knop. Als jij niet in dat blok staat, mis je het grootste deel van de potentiële klanten in je werkgebied.
 
 In dit artikel lees je hoe je als hovenier je Google Bedrijfsprofiel optimaliseert om meer tuinklussen uit je buurt binnen te halen.

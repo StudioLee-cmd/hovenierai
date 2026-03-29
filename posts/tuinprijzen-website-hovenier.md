@@ -7,8 +7,6 @@ image: "/images/blog/tuinprijzen-website-hovenier.png"
 tags: ["prijzen communiceren", "hovenier", "website"]
 ---
 
-# Tuinprijzen op je website als hovenier: transparantie die vertrouwen bouwt
-
 "Wat kost een nieuwe tuin?" Huiseigenaren willen het weten voordat ze een hovenier bellen. Toch tonen de meeste hoveniers geen prijzen op hun [website](/blog/hovenierwebsite-offerte-machine). "Elke tuin is anders." Klopt — maar klanten willen op z'n minst weten of ze in de juiste prijsklasse zitten.
 
 ## Waarom klanten afhaken zonder prijsindicatie

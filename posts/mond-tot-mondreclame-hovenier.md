@@ -7,8 +7,6 @@ image: "/images/blog/mond-tot-mondreclame-hovenier.png"
 tags: ["mond-tot-mond", "hovenier", "klantwerving"]
 ---
 
-# Mond-tot-mondreclame als hovenier: hoe tevreden klanten je beste marketing zijn
-
 Als hovenier werkt je marketing letterlijk in de voortuin. Buren zien het resultaat. Voorbijgangers stoppen om te kijken. En als de klant tevreden is, vertelt die het aan iedereen in de straat.
 
 Mond-tot-mondreclame is al eeuwen de krachtigste marketingvorm — en voor hoveniers is dat nog steeds zo. Maar je kunt het versterken en versnellen. In dit artikel leer je hoe.

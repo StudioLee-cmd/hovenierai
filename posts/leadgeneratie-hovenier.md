@@ -7,8 +7,6 @@ image: "/images/blog/leadgeneratie-hovenier.png"
 tags: ["leadgeneratie", "hovenier", "klanten werven"]
 ---
 
-# Leadgeneratie als hovenier: meer tuinklussen via slimme kanalen
-
 Als hovenier ben je afhankelijk van een constante stroom nieuwe opdrachten. [Google](/blog/hoe-hoveniers-meer-klanten-vinden-via-google) en mond-tot-mond zijn de basis, maar ze zijn niet genoeg om het hele jaar door vol te zitten — vooral niet in de [rustigere maanden](/blog/seizoensplanning-hovenier-heel-jaar-werk).
 
 Slimme hoveniers bouwen meerdere leadkanalen tegelijk. Dit artikel laat zien welke kanalen het meest opleveren.

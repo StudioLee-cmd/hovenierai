@@ -6,12 +6,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
     const baseUrl = 'https://www.hovenierai.nl'
 
     // Static routes — rarely change
-    const staticPages = ['', '/gratis-scan', '/review-pakket', '/privacy', '/legal', '/algemene-voorwaarden']
+    const staticPages = [
+        '', '/gratis-scan', '/review-pakket',
+        '/tarieven', '/gratis-website',
+        '/chatbot', '/voice-ai', '/seo', '/reviews', '/social-media',
+        '/privacy', '/legal', '/algemene-voorwaarden',
+    ]
     const staticRoutes = staticPages.map((route) => ({
         url: `${baseUrl}${route}`,
         lastModified: new Date(),
-        changeFrequency: 'yearly' as const,
-        priority: route === '' ? 1 : 0.5,
+        changeFrequency: (route === '/tarieven' || route === '/gratis-website') ? 'monthly' as const : 'yearly' as const,
+        priority: route === '' ? 1 : (route === '/tarieven' || route === '/gratis-website') ? 0.9 : 0.7,
     }))
 
     // Blog index — new posts daily

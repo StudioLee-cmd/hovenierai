@@ -1,7 +1,7 @@
 ---
 title: "Meer klanten als hovenier: van voorjaarsdrukte naar jaarrond"
 excerpt: "Doorbreek de seizoensafhankelijkheid. Strategieën voor hoveniers om het hele jaar door opdrachten te hebben."
-date: "2026-04-01"
+date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-klanten-als-hovenier-jaarrond.png"
 tags: ["Groei", "Marketing"]

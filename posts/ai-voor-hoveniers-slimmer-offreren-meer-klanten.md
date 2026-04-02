@@ -5,6 +5,7 @@ date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-voor-hoveniers-slimmer-offreren-meer-klanten.png"
 tags: ["AI", "Automatisering", "Hoveniers"]
+cluster: "ai-automatisering"
 ---
 
 Hovenieren is seizoensgebonden werk met pieken in lente en zomer en rustigere periodes in de winter. Slim plannen, snel offreren en actief klanten werven zijn het verschil tussen een volle en een lege agenda. AI helpt hoveniers die balans te vinden.

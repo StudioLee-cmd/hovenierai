@@ -5,6 +5,7 @@ date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/administratie-hovenier-boekhouding-facturatie.jpg"
 tags: ["Administratie", "Efficiëntie", "Tools"]
+cluster: "administratie"
 ---
 
 ## Waarom administratie voor hoveniers belangrijk is

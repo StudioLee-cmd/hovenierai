@@ -5,6 +5,7 @@ date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-klanten-als-hovenier-jaarrond.png"
 tags: ["Groei", "Marketing"]
+cluster: ""
 ---
 
 Elke hovenier kent het patroon: in het voorjaar kun je de aanvragen niet bijbenen, in de winter zit je met een lege agenda. Die seizoensafhankelijkheid is niet alleen stressvol — het maakt plannen onmogelijk en dwingt je om in de drukke maanden extreem lange dagen te draaien.

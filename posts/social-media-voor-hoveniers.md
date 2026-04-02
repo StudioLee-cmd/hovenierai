@@ -5,6 +5,7 @@ date: "2026-01-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-media-voor-hoveniers.png"
 tags: ["Social Media", "Branding", "Automatisering"]
+cluster: ""
 ---
 
 Ik hoor het je denken: "Social Media? Daar heb ik toch geen tijd voor? Ik ben hovenier, geen influencer!" En je hebt groot gelijk. Dat moet je ook helemaal niet willen. Jij bent een vakman.

@@ -5,6 +5,7 @@ date: "2025-12-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-ai-hoveniers-helpt.png"
 tags: ["AI", "Efficiëntie", "Automatisering"]
+cluster: ""
 ---
 
 Het runnen van een hoveniersbedrijf anno 2026 is topsport. Je bent niet alleen de vakman die prachtige tuinen aanlegt en onderhoudt, maar je bent ook boekhouder, planner, telefoniste, marketingmanager en klantenservice in één. Veel ondernemers die wij spreken, staan de hele dag buiten te werken, maar als ze eerlijk kijken, zijn ze 's avonds nog uren bezig met randzaken. Ruis in de vorm van eindeloze telefoontjes, appjes, offertes maken en facturen doen.

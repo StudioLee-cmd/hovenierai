@@ -5,6 +5,7 @@ date: "2026-01-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefoniste-voor-hoveniers.png"
 tags: ["Voice AI", "Innovatie", "Ondernemen"]
+cluster: ""
 ---
 
 Het meest frustrerende moment voor een hovenier? Je staat net met een snoeischaar bovenin een boom, of je bent net een strakke lijn aan het trekken voor de bestrating. Je concentratie is maximaal. En dan... gaat je telefoon. Je voelt hem trillen in je broekzak. Je weet dat het een potentiële klant kan zijn met een mooi tuinproject.

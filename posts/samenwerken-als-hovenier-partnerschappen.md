@@ -5,6 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-hovenier-partnerschappen.png"
 tags: ["samenwerkingen", "hovenier", "groei"]
+cluster: "samenwerkingen"
 ---
 
 De meeste hoveniers zijn afhankelijk van seizoenen en mond-tot-mondreclame. Maar er zijn bedrijven die het hele jaar door dezelfde klanten bedienen als jij — en die nu nog niet naar jou doorverwijzen. Dat verandert met de juiste samenwerkingen.

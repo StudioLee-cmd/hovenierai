@@ -5,6 +5,7 @@ date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/onderhoudscontracten-hovenier-vaste-inkomsten.png"
 tags: ["Hovenier", "Onderhoudscontracten", "Vaste Inkomsten"]
+cluster: "onderhoud contracten"
 ---
 
 ## Het probleem: pieken en dalen

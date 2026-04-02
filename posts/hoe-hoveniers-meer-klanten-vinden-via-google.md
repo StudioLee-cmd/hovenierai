@@ -5,6 +5,7 @@ date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-hoveniers-meer-klanten-vinden-via-google.png"
 tags: ["Vindbaarheid", "Google", "Hovenier", "Klanten"]
+cluster: "vindbaarheid"
 ---
 
 ## Hoveniers worden gevonden online — zo ziet dat eruit

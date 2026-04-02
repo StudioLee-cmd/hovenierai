@@ -1,12 +1,104 @@
 import React from 'react';
-import Link from 'next/link';
-import Image from 'next/image';
 import { getAllPosts } from '@/utils/posts';
 import { getAuthorBySlug } from '@/data/authors';
 import Container from '@/components/Container';
+import BlogGrid from '@/components/BlogGrid';
+
+const CLUSTER_LABELS: Record<string, string> = {
+    "voice-ai": "Voice AI",
+    "chatbot": "Chatbot",
+    "review-automatisering": "Reviews",
+    "afspraak-herinneringen": "Herinneringen",
+    "no-shows": "No-Shows",
+    "lead-opvolging": "Leads",
+    "crm-klantbeheer": "Klantbeheer",
+    "email-marketing": "E-mail",
+    "sms-whatsapp": "WhatsApp",
+    "social-media": "Social Media",
+    "vindbaarheid": "Vindbaarheid",
+    "google-bedrijfsprofiel": "Google Profiel",
+    "website-conversie": "Website",
+    "online-reputatie": "Reputatie",
+    "branding": "Branding",
+    "mond-tot-mondreclame": "Mond-tot-mond",
+    "samenwerkingen": "Samenwerking",
+    "concurrentieanalyse": "Concurrentie",
+    "prijzen-communiceren": "Prijzen",
+    "offerte-proces": "Offertes",
+    "administratie": "Administratie",
+    "seizoenswerk": "Seizoenswerk",
+    "klantcommunicatie": "Communicatie",
+    "klanttevredenheid": "Tevredenheid",
+    "nazorg": "Nazorg",
+    "portfolio": "Portfolio",
+    "specialisatie": "Specialisatie",
+    "verduurzaming": "Duurzaam",
+    "tools-uitleg": "Tools",
+    "ai-automatisering": "AI",
+    "software-vergelijking": "Software",
+    "certificering": "Certificering",
+    "spoedklussen": "Spoedklussen",
+    "mkb-groei": "Groei",
+    "kleuradvies": "Kleuradvies",
+    "preventieve-zorg": "Preventieve Zorg",
+    "digitale-triage": "Digitale Triage",
+    "patientcommunicatie": "Patiëntcommunicatie",
+    "woningfotografie": "Woningfotografie",
+    "energielabel": "Energielabel",
+    "open-huizen": "Open Huizen",
+    "rijbewijs-traject": "Rijbewijs",
+    "e-bike-service": "E-bike",
+    "zakelijke-verhuizingen": "Zakelijk",
+    "piekperiodes": "Piekperiodes",
+    "online-boeken": "Online Boeken",
+    "upselling": "Upselling",
+    "personeel": "Personeel",
+    "ai-trends": "AI Trends",
+    "ai-zoekgedrag": "AI Zoekgedrag",
+    "crm-mkb": "CRM",
+    "roi-automatisering": "ROI",
+    "chatbot-strategie": "Chatbot Strategie",
+    "klantcases": "Klantcases",
+    "managed-service": "Managed Service",
+    "haarverzorging": "Haarverzorging",
+    "heren-baard": "Heren & Baard",
+    "ventilatie": "Ventilatie",
+    "binnenklimaat": "Binnenklimaat",
+    "elektrotechniek": "Elektrotechniek",
+    "slimme installaties": "Slimme Installaties",
+};
 
 const BlogPage = async () => {
     const posts = await Promise.resolve(getAllPosts());
+
+    const postsWithAuthors = posts.map((post) => {
+        const author = getAuthorBySlug(post.authorSlug);
+        return {
+            slug: post.slug,
+            title: post.title,
+            excerpt: post.excerpt,
+            date: post.date,
+            image: post.image,
+            tags: post.tags,
+            cluster: post.cluster,
+            author: author ? { name: author.name, image: author.image } : null,
+        };
+    });
+
+    const clusterCounts = new Map<string, number>();
+    posts.forEach((post) => {
+        if (post.cluster) {
+            clusterCounts.set(post.cluster, (clusterCounts.get(post.cluster) || 0) + 1);
+        }
+    });
+
+    const clusters = Array.from(clusterCounts.entries())
+        .map(([id, count]) => ({
+            id,
+            label: CLUSTER_LABELS[id] || id,
+            count,
+        }))
+        .sort((a, b) => b.count - a.count);
 
     return (
         <div className="py-24 bg-[var(--background)]">
@@ -18,55 +110,7 @@ const BlogPage = async () => {
                     </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                    {posts.map((post) => {
-                        const author = getAuthorBySlug(post.authorSlug);
-                        return (
-                            <div key={post.slug} className="group flex flex-col h-full border border-[var(--card-border)] bg-[var(--card-background)] rounded-2xl overflow-hidden hover:shadow-lg transition-shadow duration-300">
-                                <Link href={`/blog/${post.slug}`} className="relative h-48 w-full overflow-hidden">
-                                    <Image
-                                        src={post.image}
-                                        alt={post.title}
-                                        fill
-                                        className="object-cover transition-transform duration-300 group-hover:scale-105"
-                                    />
-                                </Link>
-                                <div className="flex flex-col flex-grow p-6">
-                                    <div className="flex gap-2 mb-3">
-                                        {post.tags.map(tag => (
-                                            <span key={tag} className="text-xs font-semibold text-[var(--secondary)] bg-[var(--secondary)]/10 px-2 py-1 rounded-full">
-                                                {tag}
-                                            </span>
-                                        ))}
-                                    </div>
-                                    <Link href={`/blog/${post.slug}`}>
-                                        <h2 className="text-xl font-bold mb-3 text-[var(--foreground)] group-hover:text-[var(--secondary)] transition-colors line-clamp-2">
-                                            {post.title}
-                                        </h2>
-                                    </Link>
-                                    <p className="text-[var(--foreground-accent)] text-sm mb-4 line-clamp-3">
-                                        {post.excerpt}
-                                    </p>
-                                    <div className="mt-auto flex items-center justify-between text-xs text-[var(--foreground-accent)]">
-                                        <span>{new Date(post.date).toLocaleDateString('nl-NL', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
-                                        {author && (
-                                            <div className="flex items-center gap-2">
-                                                <Image
-                                                    src={author.image}
-                                                    alt={author.name}
-                                                    width={24}
-                                                    height={24}
-                                                    className="rounded-full"
-                                                />
-                                                <span>{author.name}</span>
-                                            </div>
-                                        )}
-                                    </div>
-                                </div>
-                            </div>
-                        );
-                    })}
-                </div>
+                <BlogGrid posts={postsWithAuthors} clusters={clusters} />
             </Container>
         </div>
     );

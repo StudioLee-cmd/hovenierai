@@ -5,6 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offertes-hovenier-meer-tuinklussen.png"
 tags: ["Offertes", "Klussen", "Bedrijfsvoering"]
+cluster: "offerte-proces"
 ---
 
 ## Waarom de offerte je verkoopmoment is

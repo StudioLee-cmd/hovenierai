@@ -14,6 +14,7 @@ export interface IPost {
     authorSlug: string;
     image: string;
     tags: string[];
+    cluster: string;
 }
 
 export function getAllPosts(): IPost[] {
@@ -37,6 +38,7 @@ export function getAllPosts(): IPost[] {
             authorSlug: data.authorSlug || 'tim-van-der-lee',
             image: data.image || '',
             tags: data.tags || [],
+            cluster: data.cluster || '',
         } as IPost;
     });
 
@@ -59,6 +61,7 @@ export function getPostBySlug(slug: string): IPost | null {
         authorSlug: data.authorSlug || 'tim-van-der-lee',
         image: data.image || '',
         tags: data.tags || [],
+        cluster: data.cluster || '',
     };
 }
 

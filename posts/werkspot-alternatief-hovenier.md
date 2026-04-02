@@ -5,6 +5,7 @@ date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/werkspot-alternatief-hovenier.jpg"
 tags: ["Vergelijking", "Werkspot", "Groei"]
+cluster: "software-vergelijking"
 ---
 
 ## Het Werkspot-model: wat het je echt kost

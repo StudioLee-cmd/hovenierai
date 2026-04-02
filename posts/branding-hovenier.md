@@ -5,6 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/branding-hovenier.png"
 tags: ["Branding", "Hovenier", "Groei"]
+cluster: "branding"
 ---
 
 Vraag een willekeurig persoon om een hovenier te noemen en de kans is groot dat ze er niet één bij naam kennen. Hoveniers zijn voor de meeste mensen uitwisselbaar — ze zoeken op Google, vergelijken drie offertes, en kiezen de goedkoopste of de snelste.

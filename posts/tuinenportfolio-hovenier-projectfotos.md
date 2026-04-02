@@ -5,6 +5,7 @@ date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/tuinenportfolio-hovenier-projectfotos.png"
 tags: ["Portfolio", "Marketing", "Groei"]
+cluster: "portfolio"
 ---
 
 Als hovenier maak je iets dat mensen dagelijks zien en gebruiken: hun tuin. Het resultaat van je werk is zichtbaar, tastbaar en fotografeerbaar. Toch hebben veel hoveniers geen portfolio — ze doen prachtig werk maar laten het niet zien. Dat is een gemiste kans, want een goed portfolio overtuigt sneller dan welke verkooppitch dan ook.

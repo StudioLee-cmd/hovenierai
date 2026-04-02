@@ -5,6 +5,7 @@ date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/seizoensplanning-hovenier-heel-jaar-werk.png"
 tags: ["Hovenier", "Seizoensplanning", "Bedrijfsvoering"]
+cluster: "seizoenswerk"
 ---
 
 ## Het seizoensritme van hoveniers

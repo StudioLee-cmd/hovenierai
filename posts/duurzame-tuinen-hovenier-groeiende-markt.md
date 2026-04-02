@@ -5,6 +5,7 @@ date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/duurzame-tuinen-hovenier-groeiende-markt.png"
 tags: ["Hovenier", "Duurzame Tuinen", "Groeimarkt"]
+cluster: "duurzame tuinen"
 ---
 
 ## De trend die niet meer weggaat

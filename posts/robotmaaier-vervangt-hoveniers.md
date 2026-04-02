@@ -5,6 +5,7 @@ date: "2026-04-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/robotmaaier-vervangt-hoveniers.jpg"
 tags: ["1 April", "Vindbaarheid", "SEO"]
+cluster: "vindbaarheid"
 ---
 
 ## De robotmaaier die alles overneemt

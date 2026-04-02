@@ -5,6 +5,7 @@ date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/werkspot-vs-hovenierai-welke-levert-meer-op.png"
 tags: ["Tools", "Vergelijking", "Hoveniers"]
+cluster: "tools-uitleg"
 ---
 
 Veel hoveniers gebruiken Werkspot om klussen te vinden. Je betaalt per lead en concurreert met andere hoveniers op dezelfde aanvraag. Het werkt, maar is het de slimste investering?

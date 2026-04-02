@@ -2,16 +2,20 @@ import { IMenuItem } from "@/types";
 
 export const menuItems: IMenuItem[] = [
     {
-        text: "Functies",
-        url: "/#features"
+        text: "Diensten",
+        url: "#",
+        children: [
+            { text: "AI Chatbot", url: "/chatbot" },
+            { text: "Voice AI", url: "/voice-ai" },
+            { text: "SEO", url: "/seo" },
+            { text: "Social Media", url: "/social-media" },
+            { text: "Reviews", url: "/reviews" },
+            { text: "Review Pakket", url: "/review-pakket" },
+        ]
     },
     {
         text: "Tarieven",
         url: "/tarieven"
-    },
-    {
-        text: "Reviews",
-        url: "/review-pakket"
     },
     {
         text: "Gratis Scan",

@@ -4,11 +4,15 @@ import React, { useState, useEffect, useCallback, useRef } from 'react';
 
 // ─── TYPES ────────────────────────────────────────────────────────────────────
 
-type CellType = 'grass' | 'mowed' | 'rock' | 'flower' | 'gem' | 'snail' | 'start' | 'empty';
+type CellType = 'grass' | 'mowed' | 'rock' | 'flower' | 'gem' | 'snail' | 'start' | 'empty' | 'thick';
+
+type TemplateChar = string;
 
 interface Cell {
   type: CellType;
   revealed?: boolean; // for gems: true once stepped on
+  toughness?: number; // hits remaining to mow (thick grass: 3-10, regular: 1)
+  maxToughness?: number; // original toughness for display
 }
 
 interface Position {
@@ -37,6 +41,7 @@ interface MowGameProps {
 
 // ─── HELPER: Build grid from string template ──────────────────────────────────
 // Legend:  G=grass  R=rock  F=flower  D=gem(diamond)  S=start  .=empty  N=snail
+//          T=thick(3hits)  U=ultra(5hits)  V=very(10hits)
 function parseGrid(template: string[]): { grid: CellType[][]; startPos: Position } {
   let startPos: Position = { row: 0, col: 0 };
   const grid: CellType[][] = template.map((rowStr, r) =>
@@ -48,6 +53,10 @@ function parseGrid(template: string[]): { grid: CellType[][]; startPos: Position
         case 'D': return 'gem';
         case 'S': { startPos = { row: r, col: c }; return 'start'; }
         case 'N': return 'snail';
+        case 'T': return 'thick'; // 3 hits
+        case 'U': return 'thick'; // 5 hits
+        case 'V': return 'thick'; // 10 hits
+        case 'W': return 'thick'; // 100 hits
         case '.': return 'empty';
         default: return 'empty';
       }
@@ -56,260 +65,301 @@ function parseGrid(template: string[]): { grid: CellType[][]; startPos: Position
   return { grid, startPos };
 }
 
-// ─── 16 HAND-DESIGNED LEVELS ──────────────────────────────────────────────────
+// Map template chars to toughness values
+function getToughness(ch: string): number {
+  switch (ch) {
+    case 'T': return 3;
+    case 'U': return 5;
+    case 'V': return 10;
+    case 'W': return 100;
+    default: return 1;
+  }
+}
 
-function buildLevels(): LevelDef[] {
-  const defs: { name: string; template: string[]; moveLimit: number; timer: number }[] = [
+// ─── 16 HAND-DESIGNED LEVELS (verified solvable via Hamiltonian path solver) ──
+// Each level uses a snake-path pattern → guaranteed solvable.
+// Features (D/N/T/U/V/W) sit ON the path; Flowers (F) sit OFF the path as traps.
+// Difficulty curve: Tutorial → Apprentice → Expert → Master
+
+const LEVEL_DEFS: { name: string; template: string[]; moveLimit: number; timer: number }[] = [
     // ── Level 1: Het Voortuintje ──
-    // Simple L-shaped path to teach mechanics. Player starts top-left, must mow down then right.
+    // Simple snake path. Learn the basics!
+    // 5x5 | 17 tiles | min 16 moves | 120s
     {
       name: 'Het Voortuintje',
       template: [
-        'SGGG.',
-        '.RRG.',
-        '..RG.',
-        '..GGD',
-        '..GGG',
+        'SGGGG',
+        'RRRRG',
+        'GGGGG',
+        'GRRRR',
+        'GGGGG',
       ],
-      moveLimit: 15,
-      timer: 60,
+      moveLimit: 24,
+      timer: 120,
     },
     // ── Level 2: Het Achtertuintje ──
-    // Slightly more complex winding path.
+    // First gem! Collect it for bonus coins.
+    // 5x5 | 17 tiles | min 16 moves | 100s
     {
       name: 'Het Achtertuintje',
       template: [
-        'SGGR.',
-        'GRGGG',
-        'GG.RG',
-        'RGDGG',
-        '.GGGG',
+        'SGGGG',
+        'RRRRG',
+        'GGDGG',
+        'GRRRR',
+        'GGGGG',
       ],
-      moveLimit: 22,
-      timer: 55,
+      moveLimit: 23,
+      timer: 100,
     },
     // ── Level 3: De Bloemenborder ──
-    // First flowers! Must carefully route around them.
+    // First flowers! Don't step on them.
+    // 5x5 | 17 tiles | min 16 moves | 90s
     {
       name: 'De Bloemenborder',
       template: [
-        'SGGGFG',
-        'GR.GGG',
-        'GGGFGG',
-        'RGGGDG',
-        '.FGGGG',
+        'SGGGG',
+        'FRRRG',
+        'GGGGG',
+        'GRRRF',
+        'GGDGG',
       ],
-      moveLimit: 27,
-      timer: 50,
+      moveLimit: 22,
+      timer: 90,
     },
-    // ── Level 4: De Slakkentuin ──
-    // First snail — must time movements carefully.
+    // ── Level 4: De Eerste Uitdaging ──
+    // Bigger garden, more to mow!
+    // 5x6 | 20 tiles | min 19 moves | 80s
+    {
+      name: 'De Eerste Uitdaging',
+      template: [
+        'SGGGGG',
+        'FFRRRG',
+        'GGGDGG',
+        'GRRRRR',
+        'GGGGGG',
+      ],
+      moveLimit: 24,
+      timer: 80,
+    },
+    // ── Level 5: De Slakkentuin ──
+    // First snail! They move and freeze you.
+    // 5x6 | 20 tiles | min 19 moves | 75s
     {
       name: 'De Slakkentuin',
       template: [
-        'SGGGG',
-        'GRGGN',
-        'GGGGG',
-        'GR.DG',
-        'GGGGG',
+        'SGGGGG',
+        'RRFRRG',
+        'GGNGGG',
+        'GRRRRR',
+        'GGGGDG',
       ],
-      moveLimit: 26,
-      timer: 50,
+      moveLimit: 24,
+      timer: 75,
     },
-    // ── Level 5: Het Doolhof ──
-    // Rocks form a maze — only one correct solution path.
+    // ── Level 6: Het Doolhof ──
+    // Bigger maze, tighter moves.
+    // 7x6 | 27 tiles | min 26 moves | 70s
     {
       name: 'Het Doolhof',
       template: [
-        'SGGRGG',
-        'GR.RGG',
-        'GGGRGD',
-        'RGGRGG',
-        'GGRGGG',
-        '.GGGR.',
+        'SGGGGG',
+        'FRRRRG',
+        'GGGGGG',
+        'GRRRRF',
+        'GGGDGG',
+        'FRRRRG',
+        'GGGGGG',
       ],
-      moveLimit: 29,
-      timer: 45,
+      moveLimit: 30,
+      timer: 70,
     },
-    // ── Level 6: De Rozentuin ──
-    // Many flowers scattered — precise path needed.
+    // ── Level 7: De Rozentuin ──
+    // Flowers everywhere — find the safe path!
+    // 7x6 | 27 tiles | min 26 moves | 75s
     {
       name: 'De Rozentuin',
       template: [
-        'SGGFGG',
-        'GRGGFG',
-        'GGFGDG',
-        'FGGRGG',
-        'GGGRGD',
+        'SGGGGG',
+        'FFFRRG',
+        'GGDGGG',
+        'GRRFFF',
         'GGGGGG',
+        'FFRRRG',
+        'GGGDGG',
       ],
-      moveLimit: 34,
-      timer: 50,
+      moveLimit: 31,
+      timer: 75,
     },
-    // ── Level 7: De Tuinfeest ──
-    // Everything at once: flowers, snails, gems.
+    // ── Level 8: De Tuinfeest ──
+    // Snails, flowers, gems — all at once!
+    // 7x7 | 31 tiles | min 30 moves | 70s
     {
       name: 'De Tuinfeest',
       template: [
-        'SGGGDG',
-        'GRGGNG',
-        'GGFGGG',
-        'GNGGFG',
-        'GRGDGG',
-        'GGGGGG',
-      ],
-      moveLimit: 36,
-      timer: 55,
-    },
-    // ── Level 8: Het Voetbalveld ──
-    // Large open area — strategic obstacles.
-    {
-      name: 'Het Voetbalveld',
-      template: [
-        'SGGGGRG',
-        'GGGFGGG',
-        'GRGGDGG',
-        'GGGGGRG',
-        'GFGNGGG',
+        'SGGGGGG',
+        'FFRRRRG',
+        'GGGNGGG',
+        'GRRRRFF',
         'GGGGGDG',
+        'FRRRRRG',
+        'GNGGGGG',
       ],
-      moveLimit: 42,
-      timer: 60,
+      moveLimit: 34,
+      timer: 70,
     },
-    // ── Level 9: De Vijvertuin ──
-    // Rocks form a pond shape in the center.
+    // ── Level 9: Het Dikke Gras ──
+    // Thick grass needs 3 hits to mow!
+    // 7x7 | 31 tiles | min 32 moves | 75s
+    {
+      name: 'Het Dikke Gras',
+      template: [
+        'SGGGGGG',
+        'FRRRRRG',
+        'GGGGGGG',
+        'GRRRRRF',
+        'GGGTGGG',
+        'FRRRRRG',
+        'GGGGDGG',
+      ],
+      moveLimit: 37,
+      timer: 75,
+    },
+    // ── Level 10: De Vijvertuin ──
+    // Multiple thick patches — plan your route!
+    // 7x8 | 35 tiles | min 38 moves | 70s
     {
       name: 'De Vijvertuin',
       template: [
-        'SGGGGFG',
-        'GGRRRGG',
-        'GGRRRGG',
-        'FGRRGDG',
-        'GGGGGNG',
-        'GNDGGGG',
-        'GGGFGDG',
+        'SGGGGGGG',
+        'FFRRRRRG',
+        'GGGGTGGG',
+        'GRRRRRFF',
+        'GGTGGGGG',
+        'FFRRRRRG',
+        'GGGGGDGG',
       ],
-      moveLimit: 43,
-      timer: 60,
-    },
-    // ── Level 10: De Labyrint ──
-    // Complex maze with tight corridors — one wrong turn = stuck.
-    {
-      name: 'De Labyrint',
-      template: [
-        'SGRGGRG',
-        'GGRGGGG',
-        'GRGRGRD',
-        'GGRGRGF',
-        'GRGGGRG',
-        'GGRGFGG',
-        'RGGRGNG',
-      ],
-      moveLimit: 38,
-      timer: 55,
+      moveLimit: 42,
+      timer: 70,
     },
     // ── Level 11: De Slakkenplaag ──
-    // FOUR snails — timing is everything.
+    // Snails AND thick grass — timing is everything!
+    // 7x8 | 35 tiles | min 38 moves | 80s
     {
       name: 'De Slakkenplaag',
       template: [
-        'SGGNGGD',
-        'GGGGRGG',
-        'GNGGFGG',
-        'GRGGGNG',
-        'GGDGGGG',
-        'GFGGGRG',
-        'GDGGGNG',
+        'SGGGGGGG',
+        'FRRRRRRG',
+        'GGNGGGTG',
+        'GRRRRRRF',
+        'GGGGGNGG',
+        'FRRRRRRG',
+        'GGGTGGDG',
       ],
-      moveLimit: 49,
-      timer: 70,
+      moveLimit: 43,
+      timer: 80,
     },
     // ── Level 12: De Engelse Tuin ──
-    // Flowers EVERYWHERE — very precise path needed.
+    // A proper English garden — precision required!
+    // 9x7 | 39 tiles | min 42 moves | 70s
     {
       name: 'De Engelse Tuin',
       template: [
-        'SGFGGGFG',
-        'GRGGFGGG',
-        'GFGGGFGG',
-        'GGGRDGNG',
-        'GFGGGGFG',
-        'GGGGRGGG',
-        'GDGFGGNG',
+        'SGGGGGG',
+        'FFFRRRG',
+        'GGGTGGG',
+        'GRRRFFF',
+        'GGDGGGG',
+        'FFFRRRG',
+        'GGGGTGG',
+        'GRRRFFF',
+        'GGGDGGG',
       ],
-      moveLimit: 50,
+      moveLimit: 46,
       timer: 70,
     },
     // ── Level 13: De Nachtshift ──
-    // Tight timer — pure pressure.
+    // Ultra thick grass needs 5 hits! Hurry!
+    // 9x8 | 44 tiles | min 51 moves | 80s
     {
       name: 'De Nachtshift',
       template: [
-        'SGGGGRGG',
-        'GDGGGFGN',
-        'GGRGGGGG',
-        'GGGFGRGG',
-        'GRGGGGDG',
-        'GGGNGGRG',
-        'GDGGGGGN',
+        'SGGGGGDG',
+        'FFRRRRRG',
+        'GGGTGGGG',
+        'GRRRRRFF',
+        'GGGGUGGG',
+        'FFRRRRRG',
+        'GGGGGTGG',
+        'GRRRRRFF',
+        'GGDGGGGG',
       ],
-      moveLimit: 53,
-      timer: 75,
+      moveLimit: 55,
+      timer: 80,
     },
     // ── Level 14: De Kasteel Tuin ──
-    // Castle walls pattern — multiple dead ends.
+    // Castle garden — thick, ultra, snails, flowers!
+    // 9x8 | 44 tiles | min 55 moves | 90s
     {
       name: 'De Kasteel Tuin',
       template: [
-        'SGRGGGRG',
-        'GGRFGGGG',
-        'GGGGRRGG',
-        'GRGGGGRD',
-        'GFGGRRGG',
-        'GGNGGGFG',
-        'GRGGGGRG',
-        'GDGGNGGG',
+        'SGGGGGGG',
+        'FFFRRRRG',
+        'GNGGUGGG',
+        'GRRRRFFF',
+        'GGTGGGDG',
+        'FFFRRRRG',
+        'GGGUGGNG',
+        'GRRRRFFF',
+        'GDGGGTGG',
       ],
-      moveLimit: 54,
-      timer: 75,
+      moveLimit: 60,
+      timer: 90,
     },
     // ── Level 15: De Meester Uitdaging ──
-    // Everything maxed out — a real gauntlet.
+    // 10-hit mega grass! Can you handle it?
+    // 9x9 | 49 tiles | min 69 moves | 100s
     {
       name: 'De Meester Uitdaging',
       template: [
-        'SGGGFGGG',
-        'GRGGNGDG',
-        'GGFGGRGG',
-        'GDGRGGFG',
-        'GGGGGRGN',
-        'GFGNGDGG',
-        'GRGGGFGG',
-        'GGGGGGNG',
+        'SGGGGNGGG',
+        'FFFFRRRRG',
+        'GGGUGGGTG',
+        'GRRRRFFFF',
+        'GGGGVGGDG',
+        'FFFFRRRRG',
+        'GGNGGUGGG',
+        'GRRRRFFFF',
+        'GGTGGGDGG',
       ],
-      moveLimit: 58,
-      timer: 80,
+      moveLimit: 73,
+      timer: 100,
     },
     // ── Level 16: De Perfecte Tuin ──
-    // The ultimate — near impossible to 3-star.
+    // 100-click tile + ultra + thick — near impossible!
+    // 11x9 | 59 tiles | min 187 moves | 150s
     {
       name: 'De Perfecte Tuin',
       template: [
-        'SGGFGGGRG',
-        'GRGGGNGGG',
-        'GGGFGRGGD',
-        'GRGGGGGFG',
-        'GDGNGGRGG',
-        'GGFGGGGNG',
-        'GRGDGFGGG',
-        'GGGGGRGNG',
+        'SGGGNGGGD',
+        'FFFFFRRRG',
+        'GGGVGGGTG',
+        'GRRRFFFFF',
+        'GGGGWGGGN',
+        'FFFFFRRRG',
+        'GGUGDGTGG',
+        'GRRRFFFFF',
+        'GNGGGVGGG',
+        'FFFFFRRRG',
+        'GGGUGGDGG',
       ],
-      moveLimit: 64,
-      timer: 90,
+      moveLimit: 192,
+      timer: 150,
     },
-  ];
+];
 
-  return defs.map((d) => {
+function buildLevels(): LevelDef[] {
+  return LEVEL_DEFS.map((d) => {
     const { grid, startPos } = parseGrid(d.template);
     return { name: d.name, grid, moveLimit: d.moveLimit, timer: d.timer, startPos };
   });
@@ -353,8 +403,19 @@ export default function MowGame({ onComplete, onExit }: MowGameProps) {
   // ── Initialize level ────────────────────────────────────────────────────────
   const initLevel = useCallback((lvlIdx: number) => {
     const lvl = ALL_LEVELS[lvlIdx];
-    const newGrid: Cell[][] = lvl.grid.map((row) =>
-      row.map((cellType) => ({ type: cellType, revealed: false }))
+    // Build grid with toughness for thick grass tiles
+    const template = LEVEL_DEFS[lvlIdx].template;
+    const newGrid: Cell[][] = lvl.grid.map((row, r) =>
+      row.map((cellType, c) => {
+        const ch = template[r]?.[c] || '.';
+        const tough = (cellType === 'thick') ? getToughness(ch) : (cellType === 'grass' ? 1 : 0);
+        return {
+          type: cellType === 'thick' ? 'grass' : cellType, // thick renders as grass with toughness
+          revealed: false,
+          toughness: tough > 1 ? tough : undefined,
+          maxToughness: tough > 1 ? tough : undefined,
+        };
+      })
     );
 
     // Find snails
@@ -522,6 +583,20 @@ export default function MowGame({ onComplete, onExit }: MowGameProps) {
 
     // Handle cell type
     if (targetCell.type === 'grass' || targetCell.type === 'start') {
+      const remaining = (targetCell.toughness || 1) - 1;
+      if (remaining > 0) {
+        // Thick grass: reduce toughness, don't mow yet
+        newGrid[newRow][newCol] = { ...targetCell, toughness: remaining };
+        // Pulse animation on the tile being hit
+        setMowedAnimating(`${newRow}-${newCol}`);
+        setTimeout(() => setMowedAnimating(null), 200);
+        // Don't count as mowed, don't move TO this tile — stay in place
+        // But still count the move
+        setMoveCount(newMoveCount);
+        setGrid(newGrid);
+        setCoins(newCoins);
+        return; // Stay on current tile, just clicked to chop
+      }
       newGrid[newRow][newCol] = { type: 'mowed', revealed: false };
       newGrassMowed++;
       setMowedAnimating(`${newRow}-${newCol}`);
@@ -672,6 +747,17 @@ export default function MowGame({ onComplete, onExit }: MowGameProps) {
       case 'mowed':
         if (cell.revealed) return <span className="text-lg sm:text-xl select-none">💎</span>;
         return null;
+      case 'grass':
+      case 'start':
+        // Show small hit counter for thick grass
+        if (cell.toughness && cell.toughness > 1) {
+          return (
+            <span className="text-[9px] sm:text-[10px] font-bold text-white/70 bg-green-900/40 rounded px-0.5 select-none z-10">
+              {cell.toughness}
+            </span>
+          );
+        }
+        return null;
       default: return null;
     }
   };
@@ -682,8 +768,16 @@ export default function MowGame({ onComplete, onExit }: MowGameProps) {
       case 'grass':
       case 'gem': // gems look like grass
       case 'snail': // snails sit on grass
-      case 'start':
+      case 'start': {
+        // Thick grass gets darker green based on remaining toughness
+        if (cell.toughness && cell.maxToughness && cell.toughness > 1) {
+          const ratio = cell.toughness / cell.maxToughness;
+          if (ratio > 0.7) return 'bg-green-700 hover:bg-green-600 border-green-800';
+          if (ratio > 0.4) return 'bg-green-600 hover:bg-green-500 border-green-700';
+          return 'bg-green-500 hover:bg-green-400 border-green-600';
+        }
         return 'bg-green-400 hover:bg-green-300 border-green-500';
+      }
       case 'mowed':
         return `${isAnimating ? 'bg-yellow-300 scale-95' : 'bg-amber-200'} border-amber-300`;
       case 'rock':
@@ -767,6 +861,7 @@ export default function MowGame({ onComplete, onExit }: MowGameProps) {
               <li>🌺 Bloemen raken = 5 sec. bevroren + -20 munten</li>
               <li>🐌 Slakken raken = 3 sec. bevroren</li>
               <li>💎 Verborgen juwelen geven +30 munten</li>
+              <li>🌿 Dik gras heeft meerdere klikken nodig (3x, 5x, 10x, of 100x!)</li>
             </ul>
           </div>
 

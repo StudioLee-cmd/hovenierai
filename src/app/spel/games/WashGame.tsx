@@ -86,20 +86,20 @@ export default function WashGame({ onComplete, onExit }: WashGameProps) {
     setGameState('playing');
   }, [initTiles]);
 
-  // Gauge animation loop
+  // Gauge animation — driven by CSS, ref updated for gameplay logic only
+  const gaugeIndicatorRef = useRef<HTMLDivElement>(null);
+
   useEffect(() => {
     if (gameState !== 'playing') return;
 
-    const animate = () => {
+    // Update ref for spray zone checks (no setState = no re-renders)
+    const updateRef = () => {
       if (gameOverRef.current) return;
       const elapsed = (Date.now() - gaugeStartTimeRef.current) / 1000;
-      // Sine wave oscillation, ~2 second cycle
-      const val = 50 + 50 * Math.sin(elapsed * Math.PI);
-      gaugeRef.current = val;
-      setGaugeValue(val);
-      animFrameRef.current = requestAnimationFrame(animate);
+      gaugeRef.current = 50 + 50 * Math.sin(elapsed * Math.PI);
+      animFrameRef.current = requestAnimationFrame(updateRef);
     };
-    animFrameRef.current = requestAnimationFrame(animate);
+    animFrameRef.current = requestAnimationFrame(updateRef);
 
     return () => {
       if (animFrameRef.current) cancelAnimationFrame(animFrameRef.current);
@@ -417,7 +417,7 @@ export default function WashGame({ onComplete, onExit }: WashGameProps) {
   }
 
   // --- PLAYING SCREEN ---
-  const zone = getGaugeZone(gaugeValue);
+  const zone = getGaugeZone(gaugeRef.current);
 
   return (
     <div
@@ -447,6 +447,12 @@ export default function WashGame({ onComplete, onExit }: WashGameProps) {
           50% { box-shadow: 0 0 12px rgba(255,255,255,0.6); }
         }
         .gauge-glow { animation: gauge-glow 1s ease-in-out infinite; }
+        @keyframes gauge-bounce {
+          0% { top: 100%; }
+          50% { top: 0%; }
+          100% { top: 100%; }
+        }
+        .gauge-indicator { animation: gauge-bounce 2s ease-in-out infinite; transform: translateY(-50%); }
         @keyframes shake {
           0%, 100% { transform: translateX(0); }
           25% { transform: translateX(-3px); }
@@ -613,41 +619,30 @@ export default function WashGame({ onComplete, onExit }: WashGameProps) {
               <span className="text-[8px] font-bold text-red-900/60">MIN</span>
             </div>
 
-            {/* Gauge indicator */}
+            {/* Gauge indicator — pure CSS animation, no React re-renders */}
             <div
-              className={`absolute left-0 right-0 h-2 transition-none ${
-                zone === 'red' ? 'bg-red-200' : zone === 'yellow' ? 'bg-yellow-100' : 'bg-white'
-              }`}
+              ref={gaugeIndicatorRef}
+              className="gauge-indicator absolute left-0 right-0 h-2 bg-white"
               style={{
-                top: `${100 - gaugeValue}%`,
-                transform: 'translateY(-50%)',
-                boxShadow:
-                  zone === 'red'
-                    ? '0 0 8px rgba(239,68,68,0.8)'
-                    : zone === 'yellow'
-                    ? '0 0 8px rgba(234,179,8,0.6)'
-                    : '0 0 8px rgba(74,222,128,0.8)',
+                boxShadow: '0 0 10px rgba(255,255,255,0.8)',
               }}
             >
-              {/* Arrow */}
+              {/* Arrow left */}
               <div
                 className="absolute -left-2 top-1/2 -translate-y-1/2 w-0 h-0"
                 style={{
                   borderTop: '5px solid transparent',
                   borderBottom: '5px solid transparent',
-                  borderLeft: `6px solid ${
-                    zone === 'red' ? '#fca5a5' : zone === 'yellow' ? '#fde68a' : '#ffffff'
-                  }`,
+                  borderLeft: '6px solid white',
                 }}
               />
+              {/* Arrow right */}
               <div
                 className="absolute -right-2 top-1/2 -translate-y-1/2 w-0 h-0"
                 style={{
                   borderTop: '5px solid transparent',
                   borderBottom: '5px solid transparent',
-                  borderRight: `6px solid ${
-                    zone === 'red' ? '#fca5a5' : zone === 'yellow' ? '#fde68a' : '#ffffff'
-                  }`,
+                  borderRight: '6px solid white',
                 }}
               />
             </div>

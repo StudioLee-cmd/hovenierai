@@ -26,6 +26,8 @@ export default function SpelContent() {
   const [activeGame, setActiveGame] = useState<string | null>(null);
   const [coins, setCoins] = useState(0);
   const [gameResult, setGameResult] = useState<"success" | "fail" | null>(null);
+  const [isFullscreen, setIsFullscreen] = useState(false);
+  const pageRef = useRef<HTMLDivElement>(null);
 
   // Check if character is near a station
   const checkStationProximity = useCallback((row: number, col: number) => {
@@ -59,28 +61,42 @@ export default function SpelContent() {
     }, 1500);
   }, []);
 
-  // Fullscreen management for mini-games
+  // Track fullscreen state
+  useEffect(() => {
+    const onChange = () => setIsFullscreen(!!document.fullscreenElement);
+    document.addEventListener('fullscreenchange', onChange);
+    return () => document.removeEventListener('fullscreenchange', onChange);
+  }, []);
+
+  const toggleFullscreen = useCallback(() => {
+    if (document.fullscreenElement) {
+      document.exitFullscreen().catch(() => {});
+    } else {
+      (pageRef.current || document.documentElement).requestFullscreen().catch(() => {});
+    }
+  }, []);
+
+  // Fullscreen + pause engine when mini-game is active
   const gameOverlayRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
+    const app = appRef.current;
     if (!activeGame) {
-      // Exit fullscreen when game closes
-      if (document.fullscreenElement) {
-        document.exitFullscreen().catch(() => {});
-      }
-      // Unlock orientation
+      // Resume PixiJS engine
+      if (app?.ticker) app.ticker.start();
+      // Exit fullscreen
+      if (document.fullscreenElement) document.exitFullscreen().catch(() => {});
       try { (screen.orientation as any)?.unlock?.(); } catch {}
       return;
     }
-    // Enter fullscreen when game starts
+    // PAUSE PixiJS engine — stops all rendering/animation frames from competing
+    if (app?.ticker) app.ticker.stop();
+    // Enter fullscreen
     const el = gameOverlayRef.current || document.documentElement;
     if (!document.fullscreenElement && el.requestFullscreen) {
-      el.requestFullscreen().catch(() => {}); // Silently fail if blocked
+      el.requestFullscreen().catch(() => {});
     }
-    // Request landscape on mobile
-    try {
-      (screen.orientation as any)?.lock?.('landscape').catch(() => {});
-    } catch {}
+    try { (screen.orientation as any)?.lock?.('landscape').catch(() => {}); } catch {}
   }, [activeGame]);
 
   // Keyboard handler
@@ -204,7 +220,7 @@ export default function SpelContent() {
   const currentStation = nearStation ? STATIONS[nearStation] : null;
 
   return (
-    <div className="flex flex-col items-center pt-24 pb-8 px-4 min-h-screen bg-gradient-to-b from-sky-200 to-green-100">
+    <div ref={pageRef} className="flex flex-col items-center pt-24 pb-8 px-4 min-h-screen bg-gradient-to-b from-sky-200 to-green-100 relative">
       <style>{`@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
         .pixel-font { font-family: 'Press Start 2P', monospace; }
         @keyframes bounce-in { 0% { transform: scale(0) translateY(20px); opacity: 0; } 60% { transform: scale(1.1) translateY(-5px); } 100% { transform: scale(1) translateY(0); opacity: 1; } }
@@ -224,6 +240,14 @@ export default function SpelContent() {
 
       {/* Game container */}
       <div className="relative rounded-xl overflow-hidden shadow-2xl border-4 border-green-800/30">
+        {/* Fullscreen toggle button */}
+        <button
+          onClick={toggleFullscreen}
+          className="absolute top-2 right-2 z-10 bg-black/50 hover:bg-black/70 text-white rounded-lg w-9 h-9 flex items-center justify-center text-sm backdrop-blur-sm transition-colors"
+          title={isFullscreen ? 'Volledig scherm verlaten' : 'Volledig scherm'}
+        >
+          {isFullscreen ? '⊡' : '⛶'}
+        </button>
         <div ref={containerRef} style={{ width: "100%", maxWidth: 1200 }} />
 
         {/* Loading */}
@@ -268,6 +292,15 @@ export default function SpelContent() {
             className="fixed inset-0 z-[100] animate-slide-up"
             style={{ background: "rgba(0,0,0,0.95)" }}
           >
+            {/* Universal quit button — always visible on top of any game */}
+            <button
+              onClick={() => setActiveGame(null)}
+              className="fixed top-3 right-3 z-[200] bg-red-600/90 hover:bg-red-500 text-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg text-lg font-bold backdrop-blur-sm border border-red-400/30 active:scale-90 transition-transform"
+              aria-label="Stoppen"
+              title="Spel verlaten"
+            >
+              ✕
+            </button>
             {activeGame === "mow" ? (
               <MowGame
                 onComplete={(result) => {

@@ -1,20 +1,23 @@
 import type { Metadata } from "next";
+import { siteDetails } from "@/data/siteDetails";
 import SpelContent from "./SpelContent";
 
 export const metadata: Metadata = {
-  title: "Tuinbaas - Hovenier Simulator | HovenierAI",
+  title: `HovenierAI Wereld - Hovenier Simulatie | ${siteDetails.siteName}`,
   description:
-    "Word de ultieme tuinbaas! Loop rond in pixel-art tuinen, maai gras, snoei heggen, gebruik de hogedrukreiniger en verdien munten. 16 levels met toenemende moeilijkheid. Gratis online spel van HovenierAI.",
+    "Bouw je hoveniersbedrijf op in deze isometrische pixelwereld! Maai gazons, snoei hagen en onderhoud tuinen. Een retro pixel-art simulatiegame van HovenierAI.",
   openGraph: {
-    title: "Tuinbaas - Hovenier Simulator | HovenierAI",
+    title: `HovenierAI Wereld - Hovenier Simulatie | ${siteDetails.siteName}`,
     description:
-      "Word de ultieme tuinbaas! Loop rond, voltooi tuinklussen en koop upgrades in deze pixel-art hovenier simulator.",
+      "Bouw je hoveniersbedrijf op in deze isometrische pixelwereld! Maai gazons, snoei hagen en onderhoud tuinen.",
+    url: `${siteDetails.siteUrl}spel`,
     type: "website",
-    url: "https://www.hovenierai.nl/spel",
-    siteName: "HovenierAI",
+    locale: "nl_NL",
   },
-  robots: { index: true, follow: true },
-  alternates: { canonical: "https://www.hovenierai.nl/spel" },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function SpelPage() {

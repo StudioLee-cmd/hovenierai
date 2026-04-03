@@ -11,7 +11,7 @@ tags: ["Lokale SEO", "Vindbaarheid", "Hovenier", "Google Maps"]
 
 Tuinwerk is hyperlocaal. Klanten willen een hovenier uit de buurt — iemand die de grondsoort kent, weet welke planten gedijen in de regio en snel kan inspringen voor onderhoud. Wanneer iemand "hovenier [stad]" googelt, wil jij bovenaan staan.
 
-De meeste hoveniers vertrouwen op mond-tot-mondreclame. Dat werkt, maar het schaalt niet. Lokale SEO is de digitale versie van mond-tot-mond: je wordt aanbevolen door Google aan iedereen in je werkgebied die een hovenier zoekt.
+De meeste hoveniers vertrouwen op mond-tot-mondreclame. Dat werkt, maar het schaalt niet. [lokale SEO](/seo) is de digitale versie van mond-tot-mond: je wordt aanbevolen door Google aan iedereen in je werkgebied die een hovenier zoekt.
 
 ## Google Bedrijfsprofiel optimaliseren
 

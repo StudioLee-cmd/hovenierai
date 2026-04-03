@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useEffect, useRef, useState, useCallback } from "react";
+import MowGame from "./games/MowGame";
 
 // Station definitions
 const STATIONS: Record<string, { name: string; emoji: string; gameType: string; col: number; row: number }> = {
@@ -219,62 +220,49 @@ export default function SpelContent() {
         {/* Station proximity prompt */}
         {nearStation && currentStation && !activeGame && (
           <div className="absolute bottom-4 left-1/2 -translate-x-1/2 z-10 animate-bounce-in">
-            <div className="bg-white/95 rounded-xl px-6 py-3 shadow-lg border-2 border-green-600 animate-pulse-glow flex items-center gap-3">
+            <button
+              onClick={enterStation}
+              className="bg-white/95 rounded-xl px-6 py-3 shadow-lg border-2 border-green-600 animate-pulse-glow flex items-center gap-3 cursor-pointer hover:bg-green-50 transition-colors active:scale-95"
+            >
               <span className="text-2xl">{currentStation.emoji}</span>
-              <div>
+              <div className="text-left">
                 <div className="pixel-font text-xs text-green-800">{currentStation.name}</div>
-                <div className="text-xs text-green-600 mt-1">Druk SPATIE om te beginnen</div>
+                <div className="text-xs text-green-600 mt-1 font-bold">▶ Klik om te starten</div>
               </div>
-            </div>
+            </button>
           </div>
         )}
 
         {/* Mini-game overlay */}
         {activeGame && (
-          <div className="absolute inset-0 z-30 flex items-center justify-center" style={{ background: "rgba(0,0,0,0.5)" }}>
-            <div className="animate-slide-up bg-white rounded-2xl p-8 max-w-lg w-full mx-4 shadow-2xl border-4 border-green-600">
-              {gameResult === null ? (
-                <>
-                  <div className="text-center mb-6">
-                    <span className="text-4xl block mb-2">
-                      {STATIONS[nearStation!]?.emoji || "🌿"}
-                    </span>
-                    <h2 className="pixel-font text-lg text-green-800 mb-2">
-                      {STATIONS[nearStation!]?.name || "Mini-game"}
-                    </h2>
-                    <p className="text-sm text-gray-600">
-                      Binnenkort beschikbaar — dit wordt een {activeGame === "mow" ? "grasmaaier" : activeGame === "prune" ? "snoei" : activeGame === "wash" ? "hogedrukreiniger" : activeGame === "plant" ? "plant" : "bladblazer"} mini-game!
-                    </p>
-                  </div>
-
-                  <div className="flex gap-3 justify-center">
-                    <button
-                      onClick={() => exitGame("success")}
-                      className="pixel-font text-xs px-6 py-3 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors"
-                    >
-                      ✅ Voltooid (+50 🪙)
-                    </button>
-                    <button
-                      onClick={() => exitGame("fail")}
-                      className="pixel-font text-xs px-6 py-3 bg-red-500 text-white rounded-lg hover:bg-red-600 transition-colors"
-                    >
-                      ❌ Stoppen
-                    </button>
-                  </div>
-                </>
-              ) : gameResult === "success" ? (
-                <div className="text-center animate-bounce-in">
-                  <span className="text-5xl block mb-3">🎉</span>
-                  <div className="pixel-font text-lg text-green-600 mb-2">Gelukt!</div>
-                  <div className="pixel-font text-sm text-yellow-600">+50 🪙</div>
+          <div className="absolute inset-0 z-30 animate-slide-up" style={{ background: "rgba(0,0,0,0.6)" }}>
+            {activeGame === "mow" ? (
+              <MowGame
+                onComplete={(result) => {
+                  setCoins(c => c + result.coins);
+                  setTimeout(() => setActiveGame(null), 500);
+                }}
+                onExit={() => setActiveGame(null)}
+              />
+            ) : (
+              <div className="flex items-center justify-center h-full">
+                <div className="bg-white rounded-2xl p-8 max-w-lg w-full mx-4 shadow-2xl border-4 border-green-600 text-center">
+                  <span className="text-4xl block mb-2">
+                    {nearStation ? STATIONS[nearStation]?.emoji : "🌿"}
+                  </span>
+                  <h2 className="pixel-font text-lg text-green-800 mb-2">
+                    {nearStation ? STATIONS[nearStation]?.name : "Mini-game"}
+                  </h2>
+                  <p className="text-sm text-gray-600 mb-6">Binnenkort beschikbaar!</p>
+                  <button
+                    onClick={() => setActiveGame(null)}
+                    className="pixel-font text-xs px-6 py-3 bg-gray-500 text-white rounded-lg hover:bg-gray-600"
+                  >
+                    Terug naar tuin
+                  </button>
                 </div>
-              ) : (
-                <div className="text-center animate-bounce-in">
-                  <span className="text-5xl block mb-3">😅</span>
-                  <div className="pixel-font text-lg text-red-500">Volgende keer beter!</div>
-                </div>
-              )}
-            </div>
+              </div>
+            )}
           </div>
         )}
       </div>

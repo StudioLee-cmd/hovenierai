@@ -259,101 +259,108 @@ const LEVEL_DEFS: { name: string; template: string[]; moveLimit: number; timer: 
       moveLimit: 43,
       timer: 80,
     },
+    // ═══ PUZZLE LEVELS 12-16: Bridge corridors create fork decisions ═══
+    // Bridges between snake rows create crisscross paths where wrong
+    // choices at forks lead to dead ends. Real puzzle thinking required!
+    //
     // ── Level 12: De Engelse Tuin ──
-    // A proper English garden — precision required!
-    // 9x7 | 39 tiles | min 42 moves | 70s
+    // PUZZLE: One bridge corridor — first real routing decision
+    // 7x9 | 41 tiles | min 40 moves | 75s | 2 solutions, 16 traps
     {
       name: 'De Engelse Tuin',
       template: [
-        'SGGGGGG',
-        'FFFRRRG',
-        'GGGTGGG',
-        'GRRRFFF',
-        'GGDGGGG',
-        'FFFRRRG',
-        'GGGGTGG',
-        'GRRRFFF',
-        'GGGDGGG',
+        'SGGGGGGGG',
+        'RRRRRRRRG',
+        'GGGGGGGGG',
+        'GRRRGGRRR',
+        'GGGGGGGGG',
+        'RRRRRRRRG',
+        'GGGDGGGGG',
       ],
-      moveLimit: 46,
-      timer: 70,
+      moveLimit: 45,
+      timer: 75,
     },
     // ── Level 13: De Nachtshift ──
-    // Ultra thick grass needs 5 hits! Hurry!
-    // 9x8 | 44 tiles | min 51 moves | 80s
+    // PUZZLE: Two bridges at different positions + thick grass
+    // 9x9 | 53 tiles | min 54 moves | 80s | 4 solutions, 18 traps
     {
       name: 'De Nachtshift',
       template: [
-        'SGGGGGDG',
-        'FFRRRRRG',
-        'GGGTGGGG',
-        'GRRRRRFF',
-        'GGGGUGGG',
-        'FFRRRRRG',
-        'GGGGGTGG',
-        'GRRRRRFF',
-        'GGDGGGGG',
+        'SGGGGGGGG',
+        'RRRRRRRRG',
+        'GGGGTGGGG',
+        'GRRRGGRRR',
+        'GGGGGGGGG',
+        'RRRRRRRRG',
+        'GGGGGGGGG',
+        'GRRGGRRRR',
+        'GGGDGGGGG',
       ],
-      moveLimit: 55,
+      moveLimit: 59,
       timer: 80,
     },
     // ── Level 14: De Kasteel Tuin ──
-    // Castle garden — thick, ultra, snails, flowers!
-    // 9x8 | 44 tiles | min 55 moves | 90s
+    // PUZZLE: Bridge + ultra thick (5 hits) + snail
+    // 9x10 | 56 tiles | min 59 moves | 90s | 2 solutions, 19 traps
     {
       name: 'De Kasteel Tuin',
       template: [
-        'SGGGGGGG',
-        'FFFRRRRG',
-        'GNGGUGGG',
-        'GRRRRFFF',
-        'GGTGGGDG',
-        'FFFRRRRG',
-        'GGGUGGNG',
-        'GRRRRFFF',
-        'GDGGGTGG',
+        'SGGGGGGGGG',
+        'RRRRRRRRRG',
+        'GGGGGGGGGG',
+        'GRRRRGGRRR',
+        'GGGGUGGGGG',
+        'RRRRRRRRRG',
+        'GGGGGDGGGG',
+        'GRRRRRRRRR',
+        'GGGGNGGGGG',
       ],
-      moveLimit: 60,
+      moveLimit: 64,
       timer: 90,
     },
     // ── Level 15: De Meester Uitdaging ──
-    // 10-hit mega grass! Can you handle it?
-    // 9x9 | 49 tiles | min 69 moves | 100s
+    // PUZZLE: Two bridges + V (10-hit) + U (5-hit) thick
+    // 11x10 | 69 tiles | min 81 moves | 100s | 4 solutions, 28 traps
     {
       name: 'De Meester Uitdaging',
       template: [
-        'SGGGGNGGG',
-        'FFFFRRRRG',
-        'GGGUGGGTG',
-        'GRRRRFFFF',
-        'GGGGVGGDG',
-        'FFFFRRRRG',
-        'GGNGGUGGG',
-        'GRRRRFFFF',
-        'GGTGGGDGG',
+        'SGGGGGGGGG',
+        'RRRRRRRRRG',
+        'GGGGGGGGGG',
+        'GRRRGGRRRR',
+        'GGGGVGGGGG',
+        'RRRRRRRRRG',
+        'GGGGGGGGGG',
+        'GRRRRGGRRR',
+        'GGGUGGGGGG',
+        'RRRRRRRRRG',
+        'GGGGDGGGGG',
       ],
-      moveLimit: 73,
+      moveLimit: 86,
       timer: 100,
     },
     // ── Level 16: De Perfecte Tuin ──
-    // 100-click tile + ultra + thick — near impossible!
-    // 11x9 | 59 tiles | min 187 moves | 150s
+    // PUZZLE: Two bridges + W (100-click!) + V (10) + U (5) + T (3) + snail
+    // 13x11 | 87 tiles | min 200 moves | 150s | 4 solutions, 32 traps
+    // Near impossible: 100-click tile eats ~25s of timer!
     {
       name: 'De Perfecte Tuin',
       template: [
-        'SGGGNGGGD',
-        'FFFFFRRRG',
-        'GGGVGGGTG',
-        'GRRRFFFFF',
-        'GGGGWGGGN',
-        'FFFFFRRRG',
-        'GGUGDGTGG',
-        'GRRRFFFFF',
-        'GNGGGVGGG',
-        'FFFFFRRRG',
-        'GGGUGGDGG',
+        'SGGGGGGGGGG',
+        'RRRRRRRRRRG',
+        'GGGVGGGGGGG',
+        'GRRRRGGRRRR',
+        'GGGGWGGGGGG',
+        'RRRRRRRRRRG',
+        'GGGGGGDGGGG',
+        'GRRRGGRRRRR',
+        'GGGUGGGNGGG',
+        'RRRRRRRRRRG',
+        'GGGGGTGGGGG',
+        'GRRRRRRRRRR',
+        'GGGGDGGGGGG',
       ],
-      moveLimit: 192,
+      moveLimit: 205,
       timer: 150,
     },
 ];

@@ -4,9 +4,7 @@ import React, { useState, useEffect, useCallback, useRef } from 'react';
 
 // ─── TYPES ────────────────────────────────────────────────────────────────────
 
-type CellType = 'grass' | 'mowed' | 'rock' | 'flower' | 'gem' | 'snail' | 'start' | 'empty' | 'thick';
-
-type TemplateChar = string;
+type CellType = 'grass' | 'mowed' | 'rock' | 'flower' | 'gem' | 'snail' | 'start' | 'empty' | 'thick' | 'water' | 'end' | 'star';
 
 interface Cell {
   type: CellType;
@@ -57,6 +55,9 @@ function parseGrid(template: string[]): { grid: CellType[][]; startPos: Position
         case 'U': return 'thick'; // 5 hits
         case 'V': return 'thick'; // 10 hits
         case 'W': return 'thick'; // 100 hits
+        case '~': return 'water';
+        case 'E': return 'end';
+        case 'X': return 'star';
         case '.': return 'empty';
         default: return 'empty';
       }
@@ -318,50 +319,44 @@ const LEVEL_DEFS: { name: string; template: string[]; moveLimit: number; timer: 
       moveLimit: 64,
       timer: 90,
     },
+    // ═══ SPECIAL LEVELS 15-16: Different mechanic! ═══
+    // These levels have a START and END (🏁). Reach the end to win!
+    // You CAN walk on mowed tiles (free movement). Timer is the challenge.
+    // Stars: 1★ = reach end, 2★ = mow 75%+, 3★ = mow all + collect bonus ⭐
+    // Water features, wide layout, unique puzzle feel.
+    //
     // ── Level 15: De Meester Uitdaging ──
-    // PUZZLE: Two bridges + V (10-hit) + U (5-hit) thick
-    // 11x10 | 69 tiles | min 81 moves | 100s | 4 solutions, 28 traps
+    // WIDE 7x12, water ponds, V(10-hit), bonus star, reach the end!
     {
       name: 'De Meester Uitdaging',
       template: [
-        'SGGGGGGGGG',
-        'RRRRRRRRRG',
-        'GGGGGGGGGG',
-        'GRRRGGRRRR',
-        'GGGGVGGGGG',
-        'RRRRRRRRRG',
-        'GGGGGGGGGG',
-        'GRRRRGGRRR',
-        'GGGUGGGGGG',
-        'RRRRRRRRRG',
-        'GGGGDGGGGG',
+        'SGGGGGGGGGGG',
+        '~~RRRRRRRR~G',
+        'GGGGGGGGGGGG',
+        'GRRRRGGRRRRR',
+        'GGGGVGGGGXGG',
+        '~~RRRRRRRR~G',
+        'EGGDGGGGGGGG',
       ],
-      moveLimit: 86,
-      timer: 100,
+      moveLimit: 999,
+      timer: 90,
     },
     // ── Level 16: De Perfecte Tuin ──
-    // PUZZLE: Two bridges + W (100-click!) + V (10) + U (5) + T (3) + snail
-    // 13x11 | 87 tiles | min 200 moves | 150s | 4 solutions, 32 traps
-    // Near impossible: 100-click tile eats ~25s of timer!
+    // WIDE 7x12, water ponds, W(100-click!), snails, 2 bonus stars!
+    // The 100-click tile eats ~25s of your timer. Near impossible 3★!
     {
       name: 'De Perfecte Tuin',
       template: [
-        'SGGGGGGGGGG',
-        'RRRRRRRRRRG',
-        'GGGVGGGGGGG',
-        'GRRRRGGRRRR',
-        'GGGGWGGGGGG',
-        'RRRRRRRRRRG',
-        'GGGGGGDGGGG',
-        'GRRRGGRRRRR',
-        'GGGUGGGNGGG',
-        'RRRRRRRRRRG',
-        'GGGGGTGGGGG',
-        'GRRRRRRRRRR',
-        'GGGGDGGGGGG',
+        'SGGGGGGGDGGG',
+        '~RRR~~RRRR~G',
+        'GGGGGGGGGGGG',
+        'GRRRRGGRRRRR',
+        'GGWGGGGGGGGG',
+        '~RRR~~RRRR~G',
+        'XGGGNGGGDGXE',
       ],
-      moveLimit: 205,
-      timer: 150,
+      moveLimit: 999,
+      timer: 120,
     },
 ];
 
@@ -399,6 +394,9 @@ export default function MowGame({ onComplete, onExit }: MowGameProps) {
   const [gemsFound, setGemsFound] = useState(0);
   const [levelResult, setLevelResult] = useState<{ stars: number; coins: number } | null>(null);
   const [mowedAnimating, setMowedAnimating] = useState<string | null>(null); // "row-col"
+  const [hasEndTile, setHasEndTile] = useState(false); // Levels 15-16: reach the end to win
+  const [bonusStarsTotal, setBonusStarsTotal] = useState(0);
+  const [bonusStarsFound, setBonusStarsFound] = useState(0);
 
   const floatingKeyRef = useRef(0);
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
@@ -425,21 +423,24 @@ export default function MowGame({ onComplete, onExit }: MowGameProps) {
       })
     );
 
-    // Find snails
+    // Find snails, count tiles, detect end/star tiles
     const snailList: SnailState[] = [];
     let gTotal = 0;
     let gemTotal = 0;
+    let endTileFound = false;
+    let bStarsTotal = 0;
     for (let r = 0; r < newGrid.length; r++) {
       for (let c = 0; c < newGrid[r].length; c++) {
-        if (newGrid[r][c].type === 'snail') {
+        const t = newGrid[r][c].type;
+        if (t === 'snail') {
           snailList.push({ pos: { row: r, col: c }, turnsSinceMove: 0, alive: true });
-          // Snail sits on grass effectively
           gTotal++;
         }
-        if (newGrid[r][c].type === 'grass') gTotal++;
-        if (newGrid[r][c].type === 'gem') { gTotal++; gemTotal++; }
-        // flowers are NOT counted — they're optional (penalty if mowed)
-        if (newGrid[r][c].type === 'start') gTotal++; // start counts as "mowed" from the beginning
+        if (t === 'grass') gTotal++;
+        if (t === 'gem') { gTotal++; gemTotal++; }
+        if (t === 'start') gTotal++;
+        if (t === 'end') endTileFound = true; // end tile NOT counted as grass
+        if (t === 'star') { bStarsTotal++; } // stars NOT counted as required grass
       }
     }
 
@@ -463,6 +464,9 @@ export default function MowGame({ onComplete, onExit }: MowGameProps) {
     setGemsFound(0);
     setLevelResult(null);
     setMowedAnimating(null);
+    setHasEndTile(endTileFound);
+    setBonusStarsTotal(bStarsTotal);
+    setBonusStarsFound(0);
     setScreen('playing');
   }, []);
 
@@ -519,7 +523,7 @@ export default function MowGame({ onComplete, onExit }: MowGameProps) {
       const nc = pos.col + dc;
       if (nr >= 0 && nr < g.length && nc >= 0 && nc < g[0].length) {
         const t = g[nr][nc].type;
-        if (t === 'grass' || t === 'gem' || t === 'flower' || t === 'snail') {
+        if (t === 'grass' || t === 'gem' || t === 'flower' || t === 'snail' || t === 'end' || t === 'star') {
           return false;
         }
       }
@@ -579,8 +583,17 @@ export default function MowGame({ onComplete, onExit }: MowGameProps) {
 
     const targetCell = grid[newRow][newCol];
 
-    // Can't walk on rocks, mowed tiles, or empty tiles
-    if (targetCell.type === 'rock' || targetCell.type === 'mowed' || targetCell.type === 'empty') return;
+    // Can't walk on rocks, empty tiles, or water
+    if (targetCell.type === 'rock' || targetCell.type === 'empty' || targetCell.type === 'water') return;
+
+    // Mowed tiles: blocked in normal levels, but walkable in end-tile levels (free movement!)
+    if (targetCell.type === 'mowed') {
+      if (!hasEndTile) return; // Normal levels: can't walk on mowed
+      // End-tile levels: walk freely on mowed (costs a move but no mowing)
+      setPlayerPos({ row: newRow, col: newCol });
+      setMoveCount(moveCount + 1);
+      return;
+    }
 
     const newGrid = grid.map((row) => row.map((cell) => ({ ...cell })));
     let newCoins = coins;
@@ -649,6 +662,36 @@ export default function MowGame({ onComplete, onExit }: MowGameProps) {
         setFrozen(false);
         setFrozenMessage('');
       }, 3000);
+    } else if (targetCell.type === 'end') {
+      // Reached the finish! (levels 15-16)
+      newGrid[newRow][newCol] = { type: 'mowed', revealed: false };
+      // Trigger win immediately
+      const lvl = ALL_LEVELS[levelIndex];
+      const mowPct = grassTotal > 0 ? (newGrassMowed / grassTotal) : 1;
+      let stars = 1; // reached the end
+      if (mowPct >= 0.75) stars = 2;
+      if (newGrassMowed >= grassTotal && bonusStarsFound >= bonusStarsTotal) stars = 3;
+      const levelCoins = newCoins + 50 + (stars - 1) * 25;
+      setCoins(levelCoins);
+      setPlayerPos({ row: newRow, col: newCol });
+      setMoveCount(newMoveCount);
+      setGrid(newGrid);
+      setGrassMowed(newGrassMowed);
+      setLevelResult({ stars, coins: levelCoins });
+      setCompletedLevels((prev) => ({ ...prev, [levelIndex]: Math.max(prev[levelIndex] || 0, stars) }));
+      if (timerRef.current) clearInterval(timerRef.current);
+      setScreen('levelComplete');
+      return;
+    } else if (targetCell.type === 'star') {
+      // Bonus star collected! (optional, hard to reach)
+      newGrid[newRow][newCol] = { type: 'mowed', revealed: true };
+      newCoins += 50;
+      setBonusStarsFound((prev) => prev + 1);
+      setSparklePos({ row: newRow, col: newCol });
+      setTimeout(() => setSparklePos(null), 800);
+      floatingKeyRef.current++;
+      setFloatingText({ pos: { row: newRow, col: newCol }, text: '⭐+50', key: floatingKeyRef.current });
+      setTimeout(() => setFloatingText(null), 1000);
     }
 
     // Build current snails state (mark stepped-on snail as dead)
@@ -669,17 +712,20 @@ export default function MowGame({ onComplete, onExit }: MowGameProps) {
     setGemsFound(newGemsFound);
     setSnails(newSnails);
 
-    // Check win
-    checkWin(gridAfterSnails, newGrassMowed, grassTotal, newMoveCount, newGemsFound, gemsTotal, newCoins);
+    // Check win (for non-end-tile levels)
+    if (!hasEndTile) {
+      checkWin(gridAfterSnails, newGrassMowed, grassTotal, newMoveCount, newGemsFound, gemsTotal, newCoins);
+    }
 
-    // Check if stuck (after a short delay to let state settle)
-    if (newGrassMowed < grassTotal && isStuck(gridAfterSnails, { row: newRow, col: newCol })) {
+    // Check if stuck (only for non-end-tile levels — end-tile levels don't trap you)
+    const stuck = !hasEndTile && newGrassMowed < grassTotal && isStuck(gridAfterSnails, { row: newRow, col: newCol });
+    if (stuck) {
       setTimeout(() => {
         setScreen('gameOver');
         if (timerRef.current) clearInterval(timerRef.current);
       }, 300);
     }
-  }, [screen, frozen, playerPos, grid, coins, grassMowed, gemsFound, moveCount, grassTotal, gemsTotal, checkWin, moveSnails, isStuck]);
+  }, [screen, frozen, playerPos, grid, coins, grassMowed, gemsFound, moveCount, grassTotal, gemsTotal, checkWin, moveSnails, isStuck, hasEndTile, bonusStarsFound, bonusStarsTotal, levelIndex, snails]);
 
   // ── Keyboard controls ──────────────────────────────────────────────────────
   useEffect(() => {
@@ -751,6 +797,9 @@ export default function MowGame({ onComplete, onExit }: MowGameProps) {
       case 'flower': return <span className="text-lg sm:text-xl select-none animate-sway">🌺</span>;
       case 'gem': return null; // Hidden — looks like grass
       case 'snail': return <span className="text-lg sm:text-xl select-none animate-bob">🐌</span>;
+      case 'water': return <span className="text-sm sm:text-base select-none opacity-60 animate-bob">🌊</span>;
+      case 'end': return <span className="text-lg sm:text-xl select-none animate-pulse">🏁</span>;
+      case 'star': return <span className="text-lg sm:text-xl select-none animate-sway">⭐</span>;
       case 'mowed':
         if (cell.revealed) return <span className="text-lg sm:text-xl select-none">💎</span>;
         return null;
@@ -789,8 +838,14 @@ export default function MowGame({ onComplete, onExit }: MowGameProps) {
         return `${isAnimating ? 'bg-yellow-300 scale-95' : 'bg-amber-200'} border-amber-300`;
       case 'rock':
         return 'bg-stone-400 border-stone-500';
+      case 'water':
+        return 'bg-blue-400 border-blue-500';
       case 'flower':
         return 'bg-green-300 border-green-400';
+      case 'end':
+        return 'bg-yellow-400 hover:bg-yellow-300 border-yellow-500 shadow-inner shadow-yellow-300/50';
+      case 'star':
+        return 'bg-amber-300 hover:bg-amber-200 border-amber-400';
       case 'empty':
         return 'bg-stone-200 border-stone-300';
       default:
@@ -1097,16 +1152,23 @@ export default function MowGame({ onComplete, onExit }: MowGameProps) {
             <span className={`font-mono font-bold ${timeLeft <= 10 ? 'text-red-400 animate-pulse' : 'text-green-200'}`}>
               ⏱ {timeLeft}s
             </span>
-            <span className="text-green-200">
-              🦶 {moveCount}/{currentLevel.moveLimit}
-              {moveCount > currentLevel.moveLimit && <span className="text-red-400 ml-1">(over!)</span>}
-            </span>
+            {!hasEndTile && (
+              <span className="text-green-200">
+                🦶 {moveCount}/{currentLevel.moveLimit}
+                {moveCount > currentLevel.moveLimit && <span className="text-red-400 ml-1">(over!)</span>}
+              </span>
+            )}
             <span className="text-yellow-300 font-bold">
               🪙 {coins}
             </span>
             <span className="text-green-200">
               🟢 {grassMowed}/{grassTotal}
             </span>
+            {hasEndTile && bonusStarsTotal > 0 && (
+              <span className="text-amber-300">
+                ⭐ {bonusStarsFound}/{bonusStarsTotal}
+              </span>
+            )}
           </div>
         </div>
       </div>
@@ -1139,7 +1201,7 @@ export default function MowGame({ onComplete, onExit }: MowGameProps) {
               const isSparkle = sparklePos && sparklePos.row === r && sparklePos.col === c;
               const isFloating = floatingText && floatingText.pos.row === r && floatingText.pos.col === c;
               const isMowAnim = mowedAnimating === `${r}-${c}`;
-              const canStep = cell.type !== 'rock' && cell.type !== 'mowed' && cell.type !== 'empty';
+              const canStep = cell.type !== 'rock' && cell.type !== 'empty' && cell.type !== 'water' && (cell.type !== 'mowed' || hasEndTile);
 
               return (
                 <div

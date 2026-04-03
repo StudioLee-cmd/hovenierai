@@ -65,7 +65,7 @@ export default function SpelContent() {
           pathFindingType: TRAVISO.PF_ALGORITHMS.ASTAR_ORTHOGONAL,
           followCharacter: true,
           instantCameraRelocation: false,
-          highlightPath: false,
+          highlightPath: true,
           highlightTargetTile: true,
           tileHighlightAnimated: true,
           dontAutoMoveToTile: false,

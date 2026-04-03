@@ -59,6 +59,30 @@ export default function SpelContent() {
     }, 1500);
   }, []);
 
+  // Fullscreen management for mini-games
+  const gameOverlayRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (!activeGame) {
+      // Exit fullscreen when game closes
+      if (document.fullscreenElement) {
+        document.exitFullscreen().catch(() => {});
+      }
+      // Unlock orientation
+      try { (screen.orientation as any)?.unlock?.(); } catch {}
+      return;
+    }
+    // Enter fullscreen when game starts
+    const el = gameOverlayRef.current || document.documentElement;
+    if (!document.fullscreenElement && el.requestFullscreen) {
+      el.requestFullscreen().catch(() => {}); // Silently fail if blocked
+    }
+    // Request landscape on mobile
+    try {
+      (screen.orientation as any)?.lock?.('landscape').catch(() => {});
+    } catch {}
+  }, [activeGame]);
+
   // Keyboard handler
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
@@ -237,9 +261,13 @@ export default function SpelContent() {
           </div>
         )}
 
-        {/* Mini-game overlay */}
+        {/* Mini-game overlay — goes fullscreen + landscape on mobile */}
         {activeGame && (
-          <div className="absolute inset-0 z-30 animate-slide-up" style={{ background: "rgba(0,0,0,0.6)" }}>
+          <div
+            ref={gameOverlayRef}
+            className="fixed inset-0 z-[100] animate-slide-up"
+            style={{ background: "rgba(0,0,0,0.95)" }}
+          >
             {activeGame === "mow" ? (
               <MowGame
                 onComplete={(result) => {

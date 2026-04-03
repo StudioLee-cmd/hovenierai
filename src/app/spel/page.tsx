@@ -3,13 +3,13 @@ import { siteDetails } from "@/data/siteDetails";
 import SpelContent from "./SpelContent";
 
 export const metadata: Metadata = {
-  title: `HovenierAI Wereld - Hovenier Simulatie | ${siteDetails.siteName}`,
+  title: `TuinBaas - Hovenier Simulatie | ${siteDetails.siteName}`,
   description:
-    "Bouw je hoveniersbedrijf op in deze isometrische pixelwereld! Maai gazons, snoei hagen en onderhoud tuinen. Een retro pixel-art simulatiegame van HovenierAI.",
+    "Bouw je hoveniersbedrijf op in deze isometrische pixelwereld! Maai gazons, snoei heggen en verdien munten. Een retro pixel-art simulatiegame van HovenierAI.",
   openGraph: {
-    title: `HovenierAI Wereld - Hovenier Simulatie | ${siteDetails.siteName}`,
+    title: `TuinBaas - Hovenier Simulatie | ${siteDetails.siteName}`,
     description:
-      "Bouw je hoveniersbedrijf op in deze isometrische pixelwereld! Maai gazons, snoei hagen en onderhoud tuinen.",
+      "Bouw je hoveniersbedrijf op in deze isometrische pixelwereld! Maai gazons, snoei heggen en verdien munten.",
     url: `${siteDetails.siteUrl}spel`,
     type: "website",
     locale: "nl_NL",

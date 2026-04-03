@@ -2,6 +2,10 @@
 
 import React, { useEffect, useRef, useState, useCallback } from "react";
 import MowGame from "./games/MowGame";
+import PruneGame from "./games/PruneGame";
+import WashGame from "./games/WashGame";
+import PlantGame from "./games/PlantGame";
+import LeafGame from "./games/LeafGame";
 
 // Station definitions
 const STATIONS: Record<string, { name: string; emoji: string; gameType: string; col: number; row: number }> = {
@@ -244,25 +248,39 @@ export default function SpelContent() {
                 }}
                 onExit={() => setActiveGame(null)}
               />
-            ) : (
-              <div className="flex items-center justify-center h-full">
-                <div className="bg-white rounded-2xl p-8 max-w-lg w-full mx-4 shadow-2xl border-4 border-green-600 text-center">
-                  <span className="text-4xl block mb-2">
-                    {nearStation ? STATIONS[nearStation]?.emoji : "🌿"}
-                  </span>
-                  <h2 className="pixel-font text-lg text-green-800 mb-2">
-                    {nearStation ? STATIONS[nearStation]?.name : "Mini-game"}
-                  </h2>
-                  <p className="text-sm text-gray-600 mb-6">Binnenkort beschikbaar!</p>
-                  <button
-                    onClick={() => setActiveGame(null)}
-                    className="pixel-font text-xs px-6 py-3 bg-gray-500 text-white rounded-lg hover:bg-gray-600"
-                  >
-                    Terug naar tuin
-                  </button>
-                </div>
-              </div>
-            )}
+            ) : activeGame === "prune" ? (
+              <PruneGame
+                onComplete={(result) => {
+                  setCoins(c => c + result.coins);
+                  setTimeout(() => setActiveGame(null), 500);
+                }}
+                onExit={() => setActiveGame(null)}
+              />
+            ) : activeGame === "wash" ? (
+              <WashGame
+                onComplete={(result) => {
+                  setCoins(c => c + result.coins);
+                  setTimeout(() => setActiveGame(null), 500);
+                }}
+                onExit={() => setActiveGame(null)}
+              />
+            ) : activeGame === "plant" ? (
+              <PlantGame
+                onComplete={(result) => {
+                  setCoins(c => c + result.coins);
+                  setTimeout(() => setActiveGame(null), 500);
+                }}
+                onExit={() => setActiveGame(null)}
+              />
+            ) : activeGame === "leaf" ? (
+              <LeafGame
+                onComplete={(result) => {
+                  setCoins(c => c + result.coins);
+                  setTimeout(() => setActiveGame(null), 500);
+                }}
+                onExit={() => setActiveGame(null)}
+              />
+            ) : null}
           </div>
         )}
       </div>

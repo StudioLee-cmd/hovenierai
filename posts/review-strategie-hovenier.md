@@ -21,7 +21,7 @@ Bij tuinprojecten zijn er meerdere goede momenten:
 - **Na het eerste seizoen** — de planten bloeien, de tuin leeft
 - **Na een goed seizoensonderhoud** — alles ziet er verzorgd uit
 
-Het allereerste moment is het krachtigst. Stuur op de dag van oplevering een WhatsApp met een foto van het eindresultaat en een review-link: "Uw nieuwe tuin is klaar! Bent u tevreden? We horen het graag. [link]"
+Het allereerste moment is het krachtigst. Stuur op de dag van oplevering een WhatsApp met een foto van het eindresultaat en een [review-link](/reviews): "Uw nieuwe tuin is klaar! Bent u tevreden? We horen het graag. [link]"
 
 ## Foto's als review-booster
 

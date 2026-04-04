@@ -55,7 +55,7 @@ Hoveniers die hun opvolging structureren, rapporteren:
 
 Handmatig elke lead opvolgen is haalbaar bij 5 aanvragen per week. Maar in het seizoen kunnen dat er 20-30 worden. Dan helpt automatisering: een systeem dat na elke aanvraag een bevestiging stuurt, na de offerte opvolgberichten plant en jou herinnert wie je nog moet bellen.
 
-Met een managed service als [StudioLee](/tarieven) wordt dit volledig ingericht. Van een [24/7 chatbot](/chatbot) die aanvragen opvangt tot automatische opvolgsequenties en [review-verzoeken](/reviews) na de klus.
+Met een managed service als [StudioLee](/tarieven) wordt dit volledig ingericht. Van een [24/7 chatbot](/chatbot) die aanvragen opvangt tot automatische opvolgsequenties en [review-verzoeken](/reviews) na de klus. Jij besteedt er maar 15 minuten per maand aan — de rest wordt volledig geregeld. Met de Groei-of-Geld-Terug Garantie loop je geen risico: geen meetbare groei? Geld terug.
 
 ## Veelgestelde vragen
 

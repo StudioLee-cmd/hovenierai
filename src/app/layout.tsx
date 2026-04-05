@@ -10,6 +10,7 @@ import { siteDetails } from '@/data/siteDetails';
 import { Analytics } from "@vercel/analytics/next"
 
 import "./globals.css";
+import Script from 'next/script';
 
 const manrope = Manrope({ subsets: ['latin'] });
 const sourceSans = Source_Sans_3({ subsets: ['latin'] });
@@ -64,6 +65,12 @@ export default function RootLayout({
           <Footer />
           <Analytics />
         </ThemeProvider>
+          <Script
+            src="https://widgets.leadconnectorhq.com/loader.js"
+            data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"
+            data-widget-id="69c4ef18d9121c5778d93245"
+            strategy="lazyOnload"
+          />
       </body>
     </html>
   );

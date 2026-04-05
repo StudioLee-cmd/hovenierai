@@ -51,6 +51,16 @@ Voeg 2-3 relevante projectfoto's toe aan elke offerte. "Hier is een vergelijkbaa
 - Fotografeer ook details: bloemen, bestrating, verlichting
 - Vraag toestemming aan de klant voor het delen van foto's
 
+
+
+## Automatiseren: zo doe je het zonder extra moeite
+
+Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als hovenier.
+
+Een [gratis scan](/gratis-scan) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [social media](/social-media) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [SEO](/seo) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+
 ## Conclusie
 
 Je portfolio is je stille verkoper. Investeer 5 minuten per project in goede foto's en een korte beschrijving, en je hebt marketingmateriaal dat jarenlang klanten binnenhaalt.

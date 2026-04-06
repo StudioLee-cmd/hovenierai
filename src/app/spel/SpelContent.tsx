@@ -229,6 +229,25 @@ export default function SpelContent() {
         .animate-bounce-in { animation: bounce-in 0.4s ease-out; }
         .animate-slide-up { animation: slide-up 0.5s cubic-bezier(0.34, 1.56, 0.64, 1); }
         .animate-pulse-glow { animation: pulse-glow 2s ease-in-out infinite; }
+
+        /* Mobile fullscreen fix */
+        .game-overlay {
+          position: fixed;
+          top: 0; left: 0; right: 0; bottom: 0;
+          width: 100vw;
+          height: 100vh;
+          height: 100dvh;
+          overflow: hidden;
+          z-index: 100;
+          background: rgba(0,0,0,0.95);
+        }
+        .game-overlay > div {
+          max-height: 100vh;
+          max-height: 100dvh;
+          overflow-y: auto;
+          -webkit-overflow-scrolling: touch;
+        }
+
       `}</style>
 
       <h1 className="pixel-font text-xl md:text-2xl text-green-800 mb-2 text-center">
@@ -289,8 +308,7 @@ export default function SpelContent() {
         {activeGame && (
           <div
             ref={gameOverlayRef}
-            className="fixed inset-0 z-[100] animate-slide-up"
-            style={{ background: "rgba(0,0,0,0.95)" }}
+            className="game-overlay animate-slide-up"
           >
             {/* Universal quit button — always visible on top of any game */}
             <button

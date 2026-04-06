@@ -320,7 +320,7 @@ export default function LeafGame({ onComplete, onExit }: LeafGameProps) {
   // -- MENU SCREEN --
   if (gameState === 'menu') {
     return (
-      <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-b from-amber-600 via-orange-500 to-amber-800 p-4 text-white">
+      <div className="flex flex-col items-center justify-center h-[100dvh] overflow-hidden bg-gradient-to-b from-amber-600 via-orange-500 to-amber-800 p-4 text-white">
         <style>{gameStyles}</style>
         <div className="text-center max-w-md">
           <div className="text-7xl mb-4 leaf-fall-anim">{'\uD83C\uDF42'}</div>
@@ -367,7 +367,7 @@ export default function LeafGame({ onComplete, onExit }: LeafGameProps) {
   // -- RESULTS SCREEN --
   if (gameState === 'results') {
     return (
-      <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-b from-amber-600 via-orange-500 to-amber-800 p-4 text-white">
+      <div className="flex flex-col items-center justify-center h-[100dvh] overflow-hidden bg-gradient-to-b from-amber-600 via-orange-500 to-amber-800 p-4 text-white">
         <style>{gameStyles}</style>
         <div className="text-center max-w-sm">
           <div className="text-6xl mb-3">{success ? '\uD83C\uDF89' : '\uD83C\uDF42'}</div>
@@ -422,7 +422,7 @@ export default function LeafGame({ onComplete, onExit }: LeafGameProps) {
 
   // -- PLAYING SCREEN --
   return (
-    <div className="flex flex-col min-h-screen bg-gradient-to-b from-amber-600 via-orange-500 to-amber-800 select-none overflow-hidden">
+    <div className="flex flex-col h-[100dvh] overflow-hidden bg-gradient-to-b from-amber-600 via-orange-500 to-amber-800 select-none overflow-hidden">
       <style>{gameStyles}</style>
 
       {/* HUD */}

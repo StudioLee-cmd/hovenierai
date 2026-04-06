@@ -222,7 +222,7 @@ export default function PlantGame({ onComplete, onExit }: PlantGameProps) {
     return (
       <>
         <style>{gameStyles}</style>
-        <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-b from-green-800 via-green-900 to-amber-900 p-4">
+        <div className="h-[100dvh] overflow-hidden flex flex-col items-center justify-center bg-gradient-to-b from-green-800 via-green-900 to-amber-900 p-4">
           <div className="max-w-sm w-full bg-white/10 backdrop-blur-sm rounded-3xl p-8 text-center border border-green-600/30">
             <div className="text-7xl mb-4 animate-bounce-slow">🌱</div>
             <h1 className="text-3xl font-extrabold text-green-100 mb-2">Plant het Juist</h1>
@@ -260,7 +260,7 @@ export default function PlantGame({ onComplete, onExit }: PlantGameProps) {
     return (
       <>
         <style>{gameStyles}</style>
-        <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-b from-green-800 via-green-900 to-amber-900 p-4">
+        <div className="h-[100dvh] overflow-hidden flex flex-col items-center justify-center bg-gradient-to-b from-green-800 via-green-900 to-amber-900 p-4">
           <div className="max-w-sm w-full bg-white/10 backdrop-blur-sm rounded-3xl p-8 text-center border border-green-600/30">
             <div className="text-6xl mb-3">{success ? '🌻' : '🥀'}</div>
             <h2 className="text-2xl font-extrabold text-green-100 mb-2">
@@ -317,7 +317,7 @@ export default function PlantGame({ onComplete, onExit }: PlantGameProps) {
     <>
       <style>{gameStyles}</style>
       <div
-        className={`min-h-screen flex flex-col bg-gradient-to-b from-green-800 via-amber-900 to-amber-950 relative overflow-hidden select-none ${
+        className={`h-[100dvh] overflow-hidden flex flex-col bg-gradient-to-b from-green-800 via-amber-900 to-amber-950 relative overflow-hidden select-none ${
           missFlash ? 'miss-flash' : ''
         }`}
       >

@@ -860,7 +860,7 @@ export default function MowGame({ onComplete, onExit }: MowGameProps) {
   // ── RENDER: Level Select Menu ──────────────────────────────────────────────
   if (screen === 'menu') {
     return (
-      <div className="min-h-screen bg-gradient-to-b from-green-800 to-green-950 p-4 flex flex-col items-center">
+      <div className="h-[100dvh] overflow-hidden bg-gradient-to-b from-green-800 to-green-950 p-4 flex flex-col items-center">
         {/* CSS Animations */}
         <style dangerouslySetInnerHTML={{ __html: `
           @keyframes sway { 0%,100% { transform: rotate(-5deg); } 50% { transform: rotate(5deg); } }
@@ -943,7 +943,7 @@ export default function MowGame({ onComplete, onExit }: MowGameProps) {
   // ── RENDER: Level Complete ─────────────────────────────────────────────────
   if (screen === 'levelComplete' && levelResult) {
     return (
-      <div className="min-h-screen bg-gradient-to-b from-green-800 to-green-950 p-4 flex flex-col items-center justify-center">
+      <div className="h-[100dvh] overflow-hidden bg-gradient-to-b from-green-800 to-green-950 p-4 flex flex-col items-center justify-center">
         <style dangerouslySetInnerHTML={{ __html: `
           @keyframes celebrateBounce {
             0%, 100% { transform: scale(1); }
@@ -1026,7 +1026,7 @@ export default function MowGame({ onComplete, onExit }: MowGameProps) {
   if (screen === 'gameOver') {
     const ranOutOfTime = timeLeft <= 0;
     return (
-      <div className="min-h-screen bg-gradient-to-b from-red-900 to-stone-950 p-4 flex flex-col items-center justify-center">
+      <div className="h-[100dvh] overflow-hidden bg-gradient-to-b from-red-900 to-stone-950 p-4 flex flex-col items-center justify-center">
         <div className="bg-red-950/80 rounded-2xl p-6 sm:p-8 max-w-sm w-full text-center shadow-2xl border border-red-700">
           <div className="text-5xl mb-4">😵</div>
           <h2 className="text-2xl sm:text-3xl font-bold text-white mb-2">
@@ -1073,7 +1073,7 @@ export default function MowGame({ onComplete, onExit }: MowGameProps) {
       ref={gameContainerRef}
       tabIndex={0}
       className={`
-        min-h-screen bg-gradient-to-b from-green-800 to-green-950 p-2 sm:p-4 flex flex-col items-center outline-none
+        h-[100dvh] overflow-hidden bg-gradient-to-b from-green-800 to-green-950 p-2 sm:p-4 flex flex-col items-center outline-none
         ${shaking ? 'animate-shake' : ''}
       `}
     >

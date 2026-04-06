@@ -297,7 +297,7 @@ export default function WashGame({ onComplete, onExit }: WashGameProps) {
   // --- MENU SCREEN ---
   if (gameState === 'menu') {
     return (
-      <div className="min-h-screen bg-gradient-to-b from-blue-400 via-blue-500 to-gray-600 flex flex-col items-center justify-center p-4">
+      <div className="h-[100dvh] overflow-hidden bg-gradient-to-b from-blue-400 via-blue-500 to-gray-600 flex flex-col items-center justify-center p-4">
         <style>{`
           @keyframes drip {
             0%, 100% { transform: translateY(0); opacity: 1; }
@@ -349,7 +349,7 @@ export default function WashGame({ onComplete, onExit }: WashGameProps) {
   if (gameState === 'results') {
     const result = getResultData();
     return (
-      <div className="min-h-screen bg-gradient-to-b from-blue-400 via-blue-500 to-gray-600 flex flex-col items-center justify-center p-4">
+      <div className="h-[100dvh] overflow-hidden bg-gradient-to-b from-blue-400 via-blue-500 to-gray-600 flex flex-col items-center justify-center p-4">
         <style>{`
           @keyframes pop-in {
             0% { transform: scale(0); opacity: 0; }
@@ -421,7 +421,7 @@ export default function WashGame({ onComplete, onExit }: WashGameProps) {
 
   return (
     <div
-      className="min-h-screen bg-gradient-to-b from-blue-400 via-blue-500 to-gray-600 flex flex-col items-center select-none"
+      className="h-[100dvh] overflow-hidden bg-gradient-to-b from-blue-400 via-blue-500 to-gray-600 flex flex-col items-center select-none"
       onPointerUp={handlePointerUp}
       onPointerCancel={handlePointerUp}
       onPointerLeave={handlePointerUp}

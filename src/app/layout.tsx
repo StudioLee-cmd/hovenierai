@@ -71,4 +71,4 @@ export default function RootLayout({
     </html>
   );
 }
-// cookie-banner v3
+// cookie-banner v4

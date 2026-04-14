@@ -71,6 +71,11 @@ export default function RootLayout({
             data-widget-id="69c4ef18d9121c5778d93245"
             strategy="lazyOnload"
           />
+          <Script
+            src="/cookie-banner.js"
+            data-widget-id="69c4ef18d9121c5778d93245"
+            strategy="afterInteractive"
+          />
       </body>
     </html>
   );

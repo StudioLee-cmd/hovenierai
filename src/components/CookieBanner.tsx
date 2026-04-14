@@ -1,29 +1,30 @@
 "use client";
 import { useState, useEffect } from "react";
 
+function loadHighLevel(widgetId: string) {
+  if (!widgetId) return;
+  if (typeof document === "undefined") return;
+  const existing = document.querySelector('script[src*="leadconnectorhq"]');
+  if (existing) return;
+  const s = document.createElement("script");
+  s.src = "https://widgets.leadconnectorhq.com/loader.js";
+  s.setAttribute("data-resources-url", "https://widgets.leadconnectorhq.com/chat-widget/loader.js");
+  s.setAttribute("data-widget-id", widgetId);
+  document.body.appendChild(s);
+}
+
 export default function CookieBanner({ widgetId }: { widgetId: string }) {
   const [show, setShow] = useState(false);
 
   useEffect(() => {
     const consent = localStorage.getItem("cookie_consent");
     if (consent === "accepted") {
-      loadHL(widgetId);
+      loadHighLevel(widgetId);
       return;
     }
     if (consent === "declined") return;
     setShow(true);
   }, [widgetId]);
-
-  function accept() {
-    localStorage.setItem("cookie_consent", "accepted");
-    setShow(false);
-    loadHL(widgetId);
-  }
-
-  function decline() {
-    localStorage.setItem("cookie_consent", "declined");
-    setShow(false);
-  }
 
   if (!show) return null;
 
@@ -36,20 +37,11 @@ export default function CookieBanner({ widgetId }: { widgetId: string }) {
           <a href="/privacy" style={{color:"#C1FF72",textDecoration:"underline"}}>privacybeleid</a>.
         </p>
         <div style={{display:"flex",gap:"8px",flexShrink:0}}>
-          <button onClick={decline} style={{background:"transparent",color:"rgba(255,255,255,0.5)",border:"1px solid rgba(255,255,255,0.15)",padding:"8px 16px",borderRadius:"100px",fontSize:"13px",cursor:"pointer"}}>Weigeren</button>
-          <button onClick={accept} style={{background:"#C1FF72",color:"#0a0a0f",border:"none",padding:"8px 20px",borderRadius:"100px",fontSize:"13px",fontWeight:700,cursor:"pointer"}}>Accepteren</button>
+          <button onClick={() => { localStorage.setItem("cookie_consent","declined"); setShow(false); }} style={{background:"transparent",color:"rgba(255,255,255,0.5)",border:"1px solid rgba(255,255,255,0.15)",padding:"8px 16px",borderRadius:"100px",fontSize:"13px",cursor:"pointer"}}>Weigeren</button>
+          <button onClick={() => { localStorage.setItem("cookie_consent","accepted"); setShow(false); loadHighLevel(widgetId); }} style={{background:"#C1FF72",color:"#0a0a0f",border:"none",padding:"8px 20px",borderRadius:"100px",fontSize:"13px",fontWeight:700,cursor:"pointer"}}>Accepteren</button>
         </div>
       </div>
-      <style>{`@keyframes ckspin{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}@media(max-width:600px){div>div>div:last-child{width:100%;display:flex}div>div>div:last-child button{flex:1}}`}</style>
+      <style>{`@keyframes ckspin{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}`}</style>
     </div>
   );
-}
-
-function loadHL(widgetId: string) {
-  if (!widgetId || document.querySelector("script[src*=\'leadconnectorhq\']")) return;
-  const s = document.createElement("script");
-  s.src = "https://widgets.leadconnectorhq.com/loader.js";
-  s.setAttribute("data-resources-url", "https://widgets.leadconnectorhq.com/chat-widget/loader.js");
-  s.setAttribute("data-widget-id", widgetId);
-  document.head.appendChild(s);
 }

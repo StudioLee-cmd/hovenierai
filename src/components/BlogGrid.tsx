@@ -31,6 +31,12 @@ interface BlogGridProps {
     clusters: ClusterInfo[];
 }
 
+function getSupportImage(heroImage: string): string {
+    const lastDot = heroImage.lastIndexOf(".");
+    if (lastDot === -1) return heroImage + "-2";
+    return heroImage.substring(0, lastDot) + "-2" + heroImage.substring(lastDot);
+}
+
 export default function BlogGrid({ posts, clusters }: BlogGridProps) {
     const [activeCluster, setActiveCluster] = useState<string>("all");
 
@@ -73,7 +79,7 @@ export default function BlogGrid({ posts, clusters }: BlogGridProps) {
                 {filteredPosts.map((post) => (
                     <div
                         key={post.slug}
-                        className="group flex flex-col h-full border border-[var(--card-border)] bg-[var(--card-background)] rounded-2xl overflow-hidden hover:shadow-lg transition-shadow duration-300"
+                        className="group flex flex-col h-full border border-[var(--card-border)] bg-[var(--card-background)] rounded-2xl overflow-hidden hover:shadow-lg hover:-translate-y-1 transition-all duration-300"
                     >
                         <Link
                             href={`/blog/${post.slug}`}
@@ -84,6 +90,14 @@ export default function BlogGrid({ posts, clusters }: BlogGridProps) {
                                 alt={post.title}
                                 fill
                                 className="object-cover transition-transform duration-300 group-hover:scale-105"
+                            />
+                            {/* Supporting image: crossfades in on hover */}
+                            <img
+                                src={getSupportImage(post.image)}
+                                alt={post.title}
+                                loading="lazy"
+                                className="absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-300 group-hover:opacity-100"
+                                onError={(e) => { (e.target as HTMLImageElement).style.display = "none"; }}
                             />
                         </Link>
                         <div className="flex flex-col flex-grow p-6">

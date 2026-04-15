@@ -89,7 +89,7 @@ const itemVariants = {
 import Cubes from "../Cubes";
 
 const Pricing: React.FC = () => {
-    const [isAnnual, setIsAnnual] = useState(true);
+    const [isAnnual, setIsAnnual] = useState(false);
     const [isModalOpen, setIsModalOpen] = useState(false);
     const [isOptionsModalOpen, setIsOptionsModalOpen] = useState(false);
     const [selectedOptionTier, setSelectedOptionTier] = useState<IPricing | null>(null);

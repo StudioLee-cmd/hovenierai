@@ -21,19 +21,21 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTria
     const calculatePrice = () => {
         const numericBase = typeof basePrice === 'number' ? basePrice : parseInt(basePrice as string);
 
-        // If it's not annual and we have a specific monthly price, use that
-        if (!isAnnual && priceMonthly) {
-            return `€ ${priceMonthly},-`;
+        if (isNaN(numericBase)) {
+            // Non-numeric price (e.g. "Op maat")
+            return String(basePrice);
         }
 
-        // Fallback for logic where monthly adds surcharge (if no explicit monthly price)
-        const monthlySurcharge = isAnnual ? 0 : 50;
-        const currentBase = isAnnual ? numericBase : (priceMonthly || numericBase + monthlySurcharge);
+        if (isAnnual) {
+            // Eenmalige afkoop: only for Basis
+            if (name === 'Managed Groei Basis') {
+                return `€ ${numericBase * 12},-`;
+            }
+            return 'Neem contact op';
+        }
 
-        // Slider logic (only if hasSlider is true, which is not the case for new tiers yet but kept for safety)
-        if (!hasSlider) return `€ ${currentBase},-`;
-        // ... slider logic would go here if needed ...
-        return `€ ${currentBase},-`;
+        // Monthly: show base price
+        return `€ ${numericBase},-`;
     };
 
     const currentPrice = calculatePrice();
@@ -55,19 +57,20 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTria
                         {pricePrefix && <span className="text-xl mr-2">{pricePrefix}</span>}
                         {currentPrice}
                     </span>
-                    <span className="text-lg font-normal text-[var(--foreground-accent)]"> p/m</span>
+                    {!(isAnnual) && <span className="text-lg font-normal text-[var(--foreground-accent)]"> p/m</span>}
+                    {isAnnual && name === 'Managed Groei Basis' && <span className="text-lg font-normal text-[var(--foreground-accent)]"> eenmalig</span>}
                     <span className="text-xs font-normal text-[var(--foreground-accent)] opacity-75 ml-1">
-                        ({name === 'Basic' ? 'Incl BTW' : 'Excl BTW'})
+                        ({name === 'Managed Groei Basis' ? 'Incl BTW' : 'Excl BTW'})
                     </span>
                 </p>
                 <div className="mb-6 h-6">
                     {isAnnual ? (
                         <span className="text-xs font-semibold text-green-600 bg-green-50 px-2 py-1 rounded-full border border-green-200">
-                            {name === 'Basic' ? 'Bespaar €600 per jaar' : 'Betaal per jaar (20% korting)'}
+                            {name === 'Managed Groei Basis' ? `Eenmalig €${(typeof basePrice === 'number' ? basePrice : 0) * 12},- — nooit meer maandkosten` : `Eenmalig €${(typeof basePrice === 'number' ? basePrice : 0) * 12},- per jaar`}
                         </span>
                     ) : (
                         <span className="text-xs font-semibold text-[var(--foreground-accent)]">
-                            {name === 'Basic' ? 'Maandelijks opzegbaar' : 'Betaal per kwartaal'}
+                            {name === 'Managed Groei Basis' ? 'Maandelijks opzegbaar' : 'Maandelijks opzegbaar'}
                         </span>
                     )}
                 </div>
@@ -117,7 +120,7 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTria
                             Bekijk Opties
                         </button>
                         <p className="text-xs text-[var(--foreground-accent)] text-center">
-                            {isAnnual ? 'Factuur per jaar' : 'Factuur per kwartaal'}
+                            {isAnnual ? 'Eenmalige factuur (12 maanden)' : 'Maandelijkse factuur'}
                         </p>
                     </div>
                 ) : (
@@ -141,7 +144,7 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTria
                     {currentSavings}
                 </div>
                 <ul className="space-y-4 mb-8">
-                    {(!isAnnual && name === 'Basic' ? ['Maandelijks opzegbaar', ...features] : features).map((feature, index) => (
+                    {(!isAnnual && name === 'Managed Groei Basis' ? ['Maandelijks opzegbaar', ...features] : features).map((feature, index) => (
                         <li key={index} className="flex items-center">
                             <BsFillCheckCircleFill className="h-5 w-5 text-secondary mr-2" />
                             <span className="text-foreground-accent">

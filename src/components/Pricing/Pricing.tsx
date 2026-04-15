@@ -126,7 +126,7 @@ const Pricing: React.FC = () => {
 
                 {/* Toggle Switch */}
                 <div className="flex justify-center items-center gap-4 mb-8">
-                    <span className={`text-lg font-medium ${!isAnnual ? 'text-foreground' : 'text-gray-400'}`}>Kwartaal</span>
+                    <span className={`text-lg font-medium ${!isAnnual ? 'text-foreground' : 'text-gray-400'}`}>Maandelijks</span>
                     <button
                         onClick={() => setIsAnnual(!isAnnual)}
                         className={`relative w-16 h-8 rounded-full transition-colors duration-300 focus:outline-none ${isAnnual ? 'bg-primary' : 'bg-gray-300'}`}
@@ -138,9 +138,9 @@ const Pricing: React.FC = () => {
                         />
                     </button>
                     <span className={`text-lg font-medium ${isAnnual ? 'text-foreground' : 'text-gray-400'}`}>
-                        Jaarlijks
+                        Eenmalige afkoop
                         <span className="ml-2 text-xs font-bold text-green-600 bg-green-100 px-2 py-1 rounded-full border border-green-200">
-                            Beste Keus
+                            Nooit meer maandkosten
                         </span>
                     </span>
                 </div>
@@ -155,7 +155,7 @@ const Pricing: React.FC = () => {
                         <div className="bg-amber-100 dark:bg-amber-900/40 border border-amber-200 dark:border-amber-500/30 text-amber-800 dark:text-amber-300 px-6 py-3 rounded-xl flex items-center gap-3 shadow-sm max-w-2xl text-center">
                             <span className="text-xl">🎁</span>
                             <p className="font-medium">
-                                <strong>Signing Bonus:</strong> 500 gratis bonus credits (1 jaar geldig) bij alle jaarplannen!
+                                <strong>Eenmalige afkoop:</strong> Betaal 12 maanden vooruit en betaal nooit meer maandkosten. Alleen AI-gebruikskosten daarna.
                             </p>
                         </div>
                     </motion.div>
@@ -267,7 +267,7 @@ const Pricing: React.FC = () => {
                                 </p>
 
                                 <div className="mb-6 inline-block bg-yellow-500/10 text-yellow-400 text-sm font-semibold px-3 py-1 rounded border border-yellow-500/20">
-                                    Alles uit Elite + Maatwerk
+                                    100% Custom
                                 </div>
 
                                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-y-3 gap-x-8 mb-8">
@@ -280,11 +280,11 @@ const Pricing: React.FC = () => {
                                 </div>
                             </div>
                             <div className="text-center md:text-right">
-                                <p className="text-gray-400 mb-2">Vanaf prijs</p>
+                                <p className="text-gray-400 mb-2">Prijs</p>
                                 <p className="text-4xl lg:text-5xl font-black text-white mb-6">
-                                    € {fullServiceTier.priceMonthly},-
+                                    Op maat
                                 </p>
-                                <p className="text-gray-500 text-sm mb-6">per maand (ex. btw)</p>
+                                <p className="text-gray-500 text-sm mb-6">neem contact op voor een offerte</p>
                                 <Link href="https://calendly.com/tim-studiolee" target="_blank" className="inline-block w-full md:w-auto bg-yellow-500 text-black font-bold py-4 px-8 rounded-full hover:bg-yellow-400 transition-all transform hover:scale-105 shadow-lg shadow-yellow-500/20">
                                     Boek een Demo Call
                                 </Link>

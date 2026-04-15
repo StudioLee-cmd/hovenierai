@@ -2,30 +2,31 @@ import { IPricing } from "@/types";
 
 export const tiers: IPricing[] = [
     {
-        name: 'Basic',
-        price: 79, // Monthly price when paid yearly
-        priceMonthly: 129, // Direct monthly price
+        name: 'Managed Groei Basis',
+        price: 79,
+        priceMonthly: 79, // Direct monthly price
         ctaType: 'trial',
         features: [
 
             'SaaS Toolbox (Self-Service App)',
+            '1x SEO Blog per week (beheerd)',
             '25 Credits Trial (14 dagen)',
             'Maandelijkse 15 min strategie call',
             'Daarna 50 Credits p/m',
             'Video & Photo AI (Basic)',
-            'Voice AI (Volledige Functies)',
+            'Voice AI (Basic)',
             'LazyAds & Social AI',
             'Social Media Planner',
             'Ad Manager',
             'On-site Chatbot',
         ],
-        focus: 'Focus: ZZP, Starters & MKB die zelf de controle willen houden.',
+        focus: 'Focus: Ideale start voor ZZP & Starters.',
         savings: 'BTW Inclusief',
     },
     {
-        name: 'Pro',
-        price: 297, // Monthly price when paid yearly
-        priceMonthly: 347, // Quarterly price converted to monthly
+        name: 'Managed Groei Pro',
+        price: 297,
+        priceMonthly: 297, // Quarterly price converted to monthly
         ctaType: 'options',
         guarantee: true,
         stripeMonthly: 'https://buy.stripe.com/14AcN68ahdreb475p4bjW09',
@@ -40,13 +41,13 @@ export const tiers: IPricing[] = [
             'Onbeperkt Credits (Managed)',
             'Groei-Garantie',
         ],
-        focus: 'Focus: MKB die kiest voor professionele kwaliteit en maximaal online resultaat.',
+        focus: 'Focus: MKB - Externe high-end software service.',
         savings: 'Bespaar 20%',
     },
     {
-        name: 'Elite',
-        price: 497, // Monthly price when paid yearly
-        priceMonthly: 597, // Quarterly price converted to monthly
+        name: 'Managed Groei Elite',
+        price: 497,
+        priceMonthly: 497, // Quarterly price converted to monthly
         ctaType: 'options',
         guarantee: true,
         stripeMonthly: 'https://buy.stripe.com/bJe6oIaip86U6NR6t8bjW0a',
@@ -67,22 +68,18 @@ export const tiers: IPricing[] = [
     },
     {
         name: 'Full Service',
-        price: 799, // Monthly price when paid yearly
-        priceMonthly: 999, // Quarterly price converted to monthly
-        pricePrefix: 'Vanaf',
+        price: 'Op maat', // Display as text, not number
+        priceMonthly: 999,
+        pricePrefix: '',
         ctaType: 'call',
         guarantee: true,
         features: [
-            'Alles uit Elite',
-            'Custom Maatwerk (High-End)',
-            'Volledige Maatwerk Video-Producties',
-            'Web Development & CRO',
-            'Actieve Linkbuilding',
-            'Fysieke Marketing (DM/Flyers)',
-            'Custom AI Sales Machine',
-            'Strategie op Locatie (Optioneel)',
+            'Volledig op maat samengesteld',
+            'Kies zelf je diensten en KPI\'s',
+            'Custom strategie op jouw doelen',
+            'Geen vast pakket — alles flexibel',
         ],
-        focus: 'Focus: Het complete pakket voor marketingsucces.',
+        focus: 'Focus: 100% custom — jij bepaalt wat erin zit.',
         savings: 'Bespaar 20%',
     },
 ]

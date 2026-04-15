@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useMemo, useEffect, useCallback } from "react";
+import React, { useState, useMemo } from "react";
 import Link from "next/link";
 import Image from "next/image";
 
@@ -35,25 +35,6 @@ function getSupportImage(heroImage: string): string {
     const lastDot = heroImage.lastIndexOf(".");
     if (lastDot === -1) return heroImage + "-2";
     return heroImage.substring(0, lastDot) + "-2" + heroImage.substring(lastDot);
-}
-
-function HoverImage({ src, alt }: { src: string; alt: string }) {
-    const [exists, setExists] = useState(false);
-    useEffect(() => {
-        const img = new window.Image();
-        img.onload = () => setExists(true);
-        img.onerror = () => setExists(false);
-        img.src = src;
-    }, [src]);
-    if (!exists) return null;
-    return (
-        <img
-            src={src}
-            alt={alt}
-            loading="lazy"
-            className="absolute inset-0 z-10 w-full h-full object-cover opacity-0 transition-opacity duration-300 group-hover:opacity-100"
-        />
-    );
 }
 
 export default function BlogGrid({ posts, clusters }: BlogGridProps) {
@@ -110,8 +91,15 @@ export default function BlogGrid({ posts, clusters }: BlogGridProps) {
                                 fill
                                 className="object-cover transition-transform duration-300 group-hover:scale-105"
                             />
-                            {/* Supporting image: only renders if -2.jpg exists */}
-                            <HoverImage src={getSupportImage(post.image)} alt={post.title} />
+                            {/* Supporting image: only for articles from 2026-04-15 onwards */}
+                            {post.date >= "2026-04-15" && (
+                                <img
+                                    src={getSupportImage(post.image)}
+                                    alt={post.title}
+                                    loading="lazy"
+                                    className="absolute inset-0 z-10 w-full h-full object-cover opacity-0 transition-opacity duration-300 group-hover:opacity-100"
+                                />
+                            )}
                         </Link>
                         <div className="flex flex-col flex-grow p-6">
                             <div className="flex gap-2 mb-3 flex-wrap">

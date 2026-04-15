@@ -96,7 +96,7 @@ export default function BlogGrid({ posts, clusters }: BlogGridProps) {
                                 src={getSupportImage(post.image)}
                                 alt={post.title}
                                 loading="lazy"
-                                className="absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-300 group-hover:opacity-100"
+                                className="absolute inset-0 z-10 w-full h-full object-cover opacity-0 transition-opacity duration-300 group-hover:opacity-100"
                                 onError={(e) => { (e.target as HTMLImageElement).style.display = "none"; }}
                             />
                         </Link>

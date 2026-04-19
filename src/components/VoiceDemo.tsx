@@ -47,6 +47,12 @@ const VoiceDemo: React.FC = () => {
         if (isCalling) {
             vapi.stop();
         } else {
+            // Cookie consent required before VAPI
+            const consent = localStorage.getItem('cookie_consent');
+            if (consent !== 'accepted') {
+                setStatus('Status: Accepteer eerst cookies');
+                return;
+            }
             setStatus("Status: Verbinden...");
             try {
                 vapi.start(assistantId);

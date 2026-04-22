@@ -2,11 +2,11 @@
 title: "Seizoensplanning als hovenier: werk het hele jaar door"
 excerpt: "De winter hoeft niet stil te zijn. Ontdek hoe je als hovenier je agenda het hele jaar vult met slim plannen en vooruit denken."
 date: "2026-04-18"
+cluster: "seizoenswerk"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/seizoensplanning-hovenier-hele-jaar-werk.jpg"
 tags: ["Seizoen", "Planning", "Omzet"]
 ---
-
 ## Het seizoensprobleem van hoveniers
 
 Van maart tot oktober barst het van het werk. November tot februari is het stil. Deze seizoensschommeling is het grootste financiele risico voor hoveniers. Je bouwt in het voorjaar reserves op die je in de winter weer aanspreekt. Als het voorjaar tegenvalt, begint het jaar met een gat.

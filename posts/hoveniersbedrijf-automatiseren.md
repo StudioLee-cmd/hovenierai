@@ -2,11 +2,11 @@
 title: "Hoveniersbedrijf automatiseren: van offerte tot factuur"
 excerpt: "Hoveniers besteden te veel tijd aan planning en administratie. Ontdek hoe automatisering je bedrijf efficiënter maakt."
 date: "2026-04-06"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoveniersbedrijf-automatiseren.jpg"
 tags: ["Automatisering", "Hovenier", "Bedrijfsvoering"]
 ---
-
 ## Je staat liever in de tuin dan achter het bureau
 
 Als hovenier is je passie buiten: tuinen ontwerpen, aanleggen en onderhouden. Maar het runnen van een hoveniersbedrijf brengt een berg administratie mee: offertes schrijven, planning bijhouden, materiaal bestellen, facturen versturen en klanten op de hoogte houden.

@@ -2,11 +2,11 @@
 title: "Lokale SEO als hovenier: meer tuinklussen"
 excerpt: "Met lokale SEO zorg je dat tuineigenaren in je regio jouw hoveniersbedrijf vinden. Ontdek hoe je bovenaan komt in Google Maps en meer opdrachten binnenhaalt."
 date: "2026-04-03"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-seo-hovenier-tuinklussen.jpg"
 tags: ["Lokale SEO", "Vindbaarheid", "Hovenier", "Google Maps"]
 ---
-
 ## Waarom lokale SEO perfect past bij hoveniers
 
 Tuinwerk is hyperlocaal. Klanten willen een hovenier uit de buurt — iemand die de grondsoort kent, weet welke planten gedijen in de regio en snel kan inspringen voor onderhoud. Wanneer iemand "hovenier [stad]" googelt, wil jij bovenaan staan.

@@ -2,11 +2,11 @@
 title: "Negatieve Google review als hovenier: zo reageer je goed"
 excerpt: "Een slechte review als hovenier? Geen paniek. Leer hoe je professioneel reageert, je reputatie beschermt en er zelfs sterker uitkomt."
 date: "2026-04-11"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/negatieve-review-hovenier-reageren.jpg"
 tags: ["Reviews", "Reputatie", "Groei"]
 ---
-
 ## Een negatieve review is geen ramp
 
 Je opent Google en ziet het: een 1-sterren review. Je maag draait om. Misschien is het onterecht, misschien heb je er een verklaring voor. Hoe dan ook, je eerste impuls is om boos te reageren of de review te negeren. Beide zijn de verkeerde keuze.

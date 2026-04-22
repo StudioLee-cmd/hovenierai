@@ -2,11 +2,11 @@
 title: "Leads opvolgen als hovenier: van offerte naar klus"
 excerpt: "Te vaak offertes verstuurd die in stilte verdwijnen? Ontdek hoe je als hovenier meer offertes omzet in opdrachten met slimme opvolging."
 date: "2026-04-04"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-hovenier-offerte-klus.jpg"
 tags: ["Leads", "Opvolging", "Hovenier"]
 ---
-
 ## Het verschil tussen een offerte en een opdracht
 
 Je rijdt naar een potentiële klant, bekijkt de tuin, maakt een offerte en stuurt die dezelfde avond. Dan hoor je niets meer. Een week later bel je — de klant heeft al een andere hovenier gekozen. Herkenbaar?

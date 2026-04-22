@@ -2,11 +2,11 @@
 title: "Overbooking als hovenier: slim plannen voor een volle werkweek"
 excerpt: "Slim overbooking voorkomt lege dagen door annuleringen en weer. Zo plan je als hovenier zonder risico op overbelasting."
 date: "2026-04-10"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/overbooking-hovenier-slim-plannen-volle-werkweek.jpg"
 tags: ["No-shows", "Hovenier", "Planning"]
 ---
-
 ## Het weer en annuleringen: de twee vijanden van je planning
 
 Als hovenier heb je een uniek planningsprobleem. Naast no-shows heb je te maken met het weer. Een regenweek kan drie dagen werk schrappen. Een onverwachte hagelbui halverwege de middag stuurt je naar huis. En klanten die een tuinaanleg gepland hadden, bellen af omdat het te nat is om te planten.

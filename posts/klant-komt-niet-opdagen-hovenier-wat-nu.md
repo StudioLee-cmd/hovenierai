@@ -2,11 +2,11 @@
 title: "Klant komt niet opdagen als hovenier: wat nu?"
 excerpt: "Je staat voor een dichte deur met je bus vol materiaal. Wat doe je als een klant niet thuis is? Praktische stappen voor hoveniers."
 date: "2026-04-12"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klant-komt-niet-opdagen-hovenier-wat-nu.jpg"
 tags: ["No-shows", "Klantcontact", "Groei"]
 ---
-
 ## De dichte deur: een herkenbaar scenario
 
 Je bent op tijd, de bus staat vol met planten en aarde, en dan... niemand thuis. Geen bericht, geen reactie op je telefoontje. Je staat voor een dichte deur met een hele ochtend ingepland voor dit adres.

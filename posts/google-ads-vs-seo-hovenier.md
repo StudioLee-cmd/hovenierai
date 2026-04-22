@@ -2,11 +2,11 @@
 title: "Google Ads of SEO als hovenier: waar investeer je in?"
 excerpt: "Google Ads levert direct klanten, SEO bouwt langzaam op. Welke aanpak past het best bij jouw hoveniersbedrijf? Een eerlijke vergelijking."
 date: "2026-04-17"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-ads-vs-seo-hovenier.jpg"
 tags: ["Vindbaarheid", "Google", "Marketing"]
 ---
-
 ## Twee wegen naar dezelfde klant
 
 Wanneer iemand zoekt op "hovenier in de buurt" verschijnen er twee soorten resultaten: de advertenties bovenaan (Google Ads) en de organische resultaten eronder (SEO). Beide leiden naar hoveniers die de klus kunnen doen, maar de weg ernaartoe en de kosten zijn totaal verschillend.

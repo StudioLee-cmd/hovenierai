@@ -2,11 +2,11 @@
 title: "Portfolio als hovenier: laat je werk voor je spreken"
 excerpt: "Je mooiste tuinen zijn je beste marketing. Ontdek hoe je als hovenier een portfolio opbouwt dat klanten overtuigt."
 date: "2026-04-05"
+cluster: "portfolio"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/portfolio-hovenier-opbouwen.jpg"
 tags: ["Portfolio", "Hovenier", "Marketing"]
 ---
-
 ## Een foto zegt meer dan duizend woorden
 
 Je kunt vertellen dat je mooie tuinen aanleg. Of je kunt het laten zien. Klanten die overwegen een hovenier in te huren, willen maar één ding: bewijs dat je het kunt.

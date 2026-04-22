@@ -2,11 +2,11 @@
 title: "Aanvragen opvolgen als hovenier: van offerte naar tuinopdracht"
 excerpt: "De hovenier die het snelste reageert wint de klus. Lees hoe je aanvragen structureel opvolgt en daardoor meer tuinen mag aanleggen."
 date: "2026-04-08"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hovenier-aanvraag-opvolgen-meer-tuinen.jpg"
 tags: ["Lead opvolging", "Hovenier", "Offertes"]
 ---
-
 ## Snelheid bepaalt wie de tuin mag aanleggen
 
 Een huiseigenaar denkt deze winter na over de tuin voor het voorjaar. Hij stuurt op een zaterdagavond drie offerteaanvragen uit naar lokale hoveniers. Maandagochtend om 9:00 heeft hij een bericht van hovenier één in zijn mailbox. Maandagmiddag belt hovenier twee. Hovenier drie? Stuurt vier dagen later nog een PDF.

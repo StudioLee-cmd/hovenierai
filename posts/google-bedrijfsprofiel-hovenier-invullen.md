@@ -2,11 +2,11 @@
 title: "Google Bedrijfsprofiel als hovenier: je digitale uithangbord"
 excerpt: "Je Google profiel bepaalt of klanten jou bellen of de concurrent. Ontdek hoe je als hovenier je profiel compleet maakt en bovenaan verschijnt."
 date: "2026-04-12"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-hovenier-invullen.jpg"
 tags: ["Vindbaarheid", "Google", "Groei"]
 ---
-
 ## Waarom je Google profiel belangrijker is dan je visitekaartje
 
 Als iemand zoekt naar "hovenier [plaatsnaam]" toont Google eerst drie bedrijven met hun adres, reviews en telefoonnummer. De meeste mensen bellen direct vanuit dat overzicht. Je Google Bedrijfsprofiel is letterlijk het eerste dat een potentiële klant van je ziet.

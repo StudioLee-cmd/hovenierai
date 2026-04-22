@@ -2,11 +2,11 @@
 title: "Google reviews verzamelen als hovenier: automatisch na elk project"
 excerpt: "Hoveniers met sterke reviews krijgen meer projecten. Leer hoe je automatisch reviews verzamelt na elke tuinaanleg."
 date: "2026-04-06"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hovenier-reviews-google-verzamelen.jpg"
 tags: ["Reviews", "Hovenier", "Google"]
 ---
-
 ## Een mooie tuin verkoopt zichzelf, maar alleen als anderen het zien
 
 Je levert een prachtige tuin op. De klant is enthousiast. Buren kijken bewonderend over de schutting. Maar die waardering verdwijnt als sneeuw voor de zon als het niet online staat. De volgende potentiële klant die "hovenier [stad]" googelt, ziet jouw mooie werk niet.

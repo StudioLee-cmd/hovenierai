@@ -2,11 +2,11 @@
 title: "Wat kost snoeien door een hovenier? Prijzen en tarieven 2026"
 excerpt: "Ontdek wat snoeien door een hovenier kost in 2026. Van haag knippen tot bomen snoeien, met richtprijzen en bespaartips."
 date: "2026-04-09"
+cluster: "prijzen"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/snoeien-kosten-hovenier-prijzen-tarieven-2026.jpg"
 tags: ["Prijzen", "Hovenier", "Snoeien"]
 ---
-
 ## Wat bepaalt de prijs van snoeien
 
 De kosten van snoeien hangen af van drie factoren: het type groen, de omvang en de bereikbaarheid. Een lage buxushaag van 10 meter knippen is een ander verhaal dan het snoeien van een volwassen eikenboom van 15 meter.

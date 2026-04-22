@@ -2,11 +2,11 @@
 title: "NFC review kaart hovenier: meer Google reviews na elke tuin"
 excerpt: "Meer Google reviews als hovenier zonder gezeur? Ontdek hoe een NFC review kaart werkt, wanneer je hem inzet bij tuinoplevering en welke valkuilen je voorkomt."
 date: "2026-04-16"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nfc-review-kaart-hovenier-google-reviews.jpg"
 tags: ["Hovenier", "Reviews", "NFC"]
 ---
-
 ## Waarom hoveniers met een NFC review kaart meer sterren oogsten
 
 Een tevreden klant is geen klant die zelf een Google-review schrijft. Onderzoek van BrightLocal en eigen meting bij hoveniers laten zien dat slechts 5 tot 10 procent van tevreden klanten ongevraagd een review schrijft. Voor hoveniers ligt dat percentage nog lager, omdat tuinklanten veelal ouder zijn, minder digitaal vaardig, en niet uit zichzelf naar Google scrollen om sterren in te vullen. Resultaat: jouw beste werk levert geen sterren op, en je vindbaarheid in Google groeit tergend langzaam.

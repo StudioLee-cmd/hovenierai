@@ -2,11 +2,11 @@
 title: "Gemiste tuinafspraken: wat het je kost als hovenier"
 excerpt: "Een no-show kost een hovenier al snel €200 tot €500 per gemiste dag. Zo voorkom je het met automatische herinneringen."
 date: "2026-04-15"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-hovenier-tuinafspraak-voorkomen.jpg"
 tags: ["No-shows", "Planning", "Automatisering"]
 ---
-
 Je komt met de hele ploeg aanzetten: bus vol materiaal, grond besteld, planten klaarstaan. De klant doet niet open. Telefoon gaat over op voicemail. Na een half uur wachten bel je de volgende klant, maar die heeft pas over drie dagen een afspraak. Je dag is voor de helft leeg.
 
 Hoveniers hebben het zwaarder met no-shows dan veel andere vakken. Een tuinklus is geen kwartiertje. Het is een halve dag tot een volledige dag met materiaal, personeel en planning die niet zomaar te verschuiven is.

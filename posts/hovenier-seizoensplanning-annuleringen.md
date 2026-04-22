@@ -2,11 +2,11 @@
 title: "Seizoensplanning als hovenier: minder annuleringen"
 excerpt: "Slecht weer, vakantie, uitgestelde projecten. Annuleringen horen bij het seizoen. Maar met de juiste planning beperk je de schade tot een minimum."
 date: "2026-04-19"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hovenier-seizoensplanning-annuleringen.jpg"
 tags: ["Planning", "Seizoenswerk", "Groei"]
 ---
-
 ## Waarom annuleringen hoveniers het hardst raken
 
 Een hovenier plant weken vooruit. Planten besteld, materiaal geregeld, team ingepland. Dan belt de klant: "Het regent de hele week, laten we het uitstellen." Of erger: de klant reageert niet meer.

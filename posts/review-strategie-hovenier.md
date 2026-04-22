@@ -2,11 +2,11 @@
 title: "Review strategie als hovenier"
 excerpt: "Een mooie tuin verkoopt zichzelf — maar alleen als klanten het online delen. Ontdek hoe je als hovenier systematisch meer Google Reviews verzamelt."
 date: "2026-04-03"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-strategie-hovenier.jpg"
 tags: ["Reviews", "Review strategie", "Hovenier", "Google Reviews"]
 ---
-
 ## Het visuele voordeel van hoveniers bij reviews
 
 Hoveniers hebben een uniek voordeel: het resultaat is zichtbaar en fotografeerbaar. Een pas aangelegde tuin, een strak gemaaid gazon, een bloeiende border — klanten zijn trots op hun tuin en delen dat graag. Dat enthousiasme vertaalt zich naar betere reviews.

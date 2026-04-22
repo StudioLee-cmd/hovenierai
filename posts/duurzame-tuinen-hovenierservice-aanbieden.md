@@ -2,11 +2,11 @@
 title: "Duurzame tuinen als hovenierservice: wat klanten vragen"
 excerpt: "Steeds meer klanten willen een duurzame tuin. Ontdek welke diensten je als hoveniersbedrijf kunt aanbieden en hoe je er klanten mee aantrekt."
 date: "2026-04-14"
+cluster: "duurzame tuinen"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/duurzame-tuinen-hovenierservice-aanbieden.jpg"
 tags: ["Duurzame Tuinen", "Hovenierservice", "Trends"]
 ---
-
 ## Klanten willen groen, maar dan echt groen
 
 De vraag naar duurzame tuinen groeit al jaren. Klanten willen minder tegels, meer biodiversiteit en een tuin die niet elke week onderhoud nodig heeft. Gemeenten stimuleren vergroening met subsidies en operatie steenbreek campagnes. Als hoveniersbedrijf is dit een kans die je niet mag laten liggen.

@@ -2,11 +2,11 @@
 title: "Onderhoudscontracten verkopen via je website als hovenier"
 excerpt: "Je website kan meer doen dan offertes binnenhalen. Ontdek hoe je als hovenier onderhoudscontracten verkoopt via je website en vaste inkomsten opbouwt."
 date: "2026-04-17"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/onderhoudscontracten-hovenier-website.jpg"
 tags: ["Vindbaarheid", "Website", "Onderhoudscontracten"]
 ---
-
 ## Waarom onderhoudscontracten je hoveniersbedrijf stabieler maken
 
 De meeste hoveniers leven van project tot project. Een tuinaanleg hier, een snoeibeurt daar. De omzet schommelt per seizoen en je bent voortdurend bezig met het binnenhalen van nieuwe klanten. Onderhoudscontracten doorbreken dat patroon. Een klant die maandelijks of per kwartaal betaalt voor tuinonderhoud levert voorspelbare inkomsten op, het hele jaar door.

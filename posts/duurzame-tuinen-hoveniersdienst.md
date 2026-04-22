@@ -2,11 +2,11 @@
 title: "Duurzame tuinen aanleggen: zo maak je het je klanten makkelijk"
 excerpt: "Klanten willen een groene tuin maar weten niet waar te beginnen. Als hoveniersdienst kun je duurzaamheid als service aanbieden. Zo pak je dat aan."
 date: "2026-04-14"
+cluster: "duurzame tuinen"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/duurzame-tuinen-hoveniersdienst.jpg"
 tags: ["Duurzame Tuinen", "Hoveniersdienst", "Groene Keuzes"]
 ---
-
 ## Klanten willen groen, maar kiezen toch tegels
 
 Het klinkt tegenstrijdig: steeds meer huiseigenaren zeggen dat ze een groene tuin willen, maar in de praktijk kiezen ze voor onderhoudsvriendelijke tegels en kunstgras. Niet omdat ze niet om het milieu geven, maar omdat ze denken dat een groene tuin veel werk is.

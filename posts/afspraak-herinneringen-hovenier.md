@@ -2,11 +2,11 @@
 title: "Afspraakherinneringen voor hoveniers: minder lege werkdagen"
 excerpt: "Je staat voor een dichte poort. De klant is het vergeten. Automatische herinneringen voorkomen dit voor hoveniersbedrijven."
 date: "2026-04-05"
+cluster: "afspraak-herinneringen"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraak-herinneringen-hovenier.jpg"
 tags: ["Herinneringen", "Hovenier", "Planning"]
 ---
-
 ## De tuin waar je niet in mag
 
 Je komt met de aanhanger vol gereedschap en de poort zit op slot. De klant is niet thuis — vergeten dat je vandaag zou komen. Of erger: de hond is in de tuin en de klant heeft vergeten te regelen dat iemand het beest binnen houdt.

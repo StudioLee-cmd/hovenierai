@@ -2,11 +2,11 @@
 title: "Hovenier vindbaar op Google: 7 tips die echt werken"
 excerpt: "Hoveniers zijn online ondervertegenwoordigd. Ontdek 7 concrete SEO-tips waarmee je als hovenier hoger scoort in Google."
 date: "2026-04-07"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hovenier-vindbaar-google-tips.jpg"
 tags: ["SEO", "Vindbaarheid", "Hovenier"]
 ---
-
 ## Hoveniers zijn online nauwelijks vindbaar
 
 Uit een analyse van Vakblad de Hovenier blijkt dat de meerderheid van hoveniersbedrijven online slecht vindbaar is. Veel hoveniers draaien volledig op mond-tot-mondreclame en Werkspot. Dat werkt, tot het niet meer werkt.

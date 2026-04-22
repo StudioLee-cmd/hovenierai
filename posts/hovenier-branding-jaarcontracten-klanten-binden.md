@@ -2,11 +2,11 @@
 title: "Hovenier branding: jaarcontracten uit herkenbaarheid"
 excerpt: "Hoe een herkenbare uitstraling (busje, werkkleding, website, bord) je hovenierbedrijf transformeert van incidentele klussers naar vaste jaarcontracten met voorspelbare maandomzet."
 date: "2026-04-22"
+cluster: "branding"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hovenier-branding-jaarcontracten-klanten-binden.jpg"
 tags: ["Hovenier", "Branding", "Jaarcontracten", "Klantbinding"]
 ---
-
 Een hovenierbedrijf met sterke branding herken je van een kilometer afstand: het busje met een consistente kleur, de medewerkers in dezelfde werkkleding, het bord op de werklocatie, de Instagram-foto's met dezelfde filter. En dat is geen ijdelheid, dat zijn de fundamenten van een bedrijf dat niet van klus tot klus rondbreekt, maar jaarcontracten en doorlopende onderhoudsabonnementen afsluit.
 
 Branding voor een hovenier is niet "een logo en een kleurtje kiezen". Het is een manier om in de ogen van buurgenoten, voorbijgangers en opdrachtgevers te laten zien dat je geen eenmalige zelfstandige bent maar een bedrijf waar je zorgeloos een jaarcontract mee afsluit. In deze gids staan de vier herkenbaarheids-elementen die samen 20-35 procent meer jaarcontracten opleveren, plus hoe je ze stap voor stap opzet.

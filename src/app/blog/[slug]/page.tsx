@@ -66,7 +66,7 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
                         )}
                         <div className="flex items-center gap-2">
                             <FiClock size={18} />
-                            <span>{new Date(post.date).toLocaleDateString('nl-NL', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
+                            <span>{new Date(post.date).toLocaleDateString("nl-NL", { timeZone: "Europe/Amsterdam", year: 'numeric', month: 'long', day: 'numeric' })}</span>
                         </div>
                         <div className="flex gap-2">
                             {post.tags.map(tag => (

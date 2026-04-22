@@ -122,7 +122,7 @@ export default function BlogGrid({ posts, clusters }: BlogGridProps) {
                             </p>
                             <div className="mt-auto flex items-center justify-between text-xs text-[var(--foreground-accent)]">
                                 <span>
-                                    {new Date(post.date).toLocaleDateString("nl-NL", {
+                                    {new Date(post.date).toLocaleDateString("nl-NL", { timeZone: "Europe/Amsterdam",
                                         year: "numeric",
                                         month: "long",
                                         day: "numeric",

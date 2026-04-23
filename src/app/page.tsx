@@ -16,6 +16,13 @@ import FallingText from "@/components/FallingText";
 import USPPillars from "@/components/USPPillars";
 import SetupSupport from "@/components/SetupSupport";
 
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  alternates: { canonical: '/' },
+};
+
+
 const HomePage: React.FC = () => {
   return (
     <>

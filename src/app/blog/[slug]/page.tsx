@@ -2,15 +2,48 @@ import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
+import type { Metadata } from 'next';
 import { getAllPosts, getPostBySlug, getPostHtml } from '@/utils/posts';
 import { getAuthorBySlug } from '@/data/authors';
 import Container from '@/components/Container';
 import BlogContent from '@/components/BlogContent';
 import { FiArrowLeft, FiClock } from 'react-icons/fi';
 
+const SITE_URL = 'https://www.hovenierai.nl';
+
 export async function generateStaticParams() {
     const posts = getAllPosts();
     return posts.map((post) => ({ slug: post.slug }));
+}
+
+export async function generateMetadata(
+    { params }: { params: Promise<{ slug: string }> }
+): Promise<Metadata> {
+    const { slug } = await params;
+    const post = getPostBySlug(slug);
+    if (!post) return {};
+    const url = `${SITE_URL}/blog/${slug}`;
+    const image = post.image?.startsWith('http') ? post.image : `${SITE_URL}${post.image}`;
+    return {
+        title: post.title,
+        description: post.excerpt,
+        alternates: { canonical: url },
+        openGraph: {
+            title: post.title,
+            description: post.excerpt,
+            url,
+            type: 'article',
+            locale: 'nl_NL',
+            siteName: SITE_URL.replace('https://www.', ''),
+            images: [{ url: image }],
+        },
+        twitter: {
+            card: 'summary_large_image',
+            title: post.title,
+            description: post.excerpt,
+            images: [image],
+        },
+    };
 }
 
 const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) => {

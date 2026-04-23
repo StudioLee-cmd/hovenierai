@@ -19,6 +19,7 @@ const caveat = Caveat({ subsets: ['latin'], variable: '--font-caveat' });
 const outfit = Outfit({ subsets: ['latin'], variable: '--font-outfit' });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(siteDetails.siteUrl),
   title: siteDetails.metadata.title,
   description: siteDetails.metadata.description,
   openGraph: {

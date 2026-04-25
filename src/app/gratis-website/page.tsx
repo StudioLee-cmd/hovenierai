@@ -7,7 +7,7 @@ const nicheSingular = niche.endsWith("s") ? niche.slice(0, -1) : niche;
 
 export const metadata: Metadata = {
   title: `Gratis Website Design voor ${niche} | ${siteDetails.siteName}`,
-  description: `Ontvang een gratis professioneel website design voor jouw ${nicheSingular}sbedrijf. Live preview binnen 48 uur, SEO-geoptimaliseerd, geen verplichtingen. Website kopen vanaf €800.`,
+  description: `Gratis website design voor ${niche}. Live preview binnen 48 uur, SEO-geoptimaliseerd. Website kopen vanaf €800.`,
   openGraph: {
     title: `Gratis Website Design voor ${niche} | ${siteDetails.siteName}`,
     description: `Gratis website design op maat. Live preview binnen 48 uur. Website kopen vanaf €800 of het complete AI platform vanaf €79/maand.`,

@@ -5,7 +5,7 @@ import ReviewsContent from "./ReviewsContent";
 const niche = siteDetails.siteName.replace(/AI$/i, "").toLowerCase();
 
 export const metadata: Metadata = {
-  title: `Review Management voor ${niche}s | Automatisch 5 Sterren Verzamelen | ${siteDetails.siteName}`,
+  title: `Review Management voor ${niche}s | ${siteDetails.siteName}`,
   description: `Google reviews verzamelen als ${niche}? Automatische review requests via WhatsApp, NFC-kaarten en slimme software. Meer sterren, meer klanten.`,
   openGraph: {
     title: `Review Management voor ${niche}s | ${siteDetails.siteName}`,

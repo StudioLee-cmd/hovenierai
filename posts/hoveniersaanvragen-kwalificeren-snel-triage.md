@@ -1,6 +1,6 @@
 ---
 title: "Hoveniersaanvragen kwalificeren in 5 minuten"
-excerpt: "Niet elke tuinaanvraag wordt een opdracht. Dit kwalificatie-framework filtert serieuze leads van tijdverdrijvers in 5 minuten, zodat je tijd niet verloren gaat aan vrijblijvende aanvragen."
+excerpt: "Niet elke tuinaanvraag wordt een opdracht. Dit kwalificatie-framework filtert serieuze leads van tijdverdrijvers in 5 minuten, zodat je tijd raak is."
 date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoveniersaanvragen-kwalificeren-snel-triage.jpg"

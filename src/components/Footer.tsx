@@ -10,7 +10,7 @@ import { getPlatformIconByName } from '@/utils';
 const Footer: React.FC = () => {
     return (
         <footer className="bg-hero-background text-foreground py-10">
-            <div className="max-w-7xl w-full mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-10">
+            <div className="max-w-7xl w-full mx-auto px-6 grid grid-cols-1 md:grid-cols-4 gap-10">
                 <div>
                     <Link href="/" className="flex items-center gap-2">
                         <Image
@@ -26,9 +26,19 @@ const Footer: React.FC = () => {
                     </p>
                 </div>
                 <div>
-                    <h4 className="text-lg font-semibold mb-4">Quick Links</h4>
+                    <h4 className="text-lg font-semibold mb-4">Diensten</h4>
                     <ul className="text-foreground-accent">
-                        {footerDetails.quickLinks.map(link => (
+                        {footerDetails.services.map(link => (
+                            <li key={link.text} className="mb-2">
+                                <Link href={link.url} className="hover:text-foreground">{link.text}</Link>
+                            </li>
+                        ))}
+                    </ul>
+                </div>
+                <div>
+                    <h4 className="text-lg font-semibold mb-4">Algemeen</h4>
+                    <ul className="text-foreground-accent">
+                        {footerDetails.general.map(link => (
                             <li key={link.text} className="mb-2">
                                 <Link href={link.url} className="hover:text-foreground">{link.text}</Link>
                             </li>
@@ -61,7 +71,7 @@ const Footer: React.FC = () => {
                 </div>
             </div>
             <div className="mt-8 md:text-center text-foreground-accent px-6 flex flex-col md:flex-row justify-between items-center gap-4">
-                <p>Copyright &copy; {new Date().getFullYear()} {siteDetails.siteName}. Alle rechten voorbehouden. <span className="mx-2">|</span> <a href="https://www.studiolee.nl" target="_blank" rel="noopener noreferrer" className="hover:text-foreground">Speciaal voor hoveniers door STUDIOLEE</a></p>
+                <p>Copyright &copy; {new Date().getFullYear()} {siteDetails.siteName}. Alle rechten voorbehouden. <span className="mx-2">|</span> <a href="https://www.studiolee.nl" target="_blank" rel="noopener noreferrer" className="hover:text-foreground">Door STUDIOLEE</a></p>
                 <div className="flex gap-6 text-sm flex-wrap justify-center md:justify-end">
                     <Link href="/algemene-voorwaarden" className="hover:text-foreground">Algemene Voorwaarden</Link>
                     <Link href="/privacy" className="hover:text-foreground">Privacy Policy</Link>

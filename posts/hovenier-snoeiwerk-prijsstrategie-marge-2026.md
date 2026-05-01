@@ -1,7 +1,7 @@
 ---
 title: "Snoeiprijzen als hovenier-bedrijf: prijsstrategie en marge in 2026"
 slug: hovenier-snoeiwerk-prijsstrategie-marge-2026
-date: 2026-05-01
+date: "2026-05-01"
 excerpt: "Hoe stel je als hovenier rendabele snoeiprijzen op? Uurtarieven, margemodel en prijscommunicatie naar klanten in 2026 — zonder verlies te draaien."
 image: "/images/blog/hovenier-snoeiwerk-prijsstrategie-marge-2026.jpg"
 authorSlug: "tim-van-der-lee"

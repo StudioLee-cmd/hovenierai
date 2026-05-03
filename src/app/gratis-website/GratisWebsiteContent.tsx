@@ -150,7 +150,7 @@ export default function GratisWebsiteContent() {
                       We gaan direct voor je aan de slag. Je ontvangt je website design binnen 48 uur.
                     </p>
                     <a
-                      href="https://wa.me/31611594862?text=Hoi%2C%20ik%20heb%20net%20een%20gratis%20website%20design%20aangevraagd%20via%20{brand}!"
+                      href={`https://wa.me/31611594862?text=${encodeURIComponent(`Hoi, ik heb net een gratis website design aangevraagd via ${brand}!`)}`}
                       className="inline-flex items-center gap-2 bg-green-500 text-white px-6 py-3 rounded-xl font-semibold hover:bg-green-600 transition-all"
                     >
                       <BsWhatsapp /> Chat met ons via WhatsApp

@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { BsGlobe, BsPerson, BsEnvelope, BsTelephone, BsGeoAlt, BsCheckCircleFill, BsWhatsapp, BsArrowRight } from "react-icons/bs";
+import { BsGlobe, BsPerson, BsEnvelope, BsTelephone, BsGeoAlt, BsCheckCircleFill, BsArrowRight } from "react-icons/bs";
 import { siteDetails } from "@/data/siteDetails";
 
 const niche = siteDetails.niche || "Bedrijven";
@@ -39,7 +39,7 @@ export default function GratisWebsiteContent() {
       if (!res.ok) throw new Error("Verzenden mislukt");
       setIsSubmitted(true);
     } catch {
-      setError("Er ging iets mis. Probeer het opnieuw of stuur een WhatsApp.");
+      setError("Er ging iets mis. Mail tim@studiolee.nl en ik help je direct.");
     } finally {
       setIsSubmitting(false);
     }
@@ -149,12 +149,6 @@ export default function GratisWebsiteContent() {
                     <p className="text-foreground-accent mb-6">
                       We gaan direct voor je aan de slag. Je ontvangt je website design binnen 48 uur.
                     </p>
-                    <a
-                      href={`https://wa.me/31611594862?text=${encodeURIComponent(`Hoi, ik heb net een gratis website design aangevraagd via ${brand}!`)}`}
-                      className="inline-flex items-center gap-2 bg-green-500 text-white px-6 py-3 rounded-xl font-semibold hover:bg-green-600 transition-all"
-                    >
-                      <BsWhatsapp /> Chat met ons via WhatsApp
-                    </a>
                   </motion.div>
                 ) : (
                   <motion.form key="form" onSubmit={handleSubmit} className="space-y-4">

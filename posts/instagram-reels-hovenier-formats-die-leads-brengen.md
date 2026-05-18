@@ -133,4 +133,4 @@ Twee viraal-gegaan reels in drie maanden en 0 aanvragen is geen brand-probleem, 
 
 Het verschil tussen views en leads zit in de details: stadsnaam in je caption, klantvideo's met ruwe geluid, mythen-ontkrachters met visueel bewijs. Vier formats, één per week, drie maanden volgehouden, en je telefoon gaat.
 
-**Lees ook:** [Social Media voor Hoveniers die een Hekel hebben aan Social Media](/blog/social-media-voor-hoveniers), de luie methode voor hoveniers die niet veel willen posten maar wel zichtbaar willen zijn.
+**Lees ook:** [Social media voor hoveniers: laat je tuinprojecten zien](/blog/social-media-hoveniers-tuinprojecten), praktische tips voor hoveniers die met visuele content meer klanten willen bereiken.

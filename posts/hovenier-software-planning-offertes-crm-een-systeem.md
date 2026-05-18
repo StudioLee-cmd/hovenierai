@@ -6,7 +6,7 @@ excerpt: "Hovenier-software vergelijken: alles-in-één vs losse tools voor plan
 image: "/images/blog/hovenier-software-planning-offertes-crm-een-systeem.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Software", "Vergelijking", "Tools", "Alles-in-één", "Hovenier"]
-cluster: "software-vergelijking"
+cluster: "automatisering"
 ---
 
 **In het kort:**

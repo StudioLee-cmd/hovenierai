@@ -2,7 +2,7 @@
 title: "Verduurzaming verkopen als hovenier: wat werkt echt"
 excerpt: "Duurzame tuinen zijn een groeiende markt — maar welke verduurzamingsdiensten echt geld opleveren, en welke klanten alleen maar in theorie willen, verschilt sterk."
 date: "2026-04-21"
-cluster: "verduurzaming"
+cluster: "branding"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verduurzaming-hovenier-wat-klanten-voor-betalen.jpg"
 tags: ["Hovenier", "Verduurzaming", "Klimaatadaptatie", "Ondernemerschap"]

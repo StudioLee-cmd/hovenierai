@@ -7,7 +7,7 @@ image: "/images/blog/hovenierwebsite-offerte-machine.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["website", "hovenier", "conversie"]
-cluster: "website-conversie"
+cluster: "website"
 ---
 
 ## Waarom de meeste hovenierwebsites te weinig opleveren

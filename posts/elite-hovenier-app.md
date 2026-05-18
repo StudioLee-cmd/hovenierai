@@ -5,7 +5,7 @@ date: "2026-02-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elite-hovenier-app.png"
 tags: ["Elite Plan", "Client App", "Innovatie"]
-cluster: ""
+cluster: "website"
 ---
 
 Werk je voor zakelijke klanten? Vastgoedbeheerders of bedrijven met grote terreinen? Dan draait alles om **GEMAK** en **INZICHT**.

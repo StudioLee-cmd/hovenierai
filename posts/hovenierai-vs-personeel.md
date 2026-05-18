@@ -5,7 +5,7 @@ date: "2026-01-25"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hovenierai-vs-personeel.png"
 tags: ["Managed Service", "Kostenbesparing", "Strategie"]
-cluster: ""
+cluster: "automatisering"
 ---
 
 Als je als hoveniersbedrijf groeit, loop je tegen een muur aan. Je agenda is vol, je telefoon blijft gaan, en de administratie stapelt zich op. Je kunt het kantoorwerk niet meer alleen af naast je fysieke werk buiten. De logische stap is dan: iemand aannemen voor op kantoor.

@@ -7,7 +7,7 @@ image: "/images/blog/klantbehoud-hovenier-vaste-klanten.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["klantbehoud", "hovenier", "vaste klanten"]
-cluster: "crm-klantbeheer"
+cluster: "automatisering"
 ---
 
 ## Waarom vaste klanten je bedrijf stabiliseren

@@ -2,7 +2,7 @@
 title: "Afspraakherinneringen voor hoveniers: minder lege werkdagen"
 excerpt: "Je staat voor een dichte poort. De klant is het vergeten. Automatische herinneringen voorkomen dit voor hoveniersbedrijven."
 date: "2026-04-05"
-cluster: "afspraak-herinneringen"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraak-herinneringen-hovenier.jpg"
 tags: ["Herinneringen", "Hovenier", "Planning"]

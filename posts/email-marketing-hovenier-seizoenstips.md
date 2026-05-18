@@ -7,7 +7,7 @@ image: "/images/blog/email-marketing-hovenier-seizoenstips.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["email marketing", "hovenier", "seizoenstips"]
-cluster: "email-marketing"
+cluster: "automatisering"
 ---
 
 ## Waarom email marketing werkt voor hoveniers

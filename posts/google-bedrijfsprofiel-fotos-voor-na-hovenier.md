@@ -2,7 +2,7 @@
 title: "Google Bedrijfsprofiel voor-na foto's voor hoveniers"
 slug: google-bedrijfsprofiel-fotos-voor-na-hovenier
 date: 2026-04-29
-cluster: vindbaarheid
+cluster: "vindbaarheid"
 excerpt: "Voor-na foto's op je Google Bedrijfsprofiel als hovenier verdubbelen aanvragen. Welke shots, welke compositie, hoe vaak posten en hoe je rechtmatig deelt."
 image: "/images/blog/google-bedrijfsprofiel-fotos-voor-na-hovenier.jpg"
 authorSlug: "tim-van-der-lee"

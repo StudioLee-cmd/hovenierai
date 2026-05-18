@@ -5,7 +5,7 @@ date: "2026-03-13"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-hovenier.png"
 tags: ["Google", "Lokaal", "Vindbaarheid"]
-cluster: "google-bedrijfsprofiel"
+cluster: "vindbaarheid"
 ---
 
 "Hovenier in de buurt" — het is een van de meest gebruikte zoekopdrachten als huiseigenaren hun tuin willen laten aanleggen of onderhouden. En wat ze zien is het Google Maps-blok met drie hoveniers, hun reviews, en een bel-knop. Als jij niet in dat blok staat, mis je het grootste deel van de potentiële klanten in je werkgebied.

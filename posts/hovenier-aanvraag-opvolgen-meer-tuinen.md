@@ -2,7 +2,7 @@
 title: "Aanvragen opvolgen als hovenier: van offerte naar tuinopdracht"
 excerpt: "De hovenier die het snelste reageert wint de klus. Lees hoe je aanvragen structureel opvolgt en daardoor meer tuinen mag aanleggen."
 date: "2026-04-08"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hovenier-aanvraag-opvolgen-meer-tuinen.jpg"
 tags: ["Lead opvolging", "Hovenier", "Offertes"]

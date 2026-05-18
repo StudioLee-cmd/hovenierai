@@ -2,7 +2,7 @@
 title: "Negatieve Google review als hovenier: zo reageer je goed"
 excerpt: "Een slechte review als hovenier? Geen paniek. Leer hoe je professioneel reageert, je reputatie beschermt en er zelfs sterker uitkomt."
 date: "2026-04-11"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/negatieve-review-hovenier-reageren.jpg"
 tags: ["Reviews", "Reputatie", "Groei"]

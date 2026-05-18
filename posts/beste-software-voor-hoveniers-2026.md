@@ -5,7 +5,7 @@ date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beste-software-voor-hoveniers-2026.png"
 tags: ["Software", "Vergelijking", "Tools"]
-cluster: "software-vergelijking"
+cluster: "automatisering"
 ---
 
 Als hovenier ben je het liefst buiten bezig — niet achter een computer. Maar zonder de juiste software mis je opdrachten, duurt factureren te lang en weten potentiële klanten je niet te vinden. Welke tools helpen jou als hovenier écht vooruit in 2026?

@@ -2,7 +2,7 @@
 title: "Review strategie als hovenier"
 excerpt: "Een mooie tuin verkoopt zichzelf — maar alleen als klanten het online delen. Ontdek hoe je als hovenier systematisch meer Google Reviews verzamelt."
 date: "2026-04-03"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-strategie-hovenier.jpg"
 tags: ["Reviews", "Review strategie", "Hovenier", "Google Reviews"]

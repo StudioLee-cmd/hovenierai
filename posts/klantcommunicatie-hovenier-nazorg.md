@@ -5,7 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantcommunicatie-hovenier-nazorg.png"
 tags: ["Communicatie", "Klantrelatie", "Nazorg"]
-cluster: "klantcommunicatie"
+cluster: "automatisering"
 ---
 
 ## Waarom communicatie klanten behoudt

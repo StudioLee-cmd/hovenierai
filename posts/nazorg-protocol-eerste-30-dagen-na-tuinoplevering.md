@@ -2,7 +2,7 @@
 title: "Eerste 30 dagen na tuinoplevering: het nazorg-protocol dat klachten voorkomt"
 excerpt: "Drie weken na de oplevering belt de klant: vijf planten zijn dood, het gras is geel, en hij wil zijn geld terug. Dit nazorg-protocol voorkomt 80% van die telefoontjes en zet de klant in plaats daarvan om naar onderhoudscontract."
 date: "2026-04-25"
-cluster: "nazorg"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nazorg-protocol-eerste-30-dagen-na-tuinoplevering.jpg"
 tags: ["Hovenier", "Nazorg", "Tuinaanleg", "Klanttevredenheid"]

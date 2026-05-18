@@ -5,7 +5,7 @@ date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hovenier-wintermaanden-omzet-behouden.jpg"
 tags: ["Seizoenswerk", "Omzet", "Hovenier"]
-cluster: "seizoenswerk"
+cluster: "automatisering"
 ---
 
 Een doorsnee Nederlandse hovenier haalt 70 tot 80 procent van zijn jaaromzet tussen maart en oktober. De resterende 20 tot 30 procent moet uit vier wintermaanden komen — een verhouding die het einde van elk jaar stressvol maakt. Telefoon gaat stil, offerte-aanvragen droge op, en facturen uit eerdere klussen worden gebruikt om de winter te overbruggen. Toch is dit niet onvermijdelijk. Hoveniers die hun winterstrategie structureel aanpakken draaien vaak 40 tot 50 procent van hun jaaromzet in deze maanden, simpelweg door het aanbod te verbreden en het marketing-werk in de zomer al voor te bereiden.

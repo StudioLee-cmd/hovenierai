@@ -6,7 +6,7 @@ excerpt: "3D-tuinontwerp-software voor hoveniers (SketchUp, VectorWorks, Garden 
 image: "/images/blog/3d-tuinontwerp-sketchup-vectorworks-als-verkooptool.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Tools-uitleg", "3D-ontwerp", "SketchUp", "Software", "Hovenier"]
-cluster: "tools-uitleg"
+cluster: "automatisering"
 ---
 
 **In het kort:**

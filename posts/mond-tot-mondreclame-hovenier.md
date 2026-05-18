@@ -5,7 +5,7 @@ date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-hovenier.png"
 tags: ["mond-tot-mond", "hovenier", "klantwerving"]
-cluster: "mond-tot-mondreclame"
+cluster: "branding"
 ---
 
 Als hovenier werkt je marketing letterlijk in de voortuin. Buren zien het resultaat. Voorbijgangers stoppen om te kijken. En als de klant tevreden is, vertelt die het aan iedereen in de straat.

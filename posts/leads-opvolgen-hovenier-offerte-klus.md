@@ -2,7 +2,7 @@
 title: "Leads opvolgen als hovenier: van offerte naar klus"
 excerpt: "Te vaak offertes verstuurd die in stilte verdwijnen? Ontdek hoe je als hovenier meer offertes omzet in opdrachten met slimme opvolging."
 date: "2026-04-04"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-hovenier-offerte-klus.jpg"
 tags: ["Leads", "Opvolging", "Hovenier"]

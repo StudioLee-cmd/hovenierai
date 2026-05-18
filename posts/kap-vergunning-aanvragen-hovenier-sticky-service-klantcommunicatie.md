@@ -6,7 +6,7 @@ excerpt: "KAP-vergunning-service als hovenier: het hele aanvraag-traject voor kl
 image: "/images/blog/kap-vergunning-aanvragen-hovenier-sticky-service-klantcommunicatie.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Klantcommunicatie", "KAP-vergunning", "Sticky-service", "Herplant", "Hovenier"]
-cluster: "klantcommunicatie"
+cluster: "automatisering"
 ---
 
 **In het kort:**

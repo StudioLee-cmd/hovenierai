@@ -5,7 +5,7 @@ date: "2026-03-31"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-voorkomen-hovenier.jpg"
 tags: ["No-shows", "Planning", "Groei"]
-cluster: "no-shows"
+cluster: "automatisering"
 ---
 
 ## Wat kost een gemiste afspraak je als hovenier?

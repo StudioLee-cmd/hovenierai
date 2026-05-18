@@ -6,7 +6,7 @@ excerpt: "WhatsApp Business voor hoveniers: opzet, broadcasts en seizoens-flow. 
 image: "/images/blog/whatsapp-business-hoveniers-opzet-broadcasts-seizoens-flow.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Klantcommunicatie", "WhatsApp", "Broadcasts", "Seizoens-flow", "Hovenier"]
-cluster: "klantcommunicatie"
+cluster: "automatisering"
 ---
 
 **In het kort:**

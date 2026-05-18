@@ -6,7 +6,7 @@ excerpt: "Klantkaart per tuin als hovenier: anatomie, tools en flow voor plannin
 image: "/images/blog/klantkaart-per-tuin-hovenier-stop-excel-chaos.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["CRM", "Klantbeheer", "Klantkaart", "Tuin-historie", "Hovenier"]
-cluster: "crm-klantbeheer"
+cluster: "automatisering"
 ---
 
 **In het kort:**

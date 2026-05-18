@@ -6,7 +6,7 @@ excerpt: "Klanttevredenheid meten als hovenier in 3 simpele methodes na elke opd
 image: "/images/blog/klanttevredenheid-meten-hoveniers-3-methodes.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Nazorg", "Klanttevredenheid", "Feedback", "Reviews", "Hovenier"]
-cluster: "nazorg"
+cluster: "automatisering"
 ---
 
 **In het kort:**

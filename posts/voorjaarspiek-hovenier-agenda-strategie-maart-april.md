@@ -6,7 +6,7 @@ excerpt: "Voorjaarspiek als hovenier: 5-stappen-strategie om je agenda in maart 
 image: "/images/blog/voorjaarspiek-hovenier-agenda-strategie-maart-april.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Seizoenswerk", "Voorjaar", "Agenda", "Lead-opvolging", "Hovenier"]
-cluster: "seizoenswerk"
+cluster: "automatisering"
 ---
 
 **In het kort:**

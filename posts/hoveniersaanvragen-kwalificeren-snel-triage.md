@@ -4,7 +4,7 @@ excerpt: "Niet elke tuinaanvraag wordt een opdracht. Dit kwalificatie-framework 
 date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoveniersaanvragen-kwalificeren-snel-triage.jpg"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 tags: ["Lead Opvolging", "Kwalificatie", "Hovenier Operaties"]
 ---
 

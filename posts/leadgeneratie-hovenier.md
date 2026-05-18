@@ -5,7 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leadgeneratie-hovenier.png"
 tags: ["leadgeneratie", "hovenier", "klanten werven"]
-cluster: "lead-opvolging"
+cluster: "automatisering"
 ---
 
 Als hovenier ben je afhankelijk van een constante stroom nieuwe opdrachten. [Google](/blog/hoe-hoveniers-meer-klanten-vinden-via-google) en mond-tot-mond zijn de basis, maar ze zijn niet genoeg om het hele jaar door vol te zitten — vooral niet in de [rustigere maanden](/blog/seizoensplanning-hovenier-heel-jaar-werk).

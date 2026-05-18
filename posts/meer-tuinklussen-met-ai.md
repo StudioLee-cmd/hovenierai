@@ -5,7 +5,7 @@ date: "2025-12-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-tuinklussen-met-ai.png"
 tags: ["Marketing", "Reviews", "Groei"]
-cluster: ""
+cluster: "reviews"
 ---
 
 Als je zelf een hovenier zoekt, wat doe je dan? Precies: je kijkt op Google en checkt de sterren. Heeft een bedrijf 3,4 sterren? Dan scroll je door, want je vertrouwt ze niet met je tuin. Heeft hij 4,9 sterren met 200 reviews? Dan vraag je direct een offerte aan. In de hoveniersbranche, waar vakmanschap alles is, is jouw online reputatie je belangrijkste bezit.

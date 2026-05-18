@@ -2,7 +2,7 @@
 title: "NFC review kaart hovenier: meer Google reviews na elke tuin"
 excerpt: "Meer Google reviews als hovenier zonder gezeur? Ontdek hoe een NFC review kaart werkt, wanneer je hem inzet bij tuinoplevering en welke valkuilen je voorkomt."
 date: "2026-04-16"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nfc-review-kaart-hovenier-google-reviews.jpg"
 tags: ["Hovenier", "Reviews", "NFC"]

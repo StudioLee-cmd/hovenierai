@@ -1,0 +1,25 @@
+{
+  "slug": "instagram-reels-hovenier-formats-die-leads-brengen",
+  "supporting": {
+    "model": "gpt-image-2-text-to-image",
+    "cost": "$0.03",
+    "task_id": "a6e10a89d17812600f3ac61c076fd019",
+    "aspect_ratio": "1:1",
+    "resolution": "1K",
+    "output_url": "https://tempfile.aiquickdraw.com/images/chatgpt/a6e10a89d17812600f3ac61c076fd019_bc11ead396ab411db3992a332c4f3515.png",
+    "prompt": "Photographic close-up of a wooden garden workbench in late-afternoon sunlight filtered through leaves. On the bench: a smartphone mounted on a small black mini-tripod with a small vertical screen showing a soft green garden image preview (no text), a pair of orange-handled garden pruning shears (Felco), a young hortensia plant in a black plastic nursery pot with healthy green leaves, and an open paper notepad with a handwritten Dutch tally mark in pencil. Background slightly blurred: a planted border with green hostas. Warm natural light, photographic realism, no people, no logos on the smartphone, no readable text on the image overall, smartphone screen is a small element not the focal point."
+  },
+  "hero": {
+    "model": "nano-banana-2",
+    "cost": "$0.04",
+    "task_id": "4630f58b2716d92796de408ceb268f42",
+    "aspect_ratio": "16:9",
+    "resolution": "1K",
+    "output_format": "jpg",
+    "image_input": "[supporting URL]",
+    "output_url": "https://tempfile.aiquickdraw.com/na2/4630f58b2716d92796de408ceb268f421794827.jpeg",
+    "prompt": "Wide cinematic photo (16:9) of a Dutch garden mid-planting: a man's hands with green canvas gardening gloves (no full body visible, only hands and forearms) lowering a young hortensia plant (same Hydrangea macrophylla as the reference image, identifiable by the black plastic nursery pot now next to a freshly dug hole) into prepared soil at the edge of a green hosta border. Behind the hole, a smartphone is mounted on a small black mini-tripod (same as reference) angled to record the planting action vertically. The same orange-handled garden pruning shears (Felco) rest on the soil edge. A paper notepad (same as reference) is partly visible on a low wooden bench to the right. Warm afternoon sun streaming through tree leaves, depth-of-field favoring the hands. Photographic realism, no faces visible, no readable text or logos, no UI elements on screens. Same warm color palette and lighting as the reference image. Single coherent garden scene, not a collage."
+  },
+  "total_cost": "$0.07",
+  "date": "2026-05-18"
+}

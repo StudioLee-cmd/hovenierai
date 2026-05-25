@@ -1,5 +1,7 @@
 "use client";
 import React from 'react';
+import Image from 'next/image';
+import Link from 'next/link';
 import Header from "@/components/Header";
 import ReviewPricing from "@/components/Review/ReviewPricing";
 import { motion } from "framer-motion";
@@ -36,6 +38,24 @@ export default function ReviewPage() {
                         Professioneel ontworpen voor jouw merk.
                     </motion.p>
                 </div>
+                <motion.div
+                    initial={{ opacity: 0, y: 30 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ delay: 0.3, duration: 0.6 }}
+                    className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 mt-12 relative z-10"
+                >
+                    <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-700 shadow-2xl">
+                        <Image
+                            src="/images/services/review-pakket-hero.jpg"
+                            alt="Review pakket voor hoveniers — NFC kaartjes en software setup"
+                            fill
+                            priority
+                            className="object-cover"
+                            sizes="(max-width: 1024px) 100vw, 1024px"
+                        />
+                    </div>
+                </motion.div>
+
             </section>
 
             {/* Pricing Section */}
@@ -70,6 +90,84 @@ export default function ReviewPage() {
                                 <p className="text-sm text-gray-500 dark:text-gray-400 max-w-[150px]">{step.desc}</p>
                             </div>
                         ))}
+                    </div>
+                </div>
+            </section>
+            {/* Workflow image */}
+            <section className="py-12 px-4">
+                <div className="max-w-5xl mx-auto">
+                    <motion.div
+                        initial={{ opacity: 0, y: 30 }}
+                        whileInView={{ opacity: 1, y: 0 }}
+                        viewport={{ once: true }}
+                        transition={{ duration: 0.6 }}
+                    >
+                        <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-700 shadow-xl">
+                            <Image
+                                src="/images/services/review-pakket-workflow.jpg"
+                                alt="Hoveniers eigenaar bekijkt review analytics dashboard"
+                                fill
+                                className="object-cover"
+                                sizes="(max-width: 1024px) 100vw, 1024px"
+                            />
+                        </div>
+                        <p className="text-center text-sm text-gray-500 dark:text-gray-400 mt-3 max-w-2xl mx-auto">
+                            Zie hoe je reviews-aantal groeit. Elke 5-sterren versterkt je positie in Google Maps en lokale search.
+                        </p>
+                    </motion.div>
+                </div>
+            </section>
+
+
+            
+            {/* Section image + cross-links */}
+            <section className="py-16 px-4 bg-gray-50 dark:bg-neutral-800/50">
+                <div className="max-w-6xl mx-auto">
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center mb-12">
+                        <motion.div
+                            initial={{ opacity: 0, x: -30 }}
+                            whileInView={{ opacity: 1, x: 0 }}
+                            viewport={{ once: true }}
+                            transition={{ duration: 0.6 }}
+                            className="relative w-full aspect-[16/10] rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-700 shadow-xl"
+                        >
+                            <Image
+                                src="/images/services/review-pakket-section.jpg"
+                                alt="Google Maps search result met 5-sterren rating voor hoveniers"
+                                fill
+                                className="object-cover"
+                                sizes="(max-width: 768px) 100vw, 50vw"
+                            />
+                        </motion.div>
+                        <motion.div
+                            initial={{ opacity: 0, x: 30 }}
+                            whileInView={{ opacity: 1, x: 0 }}
+                            viewport={{ once: true }}
+                            transition={{ duration: 0.6 }}
+                        >
+                            <h2 className="text-2xl md:text-3xl font-bold mb-4 dark:text-white">Waarom 5-sterren je instroom verdubbelen</h2>
+                            <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
+                                In Google Maps lokale resultaten kiest 87% van de zoekers voor het hoveniers-bedrijf met de meeste en hoogste sterren. Onze NFC-kaartjes en software maken het voor je klanten dood-simpel om een 5-sterren review achter te laten — direct vanaf hun telefoon.
+                            </p>
+                        </motion.div>
+                    </div>
+                    <h3 className="text-xl md:text-2xl font-bold text-center mb-6 dark:text-white">Combineer met andere AI-tools</h3>
+                    <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                        <Link href="/reviews" className="group border border-gray-200 dark:border-gray-700 rounded-2xl p-6 bg-white dark:bg-neutral-800 hover:border-blue-400 transition-all">
+                            <h3 className="text-lg font-bold mb-2 group-hover:text-blue-600 dark:text-white transition-colors">Reviews Software</h3>
+                            <p className="text-gray-600 dark:text-gray-400 text-sm mb-3">Combineer fysieke NFC-kaartjes met automatische digitale review-verzoeken.</p>
+                            <span className="inline-flex items-center gap-1 text-blue-600 dark:text-blue-400 text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+                        </Link>
+                        <Link href="/seo" className="group border border-gray-200 dark:border-gray-700 rounded-2xl p-6 bg-white dark:bg-neutral-800 hover:border-blue-400 transition-all">
+                            <h3 className="text-lg font-bold mb-2 group-hover:text-blue-600 dark:text-white transition-colors">SEO voor Hoveniers</h3>
+                            <p className="text-gray-600 dark:text-gray-400 text-sm mb-3">Reviews voeden je Google Maps ranking — combineer met lokale SEO automatisering.</p>
+                            <span className="inline-flex items-center gap-1 text-blue-600 dark:text-blue-400 text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+                        </Link>
+                        <Link href="/automatisering" className="group border border-gray-200 dark:border-gray-700 rounded-2xl p-6 bg-white dark:bg-neutral-800 hover:border-blue-400 transition-all">
+                            <h3 className="text-lg font-bold mb-2 group-hover:text-blue-600 dark:text-white transition-colors">Workflow Automatisering</h3>
+                            <p className="text-gray-600 dark:text-gray-400 text-sm mb-3">Review-verzoek versturen 2u na elke klus, automatisch.</p>
+                            <span className="inline-flex items-center gap-1 text-blue-600 dark:text-blue-400 text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+                        </Link>
                     </div>
                 </div>
             </section>

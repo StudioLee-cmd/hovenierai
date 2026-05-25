@@ -11,6 +11,7 @@ import Section from "@/components/Section";
 
 
 import CostComparison from "@/components/CostComparison/CostComparison";
+import HomeLatestBlogs from "@/components/HomeLatestBlogs";
 import FallingText from "@/components/FallingText";
 
 import USPPillars from "@/components/USPPillars";
@@ -64,6 +65,8 @@ const HomePage: React.FC = () => {
 
 
       </Container>
+      <HomeLatestBlogs />
+
       <FallingText />
     </>
   );

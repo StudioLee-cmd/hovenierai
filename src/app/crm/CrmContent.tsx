@@ -1,6 +1,8 @@
 "use client";
 
 import React from "react";
+import Image from "next/image";
+import Link from "next/link";
 import { motion } from "framer-motion";
 import {
   BsCheck2Circle,
@@ -167,6 +169,24 @@ export default function CrmContent() {
             </a>
           </motion.div>
         </div>
+        <motion.div
+          initial={{ opacity: 0, y: 30 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.4, duration: 0.6 }}
+          className="max-w-5xl mx-auto mt-12 px-4"
+        >
+          <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
+            <Image
+              src="/images/services/crm-hero.jpg"
+              alt="CRM dashboard voor hoveniers — klantenbestand op één plek"
+              fill
+              priority
+              className="object-cover"
+              sizes="(max-width: 1024px) 100vw, 1024px"
+            />
+          </div>
+        </motion.div>
+
       </section>
 
       {/* Pain points */}
@@ -250,6 +270,79 @@ export default function CrmContent() {
                 </div>
               </motion.div>
             ))}
+          </div>
+        </div>
+      
+          <motion.div
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+            className="mt-14 max-w-5xl mx-auto"
+          >
+            <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl">
+              <Image
+                src="/images/services/crm-workflow.jpg"
+                alt="Klant en hovenier verbonden via CRM"
+                fill
+                className="object-cover"
+                sizes="(max-width: 1024px) 100vw, 1024px"
+              />
+            </div>
+            <p className="text-center text-sm text-foreground-accent mt-3 max-w-2xl mx-auto">
+              Elke nieuwe afspraak en elk WhatsApp-gesprek landt automatisch in het juiste klantprofiel.
+            </p>
+          </motion.div>
+
+      </section>
+
+      
+      {/* Section image + cross-links */}
+      <section className="py-16 px-4">
+        <div className="max-w-6xl mx-auto">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center mb-12">
+            <motion.div
+              initial={{ opacity: 0, x: -30 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.6 }}
+              className="relative w-full aspect-[16/10] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl"
+            >
+              <Image
+                src="/images/services/crm-section.jpg"
+                alt="Klantprofiel met geschiedenis op tablet"
+                fill
+                className="object-cover"
+                sizes="(max-width: 768px) 100vw, 50vw"
+              />
+            </motion.div>
+            <motion.div
+              initial={{ opacity: 0, x: 30 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.6 }}
+            >
+              <h2 className="text-2xl md:text-3xl font-bold mb-4">Eén klantbeeld voor je hele hovenier-bedrijf</h2>
+              <p className="text-foreground-accent leading-relaxed">Elke chatbot-conversatie, elk Voice AI gesprek en elke automatische herinnering landt automatisch in de CRM — gekoppeld aan het juiste klantprofiel. Terugkerende klanten, terugkerende omzet — automatisch.</p>
+            </motion.div>
+          </div>
+          <h3 className="text-xl md:text-2xl font-bold text-center mb-6">Combineer met andere AI-tools</h3>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+              <Link href="/automatisering" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
+                <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">Workflow Automatisering</h3>
+                <p className="text-foreground-accent text-sm mb-3">Herinneringen, cyclus-uitnodigingen en winback automatisch versturen vanuit de CRM.</p>
+                <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+              </Link>
+              <Link href="/chatbot" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
+                <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">AI Chatbot</h3>
+                <p className="text-foreground-accent text-sm mb-3">Chatbot-gesprekken landen automatisch bij het juiste klantprofiel in de CRM.</p>
+                <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+              </Link>
+              <Link href="/voice-ai" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
+                <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">Voice AI Telefonist</h3>
+                <p className="text-foreground-accent text-sm mb-3">Elk telefoongesprek wordt samengevat en gekoppeld aan de klant in je CRM.</p>
+                <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+              </Link>
           </div>
         </div>
       </section>

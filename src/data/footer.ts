@@ -22,6 +22,7 @@ export const footerDetails: {
         { text: "Reviews voor Hoveniers", url: "/reviews" },
         { text: "Review Pakket", url: "/review-pakket" },
         { text: "CRM voor Hoveniers", url: "/crm" },
+        { text: "Automatisering voor Hoveniers", url: "/automatisering" },
     ],
     general: [
         { text: "Tarieven", url: "/tarieven" },
@@ -37,6 +38,7 @@ export const footerDetails: {
         { text: "Reviews voor Hoveniers", url: "/reviews" },
         { text: "Review Pakket", url: "/review-pakket" },
         { text: "CRM voor Hoveniers", url: "/crm" },
+        { text: "Automatisering voor Hoveniers", url: "/automatisering" },
         { text: "Tarieven", url: "/tarieven" },
         { text: "Gratis Scan", url: "/gratis-scan" },
         { text: "Gratis Website", url: "/gratis-website" },

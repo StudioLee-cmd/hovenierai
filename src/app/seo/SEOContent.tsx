@@ -1,6 +1,7 @@
 "use client";
 
 import React from "react";
+import Image from "next/image";
 import Link from "next/link";
 import { motion } from "framer-motion";
 import {
@@ -195,6 +196,24 @@ export default function SEOContent() {
             </a>
           </motion.div>
         </div>
+        <motion.div
+          initial={{ opacity: 0, y: 30 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.4, duration: 0.6 }}
+          className="max-w-5xl mx-auto mt-12 px-4"
+        >
+          <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
+            <Image
+              src="/images/services/seo-hero.jpg"
+              alt="SEO voor hoveniers — Google ranking dashboard op laptop"
+              fill
+              priority
+              className="object-cover"
+              sizes="(max-width: 1024px) 100vw, 1024px"
+            />
+          </div>
+        </motion.div>
+
       </section>
 
       {/* Wat is SEO? */}
@@ -304,6 +323,28 @@ export default function SEOContent() {
             ))}
           </div>
         </div>
+      
+          <motion.div
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+            className="mt-14 max-w-5xl mx-auto"
+          >
+            <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl">
+              <Image
+                src="/images/services/seo-workflow.jpg"
+                alt="Hovenier bekijkt SEO ranking-chart op tablet"
+                fill
+                className="object-cover"
+                sizes="(max-width: 1024px) 100vw, 1024px"
+              />
+            </div>
+            <p className="text-center text-sm text-foreground-accent mt-3 max-w-2xl mx-auto">
+              Maandelijks zie je hoe je positie groeit in lokale Google search en Google Maps.
+            </p>
+          </motion.div>
+
       </section>
 
       {/* Wat krijg je? */}
@@ -451,6 +492,57 @@ export default function SEOContent() {
                 </p>
               </div>
             </motion.div>
+          </div>
+        </div>
+      </section>
+
+      
+      {/* Section image + cross-links */}
+      <section className="py-16 px-4">
+        <div className="max-w-6xl mx-auto">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center mb-12">
+            <motion.div
+              initial={{ opacity: 0, x: -30 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.6 }}
+              className="relative w-full aspect-[16/10] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl"
+            >
+              <Image
+                src="/images/services/seo-section.jpg"
+                alt="Google Maps listing voor hovenier-bedrijf op smartphone"
+                fill
+                className="object-cover"
+                sizes="(max-width: 768px) 100vw, 50vw"
+              />
+            </motion.div>
+            <motion.div
+              initial={{ opacity: 0, x: 30 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.6 }}
+            >
+              <h2 className="text-2xl md:text-3xl font-bold mb-4">Lokaal vindbaar als er iemand jouw vak nodig heeft</h2>
+              <p className="text-foreground-accent leading-relaxed">Voor hoveniers draait SEO om lokale vindbaarheid. Onze SEO automatisering optimaliseert je Google Bedrijfsprofiel, lokale citations en publiceert maandelijks SEO-blogs gericht op zoektermen die jouw klanten daadwerkelijk gebruiken.</p>
+            </motion.div>
+          </div>
+          <h3 className="text-xl md:text-2xl font-bold text-center mb-6">Combineer met andere AI-tools</h3>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+              <Link href="/reviews" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
+                <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">Reviews</h3>
+                <p className="text-foreground-accent text-sm mb-3">Reviews zijn de #1 ranking-factor in Google Maps — combineer voor maximale lokale zichtbaarheid.</p>
+                <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+              </Link>
+              <Link href="/gratis-website" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
+                <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">Gratis Website</h3>
+                <p className="text-foreground-accent text-sm mb-3">Een SEO-geoptimaliseerde website is de basis. Eerst gratis voorbeeld, dan kopen vanaf €800.</p>
+                <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+              </Link>
+              <Link href="/social-media" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
+                <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">Social Media</h3>
+                <p className="text-foreground-accent text-sm mb-3">Social signals versterken je lokale SEO — combineer voor maximale Google-zichtbaarheid.</p>
+                <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+              </Link>
           </div>
         </div>
       </section>

@@ -1,5 +1,7 @@
 "use client";
 import React, { useState } from "react";
+import Image from "next/image";
+import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
 import { BsGlobe, BsPerson, BsEnvelope, BsTelephone, BsGeoAlt, BsCheckCircleFill, BsArrowRight } from "react-icons/bs";
 import { siteDetails } from "@/data/siteDetails";
@@ -221,6 +223,25 @@ export default function GratisWebsiteContent() {
             </motion.div>
           </div>
         </div>
+        {/* Hero image */}
+        <motion.div
+          initial={{ opacity: 0, y: 30 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.5, duration: 0.6 }}
+          className="max-w-5xl mx-auto mt-16 px-4"
+        >
+          <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
+            <Image
+              src="/images/services/gratis-website-hero.jpg"
+              alt="Gratis website voor hoveniers — laptop met website design"
+              fill
+              priority
+              className="object-cover"
+              sizes="(max-width: 1024px) 100vw, 1024px"
+            />
+          </div>
+        </motion.div>
+
       </section>
 
       {/* How it works */}
@@ -243,6 +264,28 @@ export default function GratisWebsiteContent() {
             ))}
           </div>
         </div>
+      
+          <motion.div
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+            className="mt-14 max-w-5xl mx-auto"
+          >
+            <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl">
+              <Image
+                src="/images/services/gratis-website-workflow.jpg"
+                alt="Top-down flat-lay van hovenier website ontwerpproces met wireframe schetsen"
+                fill
+                className="object-cover"
+                sizes="(max-width: 1024px) 100vw, 1024px"
+              />
+            </div>
+            <p className="text-center text-sm text-foreground-accent mt-3 max-w-2xl mx-auto">
+              Eerst gratis preview — geen wireframe-fase, geen wekenlange offertes. Wij ontwerpen, jij beoordeelt.
+            </p>
+          </motion.div>
+
       </section>
 
       {/* Why free section - SEO content */}
@@ -268,6 +311,57 @@ export default function GratisWebsiteContent() {
               een chatbot, Voice AI telefonist, SEO automatisering, review management en social media tools.
               Agency-kwaliteit voor een tiende van de prijs — inclusief strategie en consulting.
             </p>
+          </div>
+        </div>
+      </section>
+
+      
+      {/* Section image + cross-links */}
+      <section className="py-16 px-4">
+        <div className="max-w-6xl mx-auto">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center mb-12">
+            <motion.div
+              initial={{ opacity: 0, x: -30 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.6 }}
+              className="relative w-full aspect-[16/10] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl"
+            >
+              <Image
+                src="/images/services/gratis-website-section.jpg"
+                alt="Hoveniers eigenaar bekijkt nieuwe website preview op tablet"
+                fill
+                className="object-cover"
+                sizes="(max-width: 768px) 100vw, 50vw"
+              />
+            </motion.div>
+            <motion.div
+              initial={{ opacity: 0, x: 30 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.6 }}
+            >
+              <h2 className="text-2xl md:text-3xl font-bold mb-4">Een website die nieuwe klanten oplevert</h2>
+              <p className="text-foreground-accent leading-relaxed">Voor hoveniers draait de website om één ding: een klant zoekt online, vindt je site, en boekt direct — of belt. Wij ontwerpen websites met duidelijke CTAs, werkgebied-vermelding en directe boekings-optie. Live preview binnen 48 uur. Bevalt het? €800 eenmalig.</p>
+            </motion.div>
+          </div>
+          <h3 className="text-xl md:text-2xl font-bold text-center mb-6">Combineer met andere AI-tools</h3>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+              <Link href="/chatbot" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
+                <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">AI Chatbot</h3>
+                <p className="text-foreground-accent text-sm mb-3">Vangt website-bezoekers op die liever typen dan bellen. Direct boekbaar via chat.</p>
+                <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+              </Link>
+              <Link href="/seo" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
+                <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">SEO voor Hoveniers</h3>
+                <p className="text-foreground-accent text-sm mb-3">Een SEO-geoptimaliseerde site is alleen het begin — combineer met lokale SEO automatisering.</p>
+                <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+              </Link>
+              <Link href="/voice-ai" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
+                <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">Voice AI Telefonist</h3>
+                <p className="text-foreground-accent text-sm mb-3">Vangt telefoontjes op die via je nieuwe website binnenkomen. 24/7 bereikbaar.</p>
+                <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
+              </Link>
           </div>
         </div>
       </section>

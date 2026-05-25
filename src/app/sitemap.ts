@@ -23,6 +23,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
         '/tarieven', '/gratis-website',
         '/chatbot', '/voice-ai', '/seo', '/reviews', '/social-media',
         '/privacy', '/legal', '/algemene-voorwaarden',
+            '/automatisering',
+            '/crm',
+            '/free-trial',
     ]
     const staticRoutes = staticPages.map((route) => ({
         url: `${baseUrl}${route}`,

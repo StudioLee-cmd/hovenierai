@@ -1,6 +1,7 @@
 ---
 title: "Krijg Automatisch Meer Google Reviews (En domineer jouw regio)"
-excerpt: "Reviews zijn goud waard voor een hoveniersbedrijf. Maar erom vragen wordt vaak vergeten. Laat onze AI dit volledig overnemen en zie je Google ranking exploderen."
+seoTitle: "Krijg Automatisch Meer Google Reviews"
+excerpt: "Reviews zijn goud waard voor een hoveniersbedrijf, maar erom vragen wordt vergeten. Laat AI dit overnemen en zie je Google ranking stijgen."
 date: "2025-12-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-tuinklussen-met-ai.png"

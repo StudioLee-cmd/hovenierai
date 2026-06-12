@@ -1,5 +1,6 @@
 ---
 title: "Meer klanten als hovenier: van voorjaarsdrukte naar jaarrond opdrachten"
+seoTitle: "Meer klanten als hovenier"
 excerpt: "De telefoon staat roodgloeiend in maart en april, maar in november is het stil. Doorbreek de seizoensafhankelijkheid met deze strategieën."
 date: "2026-04-02"
 authorSlug: "tim-van-der-lee"

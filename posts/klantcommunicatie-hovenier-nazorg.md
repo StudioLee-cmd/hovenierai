@@ -1,6 +1,7 @@
 ---
 title: "Klantcommunicatie als hovenier: updates en nazorg die klanten blij maken"
-excerpt: "Leer hoe je als hovenier met goede communicatie klanten behoudt en aanbevelingen stimuleert."
+seoTitle: "Klantcommunicatie als hovenier"
+excerpt: "Leer hoe je als hovenier met goede communicatie klanten behoudt en aanbevelingen stimuleert. Van eerste contact tot nazorg: praktische voorbeelden."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantcommunicatie-hovenier-nazorg.png"

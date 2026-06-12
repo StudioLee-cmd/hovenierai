@@ -1,6 +1,6 @@
 ---
 title: "Hovenier vindbaar op Google: 7 tips die echt werken"
-excerpt: "Hoveniers zijn online ondervertegenwoordigd. Ontdek 7 concrete SEO-tips waarmee je als hovenier hoger scoort in Google."
+excerpt: "Hoveniers zijn online ondervertegenwoordigd. Ontdek 7 concrete SEO-tips waarmee je als hovenier hoger scoort in Google. Direct toepasbaar."
 date: "2026-04-07"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"

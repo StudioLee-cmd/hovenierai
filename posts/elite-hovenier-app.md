@@ -1,5 +1,6 @@
 ---
 title: "De Elite Hovenier App: Geef je klanten hun eigen \"Tuin App\" (En bind zakelijke klanten)"
+seoTitle: "De Elite Hovenier App: Geef je klanten hun eigen \"Tuin App\""
 excerpt: "Onderscheid jezelf. Met de Client App in het Elite plan kunnen jouw vaste klanten (Vastgoedbeheerders) zelf onderhoud melden en status inzien."
 date: "2026-02-01"
 authorSlug: "tim-van-der-lee"

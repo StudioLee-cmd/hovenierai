@@ -1,6 +1,7 @@
 ---
 title: "Samenwerken als hovenier: partnerschappen die meer tuinklussen opleveren"
-excerpt: "Strategische samenwerkingen met tuincentra, aannemers en architecten helpen hoveniers aan een volle agenda."
+seoTitle: "Samenwerken als hovenier"
+excerpt: "Strategische samenwerkingen met tuincentra, aannemers en architecten helpen hoveniers aan een volle agenda. Zo bouw je die relaties op."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-hovenier-partnerschappen.png"

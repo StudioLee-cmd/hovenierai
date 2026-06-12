@@ -1,5 +1,6 @@
 ---
 title: "Onderhoudscontracten als hovenier: zo bouw je vaste inkomsten het hele jaar"
+seoTitle: "Onderhoudscontracten als hovenier"
 excerpt: "Seizoenswerk is de grootste uitdaging voor hoveniers. Onderhoudscontracten zijn de oplossing: vaste inkomsten, het hele jaar."
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"

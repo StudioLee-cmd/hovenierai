@@ -1,6 +1,6 @@
 ---
 title: "Hoe hoveniers meer klanten vinden via Google"
-excerpt: "Tuineigenaren zoeken hun hovenier steeds vaker online. Wie gevonden wordt met goede reviews en mooie werkfoto's, krijgt de aanvraag. Dit is hoe je dat opbouwt."
+excerpt: "Tuineigenaren zoeken hun hovenier steeds vaker online. Wie gevonden wordt met goede reviews en mooie werkfoto's, krijgt de aanvraag."
 date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-hoveniers-meer-klanten-vinden-via-google.png"

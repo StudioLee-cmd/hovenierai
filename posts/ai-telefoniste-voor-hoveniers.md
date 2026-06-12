@@ -1,6 +1,7 @@
 ---
 title: "Het Einde van de \"Telefoon tijdens het Werk\": 24/7 Bereikbaar Zonder Personeel"
-excerpt: "Mis nooit meer een tuinklus omdat je met een snoeischaar in een boom staat. Onze Voice AI neemt op, plant afspraken en beantwoordt vragen. Veilig en winstgevend."
+seoTitle: "Het Einde van de \"Telefoon tijdens het Werk\""
+excerpt: "Mis nooit meer een tuinklus omdat je met een snoeischaar in een boom staat. Onze Voice AI neemt op, plant afspraken en beantwoordt vragen."
 date: "2026-01-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefoniste-voor-hoveniers.png"

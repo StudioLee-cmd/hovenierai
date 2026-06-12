@@ -1,6 +1,6 @@
 ---
 title: "Hoveniersbedrijf automatiseren: van offerte tot factuur"
-excerpt: "Hoveniers besteden te veel tijd aan planning en administratie. Ontdek hoe automatisering je bedrijf efficiënter maakt."
+excerpt: "Hoveniers besteden te veel tijd aan planning en administratie. Ontdek hoe automatisering je bedrijf efficiënter maakt. Begin hier."
 date: "2026-04-06"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

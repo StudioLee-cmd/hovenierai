@@ -1,5 +1,6 @@
 ---
 title: "Aanvragen opvolgen als hovenier: van offerte naar tuinopdracht"
+seoTitle: "Aanvragen opvolgen als hovenier"
 excerpt: "De hovenier die het snelste reageert wint de klus. Lees hoe je aanvragen structureel opvolgt en daardoor meer tuinen mag aanleggen."
 date: "2026-04-08"
 cluster: "automatisering"

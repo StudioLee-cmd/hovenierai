@@ -1,6 +1,7 @@
 ---
 title: "Administratie voor hoveniers: boekhouding en facturatie zonder kopzorgen"
-excerpt: "Ontdek hoe je als hovenier je administratie slim regelt, ook in het drukke seizoen."
+seoTitle: "Administratie voor hoveniers"
+excerpt: "Ontdek hoe je als hovenier je administratie slim regelt, ook in het drukke seizoen. Van offertes tot facturatie: dit automatiseer je eenvoudig."
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/administratie-hovenier-boekhouding-facturatie.jpg"

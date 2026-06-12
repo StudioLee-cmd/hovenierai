@@ -1,6 +1,6 @@
 ---
 title: "Hovenier in de wintermaanden: omzet houden als tuinen slapen"
-excerpt: "November tot februari liggen veel hoveniersagenda's leeg. Klanten bellen niet, werk valt stil. Vijf concrete strategieën die we voor hoveniers zien werken om ook in de winter omzet te draaien."
+excerpt: "November tot februari liggen veel hoveniersagenda's leeg. Vijf concrete strategieën die bewezen werken om ook in de winter omzet te draaien."
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hovenier-wintermaanden-omzet-behouden.jpg"

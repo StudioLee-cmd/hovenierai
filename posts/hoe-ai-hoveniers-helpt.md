@@ -1,6 +1,7 @@
 ---
 title: "Hoe AI Hoveniers Helpt Bij Het Besparen Van Tijd (En Waarom Je Concurrentie Al Om Is)"
-excerpt: "Ontdek hoe kunstmatige intelligentie de dagelijkse taken van hoveniersbedrijven kan automatiseren. Van planning tot offertes: dit is je nieuwe digitale planner."
+seoTitle: "Hoe AI Hoveniers Helpt Bij Het Besparen Van Tijd"
+excerpt: "Ontdek hoe kunstmatige intelligentie de dagelijkse taken van hoveniersbedrijven automatiseert. Van planning tot offertes: je digitale planner."
 date: "2025-12-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-ai-hoveniers-helpt.png"

@@ -1,6 +1,6 @@
 ---
 title: "Portfolio als hovenier: laat je werk voor je spreken"
-excerpt: "Je mooiste tuinen zijn je beste marketing. Ontdek hoe je als hovenier een portfolio opbouwt dat klanten overtuigt."
+excerpt: "Je mooiste tuinen zijn je beste marketing. Ontdek hoe je als hovenier een portfolio opbouwt dat klanten overtuigt. Met voorbeelden."
 date: "2026-04-05"
 cluster: "website"
 authorSlug: "tim-van-der-lee"

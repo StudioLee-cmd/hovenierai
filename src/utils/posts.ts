@@ -8,6 +8,7 @@ const postsDirectory = path.join(process.cwd(), 'posts');
 export interface IPost {
     slug: string;
     title: string;
+    seoTitle?: string;
     excerpt: string;
     content: string;
     date: string;
@@ -32,6 +33,7 @@ export function getAllPosts(): IPost[] {
         return {
             slug,
             title: data.title || '',
+            seoTitle: data.seoTitle || '',
             excerpt: data.excerpt || '',
             content,
             date: data.date || '',
@@ -55,6 +57,7 @@ export function getPostBySlug(slug: string): IPost | null {
     return {
         slug,
         title: data.title || '',
+        seoTitle: data.seoTitle || '',
         excerpt: data.excerpt || '',
         content,
         date: data.date || '',

@@ -1,6 +1,6 @@
 ---
 title: "Hovenier branding: jaarcontracten uit herkenbaarheid"
-excerpt: "Hoe een herkenbare uitstraling (busje, werkkleding, website, bord) je hovenierbedrijf transformeert van incidentele klussers naar vaste jaarcontracten met voorspelbare maandomzet."
+excerpt: "Hoe een herkenbare uitstraling — busje, werkkleding, website — je hovenierbedrijf transformeert naar vaste jaarcontracten met voorspelbare omzet."
 date: "2026-04-22"
 cluster: "branding"
 authorSlug: "tim-van-der-lee"

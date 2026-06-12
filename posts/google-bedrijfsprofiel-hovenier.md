@@ -1,5 +1,6 @@
 ---
 title: "Google Bedrijfsprofiel als hovenier: meer tuinklussen uit je buurt"
+seoTitle: "Google Bedrijfsprofiel als hovenier"
 excerpt: "Je Google Bedrijfsprofiel is de plek waar buurtbewoners hun hovenier kiezen. Ontdek hoe je bovenaan verschijnt en meer tuinklussen binnenhaalt."
 date: "2026-03-13"
 authorSlug: "tim-van-der-lee"

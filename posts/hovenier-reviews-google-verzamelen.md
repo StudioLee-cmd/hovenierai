@@ -1,6 +1,7 @@
 ---
 title: "Google reviews verzamelen als hovenier: automatisch na elk project"
-excerpt: "Hoveniers met sterke reviews krijgen meer projecten. Leer hoe je automatisch reviews verzamelt na elke tuinaanleg."
+seoTitle: "Google reviews verzamelen als hovenier"
+excerpt: "Hoveniers met sterke reviews krijgen meer projecten. Leer hoe je automatisch reviews verzamelt na elke tuinaanleg. Volledig automatisch."
 date: "2026-04-06"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"

@@ -1,5 +1,6 @@
 ---
 title: "Mond-tot-mondreclame als hovenier: hoe tevreden klanten je beste marketing zijn"
+seoTitle: "Mond-tot-mondreclame als hovenier"
 excerpt: "Mond-tot-mondreclame is de krachtigste marketingvorm voor hoveniers. Leer hoe je er actief voor zorgt dat klanten je aanbevelen."
 date: "2026-03-26"
 authorSlug: "tim-van-der-lee"

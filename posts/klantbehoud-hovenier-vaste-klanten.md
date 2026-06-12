@@ -1,5 +1,6 @@
 ---
 title: "Klantbehoud als hovenier: zo bouw je een bestand van vaste klanten"
+seoTitle: "Klantbehoud als hovenier"
 slug: "klantbehoud-hovenier-vaste-klanten"
 date: "2026-03-23"
 excerpt: "Vaste klanten zijn de ruggengraat van een succesvol hoveniersbedrijf. Ontdek hoe je van eenmalige opdrachtgevers vaste klanten maakt."

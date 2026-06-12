@@ -1,6 +1,7 @@
 ---
 title: "Tuinprijzen op je website als hovenier: transparantie die vertrouwen bouwt"
-excerpt: "Moet je als hovenier prijzen op je website tonen? Ontdek hoe transparantie meer en betere klanten oplevert."
+seoTitle: "Tuinprijzen op je website als hovenier"
+excerpt: "Moet je als hovenier prijzen op je website tonen? Ontdek hoe transparantie meer en betere klanten oplevert. Onderbouwd met praktijkcijfers."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/tuinprijzen-website-hovenier.png"

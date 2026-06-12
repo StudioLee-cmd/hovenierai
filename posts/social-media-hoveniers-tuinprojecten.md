@@ -1,5 +1,6 @@
 ---
 title: "Social media voor hoveniers: laat je tuinprojecten zien en krijg meer opdrachten"
+seoTitle: "Social media voor hoveniers"
 excerpt: "Ontdek hoe hoveniers social media inzetten om meer klanten te bereiken. Praktische tips, de beste platforms en slimme AI-tools voor hoveniers in 2026."
 date: "2026-03-09"
 authorSlug: "tim-van-der-lee"

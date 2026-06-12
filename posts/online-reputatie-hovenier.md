@@ -1,5 +1,6 @@
 ---
 title: "Online reputatie als hovenier: reviews die nieuwe tuinklussen opleveren"
+seoTitle: "Online reputatie als hovenier"
 excerpt: "Je online reputatie bepaalt of huiseigenaren jou kiezen voor hun tuinproject. Leer hoe je reviews verzamelt en je imago versterkt."
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"

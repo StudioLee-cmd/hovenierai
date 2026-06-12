@@ -1,6 +1,7 @@
 ---
 title: "Overbooking als hovenier: slim plannen voor een volle werkweek"
-excerpt: "Slim overbooking voorkomt lege dagen door annuleringen en weer. Zo plan je als hovenier zonder risico op overbelasting."
+seoTitle: "Overbooking als hovenier"
+excerpt: "Slim overbooking voorkomt lege dagen door annuleringen en weer. Zo plan je als hovenier zonder risico op overbelasting. Met praktijkregels."
 date: "2026-04-10"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

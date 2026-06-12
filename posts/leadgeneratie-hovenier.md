@@ -1,6 +1,7 @@
 ---
 title: "Leadgeneratie als hovenier: meer tuinklussen via slimme kanalen"
-excerpt: "Google is niet het enige kanaal voor tuinklussen. Ontdek welke leadbronnen hoveniers vaak missen."
+seoTitle: "Leadgeneratie als hovenier"
+excerpt: "Google is niet het enige kanaal voor tuinklussen. Ontdek welke leadbronnen hoveniers vaak missen. Met vijf concrete kanalen en praktijkvoorbeelden."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leadgeneratie-hovenier.png"

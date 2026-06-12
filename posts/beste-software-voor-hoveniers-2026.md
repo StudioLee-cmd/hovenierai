@@ -1,6 +1,6 @@
 ---
 title: "Beste software voor hoveniers 2026: tools vergeleken"
-excerpt: "Welke software past bij jouw hoveniersbedrijf? Een eerlijke vergelijking van de beste tools voor hoveniers in 2026."
+excerpt: "Welke software past bij jouw hoveniersbedrijf? Een eerlijke vergelijking van de beste tools voor hoveniers in 2026. Met prijzen."
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beste-software-voor-hoveniers-2026.png"

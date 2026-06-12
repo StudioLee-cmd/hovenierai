@@ -1,6 +1,7 @@
 ---
 title: "Offertes als hovenier: hoe een goede offerte meer tuinklussen oplevert"
-excerpt: "Ontdek hoe je als hovenier met professionele offertes meer tuinprojecten binnenhaalt."
+seoTitle: "Offertes als hovenier"
+excerpt: "Ontdek hoe je als hovenier met professionele offertes meer tuinprojecten binnenhaalt. Van eerste contact tot akkoord: zo overtuig je tuinklanten."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offertes-hovenier-meer-tuinklussen.png"

@@ -1,5 +1,6 @@
 ---
 title: "Email marketing voor hoveniers: seizoenstips die klanten terugbrengen"
+seoTitle: "Email marketing voor hoveniers"
 slug: "email-marketing-hovenier-seizoenstips"
 date: "2026-03-22"
 excerpt: "Tuinen hebben het hele jaar onderhoud nodig. Met email marketing herinner je klanten op het juiste moment en genereer je herhaalopdrachten."

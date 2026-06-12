@@ -1,6 +1,7 @@
 ---
 title: "Seizoensplanning voor hoveniers: zo spreid je je werk over het hele jaar"
-excerpt: "Lente en zomer druk, herfst en winter rustig? Zo spreid je als hovenier je werk over alle seizoenen."
+seoTitle: "Seizoensplanning voor hoveniers"
+excerpt: "Lente en zomer druk, herfst en winter rustig? Zo spreid je als hovenier je werk over alle seizoenen. Met onderhoudscontracten en winterklussen."
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/seizoensplanning-hovenier-heel-jaar-werk.png"

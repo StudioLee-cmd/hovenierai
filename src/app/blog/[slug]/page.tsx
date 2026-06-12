@@ -26,11 +26,11 @@ export async function generateMetadata(
     const url = `${SITE_URL}/blog/${slug}`;
     const image = post.image?.startsWith('http') ? post.image : `${SITE_URL}${post.image}`;
     return {
-        title: post.title,
+        title: post.seoTitle || post.title,
         description: post.excerpt,
         alternates: { canonical: url },
         openGraph: {
-            title: post.title,
+            title: post.seoTitle || post.title,
             description: post.excerpt,
             url,
             type: 'article',
@@ -40,7 +40,7 @@ export async function generateMetadata(
         },
         twitter: {
             card: 'summary_large_image',
-            title: post.title,
+            title: post.seoTitle || post.title,
             description: post.excerpt,
             images: [image],
         },

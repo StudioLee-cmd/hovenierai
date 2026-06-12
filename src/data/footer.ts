@@ -27,6 +27,7 @@ export const footerDetails: {
     general: [
         { text: "Tarieven", url: "/tarieven" },
         { text: "Gratis Scan", url: "/gratis-scan" },
+        { text: "14 Dagen Gratis Proberen", url: "/free-trial" },
         { text: "Gratis Website", url: "/gratis-website" },
         { text: "Blog", url: "/blog" },
     ],

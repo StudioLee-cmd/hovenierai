@@ -33,7 +33,7 @@ Klanten zijn nieuwsgierig naar de voortgang, maar willen je niet storen. Los dit
 - **Einde dag**: foto van de voortgang — "Bestrating is gelegd, morgen beginnen we met de beplanting"
 - **Bijzonderheden**: als je iets tegenkomt (slechte grond, een wortel die verwijderd moet worden)
 
-Dit kost je 2 minuten per dag maar geeft de klant het gevoel betrokken te zijn bij het project. Bovendien bouw je hiermee een fotodocumentatie op die je later kunt gebruiken voor je [portfolio](/blog/tuinenportfolio-hovenier-projectfotos).
+Dit kost je 2 minuten per dag maar geeft de klant het gevoel betrokken te zijn bij het project. Bovendien bouw je hiermee een fotodocumentatie op die je later kunt gebruiken voor je portfolio.
 
 ## Na oplevering: onderhoudstips geven
 

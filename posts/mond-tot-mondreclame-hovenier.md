@@ -45,7 +45,7 @@ Het moment dat je de tuin oplevert en de klant voor het eerst het eindresultaat 
 
 Werk je in een wijk met vergelijkbare tuinen? Spreek de buren aan. "We zijn bij de buren bezig geweest. Als je geinteresseerd bent, kan ik vrijblijvend even meekijken."
 
-Veel hoveniers vullen hun agenda met deze buurt-voor-buurtstrategie. Lees meer over hoe [een sterk portfolio](/blog/tuinenportfolio-hovenier-projectfotos) dit effect versterkt.
+Veel hoveniers vullen hun agenda met deze buurt-voor-buurtstrategie. Lees meer over hoe een sterk portfolio dit effect versterkt.
 
 ### 3. Online reviews verzamelen
 

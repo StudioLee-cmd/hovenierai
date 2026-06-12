@@ -60,7 +60,7 @@ Zwak voor: solo-hoveniers en duo's die voornamelijk onderhoud-werk doen: de extr
 
 ### Stack 3: Alles-in-één AI-platform (€60-€180/mnd)
 
-Karakteristieken: één platform dat klantbeheer + agenda + WhatsApp + facturatie + reviews + chatbot + voice-ai + dashboard combineert. Voorbeelden: HighLevel-based platforms zoals onze ElektroAI/HovenierAI suite, of vergelijkbare alles-in-één marketing-automation-tools.
+Karakteristieken: één platform dat klantbeheer + agenda + WhatsApp + facturatie + reviews + chatbot + voice-ai + dashboard combineert. Voorbeelden: HighLevel-based platforms zoals onze HovenierAI suite, of vergelijkbare alles-in-één marketing-automation-tools.
 
 Sterk voor: solo-hoveniers, duo's en kleine teams die voornamelijk onderhoud + simpele aanleg doen. Beste tijdsbesparing per euro.
 

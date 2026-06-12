@@ -39,7 +39,7 @@ Voor hoveniers zijn foto's misschien wel het krachtigste element van je profiel.
 
 Maak er een gewoonte van: na elke klus twee foto's uploaden. Binnen een paar maanden heb je een indrukwekkend portfolio op je profiel dat voor je verkoopt.
 
-Lees ook ons artikel over [duurzame tuinen als groeiende markt](/blog/duurzame-tuinen-hovenier-groeiende-markt) voor inspiratie bij het tonen van je specialisaties.
+Lees ook ons artikel over duurzame tuinen als groeiende markt voor inspiratie bij het tonen van je specialisaties.
 
 ## Reviews: de motor achter lokale groei
 

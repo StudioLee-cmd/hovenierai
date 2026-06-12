@@ -27,7 +27,7 @@ Tuincentra verkopen planten en materialen, maar installeren niet. Partner met lo
 Nieuwe huiseigenaren investeren vaak in hun tuin. Makelaars kunnen jou aanbevelen als de go-to hovenier:
 
 - Bied een gratis tuinadviesgesprek aan voor nieuwe kopers
-- Lever professionele [portfolio-foto's](/blog/tuinenportfolio-hovenier-projectfotos) aan
+- Lever professionele portfolio-foto's aan
 
 ### 3. VvE's en woningcorporaties
 
@@ -43,7 +43,7 @@ Architecten ontwerpen tuinen maar voeren niet uit. Bouw relaties met lokale land
 
 - Voor-en-na transformaties
 - Timelapse video's van aanlegprojecten
-- [Duurzame tuintips](/blog/duurzame-tuinen-hovenier-groeiende-markt)
+- Duurzame tuintips
 - Seizoensadvies
 
 ## Online en offline combineren

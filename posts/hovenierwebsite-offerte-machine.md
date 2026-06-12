@@ -22,7 +22,7 @@ Drie elementen maken het verschil:
 
 **1. Duidelijke diensten per pagina**: niet een lange lijst, maar aparte pagina's voor tuinaanleg, tuinonderhoud, [bestrating](/blog/offertes-hovenier-meer-tuinklussen) en snoeiwerk. Elke pagina met foto's, uitleg en een contactmogelijkheid.
 
-**2. Portfolio dat overtuigt**: je beste [projecten](/blog/tuinenportfolio-hovenier-projectfotos) prominent op de homepage. Voor-en-na foto's zijn het krachtigst. Voeg een korte beschrijving toe: "Stadstuin van 40m2, volledig heringericht. Budget: vanaf 5.000 euro."
+**2. Portfolio dat overtuigt**: je beste projecten prominent op de homepage. Voor-en-na foto's zijn het krachtigst. Voeg een korte beschrijving toe: "Stadstuin van 40m2, volledig heringericht. Budget: vanaf 5.000 euro."
 
 **3. Laagdrempelig contact**: klikbaar telefoonnummer, WhatsApp-button en een simpel formulier. Niet meer vragen dan naam, telefoonnummer en een korte omschrijving van de gewenste werkzaamheden.
 
@@ -32,7 +32,7 @@ De meeste klanten zoeken lokaal: "hovenier [plaatsnaam]" of "tuinaanleg [regio]"
 
 - Gebruik je plaatsnaam in titels en tekst
 - Maak een apart "werkgebied" pagina met de regio's die je bedient
-- Schrijf blogartikelen over [seizoensgebonden tuinwerk](/blog/seizoensplanning-hovenier-heel-jaar-werk) en [duurzame tuinen](/blog/duurzame-tuinen-hovenier-groeiende-markt)
+- Schrijf blogartikelen over [seizoensgebonden tuinwerk](/blog/seizoensplanning-hovenier-heel-jaar-werk) en duurzame tuinen
 - Houd je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-hovenier) actueel met foto's en berichten
 
 Content over tuintips trekt bezoekers aan die later klant kunnen worden. Een artikel over "wanneer moet ik mijn heg snoeien?" rankt in Google en leidt bezoekers naar je website.

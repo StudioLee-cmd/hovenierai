@@ -44,7 +44,7 @@ Vermeld je uurtarief inclusief wat het omvat. Combineer met een inschatting van 
 
 "Elke tuin is anders" — gebruik vanafprijzen en m2-prijzen, geen vaste bedragen. "Concurrenten zien mijn prijzen" — je concurrenten weten al wat je vraagt via via, klanten niet. De klant die je mist door geen prijzen te tonen, dat is het echte risico.
 
-Combineer prijsinformatie met sterke [Google reviews](/blog/meer-google-reviews-als-hovenier) en een overtuigend [portfolio](/blog/tuinenportfolio-hovenier-projectfotos). Als klanten zien dat je eerlijk bent over kosten en dat anderen tevreden zijn, kiezen ze voor jou.
+Combineer prijsinformatie met sterke [Google reviews](/blog/meer-google-reviews-als-hovenier) en een overtuigend portfolio. Als klanten zien dat je eerlijk bent over kosten en dat anderen tevreden zijn, kiezen ze voor jou.
 
 ## Prijzen en SEO
 

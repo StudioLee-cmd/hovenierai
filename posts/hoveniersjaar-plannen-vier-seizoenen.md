@@ -104,7 +104,7 @@ Drie technieken om de seizoens-pieken af te vlakken.
 
 **Techniek 2: seizoens-pakketten met vaste prijs.** "Voorjaarspakket: 350 euro voor X, Y, Z." Klanten weten precies wat ze krijgen, jij weet hoeveel uren te plannen. Gemakkelijker te marketing-en dan losse uurtarieven.
 
-**Techniek 3: onderhoudscontracten met betaalplanning.** Niet één keer per jaar factureren maar gespreid over 12 maanden. Klanten betalen elke maand 60-100 euro, jij hebt voorspelbare cashflow inclusief in de winter. De [tarieven](/tarieven) van LoodgieterAI tonen ook hoe wij dat voor onze hoveniers-klanten inrichten.
+**Techniek 3: onderhoudscontracten met betaalplanning.** Niet één keer per jaar factureren maar gespreid over 12 maanden. Klanten betalen elke maand 60-100 euro, jij hebt voorspelbare cashflow inclusief in de winter. De [tarieven](/tarieven) van HovenierAI tonen ook hoe wij dat voor onze hoveniers-klanten inrichten.
 
 ## Wat het oplevert in cijfers
 

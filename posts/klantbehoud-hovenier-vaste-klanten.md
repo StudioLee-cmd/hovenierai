@@ -54,7 +54,7 @@ Tevreden tuinklanten praten met buren. Maak doorverwijzen makkelijk:
 
 **Beloning**. "Voor elke doorverwijzing die tot een opdracht leidt, ontvangt u een gratis seizoensonderhoud." De kosten zijn minimaal vergeleken met advertenties.
 
-**[Portfolio](/blog/tuinenportfolio-hovenier-projectfotos) online**. Zet projectfoto's op je website. Klanten die je doorverwijzen, sturen vaak je website mee.
+**Portfolio online**. Zet projectfoto's op je website. Klanten die je doorverwijzen, sturen vaak je website mee.
 
 ## Aan de slag
 

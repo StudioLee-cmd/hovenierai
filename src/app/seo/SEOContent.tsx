@@ -22,7 +22,8 @@ import {
 } from "react-icons/bs";
 import { siteDetails } from "@/data/siteDetails";
 
-const niche = siteDetails.siteName.replace(/AI$/i, "").toLowerCase();
+const niche = 'hovenier';
+const nichePlural = 'hoveniers';
 
 const fadeUp = {
   initial: { opacity: 0, y: 20 },
@@ -44,7 +45,7 @@ const painPoints = [
   },
   {
     title: "Concurrenten staan boven jou",
-    description: `Andere ${niche}s in jouw regio pakken alle clicks. Ze staan hoger in Google, hebben meer reviews en trekken de klanten weg die eigenlijk bij jou zouden passen.`,
+    description: `Andere ${nichePlural} in jouw regio pakken alle clicks. Ze staan hoger in Google, hebben meer reviews en trekken de klanten weg die eigenlijk bij jou zouden passen.`,
   },
   {
     title: "Te veel betalen voor Google Ads",
@@ -161,7 +162,7 @@ export default function SEOContent() {
             animate={{ opacity: 1, y: 0 }}
             className="text-4xl md:text-6xl font-bold text-gray-900 dark:text-white mb-6 bg-clip-text text-transparent bg-gradient-to-r from-gray-900 to-gray-700 dark:from-white dark:to-gray-300"
           >
-            SEO voor {niche}s: Gevonden Worden in Google
+            SEO voor {nichePlural}: Gevonden Worden in Google
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
@@ -236,7 +237,7 @@ export default function SEOContent() {
               <p>
                 In tegenstelling tot Google Ads betaal je bij SEO niet per klik. Je bouwt een
                 duurzame online positie op die maanden- tot jarenlang verkeer naar je website
-                stuurt. Voor {niche}s is lokale SEO extra belangrijk: de meeste klanten zoeken
+                stuurt. Voor {nichePlural} is lokale SEO extra belangrijk: de meeste klanten zoeken
                 namelijk een {niche} in hun eigen regio. Met de juiste SEO-strategie verschijn
                 je bovenaan wanneer het ertoe doet - precies op het moment dat iemand jouw dienst
                 nodig heeft.
@@ -392,7 +393,7 @@ export default function SEOContent() {
               Waarom nu starten
             </span>
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mt-2 mb-6">
-              Waarom SEO voor {niche}s?
+              Waarom SEO voor {nichePlural}?
             </h2>
             <div className="prose prose-lg dark:prose-invert max-w-none text-gray-700 dark:text-gray-300">
               <p>
@@ -402,7 +403,7 @@ export default function SEOContent() {
                 potentiele klanten - klanten die vervolgens naar je concurrent gaan.
               </p>
               <p>
-                Het goede nieuws: de meeste {niche}s doen nog geen SEO. Dat betekent dat er
+                Het goede nieuws: de meeste {nichePlural} doen nog geen SEO. Dat betekent dat er
                 enorme kansen liggen om jezelf te positioneren als de go-to {niche} in jouw regio.
                 Met consistente, kwalitatieve content en lokale optimalisatie kun je binnen enkele
                 maanden bovenaan in Google staan. En het mooiste? Eenmaal opgebouwde posities

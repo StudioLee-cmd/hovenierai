@@ -28,7 +28,7 @@ Stuur na elke klus een WhatsApp-bericht met een directe link naar je [Google-rev
 
 ### Combineer met je portfolio
 
-Vraag of je foto's mag maken van het project voor je [portfolio](/blog/tuinenportfolio-hovenier-projectfotos). Klanten die hiermee instemmen, zijn vaak ook bereid een review te schrijven.
+Vraag of je foto's mag maken van het project voor je portfolio. Klanten die hiermee instemmen, zijn vaak ook bereid een review te schrijven.
 
 ## Omgaan met negatieve reviews
 
@@ -48,7 +48,7 @@ Je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-hovenier) is je belangr
 
 ## Reputatie en doorverwijzingen
 
-Online reputatie versterkt [mond-tot-mondreclame](/blog/mond-tot-mondreclame-hovenier). Een buurman zegt: "Neem die hovenier." De potentiele klant googelt je, ziet sterke reviews en [projectfoto's](/blog/tuinenportfolio-hovenier-projectfotos), en belt direct.
+Online reputatie versterkt [mond-tot-mondreclame](/blog/mond-tot-mondreclame-hovenier). Een buurman zegt: "Neem die hovenier." De potentiele klant googelt je, ziet sterke reviews en projectfoto's, en belt direct.
 
 De combinatie van sterke reviews, een professioneel Google Bedrijfsprofiel en een portfolio met foto's is onverslaanbaar. Elke tevreden klant wordt een ambassadeur voor je bedrijf — online en offline.
 

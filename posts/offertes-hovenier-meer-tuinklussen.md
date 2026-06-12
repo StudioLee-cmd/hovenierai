@@ -32,7 +32,7 @@ Het geheime wapen van succesvolle hoveniers: voeg een tuinschets of visualisatie
 
 - **Handschets**: een getekend tuinontwerp met plattegrond
 - **Digitaal tuinontwerp**: met software als SketchUp of een tuinontwerp-app
-- **Moodboard**: foto's van vergelijkbare projecten uit je [portfolio](/blog/tuinenportfolio-hovenier-projectfotos)
+- **Moodboard**: foto's van vergelijkbare projecten uit je portfolio
 
 Een klant die ziet hoe de tuin eruitziet ná de aanleg, besluit sneller. Het maakt het project concreet en neemt onzekerheid weg.
 

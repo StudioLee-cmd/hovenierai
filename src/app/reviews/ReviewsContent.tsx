@@ -22,7 +22,8 @@ import {
 } from "react-icons/bs";
 import { siteDetails } from "@/data/siteDetails";
 
-const niche = siteDetails.siteName.replace(/AI$/i, "").toLowerCase();
+const niche = 'hovenier';
+const nichePlural = 'hoveniers';
 
 const fadeUp = {
   initial: { opacity: 0, y: 20 },
@@ -38,7 +39,7 @@ const painPoints = [
   },
   {
     title: "Concurrenten hebben meer sterren",
-    description: `Je ziet dat andere ${niche}s in jouw regio 4.8 sterren hebben met honderden reviews. Klanten kiezen automatisch voor degene met de meeste en beste beoordelingen.`,
+    description: `Je ziet dat andere ${nichePlural} in jouw regio 4.8 sterren hebben met honderden reviews. Klanten kiezen automatisch voor degene met de meeste en beste beoordelingen.`,
   },
   {
     title: "Negatieve review zonder reactie",
@@ -166,7 +167,7 @@ export default function ReviewsContent() {
             transition={{ delay: 0.1 }}
             className="text-4xl md:text-6xl font-bold text-gray-900 dark:text-white mb-6 bg-clip-text text-transparent bg-gradient-to-r from-gray-900 to-gray-700 dark:from-white dark:to-gray-300"
           >
-            Review Management voor {niche}s: Automatisch 5 Sterren Verzamelen
+            Review Management voor {nichePlural}: Automatisch 5 Sterren Verzamelen
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
@@ -239,7 +240,7 @@ export default function ReviewsContent() {
                 vertrouwen, maar ook hogere rankings in Google Maps.
               </p>
               <p>
-                Voor {niche}s zijn reviews extra belangrijk. Klanten vertrouwen op de ervaringen
+                Voor {nichePlural} zijn reviews extra belangrijk. Klanten vertrouwen op de ervaringen
                 van anderen wanneer ze iemand in hun huis of bedrijf binnenlaten. Een {niche} met
                 4.8 sterren en 200+ reviews wint het altijd van een concurrent met 4.2 sterren
                 en 15 reviews. Het verschil? Een slim review-systeem dat automatisch om
@@ -396,7 +397,7 @@ export default function ReviewsContent() {
               Waarom nu starten
             </span>
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mt-2 mb-6">
-              Waarom review management voor {niche}s?
+              Waarom review management voor {nichePlural}?
             </h2>
             <div className="prose prose-lg dark:prose-invert max-w-none text-gray-700 dark:text-gray-300">
               <p>

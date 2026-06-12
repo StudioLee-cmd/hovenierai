@@ -83,7 +83,7 @@ Een concurrentieanalyse is niet een eenmalig project. Praktische cadans:
 - **Bij elke nieuwe service-uitbreiding.** Voor je beregening of jaarcontracten gaat aanbieden, check of concurrenten dat al doen en hoe ze het positioneren.
 - **Bij grote prijswijziging.** Voordat je je tarief verhoogt of verlaagt, doe een korte check.
 
-Voor de breedere strategische context lees [hoe je als hovenier specialiseert in 5 niches](/blog/hovenier-specialiseren-5-niches), vaak komt uit de concurrentieanalyse de beste niche-keuze naar boven.
+Voor de breedere strategische context lees hoe je als hovenier specialiseert in 5 niches, vaak komt uit de concurrentieanalyse de beste niche-keuze naar boven.
 
 ## De 5 fouten die je kunt voorkomen
 

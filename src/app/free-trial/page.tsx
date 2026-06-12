@@ -73,7 +73,6 @@ const FreeTrialPage = () => {
                     email: formData.email,
                     business_name: formData.businessName,
                     bedrijfsnaam: formData.businessName,
-                    source: 'hovenierai-free-trial',
                     niche: formData.niche,
                     name: formData.businessName, // Fallback name
                     source: 'website_signup_page',

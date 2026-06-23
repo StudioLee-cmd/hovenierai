@@ -1,7 +1,7 @@
 ---
 title: "WhatsApp-flow voor hoveniers: van aanvraag tot review"
 slug: whatsapp-flow-hovenier-aanvraag-tot-review
-date: "2026-06-23"
+date: "2026-06-24"
 excerpt: "Eén WhatsApp-flow die elke tuinaanvraag opvangt, op tijd herinnert en na oplevering om een review vraagt. Zo loopt je klantcontact zonder handwerk."
 image: "/images/blog/whatsapp-flow-hovenier-aanvraag-tot-review.jpg"
 authorSlug: "tim-van-der-lee"
@@ -53,7 +53,7 @@ Een flow voelt als één geheel voor de klant, maar onder de motorkap doet elk o
 | Review-verzoek | Automatisch verzoek na oplevering | Structureel meer Google-reviews |
 | Nazorg | Seizoenstips en onderhoud-opvolging | Eenmalige klant wordt vaste klant |
 
-Een flow werkt het beste als je klantdata netjes op één plek staat, zodat elk bericht weet bij welke tuin en welke klant het hoort. Dan loopt de hele route van intake tot nazorg over dezelfde gegevens.
+Een flow werkt pas echt goed als je klantdata netjes op één plek staat, zodat elk bericht weet bij welke tuin en welke klant het hoort. Dan loopt de hele route van intake tot nazorg over dezelfde gegevens.
 
 ## Waarom dit meer oplevert dan losse berichten
 

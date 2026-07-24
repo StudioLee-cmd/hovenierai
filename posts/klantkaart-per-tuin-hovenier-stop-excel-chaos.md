@@ -131,4 +131,4 @@ Bij HovenierAI helpen we MKB-hoveniers hun klantkaart-systeem opbouwen en koppel
 - Een [chatbot voor hoveniers](/chatbot) die nieuwe klanten 24/7 opvangt en direct in je klantenbestand zet
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor hoveniers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](https://calendly.com/tim-studiolee).
+[Plan een gratis AI-scan voor hoveniers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).

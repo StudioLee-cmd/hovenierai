@@ -91,6 +91,6 @@ Geen probleem, omdat elke dag een afgerond blok is. Val je een dag uit, dan pak 
 
 ## Aan de slag
 
-Jij maakt tuinen mooi, wij regelen de rest. Wil je weten hoeveel tijd en omzet er nu weglekt door losse klantgegevens, en hoe jouw vijf-dagen-roadmap eruit zou zien? Begin met een [gratis ai-scan voor hoveniers](/gratis-scan), dan zie je precies waar de gaten in je klantbeheer zitten. Liever even sparren over de aanpak? Plan een [vrijblijvend gesprek](https://calendly.com/tim-studiolee) in.
+Jij maakt tuinen mooi, wij regelen de rest. Wil je weten hoeveel tijd en omzet er nu weglekt door losse klantgegevens, en hoe jouw vijf-dagen-roadmap eruit zou zien? Begin met een [gratis ai-scan voor hoveniers](/gratis-scan), dan zie je precies waar de gaten in je klantbeheer zitten. Liever even sparren over de aanpak? Plan een [vrijblijvend gesprek](https://cal.com/studiolee) in.
 
 Onze managed service draait op een Groei-of-Geld-Terug Garantie: zien we geen meetbare groei, dan krijg je je investering terug. Zo staat je klantsysteem straks als een goed voorbereide border, klaar om te bloeien zodra het seizoen losbarst.

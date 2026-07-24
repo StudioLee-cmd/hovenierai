@@ -39,7 +39,7 @@ const PurchaseOptionsModal: React.FC<PurchaseOptionsModalProps> = ({ isOpen, onC
 
     const stripeUrl = (isAnnual ? tier.stripeYearly : tier.stripeMonthly) || '#';
     // Default to the generic calendly link if not specified (though tiers focusing on this usually have one)
-    const bookingUrl = "https://calendly.com/tim-studiolee";
+    const bookingUrl = "https://cal.com/studiolee";
 
     return (
         <div className="fixed inset-0 z-[60] overflow-y-auto pointer-events-auto">

@@ -712,7 +712,7 @@ export const benefits: IBenefit[] = [
         tier: 'elite',
         description: "Domineer jouw markt in het AI-tijdperk zonder technische zorgen. Wij automatiseren alles: van dagelijkse content tot complexe workflows.",
         buttonText: "Plan een Strategie Call",
-        buttonUrl: "https://calendly.com/tim-studiolee",
+        buttonUrl: "https://cal.com/studiolee",
         bullets: [
             {
                 title: "AI Dominantie",

@@ -285,7 +285,7 @@ const Pricing: React.FC = () => {
                                     Op maat
                                 </p>
                                 <p className="text-gray-500 text-sm mb-6">neem contact op voor een offerte</p>
-                                <Link href="https://calendly.com/tim-studiolee" target="_blank" className="inline-block w-full md:w-auto bg-yellow-500 text-black font-bold py-4 px-8 rounded-full hover:bg-yellow-400 transition-all transform hover:scale-105 shadow-lg shadow-yellow-500/20">
+                                <Link href="https://cal.com/studiolee" target="_blank" className="inline-block w-full md:w-auto bg-yellow-500 text-black font-bold py-4 px-8 rounded-full hover:bg-yellow-400 transition-all transform hover:scale-105 shadow-lg shadow-yellow-500/20">
                                     Boek een Demo Call
                                 </Link>
                             </div>

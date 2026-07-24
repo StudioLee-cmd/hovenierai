@@ -78,6 +78,6 @@ Ja. Veel hoveniers starten met alleen de herinnering en het review-verzoek, en b
 
 ## Aan de slag
 
-Jij maakt tuinen mooi, wij regelen de rest. Wil je weten welke berichten in jouw bedrijf nu blijven liggen en wat een gekoppelde flow je zou opleveren? Begin met een [gratis ai-scan voor hoveniers](/gratis-scan), dan zie je precies waar de gaten in je klantcontact zitten. Liever even sparren? Plan een [vrijblijvend gesprek](https://calendly.com/tim-studiolee) in.
+Jij maakt tuinen mooi, wij regelen de rest. Wil je weten welke berichten in jouw bedrijf nu blijven liggen en wat een gekoppelde flow je zou opleveren? Begin met een [gratis ai-scan voor hoveniers](/gratis-scan), dan zie je precies waar de gaten in je klantcontact zitten. Liever even sparren? Plan een [vrijblijvend gesprek](https://cal.com/studiolee) in.
 
 Onze managed service draait op een Groei-of-Geld-Terug Garantie: zien we geen meetbare groei, dan krijg je je investering terug. Zo loopt jouw klantcontact straks net zo betrouwbaar als een goed aangelegd beregeningssysteem, het hele seizoen door.

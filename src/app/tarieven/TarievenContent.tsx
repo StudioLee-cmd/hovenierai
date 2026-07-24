@@ -73,14 +73,14 @@ const customOptions = [
     price: "Vanaf €1.000",
     description: "Volledig custom gebouwd. Eenmalige investering, geen maandelijkse kosten. Betaal alleen voor gebruik (Vapi/OpenAI).",
     cta: "Vraag Offerte Aan",
-    ctaLink: "https://calendly.com/tim-studiolee",
+    ctaLink: "https://cal.com/studiolee",
   },
   {
     name: "Full-Service",
     price: "Op maat prijs",
     description: "Alles uit Elite + maatwerk. Het complete pakket voor marketingsucces.",
     cta: "Neem Contact Op",
-    ctaLink: "https://calendly.com/tim-studiolee",
+    ctaLink: "https://cal.com/studiolee",
   },
 ];
 
@@ -302,7 +302,7 @@ export default function TarievenContent() {
               Gratis Website Design
             </a>
             <a
-              href="https://calendly.com/tim-studiolee"
+              href="https://cal.com/studiolee"
               className="border border-foreground/20 px-8 py-3 rounded-xl font-semibold hover:bg-foreground/5 transition-all inline-flex items-center justify-center gap-2"
             >
               <BsCalendar3 /> Plan een Gesprek

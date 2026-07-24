@@ -136,4 +136,4 @@ Bij HovenierAI helpen we MKB-hoveniers hun software-stack consolideren naar éé
 - 4 weken parallel-running ter validatie en team-training
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor hoveniers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](https://calendly.com/tim-studiolee).
+[Plan een gratis AI-scan voor hoveniers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).

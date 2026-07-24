@@ -395,7 +395,7 @@ export default function SocialMediaContent() {
             <a href="/gratis-scan" className="bg-primary text-black px-8 py-3 rounded-xl font-semibold hover:bg-primary-accent transition-all">
               Start Gratis
             </a>
-            <a href="https://calendly.com/tim-studiolee" className="border border-foreground/20 px-8 py-3 rounded-xl font-semibold hover:bg-foreground/5 transition-all inline-flex items-center justify-center gap-2">
+            <a href="https://cal.com/studiolee" className="border border-foreground/20 px-8 py-3 rounded-xl font-semibold hover:bg-foreground/5 transition-all inline-flex items-center justify-center gap-2">
               <BsCalendar3 /> Plan een Gesprek
             </a>
             <a href="https://wa.me/31611594862" className="border border-green-500/30 text-green-500 px-8 py-3 rounded-xl font-semibold hover:bg-green-500/10 transition-all inline-flex items-center justify-center gap-2">

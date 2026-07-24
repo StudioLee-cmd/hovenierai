@@ -98,7 +98,7 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTria
                 {ctaType === 'call' ? (
                     <div className="space-y-3">
                         <a
-                            href="https://calendly.com/tim-studiolee"
+                            href="https://cal.com/studiolee"
                             target="_blank"
                             rel="noopener noreferrer"
                             className={clsx("w-full py-3 px-4 rounded-full transition-colors font-semibold block text-center",

@@ -88,4 +88,4 @@ Als hovenier ben je het liefst buiten bezig — niet achter een computer. Maar z
 - **Meer leads via je website?** Klusio zet bezoekers om in klanten.
 - **Compleet systeem met AI?** [HovenierAI](/) combineert planning, facturatie, reviews en vindbaarheid in één — zonder commissie.
 
-Benieuwd wat HovenierAI voor jouw hoveniersbedrijf kan betekenen? [Plan een gratis gesprek](https://calendly.com/tim-studiolee).
+Benieuwd wat HovenierAI voor jouw hoveniersbedrijf kan betekenen? [Plan een gratis gesprek](https://cal.com/studiolee).

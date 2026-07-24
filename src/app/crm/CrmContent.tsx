@@ -387,7 +387,7 @@ export default function CrmContent() {
               Gratis CRM-scan <BsArrowRight />
             </a>
             <a
-              href="https://calendly.com/tim-studiolee"
+              href="https://cal.com/studiolee"
               target="_blank"
               rel="nofollow noopener"
               className="border border-foreground/20 text-foreground px-8 py-3 rounded-xl font-semibold hover:bg-foreground/5 transition-all inline-flex items-center justify-center"

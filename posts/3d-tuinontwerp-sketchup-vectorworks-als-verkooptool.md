@@ -133,6 +133,6 @@ Bij HovenierAI helpen we hoveniers 3D-ontwerp structureel in hun verkoop-flow in
 - Offerte-template met geïntegreerde 3D-bijlage
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor hoveniers](/gratis-scan) of bekijk onze [tarieven HovenierAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://calendly.com/tim-studiolee).
+[Plan een gratis AI-scan voor hoveniers](/gratis-scan) of bekijk onze [tarieven HovenierAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/werkspot-vs-hovenierai-welke-levert-meer-op" class="text-dark fw-semibold">Werkspot vs HovenierAI: welke levert meer op?</a> →</p></div></div></div>

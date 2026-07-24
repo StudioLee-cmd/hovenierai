@@ -178,7 +178,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                                 <strong>Let op:</strong> Check ook je <u>spamfolder</u> als je hem niet direct ziet. Je kunt daarna direct inloggen en starten met testen!
                             </p>
                             <a
-                                href="https://calendly.com/tim-studiolee"
+                                href="https://cal.com/studiolee"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="inline-block w-full bg-primary text-white font-bold py-4 px-6 rounded-lg hover:bg-primary-accent transition-colors shadow-lg"

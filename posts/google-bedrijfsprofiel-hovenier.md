@@ -87,4 +87,4 @@ Voeg Q&A toe aan je profiel:
 
 Je Google Bedrijfsprofiel is de plek waar buurtbewoners hun hovenier kiezen. Een volledig, actief en goed beoordeeld profiel kan het verschil maken tussen een lege en een volle planning. Begin vandaag: upload foto's van je laatste project, vraag je volgende klant om een review, en schrijf je eerste Google Post.
 
-Wil je hulp bij het versterken van je online zichtbaarheid? Bekijk wat [HovenierAI](/) voor je kan betekenen of [plan een gratis gesprek](https://calendly.com/tim-studiolee).
+Wil je hulp bij het versterken van je online zichtbaarheid? Bekijk wat [HovenierAI](/) voor je kan betekenen of [plan een gratis gesprek](https://cal.com/studiolee).

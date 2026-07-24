@@ -4,7 +4,7 @@ import Link from 'next/link';
 import Section from '../Section';
 import Container from '../Container';
 import ComparisonTable from './ComparisonTable';
-import { comparisonData, totalTraditionalCost, kapperAICost } from '@/data/comparison';
+import { comparisonData, totalTraditionalCost, onzePrijsPerMaand } from '@/data/comparison';
 import { BsCheckCircleFill } from 'react-icons/bs';
 import Highlight from '../Highlight';
 import { motion } from 'framer-motion';
@@ -67,7 +67,7 @@ const CostComparison: React.FC = () => {
                             <div className="border-t border-gray-700 pt-8 relative z-10">
                                 <p className="text-gray-400 font-medium mb-1">Jouw investering:</p>
                                 <div className="flex items-baseline gap-2">
-                                    <span className="text-5xl lg:text-6xl font-black text-primary">€ {kapperAICost},-</span>
+                                    <span className="text-5xl lg:text-6xl font-black text-primary">€ {onzePrijsPerMaand},-</span>
                                     <span className="text-xl text-gray-400">/ maand</span>
                                 </div>
                                 <motion.p
@@ -76,7 +76,7 @@ const CostComparison: React.FC = () => {
                                     transition={{ delay: 0.3, type: "spring" }}
                                     className="mt-4 text-green-400 font-bold bg-green-400/10 inline-block px-4 py-2 rounded-full"
                                 >
-                                    Je bespaart € {totalTraditionalCost - kapperAICost} per maand!
+                                    Je bespaart € {totalTraditionalCost - onzePrijsPerMaand} per maand!
                                 </motion.p>
                             </div>
                         </motion.div>

@@ -48,11 +48,11 @@ export default function GratisWebsiteContent() {
   };
 
   const faqs = [
-    { q: "Is het echt gratis?", a: "Ja, 100% gratis. Wij maken een professioneel website design op maat voor jouw bedrijf. Je ontvangt een live preview link. Geen kosten, geen verplichtingen." },
+    { q: "Is het echt gratis?", a: "Ja. Je krijgt het complete ontwerp met je eigen naam en plaats erin, plus een live preview op een eigen link. Geen kosten, geen voorwaarden, geen proefperiode die stiekem doorloopt." },
     { q: "Kan ik het bestand krijgen?", a: "Ja. De website bestanden zijn van jou. Vraag het aan en we sturen ze door." },
-    { q: `Wat kost het als ik de website wil kopen?`, a: "De website kost €800 eenmalig plus €200 per jaar voor hosting, onderhoud en blogs. Geen abonnement nodig voor alleen de website." },
-    { q: "Wat is het 25-in-1 AI platform?", a: `Voor €79/maand krijg je naast de website ook een AI chatbot, Voice AI telefonist, SEO automatisering, review management, social media planner en meer. Alles wat je nodig hebt om je ${nicheSingular}sbedrijf te laten groeien. Maandelijks opzegbaar.` },
-    { q: "Hoe snel is het klaar?", a: "Meestal binnen 48 uur. Uiterlijk binnen een week. Je ontvangt een live link naar je nieuwe website design." },
+    { q: "Wat krijg ik dan níét gratis?", a: "Het draaiend krijgen en houden: live zetten, gevonden worden, teksten die blijven komen, iemand die opneemt. Dát is het werk, en dat zit in het abonnement vanaf €79 per maand. Een website die stilstaat levert niets op." },
+    { q: "Wat kost het als ik het los zou regelen?", a: "Meer. Iemand voor je telefoon en je planning, iemand voor je marketing, iemand voor je vindbaarheid, plus de losse abonnementen: bij elkaar loopt dat flink op. Bij ons zit het in één rekening, en die is lager dan die onderdelen los bij elkaar. Vergelijk dus de rekening, niet de onderdelen." },
+    { q: "Hoe snel is het klaar?", a: "Meestal binnen 48 uur, uiterlijk binnen een week. Je ontvangt een live link naar je ontwerp. Aanmelden zelf kost je minder dan een minuut: naam, plaats en hoe we je kunnen bereiken." },
     { q: "Moet ik al een website hebben?", a: "Nee, ook als je nog geen website hebt kunnen wij een design maken. We vragen alleen je bedrijfsnaam en wat informatie over je diensten." },
   ];
 
@@ -113,18 +113,17 @@ export default function GratisWebsiteContent() {
                 <p className="font-semibold mb-3">En daarna? Jij kiest:</p>
                 <div className="space-y-2 text-sm text-foreground-accent">
                   <div className="flex justify-between">
-                    <span>Website kopen (eenmalig)</span>
-                    <span className="font-semibold text-foreground">€800</span>
-                  </div>
-                  <div className="flex justify-between">
-                    <span>Hosting + onderhoud + blogs</span>
-                    <span className="font-semibold text-foreground">€200/jaar</span>
-                  </div>
-                  <div className="flex justify-between border-t border-[var(--card-border)] pt-2 mt-2">
-                    <span>Of: compleet AI platform (25-in-1)</span>
+                    <span>Laten draaien: live gezet, gevonden worden, telefoon die opneemt</span>
                     <span className="font-semibold text-primary">€79/mnd</span>
                   </div>
+                  <div className="flex justify-between border-t border-[var(--card-border)] pt-2 mt-2">
+                    <span>Of de site afkopen, en 'm daarna zelf stil laten staan</span>
+                    <span className="font-semibold text-foreground">€800</span>
+                  </div>
                 </div>
+                <p className="text-xs text-foreground-accent mt-3">
+                  Alles inbegrepen kost minder dan die onderdelen los bij elkaar.
+                </p>
                 <a href="/tarieven" className="inline-flex items-center gap-1 text-primary text-sm font-semibold mt-3 hover:underline">
                   Bekijk alle tarieven <BsArrowRight />
                 </a>
@@ -250,9 +249,9 @@ export default function GratisWebsiteContent() {
           <h2 className="text-2xl md:text-3xl font-bold text-center mb-10">Hoe het werkt</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
-              { step: "1", title: "Vul het formulier in", desc: "Deel je website URL en bedrijfsgegevens. Duurt minder dan een minuut." },
-              { step: "2", title: "Wij ontwerpen je website", desc: "Onze AI analyseert je huidige site, je concurrenten en ontwerpt een professioneel nieuw design." },
-              { step: "3", title: "Ontvang je live preview", desc: "Binnen 48 uur ontvang je een link naar je nieuwe website. Bevalt het? Koop het vanaf €800." },
+              { step: "1", title: "Naam, plaats, en hoe we je bereiken", desc: "Meer vragen we niet. Minder dan een minuut werk, geen account, geen betaalgegevens." },
+              { step: "2", title: "Wij zetten jouw gegevens in het ontwerp", desc: "Je hoeft zelf niets in te richten. Wij kijken naar je huidige site en je omgeving en maken het ontwerp klaar." },
+              { step: "3", title: "Je krijgt meteen een live link plus het bestand", desc: "Binnen 48 uur staat je ontwerp online op een eigen link en is het bestand van jou. Wil je 'm ook echt laten draaien, dan begint dat bij €79 per maand." },
             ].map((s) => (
               <div key={s.step} className="text-center">
                 <div className="w-12 h-12 rounded-full bg-primary text-black font-bold text-xl flex items-center justify-center mx-auto mb-4">
@@ -302,14 +301,14 @@ export default function GratisWebsiteContent() {
             </p>
             <p>
               Wij geloven dat elk {nicheSingular}sbedrijf een professionele online aanwezigheid verdient, ongeacht
-              het budget. Daarom maken wij het design gratis. Je ziet precies hoe je nieuwe website eruitziet
-              voordat je een cent uitgeeft. Bevalt het? Dan koop je het voor €800 eenmalig — een fractie van wat
-              een bureau vraagt.
+              het budget. Daarom is het ontwerp gratis en is het bestand van jou. Je ziet precies hoe je nieuwe
+              website eruitziet voordat je een cent uitgeeft.
             </p>
             <p>
-              En wil je meer dan alleen een website? Met ons 25-in-1 AI platform voor €79/maand krijg je ook
-              een chatbot, Voice AI telefonist, SEO automatisering, review management en social media tools.
-              Agency-kwaliteit voor een tiende van de prijs — inclusief strategie en consulting.
+              Wat wij niet weggeven is het draaiend krijgen: live zetten, gevonden worden, teksten die blijven
+              komen, en iemand die opneemt als jij je handen niet vrij hebt. Een website die stilstaat levert
+              niets op. Dat werk zit in het abonnement vanaf €79 per maand, en dat is minder dan wat die
+              onderdelen los bij elkaar kosten.
             </p>
           </div>
         </div>
@@ -342,7 +341,7 @@ export default function GratisWebsiteContent() {
               transition={{ duration: 0.6 }}
             >
               <h2 className="text-2xl md:text-3xl font-bold mb-4">Een website die nieuwe klanten oplevert</h2>
-              <p className="text-foreground-accent leading-relaxed">Voor hoveniers draait de website om één ding: een klant zoekt online, vindt je site, en boekt direct — of belt. Wij ontwerpen websites met duidelijke CTAs, werkgebied-vermelding en directe boekings-optie. Live preview binnen 48 uur. Bevalt het? €800 eenmalig.</p>
+              <p className="text-foreground-accent leading-relaxed">Voor hoveniers draait de website om één ding: een klant zoekt online, vindt je site, en boekt direct — of belt. Wij ontwerpen websites met duidelijke CTAs, werkgebied-vermelding en directe boekings-optie. Live preview binnen 48 uur, en het bestand is van jou. Laten draaien vanaf €79 per maand.</p>
             </motion.div>
           </div>
           <h3 className="text-xl md:text-2xl font-bold text-center mb-6">Combineer met andere AI-tools</h3>

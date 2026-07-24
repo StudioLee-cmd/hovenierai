@@ -44,11 +44,11 @@ export const benefits: IBenefit[] = [
         imageSrc: "/images/benefits/voice-ai.png"
     },
 
-    // 2. Social Media Planner
+    // 2. Social: de uitkomst, niet de tool (PROPOSITIE-CONTRACT ⛔1)
     {
-        title: "Social Media Planner",
+        title: "Je social loopt door",
         tier: 'basis',
-        description: "De krachtige Social Media Scheduler in app.AIReclameStudio.nl. Connecteert met FB, IG, LinkedIn, TikTok en X.",
+        description: "Je posts staan klaar en gaan vanzelf de deur uit, op Facebook, Instagram, LinkedIn, TikTok en X.",
         bullets: [
             {
                 title: "Posting Engine",

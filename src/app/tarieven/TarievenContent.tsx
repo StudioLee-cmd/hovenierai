@@ -72,17 +72,17 @@ const plans = [
 
 const customOptions = [
   {
-    name: "One-Time Build",
+    name: "Eenmalig laten bouwen",
     price: "Vanaf €1.000",
     description: "Volledig custom gebouwd. Eenmalige investering, geen maandbedrag. Je betaalt daarnaast alleen wat je écht verbruikt.",
-    cta: "Vraag Offerte Aan",
+    cta: "Vraag offerte aan",
     ctaLink: "https://cal.com/studiolee",
   },
   {
     name: "Volledig uit handen",
     price: "Op maat",
     description: "Wij doen alles: de teksten, de vindbaarheid, de social, de opvolging. Jij doet je vak. Wat het kost hangt af van wat je nodig hebt, dat rekenen we samen door.",
-    cta: "Neem Contact Op",
+    cta: "Plan een gesprek",
     ctaLink: "https://cal.com/studiolee",
   },
 ];

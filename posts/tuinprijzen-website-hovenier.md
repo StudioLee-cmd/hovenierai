@@ -8,7 +8,6 @@ image: "/images/blog/tuinprijzen-website-hovenier.png"
 tags: ["prijzen communiceren", "hovenier", "website"]
 cluster: "website"
 ---
-
 "Wat kost een nieuwe tuin?" Huiseigenaren willen het weten voordat ze een hovenier bellen. Toch tonen de meeste hoveniers geen prijzen op hun [website](/blog/hovenierwebsite-offerte-machine). "Elke tuin is anders." Klopt — maar klanten willen op z'n minst weten of ze in de juiste prijsklasse zitten.
 
 ## Waarom klanten afhaken zonder prijsindicatie
@@ -54,6 +53,8 @@ Prijsgerelateerde zoekopdrachten hebben hoge volumes: "hovenier kosten", "tuinaa
 ## Seizoensgebonden prijsstrategie
 
 In het voorjaar zoeken de meeste klanten een hovenier. Zorg dat je prijspagina op dat moment actueel en volledig is. Verwijs naar [seizoensplanning](/blog/seizoensplanning-hovenier-heel-jaar-werk) om klanten ook buiten het hoogseizoen te trekken met aantrekkelijke tarieven. Overweeg winterkortingen voor snoeien en opruimen — zo houd je je agenda het hele jaar gevuld.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/onderhoudscontracten-hovenier-website" class="text-dark fw-semibold">Onderhoudscontracten verkopen via je website als hovenier</a> →</p></div></div></div>
 
 ## Hulp nodig?
 

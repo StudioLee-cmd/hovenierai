@@ -6,6 +6,8 @@ import { footerDetails } from "@/data/footer";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
+    title: `Bedrijfsgegevens en contact | ${siteDetails.siteName}`,
+    description: `De officiële bedrijfsgegevens van ${siteDetails.siteName}: KVK-nummer, BTW-nummer, adres en contact. Wie er achter de AI-assistent voor ${siteDetails.niche.toLowerCase()} zit.`,
     alternates: { canonical: `${siteDetails.siteUrl}legal` },
 };
 

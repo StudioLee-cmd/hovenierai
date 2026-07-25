@@ -8,6 +8,8 @@ import type { Metadata } from "next";
 import { siteDetails } from "@/data/siteDetails";
 
 export const metadata: Metadata = {
+    title: `Blog over AI voor ${siteDetails.niche.toLowerCase()} | ${siteDetails.siteName}`,
+    description: `Artikelen en tips over AI voor ${siteDetails.niche.toLowerCase()}: minder tijd aan de telefoon, slimmer plannen en meer reviews verzamelen zonder extra werk.`,
     alternates: { canonical: `${siteDetails.siteUrl}blog` },
 };
 

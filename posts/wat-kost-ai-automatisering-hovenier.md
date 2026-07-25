@@ -7,7 +7,6 @@ image: "/images/blog/wat-kost-ai-automatisering-hovenier.jpg"
 tags: ["Kosten", "ROI", "Automatisering"]
 cluster: "automatisering"
 ---
-
 Je staat op een ladder een leiboom te snoeien en je telefoon gaat. Voor de derde keer die ochtend. Je kunt niet opnemen, dus de aanvraag verdwijnt naar de hovenier die wel opnam. 's Avonds zie je drie gemiste oproepen en een vol mailtje met offerteverzoeken die je morgen "echt even" gaat oppakken. Klinkt bekend?
 
 Dat is precies het probleem dat AI-automatisering oplost. Maar de vraag die elke hovenier eerst stelt is logisch: wat kost dat dan, en verdien ik het ook echt terug? Hieronder de eerlijke cijfers, zonder verkooppraatje.
@@ -91,6 +90,8 @@ Nee. Er is geen opzegtermijn en geen verplicht jaarcontract. Je betaalt per maan
 Voor de meeste hoveniers binnen enkele weken. Bij een marge van rond €300 per opdracht verdien je het jaarbedrag van €948 al terug met iets meer dan drie gewonnen klussen, oftewel één extra opdracht per kwartaal.
 
 [Lees ook: HovenierAI vs. kantoorpersoneel: waarom meer betalen als het minder oplevert?](/blog/hovenierai-vs-personeel)
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/multi-medewerker-crm-hovenier-tuinnotities-synchroon" class="text-dark fw-semibold">Multi-medewerker CRM: tuinnotities synchroon zonder Excel</a> →</p></div></div></div>
 
 ## Wat StudioLee voor je inricht
 

@@ -8,10 +8,9 @@ image: "/images/blog/social-media-hoveniers-tuinprojecten.png"
 tags: ["Social Media", "Marketing", "Groei"]
 cluster: "social-media"
 ---
-
 ## Waarom social media onmisbaar is voor hoveniers
 
-Social media is allang niet meer alleen voor grote bedrijven met marketingafdelingen. In 2026 is het een basisvoorziening voor elke hovenier die wil groeien. Of je nu net begint of al jarenlang actief bent — zonder online zichtbaarheid loop je klanten mis.
+Social media is allang niet meer alleen voor grote bedrijven met marketingafdelingen. In 2026 is het een basisvoorziening voor elke hovenier die wil groeien. Of je nu net begint of al jarenlang actief bent — zonder [online zichtbaarheid](/social-media) loop je klanten mis.
 
 De cijfers liegen niet: meer dan 13 miljoen Nederlanders zijn dagelijks actief op social media. Je potentiële klanten scrollen door Instagram, Facebook en LinkedIn terwijl jij dit leest. De vraag is niet of je op social media moet zijn, maar hoe je het slim aanpakt.
 
@@ -35,7 +34,7 @@ Niet elk platform is geschikt voor elke branche. Pinterest is een verborgen goud
 
 ## Tuintransformaties spreken voor zich
 
-Als hovenier heb je het mooiste portfolio denkbaar: de natuur zelf. Elke tuinaanleg is een visueel verhaal van transformatie. En dat verkoopt op social media als geen ander.
+Als hovenier heb je het mooiste portfolio denkbaar: de natuur zelf. Elke tuinaanleg is een visueel verhaal van transformatie. En dat verkoopt op [social media](/blog/instagram-carousel-hovenier-voor-na-10-slides) als geen ander.
 
 Pinterest is een platform dat veel hoveniers over het hoofd zien — ten onrechte. Mensen zoeken daar actief naar tuininspiratie. Jouw projectfoto's worden gepind en maanden later nog bekeken. Dat is organisch bereik dat blijft werken.
 

@@ -83,6 +83,8 @@ Een hoveniersbedrijf dat zich scherp positioneert in verduurzamingsdiensten kan 
 
 De investering: 3-6 maanden positionering, één certificering, twee à drie referentie-projecten op de website. Wij begeleiden hoveniers die deze sprong willen maken via onze managed service — van website-inrichting tot lokale SEO tot gerichte content. Meer over [tarieven](/tarieven) en implementatietraject. Of vraag een [gratis scan](/gratis-scan) aan waarin we jouw huidige positionering analyseren en de drie meest kansrijke verduurzamings-diensten voor jouw regio benoemen.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hovenier-branding-jaarcontracten-klanten-binden" class="text-dark fw-semibold">Hovenier branding: jaarcontracten uit herkenbaarheid</a> →</p></div></div></div>
+
 ## Groei-of-Geld-Terug Garantie
 
 Als na zes maanden je gemiddelde opdrachtwaarde niet meetbaar is gestegen en het aandeel duurzame projecten in je omzet niet is toegenomen, krijg je je investering terug. Jij bouwt de groene tuinen, wij zorgen dat de juiste klanten je vinden.

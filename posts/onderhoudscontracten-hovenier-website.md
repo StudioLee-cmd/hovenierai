@@ -61,6 +61,8 @@ Veel klanten twijfelen tussen zelf hun tuin doen en een contract afsluiten. Je w
 
 **Social proof.** [Reviews](/reviews) van bestaande contractklanten die vertellen hoe prettig het is om hun tuin altijd in goede staat te zien zonder er zelf aan te hoeven denken. Eén review van een contractklant is meer waard dan tien reviews over losse klussen.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/elite-hovenier-app" class="text-dark fw-semibold"></a> →</p></div></div></div>
+
 ## Begin met je website als verkoopkanaal
 
 Onderhoudscontracten verkopen zichzelf niet. Je website moet het werk doen: de juiste pagina's, de juiste informatie en de juiste zoekwoorden zodat klanten je vinden wanneer ze zoeken. Maak die aparte pagina, schrijf seizoenscontent en zet reviews van contractklanten centraal. Wil je weten hoe jouw website presteert en waar de kansen liggen? Vraag een [gratis scan](/gratis-scan) aan.

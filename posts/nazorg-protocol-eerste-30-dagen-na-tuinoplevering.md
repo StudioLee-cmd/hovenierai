@@ -140,6 +140,8 @@ Een sjabloon-antwoord met de top-5 meest voorkomende vragen reageert op 80% dire
 
 Voor klussen onder €2.000 is een vereenvoudigde 2-staps versie genoeg: een 24-uur-bericht en een 14-dagen-check. De volledige 4-staps protocol is operationeel zwaar voor kleine projecten en niet nodig — de financiële inzet en complexiteit zijn beperkt.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klanttevredenheid-meten-hoveniers-3-methodes" class="text-dark fw-semibold">Klanttevredenheid meten: 3 methodes voor hoveniers</a> →</p></div></div></div>
+
 ## Conclusie
 
 De grootste retentie- en review-winst voor een hovenier zit niet in betere planten of een mooiere portfolio — het zit in hoe je omgaat met de eerste 30 dagen na oplevering. Klanten die zich in die periode begeleid voelen, ervaren een veel hoger niveau aan vakmanschap dan klanten die exact dezelfde aanleg hadden maar in stilte werden achtergelaten. De vier momenten — 24u-bericht, 7-dagen-check, 21-dagen-foto-rondje, 30-dagen-afspraak — dekken het overgrote deel van wat een klant nodig heeft om gerust te blijven.

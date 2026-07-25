@@ -59,6 +59,8 @@ Na een tuinaanleg, een seizoensonderhoudsbeurt en een snoeiklus is een klant loy
 - Structurele herhaalopdrachten via seizoensherinneringen
 - Minder weervertragingen door proactieve communicatie
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/leads-opvolgen-hovenier-offerte-klus" class="text-dark fw-semibold">Leads opvolgen als hovenier: van offerte naar klus</a> →</p></div></div></div>
+
 ## Begin met de grootste impact
 
 Installeer calculatiesoftware en stel seizoensherinneringen in voor bestaande klanten. Die twee stappen samen leveren direct meer omzet en minder administratietijd op.

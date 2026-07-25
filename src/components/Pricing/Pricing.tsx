@@ -148,9 +148,7 @@ const Pricing: React.FC = () => {
                 {/* Signing Bonus Banner */}
                 {isAnnual && (
                     <motion.div
-                        initial={{ opacity: 0, y: -10 }}
-                        animate={{ opacity: 1, y: 0 }}
-                        className="flex justify-center mb-8"
+                        className="flex justify-center mb-8 sl-reveal"
                     >
                         <div className="bg-amber-100 dark:bg-amber-900/40 border border-amber-200 dark:border-amber-500/30 text-amber-800 dark:text-amber-300 px-6 py-3 rounded-xl flex items-center gap-3 shadow-sm max-w-2xl text-center">
                             <span className="text-xl">🎁</span>

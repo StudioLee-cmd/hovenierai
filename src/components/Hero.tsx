@@ -49,15 +49,11 @@ const Hero: React.FC = () => {
                 />
             </div>
 
-            <div className="absolute left-0 right-0 bottom-0 backdrop-blur-[2px] h-40 bg-gradient-to-b from-transparent via-[var(--hero-gradient-via)] to-[var(--hero-gradient-to)]">
+            <div className="absolute left-0 right-0 bottom-0 h-40 bg-gradient-to-b from-transparent via-[var(--hero-gradient-via)] to-[var(--hero-gradient-to)]">
             </div>
 
             <div className="text-center relative">
-                <motion.div
-                    initial={{ opacity: 0, y: 20 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    transition={{ duration: 0.5 }}
-                >
+                <motion.div className="sl-reveal">
                     <h1 className="text-4xl md:text-7xl md:leading-tight font-extrabold font-heading text-foreground max-w-lg md:max-w-5xl mx-auto">
                         <motion.span
                             style={{ x: xLeft, opacity, display: 'inline-block' }}
@@ -81,21 +77,15 @@ const Hero: React.FC = () => {
                 </motion.div>
 
                 <motion.p
-                    initial={{ opacity: 0, y: 20 }}
-                    animate={{ opacity: 1, y: 0 }}
                     style={{ opacity, scale }}
-                    transition={{ duration: 0.5, delay: 0.2 }}
-                    className="mt-6 text-lg text-foreground/80 max-w-lg mx-auto font-medium"
+                    className="mt-6 text-lg text-foreground/80 max-w-lg mx-auto font-medium sl-reveal sl-reveal-1"
                 >
                     {heroDetails.subheading}
                 </motion.p>
 
 
                 <motion.div
-                    initial={{ opacity: 0, y: 20 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    transition={{ duration: 0.5, delay: 0.4 }}
-                    className="flex flex-col items-center mt-10"
+                    className="flex flex-col items-center mt-10 sl-reveal sl-reveal-2"
                 >
                     <div className="mb-6 flex flex-wrap items-center justify-center gap-2 text-lg sm:text-xl md:text-2xl font-semibold">
 
@@ -140,14 +130,13 @@ const Hero: React.FC = () => {
                 </motion.div>
 
                 <motion.div
-                    initial={{ opacity: 0, y: 40, scale: 0.95 }}
-                    animate={{ opacity: 1, y: 0, scale: 1 }}
-                    transition={{ duration: 0.8, delay: 0.6, type: "spring" }}
-                    className="light-video-blend"
+                    className="light-video-blend sl-reveal sl-reveal-3"
                 >
                     <div className="relative mt-12 md:mt-16 mx-auto flex justify-center px-4">
                         <video
                             src="/videos/hero-left.mp4"
+                            poster="/videos/hero-left-poster.jpg"
+                            preload="none"
                             autoPlay
                             muted
                             loop

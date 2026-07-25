@@ -128,32 +128,22 @@ export default function CrmContent() {
       <section className="py-12 md:py-20 px-4">
         <div className="max-w-4xl mx-auto text-center">
           <motion.p
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="text-primary font-semibold text-sm uppercase tracking-wider mb-4"
+            className="text-primary font-semibold text-sm uppercase tracking-wider mb-4 sl-reveal"
           >
             CRM voor {siteDetails.niche}
           </motion.p>
           <motion.h1
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="text-4xl md:text-6xl font-bold mb-6 leading-tight"
+            className="text-4xl md:text-6xl font-bold mb-6 leading-tight sl-reveal"
           >
             Eén klantenbestand. Volledige historie. Nul gemiste klanten.
           </motion.h1>
           <motion.p
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.1 }}
-            className="text-lg md:text-xl text-foreground-accent mb-8 max-w-2xl mx-auto"
+            className="text-lg md:text-xl text-foreground-accent mb-8 max-w-2xl mx-auto sl-reveal sl-reveal-1"
           >
             Een CRM die jouw {nicheSingular}-bedrijf op één plek bundelt: klantgegevens, afspraken, communicatie en automatische follow-ups. Geen versnipperde Excel-bestanden, geen vergeten klanten, geen omzet die wegloopt.
           </motion.p>
           <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.2 }}
-            className="flex flex-col sm:flex-row gap-4 justify-center"
+            className="flex flex-col sm:flex-row gap-4 justify-center sl-reveal sl-reveal-1"
           >
             <a
               href="/gratis-scan"
@@ -170,10 +160,7 @@ export default function CrmContent() {
           </motion.div>
         </div>
         <motion.div
-          initial={{ opacity: 0, y: 30 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.4, duration: 0.6 }}
-          className="max-w-5xl mx-auto mt-12 px-4"
+          className="max-w-5xl mx-auto mt-12 px-4 sl-reveal sl-reveal-2"
         >
           <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
             <Image

@@ -124,103 +124,114 @@ const LightRays: React.FC<LightRaysProps> = ({
     useEffect(() => {
         if (!containerRef.current) return;
 
-        const renderer = new Renderer({
-            alpha: true,
-            premultipliedAlpha: false,
-            dpr: window.devicePixelRatio
-        });
+        // ⚠️ `new Renderer()` THROWT als de browser geen WebGL-context geeft (oude/zuinige
+        //    Androids, geblokkeerde GPU, iOS Lockdown Mode, headless zonder GPU). Een throw in
+        //    een effect klapt de hele React-tree naar Next's "Application error: a client-side
+        //    exception has occurred" — gemeten 25-07 kreeg headless Chrome zónder GPU dus niet de
+        //    site maar die foutpagina te zien, en de CWV-meting mat een foutscherm. Deze laag
+        //    staat op opacity 0.1: geen WebGL = geen rays, en de site draait gewoon door.
+        try {
 
-        const gl = renderer.gl;
-        containerRef.current.appendChild(gl.canvas);
-        rendererRef.current = renderer;
+            const renderer = new Renderer({
+                alpha: true,
+                premultipliedAlpha: false,
+                dpr: window.devicePixelRatio
+            });
 
-        const geometry = new Triangle(gl);
+            const gl = renderer.gl;
+            containerRef.current.appendChild(gl.canvas);
+            rendererRef.current = renderer;
 
-        // Determine Origin Coordinate
-        let originX = 0.5;
-        let originY = 0.5;
+            const geometry = new Triangle(gl);
 
-        if (raysOrigin.includes('top')) originY = 1.0; // In standard UV, 1 is top usually? Wait, OGL might vary.
-        // Normalized coords: 0,0 is bottom-left usually in WebGL. 
-        // Let's assume UVs: (0,0) bottom-left, (1,1) top-right.
-        // So 'top' means Y=1. 'bottom' means Y=0.
+            // Determine Origin Coordinate
+            let originX = 0.5;
+            let originY = 0.5;
 
-        if (raysOrigin.includes('top')) originY = 1.2; // Slightly offscreen
-        if (raysOrigin.includes('bottom')) originY = -0.2;
-        if (raysOrigin.includes('left')) originX = -0.2;
-        if (raysOrigin.includes('right')) originX = 1.2;
-        if (raysOrigin === 'center') { originX = 0.5; originY = 0.5; }
+            if (raysOrigin.includes('top')) originY = 1.0; // In standard UV, 1 is top usually? Wait, OGL might vary.
+            // Normalized coords: 0,0 is bottom-left usually in WebGL. 
+            // Let's assume UVs: (0,0) bottom-left, (1,1) top-right.
+            // So 'top' means Y=1. 'bottom' means Y=0.
 
-        // Correct logic for named positions
-        if (raysOrigin === 'top-center') { originX = 0.5; originY = 1.1; }
+            if (raysOrigin.includes('top')) originY = 1.2; // Slightly offscreen
+            if (raysOrigin.includes('bottom')) originY = -0.2;
+            if (raysOrigin.includes('left')) originX = -0.2;
+            if (raysOrigin.includes('right')) originX = 1.2;
+            if (raysOrigin === 'center') { originX = 0.5; originY = 0.5; }
 
-        const color = new Color(raysColor);
+            // Correct logic for named positions
+            if (raysOrigin === 'top-center') { originX = 0.5; originY = 1.1; }
 
-        const programInstance = new Program(gl, {
-            vertex: vert,
-            fragment: frag,
-            uniforms: {
-                uTime: { value: 0 },
-                uMouse: { value: mouseRef.current },
-                uResolution: { value: new Vec2(gl.canvas.width, gl.canvas.height) },
-                uColor: { value: new Color(raysColor) }, // OGL Color automatically handles hex
-                uSpeed: { value: raysSpeed },
-                uSpread: { value: lightSpread },
-                uLength: { value: rayLength },
-                uNoise: { value: noiseAmount },
-                uDistortion: { value: distortion },
-                uFade: { value: fadeDistance },
-                uPulsating: { value: pulsating ? 1 : 0 },
-                uOrigin: { value: new Vec2(originX, originY) },
-                uMouseInfluence: { value: mouseInfluence }
-            },
-            transparent: true,
-        });
+            const color = new Color(raysColor);
 
-        programRef.current = programInstance;
+            const programInstance = new Program(gl, {
+                vertex: vert,
+                fragment: frag,
+                uniforms: {
+                    uTime: { value: 0 },
+                    uMouse: { value: mouseRef.current },
+                    uResolution: { value: new Vec2(gl.canvas.width, gl.canvas.height) },
+                    uColor: { value: new Color(raysColor) }, // OGL Color automatically handles hex
+                    uSpeed: { value: raysSpeed },
+                    uSpread: { value: lightSpread },
+                    uLength: { value: rayLength },
+                    uNoise: { value: noiseAmount },
+                    uDistortion: { value: distortion },
+                    uFade: { value: fadeDistance },
+                    uPulsating: { value: pulsating ? 1 : 0 },
+                    uOrigin: { value: new Vec2(originX, originY) },
+                    uMouseInfluence: { value: mouseInfluence }
+                },
+                transparent: true,
+            });
 
-        const mesh = new Mesh(gl, { geometry, program: programInstance });
+            programRef.current = programInstance;
 
-        let animationId: number;
+            const mesh = new Mesh(gl, { geometry, program: programInstance });
 
-        const update = (t: number) => {
+            let animationId: number;
+
+            const update = (t: number) => {
+                animationId = requestAnimationFrame(update);
+                const time = t * 0.001;
+
+                programInstance.uniforms.uTime.value = time;
+                programInstance.uniforms.uMouse.value = mouseRef.current;
+
+                renderer.render({ scene: mesh });
+            };
+
             animationId = requestAnimationFrame(update);
-            const time = t * 0.001;
 
-            programInstance.uniforms.uTime.value = time;
-            programInstance.uniforms.uMouse.value = mouseRef.current;
+            const handleResize = () => {
+                renderer.setSize(containerRef.current!.clientWidth, containerRef.current!.clientHeight);
+                programInstance.uniforms.uResolution.value.set(gl.canvas.width, gl.canvas.height);
+            };
 
-            renderer.render({ scene: mesh });
-        };
+            window.addEventListener('resize', handleResize);
+            handleResize();
 
-        animationId = requestAnimationFrame(update);
+            const handleMouseMove = (e: MouseEvent) => {
+                if (!followMouse) return;
+                const rect = containerRef.current?.getBoundingClientRect();
+                if (rect) {
+                    mouseRef.current.set(e.clientX - rect.left, rect.height - (e.clientY - rect.top)); // Flip Y for WebGL
+                }
+            };
 
-        const handleResize = () => {
-            renderer.setSize(containerRef.current!.clientWidth, containerRef.current!.clientHeight);
-            programInstance.uniforms.uResolution.value.set(gl.canvas.width, gl.canvas.height);
-        };
+            window.addEventListener('mousemove', handleMouseMove);
 
-        window.addEventListener('resize', handleResize);
-        handleResize();
-
-        const handleMouseMove = (e: MouseEvent) => {
-            if (!followMouse) return;
-            const rect = containerRef.current?.getBoundingClientRect();
-            if (rect) {
-                mouseRef.current.set(e.clientX - rect.left, rect.height - (e.clientY - rect.top)); // Flip Y for WebGL
-            }
-        };
-
-        window.addEventListener('mousemove', handleMouseMove);
-
-        return () => {
-            cancelAnimationFrame(animationId);
-            window.removeEventListener('resize', handleResize);
-            window.removeEventListener('mousemove', handleMouseMove);
-            if (containerRef.current && gl.canvas.parentNode === containerRef.current) {
-                containerRef.current.removeChild(gl.canvas);
-            }
-        };
+            return () => {
+                cancelAnimationFrame(animationId);
+                window.removeEventListener('resize', handleResize);
+                window.removeEventListener('mousemove', handleMouseMove);
+                if (containerRef.current && gl.canvas.parentNode === containerRef.current) {
+                    containerRef.current.removeChild(gl.canvas);
+                }
+            };
+        } catch {
+            return;   // geen WebGL — de rays vervallen stil, de rest van de pagina niet
+        }
     }, [raysOrigin, raysColor, raysSpeed, lightSpread, rayLength, followMouse, mouseInfluence, noiseAmount, distortion, pulsating, fadeDistance, saturation]);
 
     return (

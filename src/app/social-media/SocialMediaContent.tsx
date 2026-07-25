@@ -51,34 +51,23 @@ export default function SocialMediaContent() {
       <section className="py-12 md:py-20 px-4">
         <div className="max-w-4xl mx-auto text-center">
           <motion.p
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="text-primary font-semibold text-sm uppercase tracking-wider mb-4"
+            className="text-primary font-semibold text-sm uppercase tracking-wider mb-4 sl-reveal"
           >
             Strategie & Uitvoering
           </motion.p>
           <motion.h1
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.1 }}
-            className="text-4xl md:text-5xl font-bold mb-6 !leading-tight"
+            className="text-4xl md:text-5xl font-bold mb-6 !leading-tight sl-reveal sl-reveal-1"
           >
             Social Media voor {niche}:<br />Strategie & Uitvoering in Één
           </motion.h1>
           <motion.p
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.2 }}
-            className="text-lg text-foreground-accent max-w-2xl mx-auto mb-8"
+            className="text-lg text-foreground-accent max-w-2xl mx-auto mb-8 sl-reveal sl-reveal-1"
           >
             Niet alleen automatisch posten — wij helpen met de complete social media strategie.
             Content planning, platform keuze, portfolio-content en consulting. Alles inbegrepen.
           </motion.p>
           <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.3 }}
-            className="flex flex-col sm:flex-row gap-4 justify-center"
+            className="flex flex-col sm:flex-row gap-4 justify-center sl-reveal sl-reveal-2"
           >
             <a href="/gratis-scan" className="bg-primary text-black px-8 py-3 rounded-xl font-semibold hover:bg-primary-accent transition-all">
               Start Gratis
@@ -89,10 +78,7 @@ export default function SocialMediaContent() {
           </motion.div>
         </div>
         <motion.div
-          initial={{ opacity: 0, y: 30 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.4, duration: 0.6 }}
-          className="max-w-5xl mx-auto mt-12 px-4"
+          className="max-w-5xl mx-auto mt-12 px-4 sl-reveal sl-reveal-2"
         >
           <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
             <Image

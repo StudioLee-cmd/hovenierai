@@ -65,35 +65,24 @@ export default function GratisWebsiteContent() {
             {/* Left: Copy */}
             <div>
               <motion.span
-                initial={{ opacity: 0, y: 10 }}
-                animate={{ opacity: 1, y: 0 }}
-                className="inline-block bg-green-500/10 text-green-500 text-sm font-bold px-4 py-1.5 rounded-full mb-4"
+                className="inline-block bg-green-500/10 text-green-500 text-sm font-bold px-4 py-1.5 rounded-full mb-4 sl-reveal"
               >
                 100% Gratis — Geen Verplichtingen
               </motion.span>
               <motion.h1
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: 0.1 }}
-                className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 !leading-tight"
+                className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 !leading-tight sl-reveal sl-reveal-1"
               >
                 Gratis Website Design voor {niche}
               </motion.h1>
               <motion.p
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: 0.2 }}
-                className="text-lg text-foreground-accent mb-6"
+                className="text-lg text-foreground-accent mb-6 sl-reveal sl-reveal-1"
               >
                 Wij maken een volledig nieuw website design op maat voor jouw {nicheSingular}sbedrijf.
                 Met moderne animaties, SEO optimalisatie en een live preview link. Meestal binnen 48 uur klaar.
               </motion.p>
 
               <motion.div
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: 0.3 }}
-                className="space-y-3 mb-8"
+                className="space-y-3 mb-8 sl-reveal sl-reveal-2"
               >
                 {["Live preview op eigen link", "SEO-geoptimaliseerd", "Professioneel design op maat", "Bestanden zijn van jou"].map((item) => (
                   <div key={item} className="flex items-center gap-3">
@@ -105,10 +94,7 @@ export default function GratisWebsiteContent() {
 
               {/* Pricing after */}
               <motion.div
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: 0.4 }}
-                className="bg-[var(--card-background)] border border-[var(--card-border)] rounded-xl p-5"
+                className="bg-[var(--card-background)] border border-[var(--card-border)] rounded-xl p-5 sl-reveal sl-reveal-2"
               >
                 <p className="font-semibold mb-3">En daarna? Jij kiest:</p>
                 <div className="space-y-2 text-sm text-foreground-accent">
@@ -132,18 +118,13 @@ export default function GratisWebsiteContent() {
 
             {/* Right: Form */}
             <motion.div
-              initial={{ opacity: 0, x: 30 }}
-              animate={{ opacity: 1, x: 0 }}
-              transition={{ delay: 0.3 }}
-              className="bg-[var(--card-background)] border border-[var(--card-border)] rounded-2xl p-6 md:p-8 shadow-xl"
+              className="bg-[var(--card-background)] border border-[var(--card-border)] rounded-2xl p-6 md:p-8 shadow-xl sl-reveal sl-reveal-2"
             >
               <AnimatePresence mode="wait">
                 {isSubmitted ? (
                   <motion.div
                     key="success"
-                    initial={{ opacity: 0, scale: 0.95 }}
-                    animate={{ opacity: 1, scale: 1 }}
-                    className="text-center py-8"
+                    className="text-center py-8 sl-reveal"
                   >
                     <BsCheckCircleFill className="text-green-500 text-5xl mx-auto mb-4" />
                     <h3 className="text-2xl font-bold mb-2">Aanvraag ontvangen!</h3>
@@ -224,10 +205,7 @@ export default function GratisWebsiteContent() {
         </div>
         {/* Hero image */}
         <motion.div
-          initial={{ opacity: 0, y: 30 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.5, duration: 0.6 }}
-          className="max-w-5xl mx-auto mt-16 px-4"
+          className="max-w-5xl mx-auto mt-16 px-4 sl-reveal sl-reveal-3"
         >
           <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
             <Image

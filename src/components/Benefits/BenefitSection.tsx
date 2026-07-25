@@ -106,10 +106,7 @@ const BenefitSection: React.FC<Props> = ({ benefit, imageAtRight }: Props) => {
                 {(imageSrc || videoSrc) && (
                     <motion.div
                         key={videoSrc || imageSrc}
-                        className={clsx("mt-5 lg:mt-0", { "lg:order-2": imageAtRight })}
-                        initial={{ opacity: 0, x: 50 }}
-                        animate={{ opacity: 1, x: 0 }}
-                        transition={{ duration: 0.8, delay: 0.2 }}
+                        className={`${clsx("mt-5 lg:mt-0", { "lg:order-2": imageAtRight })}} sl-reveal sl-reveal-1`}
                     >
                         <div className={clsx("w-fit flex", { "justify-start": imageAtRight, "justify-end": !imageAtRight })}>
                             {videoSrc ? (

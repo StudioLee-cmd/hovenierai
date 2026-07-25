@@ -122,35 +122,24 @@ export default function ChatbotContent() {
       <section className="py-12 md:py-20 px-4">
         <div className="max-w-4xl mx-auto text-center">
           <motion.p
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="text-primary font-semibold text-sm uppercase tracking-wider mb-4"
+            className="text-primary font-semibold text-sm uppercase tracking-wider mb-4 sl-reveal"
           >
             AI Chatbot
           </motion.p>
           <motion.h1
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.1 }}
-            className="text-4xl md:text-5xl font-bold mb-6"
+            className="text-4xl md:text-5xl font-bold mb-6 sl-reveal sl-reveal-1"
           >
             AI Chatbot voor {siteDetails.niche}: 24/7 Klanten Opvangen
           </motion.h1>
           <motion.p
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.2 }}
-            className="text-lg text-foreground-accent max-w-2xl mx-auto mb-8"
+            className="text-lg text-foreground-accent max-w-2xl mx-auto mb-8 sl-reveal sl-reveal-1"
           >
             Een slimme AI chatbot die jouw website bezoekers direct helpt,
             vragen beantwoordt en afspraken inplant — ook als jij niet
             beschikbaar bent. Geen gemiste leads meer.
           </motion.p>
           <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.3 }}
-            className="flex flex-col sm:flex-row gap-4 justify-center"
+            className="flex flex-col sm:flex-row gap-4 justify-center sl-reveal sl-reveal-2"
           >
             <a
               href="https://cal.com/studiolee"
@@ -171,10 +160,7 @@ export default function ChatbotContent() {
           </motion.div>
         </div>
         <motion.div
-          initial={{ opacity: 0, y: 30 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.4, duration: 0.6 }}
-          className="max-w-5xl mx-auto mt-12 px-4"
+          className="max-w-5xl mx-auto mt-12 px-4 sl-reveal sl-reveal-2"
         >
           <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
             <Image

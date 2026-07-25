@@ -22,27 +22,19 @@ export default function ReviewPage() {
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 text-center">
 
                     <motion.h1
-                        initial={{ opacity: 0, y: 20 }}
-                        animate={{ opacity: 1, y: 0 }}
-                        className="text-5xl md:text-7xl font-bold text-gray-900 dark:text-white mb-6 bg-clip-text text-transparent bg-gradient-to-r from-gray-900 via-gray-800 to-gray-700 dark:from-white dark:via-gray-200 dark:to-gray-400"
+                        className="text-5xl md:text-7xl font-bold text-gray-900 dark:text-white mb-6 bg-clip-text text-transparent bg-gradient-to-r from-gray-900 via-gray-800 to-gray-700 dark:from-white dark:via-gray-200 dark:to-gray-400 sl-reveal"
                     >
                         Boost je Online Reputatie
                     </motion.h1>
                     <motion.p
-                        initial={{ opacity: 0, y: 20 }}
-                        animate={{ opacity: 1, y: 0 }}
-                        transition={{ delay: 0.1 }}
-                        className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto mb-10"
+                        className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto mb-10 sl-reveal sl-reveal-1"
                     >
                         Start met het verzamelen van 5-sterren reviews via onze slimme NFC-tools en software.
                         Professioneel ontworpen voor jouw merk.
                     </motion.p>
                 </div>
                 <motion.div
-                    initial={{ opacity: 0, y: 30 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    transition={{ delay: 0.3, duration: 0.6 }}
-                    className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 mt-12 relative z-10"
+                    className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 mt-12 relative z-10 sl-reveal sl-reveal-2"
                 >
                     <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-700 shadow-2xl">
                         <Image

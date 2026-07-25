@@ -134,3 +134,36 @@ h6 {
 ::view-transition-group(root) {
   animation-duration: 0.7s;
 }
+
+/* ⚡ LCP — de eerste paint mag niet op de JS-hydration wachten (25-07, hero-video-lcp-fix-niche-fleet).
+   framer-motion's `initial={{opacity:0}}` schrijft `style="opacity:0"` in de SERVER-HTML: boven de vouw
+   staat er dan letterlijk niets te schilderen tot de bundle gehydrateerd is. Gemeten was dat 83-88% van
+   de LCP (render delay), op homepage EN pillar. Deze klassen doen dezelfde reveal in CSS — die start bij
+   de eerste paint. `backwards` (niet `both`): na afloop laat de animatie de waarde weer los, zodat een
+   scroll-gestuurde MotionValue op hetzelfde element gewoon de baas blijft.
+
+   ⚠️ BEWUST ALLEEN `transform`, GEEN `opacity` — en dat is gemeten, niet gekozen op smaak. Een reveal die
+   op opacity 0 begint houdt de LCP net zo hard tegen als de JS-versie zodra de main thread vastzit (TBT
+   ~7 s tijdens hydration): de animatie kan dan niet starten, dus het element blijft onzichtbaar. Gemeten
+   op één machine, drie builds van dezelfde repo:
+       origineel (framer)          observed FCP 1.333 s → LCP 3.357 s   (gat 2,0 s)
+       CSS-reveal MET opacity      observed FCP 2.136 s → LCP 2.329 s   (gat 0,2 s)
+       CSS-reveal ZONDER opacity   observed FCP 1.957 s → LCP 1.957 s   (gat 0,0 s)
+   Tekst die er staat mag nooit onzichtbaar wachten op een animatie: de inhoud schuift omhoog, 'ie
+   verschijnt niet. Dat is ook fail-closed — een nieuwe zware component kan de reveal niet meer gijzelen. */
+@keyframes sl-reveal-up {
+  from { transform: translateY(20px); }
+  to   { transform: none; }
+}
+
+.sl-reveal {
+  animation: sl-reveal-up 0.5s cubic-bezier(0.22, 1, 0.36, 1) backwards;
+}
+
+.sl-reveal-1 { animation-delay: 0.08s; }
+.sl-reveal-2 { animation-delay: 0.16s; }
+.sl-reveal-3 { animation-delay: 0.24s; }
+
+@media (prefers-reduced-motion: reduce) {
+  .sl-reveal { animation: none; }
+}

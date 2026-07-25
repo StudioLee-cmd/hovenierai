@@ -152,9 +152,7 @@ export default function ReviewsContent() {
 
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 text-center">
           <motion.div
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="flex items-center justify-center gap-1 mb-6"
+            className="flex items-center justify-center gap-1 mb-6 sl-reveal"
           >
             {[...Array(5)].map((_, i) => (
               <BsStarFill key={i} size={28} className="text-yellow-400" />
@@ -162,27 +160,18 @@ export default function ReviewsContent() {
           </motion.div>
 
           <motion.h1
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.1 }}
-            className="text-4xl md:text-6xl font-bold text-gray-900 dark:text-white mb-6 bg-clip-text text-transparent bg-gradient-to-r from-gray-900 to-gray-700 dark:from-white dark:to-gray-300"
+            className="text-4xl md:text-6xl font-bold text-gray-900 dark:text-white mb-6 bg-clip-text text-transparent bg-gradient-to-r from-gray-900 to-gray-700 dark:from-white dark:to-gray-300 sl-reveal sl-reveal-1"
           >
             Review Management voor {nichePlural}: Automatisch 5 Sterren Verzamelen
           </motion.h1>
           <motion.p
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.2 }}
-            className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto mb-10"
+            className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto mb-10 sl-reveal sl-reveal-1"
           >
             Laat je klanten automatisch reviews achterlaten via WhatsApp, NFC-kaarten en
             slimme software. Meer sterren, meer vertrouwen, meer klanten.
           </motion.p>
           <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.3 }}
-            className="flex flex-col sm:flex-row items-center justify-center gap-4"
+            className="flex flex-col sm:flex-row items-center justify-center gap-4 sl-reveal sl-reveal-2"
           >
             <Link
               href="/gratis-scan"
@@ -203,10 +192,7 @@ export default function ReviewsContent() {
           </motion.div>
         </div>
         <motion.div
-          initial={{ opacity: 0, y: 30 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.4, duration: 0.6 }}
-          className="max-w-5xl mx-auto mt-12 px-4"
+          className="max-w-5xl mx-auto mt-12 px-4 sl-reveal sl-reveal-2"
         >
           <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
             <Image

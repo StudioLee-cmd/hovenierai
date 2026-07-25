@@ -125,25 +125,17 @@ export default function TarievenContent() {
       <section className="py-12 md:py-20 px-4">
         <div className="max-w-4xl mx-auto text-center">
           <motion.p
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="text-primary font-semibold text-sm uppercase tracking-wider mb-4"
+            className="text-primary font-semibold text-sm uppercase tracking-wider mb-4 sl-reveal"
           >
             Eerlijk verhaal
           </motion.p>
           <motion.h1
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.1 }}
-            className="text-4xl md:text-5xl font-bold mb-6"
+            className="text-4xl md:text-5xl font-bold mb-6 sl-reveal sl-reveal-1"
           >
             Het ontwerp is gratis. Het draaien niet.
           </motion.h1>
           <motion.p
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.2 }}
-            className="text-lg text-foreground-accent max-w-2xl mx-auto"
+            className="text-lg text-foreground-accent max-w-2xl mx-auto sl-reveal sl-reveal-1"
           >
             Je krijgt het ontwerp én het bestand, zonder voorwaarden. Wat je daarna betaalt is voor het werk dat een website pas iets laat opleveren. Hieronder staat precies wat wat kost.
           </motion.p>
@@ -154,10 +146,7 @@ export default function TarievenContent() {
       <section className="px-4 pb-12">
         <div className="max-w-4xl mx-auto">
           <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.3 }}
-            className="bg-gradient-to-r from-[#1a1a2e] to-[#16213e] rounded-2xl p-6 md:p-8 text-white text-center"
+            className="bg-gradient-to-r from-[#1a1a2e] to-[#16213e] rounded-2xl p-6 md:p-8 text-white text-center sl-reveal sl-reveal-2"
           >
             <p className="text-sm text-gray-400 mb-2">Traditioneel bureau voor {niche}</p>
             <p className="text-2xl md:text-3xl font-bold mb-2">
@@ -178,14 +167,11 @@ export default function TarievenContent() {
           {plans.map((plan, i) => (
             <motion.div
               key={plan.name}
-              initial={{ opacity: 0, y: 30 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: 0.2 + i * 0.1 }}
-              className={`relative rounded-2xl p-6 md:p-8 border ${
+              className={`${`relative rounded-2xl p-6 md:p-8 border ${
                 plan.highlight
                   ? "border-primary bg-[var(--card-background)] shadow-xl shadow-primary/10 scale-[1.02]"
                   : "border-[var(--card-border)] bg-[var(--card-background)]"
-              }`}
+              }`}} sl-reveal sl-reveal-1`}
             >
               {plan.badge && (
                 <span

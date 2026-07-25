@@ -61,6 +61,8 @@ Een [gratis scan](/gratis-scan) vangt automatisch vragen op en plant afspraken i
 
 Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [SEO](/seo) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/tuinprijzen-website-hovenier" class="text-dark fw-semibold">Tuinprijzen op je website als hovenier: transparantie die vertrouwen bouwt</a> →</p></div></div></div>
+
 ## Conclusie
 
 Je portfolio is je stille verkoper. Investeer 5 minuten per project in goede foto's en een korte beschrijving, en je hebt marketingmateriaal dat jarenlang klanten binnenhaalt.

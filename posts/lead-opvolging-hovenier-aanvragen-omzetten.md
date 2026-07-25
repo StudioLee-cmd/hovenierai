@@ -7,7 +7,6 @@ image: "/images/blog/lead-opvolging-hovenier-aanvragen-omzetten.jpg"
 tags: ["Lead opvolging", "Klanten", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Waarom hoveniers zoveel aanvragen mislopen
 
 Als hovenier werk je buiten. Je zit in de tuin, je handen zitten onder de aarde, en je telefoon ligt in je jas of in de bus. Tegen de tijd dat je 's avonds je gemiste oproepen bekijkt, heeft de helft van die mensen al een andere hovenier gevonden.
@@ -64,12 +63,14 @@ Een veelgemaakte fout is het sturen van een offerte per e-mail zonder follow-up.
 
 Voeg foto's van vergelijkbare projecten toe aan je offerte. Een tuineigenaar die ziet wat je eerder hebt gedaan in een vergelijkbare tuin, voelt meer vertrouwen en accepteert sneller. Visueel bewijs verkoopt beter dan woorden.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hoveniersaanvragen-kwalificeren-snel-triage" class="text-dark fw-semibold">Hoveniersaanvragen kwalificeren in 5 minuten</a> →</p></div></div></div>
+
 ## Structureel meer omzet zonder extra marketing
 
 De meeste hoveniers denken dat ze meer advertenties nodig hebben. In werkelijkheid verliezen ze 30 tot 50 procent van hun bestaande aanvragen door trage opvolging. Los dat op, en je hebt geen extra marketing nodig.
 
 Doe de rekensom: als je 20 aanvragen per maand ontvangt en er 8 van mist, zijn dat 8 potentiële opdrachten die naar de concurrent gaan. Bij een gemiddelde opdrachtwaarde van €2.000 is dat €16.000 per maand aan gemiste omzet. Op jaarbasis is dat bijna €200.000 — meer dan genoeg om een extra medewerker aan te nemen.
 
-Automatische opvolging kost een fractie van wat je nu verliest. Het verschil tussen een volle en een half-lege agenda is niet meer marketing — het is betere opvolging van de aanvragen die je al hebt.
+[Automatische opvolging](/automatisering) kost een fractie van wat je nu verliest. Het verschil tussen een volle en een half-lege agenda is niet meer marketing — het is betere opvolging van de aanvragen die je al hebt.
 
 Wil je weten hoeveel tuinopdrachten jij misloopt? Vraag een [gratis AI-scan](/gratis-scan) aan.

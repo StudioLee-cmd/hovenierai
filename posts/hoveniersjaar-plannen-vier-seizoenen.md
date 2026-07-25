@@ -7,7 +7,6 @@ image: "/images/blog/hoveniersjaar-plannen-vier-seizoenen.jpg"
 tags: ["Planning", "Seizoenswerk", "Hovenier"]
 cluster: "automatisering"
 ---
-
 ## In het kort
 
 - **Een gemiddelde Nederlandse hovenier draait 70% van zijn omzet in 6 maanden** (april tot oktober). De andere 6 maanden zijn vaak halflege agenda's.
@@ -149,6 +148,8 @@ Een week brainstormen op de seizoens-mix, een maand om marketing-content te ontw
 ### Werkt dit voor andere groene branches (boomkwekers, tuincentra)?
 
 Het basisprincipe wel, de specifieke acties verschillen. Ons advies is altijd op maat per branche.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/administratie-hovenier-boekhouding-facturatie" class="text-dark fw-semibold">Administratie voor hoveniers: boekhouding en facturatie zonder kopzorgen</a> →</p></div></div></div>
 
 ## Klaar om je jaaromzet te spreiden?
 

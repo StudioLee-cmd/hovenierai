@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["CRM", "Automatisering", "Klantbeheer", "Hoveniers"]
 cluster: "automatisering"
 ---
-
 Een border leg je niet aan in de vrieskou en ook niet midden in de zomerdroogte. Je bereidt de grond voor in het juiste seizoen, want doe je het op het verkeerde moment, dan overleeft er niks en heb je twee keer werk. Met een CRM invoeren is het precies zo. De meeste hoveniers proberen het er in maart even bij te doen, precies als de aanvragen binnenstromen, en dan strandt het na een week omdat er simpelweg geen tijd is. Niet omdat het systeem niet deugt, maar omdat het moment niet deugt.
 
 De waarheid is dat je een werkend klantsysteem in vijf werkdagen live hebt, mits je het aanpakt als een echt project met een begin en een eind. Geen half jaar, geen projectteam, geen consultant die maanden meeloopt. Wel een duidelijke volgorde, gedaan in de rustige periode. Bij HovenierAI richten we dat systeem samen met je in, maar je kunt de roadmap hieronder ook zelf volgen.
@@ -88,6 +87,8 @@ Nee, en dat is juist het punt. Je begint met je klanten en je tuinprojecten, en 
 Geen probleem, omdat elke dag een afgerond blok is. Val je een dag uit, dan pak je de draad de volgende ochtend op zonder dat er iets half blijft staan. Daarom werkt de opdeling in vijf losse dagen beter dan één lange marathon.
 
 [Lees ook: WhatsApp-flow voor hoveniers: van aanvraag tot review](/blog/whatsapp-flow-hovenier-aanvraag-tot-review)
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/software-overstap-hovenier-parallel-draaien" class="text-dark fw-semibold">Software-overstap als hovenier: 30 dagen parallel draaien</a> →</p></div></div></div>
 
 ## Aan de slag
 

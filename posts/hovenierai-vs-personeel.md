@@ -8,7 +8,6 @@ image: "/images/blog/hovenierai-vs-personeel.png"
 tags: ["Managed Service", "Kostenbesparing", "Strategie"]
 cluster: "automatisering"
 ---
-
 Als je als hoveniersbedrijf groeit, loop je tegen een muur aan. Je agenda is vol, je telefoon blijft gaan, en de administratie stapelt zich op. Je kunt het kantoorwerk niet meer alleen af naast je fysieke werk buiten. De logische stap is dan: iemand aannemen voor op kantoor.
 
 Maar is dat in 2026 nog wel de slimste keuze? Personeel is goud waard, maar vooral **uitvoerend personeel** in de tuin. Kantoorpersoneel is een pure kostenpost. En voor dat werk is er nu een beter alternatief.
@@ -19,7 +18,7 @@ Stel je neemt iemand aan voor kantoor. Salaris, lasten, werkplek: reken maar op 
 
 ### HovenierAI: Het Slimme Alternatief
 
-Vergelijk dat eens met ons pakket. Voor een fractie van de kosten krijg je 24/7 bereikbaarheid, oneindige schaalbaarheid en geen werkgeversrisico's.
+Vergelijk dat eens met ons pakket. Voor een fractie van de kosten krijg je 24/7 [bereikbaarheid](/chatbot), oneindige schaalbaarheid en geen werkgeversrisico's.
 
 ## Managed Service
 

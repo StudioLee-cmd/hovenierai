@@ -8,7 +8,6 @@ image: "/images/blog/werk-verdelen-hoveniersteam-piek-dispatch.jpg"
 tags: ["Automatisering", "Werkplanning", "Personeelsplanning", "Seizoenspiek"]
 cluster: "automatisering"
 ---
-
 Kwart voor zeven in de loods. Drie busjes staan klaar, de aanhangers zijn geladen, en dan komt de vraag die je elke ochtend een kwartier kost: wie gaat waarheen? Kees kan die bestrating in Haarlem doen, maar hij zit ook op het beplantingsproject in Heemstede, en de nieuwe jongen weet niet welke klant vandaag de sleutel klaarlegt. Je lost het op met een groepsapp en een beetje geheugen, en het gaat meestal net goed. Maar "net goed" is precies wat je in de piek geld kost.
 
 Zolang je alleen werkt, is werkverdeling geen probleem: jij bént de planning. Zodra er een tweede en derde ploeg bijkomen, verandert dat. Dan is de vraag niet meer welke route het handigst is, maar wie welk werk doet, met welke kennis, bij welke klant. Dat is een ander vraagstuk, en het wordt zwaarder naarmate het voorjaar drukker wordt. Hieronder lees je hoe je die verdeling omzet van elke-ochtend-opnieuw naar een vaste [workflow automatisering voor hoveniers](/automatisering) die zichzelf bijstuurt.
@@ -72,6 +71,8 @@ Je hoeft dit niet in één keer perfect te maken. Bouw het op in vijf stappen:
 Reken het eens om. Een kwartier ochtend-discussie per dag is over een piekseizoen van acht maanden al gauw veertig uur, een volle werkweek die je kwijt bent aan puzzelen wat een systeem in seconden doet. Tel daar de dubbele ritten bij op, de gemiste klussen door miscommunicatie, en de klanten die afhaken omdat niemand kwam opdagen. Dat zijn de echte kosten van planning op gevoel, en ze lopen op naarmate je groeit. Wat een gestructureerde dispatch je aan tijd en marge teruggeeft, zie je terug in je [tarieven](/tarieven)-rekensom: minder verloren uren betekent meer productieve uren tegen hetzelfde loon.
 
 Wil je AI en automatisering voor je hoveniersbedrijf inzetten, dan werken we met een **Groei-of-Geld-Terug Garantie**: levert het je binnen de afgesproken periode geen aantoonbare groei op, dan krijg je je investering terug. Zo ligt het risico bij ons, niet bij jou.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/overbooking-hovenier-slim-plannen-volle-werkweek" class="text-dark fw-semibold">Overbooking als hovenier: slim plannen voor een volle werkweek</a> →</p></div></div></div>
 
 ## Conclusie
 

@@ -12,6 +12,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "nl_NL",
   },
+  alternates: { canonical: `${siteDetails.siteUrl}voice-ai` },
 };
 
 export default function VoiceAIPage() {

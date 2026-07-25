@@ -4,6 +4,13 @@ import { getAuthorBySlug } from '@/data/authors';
 import Container from '@/components/Container';
 import BlogGrid from '@/components/BlogGrid';
 
+import type { Metadata } from "next";
+import { siteDetails } from "@/data/siteDetails";
+
+export const metadata: Metadata = {
+    alternates: { canonical: `${siteDetails.siteUrl}blog` },
+};
+
 const CLUSTER_LABELS: Record<string, string> = {
     "vindbaarheid": "Vindbaarheid",
     "voice-ai": "Voice AI",

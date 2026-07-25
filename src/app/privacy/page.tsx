@@ -2,6 +2,12 @@ import React from "react";
 import Container from "@/components/Container";
 import { siteDetails } from "@/data/siteDetails";
 
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+    alternates: { canonical: `${siteDetails.siteUrl}privacy` },
+};
+
 const PrivacyPage: React.FC = () => {
     return (
         <Container>

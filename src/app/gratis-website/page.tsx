@@ -15,6 +15,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "nl_NL",
   },
+  alternates: { canonical: `${siteDetails.siteUrl}gratis-website` },
 };
 
 export default function GratisWebsitePage() {

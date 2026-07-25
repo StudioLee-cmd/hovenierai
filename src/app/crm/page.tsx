@@ -12,6 +12,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "nl_NL",
   },
+  alternates: { canonical: `${siteDetails.siteUrl}crm` },
 };
 
 export default function CrmPage() {

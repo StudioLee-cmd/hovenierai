@@ -3,6 +3,12 @@ import Container from "@/components/Container";
 import { siteDetails } from "@/data/siteDetails";
 import { footerDetails } from "@/data/footer";
 
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+    alternates: { canonical: `${siteDetails.siteUrl}algemene-voorwaarden` },
+};
+
 const TermsPage: React.FC = () => {
     return (
         <Container>

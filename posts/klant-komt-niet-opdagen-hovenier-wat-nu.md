@@ -52,6 +52,8 @@ Houd een maand lang bij hoeveel keer je voor een dichte deur staat. Noteer per k
 
 De meeste hoveniers schatten hun no-show kosten te laag in. Twee keer per maand voor niks rijden lijkt niet veel, maar bij een dagomzet van 400 tot 600 euro is dat 800 tot 1.200 euro per maand.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/lead-opvolging-hovenier-aanvragen-omzetten" class="text-dark fw-semibold">Lead opvolging als hovenier: meer opdrachten winnen</a> →</p></div></div></div>
+
 ## Maak van een probleem een systeem
 
 No-shows zijn vervelend, maar ze zijn ook voorspelbaar. Met bevestigingen, aanbetalingen en een plan B voor lege ochtenden beperk je de schade tot bijna nul.

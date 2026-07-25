@@ -7,7 +7,6 @@ image: "/images/blog/werkspot-vs-hovenierai-welke-levert-meer-op.png"
 tags: ["Tools", "Vergelijking", "Hoveniers"]
 cluster: "automatisering"
 ---
-
 Veel hoveniers gebruiken Werkspot om klussen te vinden. Je betaalt per lead en concurreert met andere hoveniers op dezelfde aanvraag. Het werkt, maar is het de slimste investering?
 
 ## Werkspot: leads kopen, concurrentie ingebouwd
@@ -38,7 +37,7 @@ HovenierAI bouwt je eigen klantenkanaal met 20 functies:
 
 ## Reviews als groeistrategie
 
-Reviews op Werkspot bepalen of klanten jou kiezen of een andere hovenier. HovenierAI automatiseert je reviewstrategie: na elke klus gaat automatisch een reviewverzoek uit. Deze reviews versterken niet alleen je Werkspot-profiel — ze bouwen ook je Google-reputatie op. Meer Google Reviews betekent een hogere positie in Google, wat weer meer directe klanten oplevert. Zo groeit je bedrijf ook buiten Werkspot om.
+Reviews op Werkspot bepalen of klanten jou kiezen of een andere hovenier. HovenierAI automatiseert je reviewstrategie: na elke klus gaat automatisch een reviewverzoek uit. Deze reviews versterken niet alleen je Werkspot-profiel — ze bouwen ook je Google-reputatie op. Meer [Google Reviews](/reviews) betekent een hogere positie in Google, wat weer meer directe klanten oplevert. Zo groeit je bedrijf ook buiten Werkspot om.
 
 Lees ook: [AI voor hoveniers: slimmer offreren en meer klanten](/blog/ai-voor-hoveniers-slimmer-offreren-meer-klanten).
 

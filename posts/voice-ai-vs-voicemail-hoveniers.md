@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["voice-ai", "bereikbaarheid", "leads"]
 cluster: "voice-ai"
 ---
-
 # Voice AI vs voicemail voor hoveniers: wat werkt beter?
 
 Je staat op een ladder met een heggenschaar in je hand, telefoon zoemt in je broekzak, je kunt 'm niet opnemen. Niks aan de hand, denk je — daar heb ik voicemail voor. Maar de helft van die maandagochtend-bellers spreekt nooit iets in. En de andere helft die het wél doet? Dat zijn niet per se de klussen die je wilt. Een [ai telefonist voor hoveniers](/voice-ai) lost dat probleem op een heel andere manier op dan voicemail — door überhaupt een gesprek te voeren in plaats van een pieptoon te draaien. In dit artikel zet ik de twee naast elkaar, met de cijfers en de voorbeelden die voor een hoveniersbedrijf echt tellen.
@@ -52,6 +51,8 @@ Klopt, op het oog. Maar reken nog eens. Voicemail is gratis tot het moment dat �
 ## Wat ná de call gebeurt — de stille tweede helft
 
 Wat veel hoveniers onderschatten: een gesprek opvangen is maar de helft van het werk. Daarna moet er een terugbel-afspraak komen, een offerte de deur uit, een herinnering voor de afspraak zelf. Voicemail doet niets van dat alles — die laat het bericht achter en zwijgt. Een voice AI haakt direct in op de rest van je flow: terugbel-tijdstip wordt voorgesteld, automatische bevestiging gaat eruit, en de afspraakherinnering komt netjes 24 uur van tevoren. Hoe je die opvolging strak houdt, schreven we uit in [afspraakherinneringen voor hoveniers](/blog/afspraak-herinneringen-hovenier).
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/spoedtarief-hovenier-avondtarief-uitleggen" class="text-dark fw-semibold">Spoedtarief hovenier: zo leg je het avondtarief uit</a> →</p></div></div></div>
 
 ## Dus: voicemail of voice AI?
 

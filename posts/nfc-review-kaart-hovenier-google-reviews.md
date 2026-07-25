@@ -80,6 +80,8 @@ Vier fouten die we steeds weer terugzien bij hoveniers die net beginnen met NFC:
 
 Vermijd deze vier en je halveert je leercurve.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/review-respons-automatiseren-hovenier" class="text-dark fw-semibold">Review-respons automatiseren als hovenier met AI</a> →</p></div></div></div>
+
 ## Alles-in-één review systeem met HovenierAI
 
 NFC-kaart, automatische WhatsApp, reactie op reviews, monitoring van je sterren-trend, en koppeling met je Google Bedrijfsprofiel. Voor hoveniers die dit niet zelf willen opzetten, hebben we een complete review-managed service waarbij wij het systeem opzetten, de kaarten leveren, de WhatsApp-flow inrichten en maandelijks rapporteren wat het oplevert.

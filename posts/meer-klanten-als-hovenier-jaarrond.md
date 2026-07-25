@@ -8,7 +8,6 @@ image: "/images/blog/meer-klanten-als-hovenier-jaarrond.jpg"
 tags: ["Groei", "Marketing"]
 cluster: "vindbaarheid"
 ---
-
 Elke hovenier kent het patroon: in het voorjaar kun je de aanvragen niet bijbenen, in de winter zit je met een lege agenda. Die seizoensafhankelijkheid is niet alleen stressvol — het maakt plannen onmogelijk en dwingt je om in de drukke maanden extreem lange dagen te draaien.
 
 De hoveniers die het hele jaar door stabiel draaien hebben één ding gemeen: ze laten het niet aan het weer over wanneer de telefoon gaat. Ze hebben een strategie.
@@ -82,6 +81,6 @@ Reken op 6-12 maanden om een significante contractenportefeuille op te bouwen. B
 
 ## Conclusie
 
-Seizoensafhankelijkheid is niet onvermijdelijk — het is een keuze. Met onderhoudscontracten, winterdiensten, online zichtbaarheid en zakelijke klanten bouw je een hoveniersbedrijf dat het hele jaar draait.
+Seizoensafhankelijkheid is niet onvermijdelijk — het is een keuze. Met onderhoudscontracten, winterdiensten, [online zichtbaarheid](/social-media) en zakelijke klanten bouw je een hoveniersbedrijf dat het hele jaar draait.
 
 Wil je weten hoe je meer klanten kunt aantrekken? [Vraag een gratis scan aan](/gratis-scan) en ontdek de kansen voor jouw hoveniersbedrijf.

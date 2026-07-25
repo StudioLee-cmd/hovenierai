@@ -35,7 +35,7 @@ const AanmeldingGeluktPage = () => {
                                 <div className="w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center flex-shrink-0 font-bold">1</div>
                                 <div>
                                     <h3 className="font-bold text-gray-900 mb-1">Check je e-mail</h3>
-                                    <p className="text-gray-600">Je ontvangt een e-mail van <strong>AIreclamestudio</strong> met jouw inloggegevens. Check ook je <u>spamfolder</u>.</p>
+                                    <p className="text-gray-600">Je ontvangt een e-mail met jouw <strong>persoonlijke inlogcode</strong>. Check ook je <u>spamfolder</u>.</p>
                                 </div>
                             </div>
 

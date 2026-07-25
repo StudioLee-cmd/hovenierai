@@ -8,8 +8,7 @@ image: "/images/blog/online-reputatie-hovenier.png"
 tags: ["online reputatie", "hovenier", "reviews"]
 cluster: "reviews"
 ---
-
-Een tuinproject is een investering. Huiseigenaren willen zekerheid dat ze de juiste hovenier kiezen. Ze googelen, vergelijken en lezen reviews. Jouw online reputatie bepaalt of ze jou bellen of de concurrent.
+Een tuinproject is een investering. Huiseigenaren willen zekerheid dat ze de juiste hovenier kiezen. Ze googelen, vergelijken en lezen reviews. Jouw online [reputatie](/reviews) bepaalt of ze jou bellen of de concurrent.
 
 ## Waarom reviews cruciaal zijn voor hoveniers
 

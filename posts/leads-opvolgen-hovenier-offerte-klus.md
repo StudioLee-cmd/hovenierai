@@ -71,6 +71,8 @@ Niet als je het goed doet. Behulpzaam en informatief is de juiste toon. Stuur wa
 
 Ja. Zelfs voor een seizoensbeurt is opvolging waardevol. Een klant die tevreden is over je opvolging, boekt sneller een groot project wanneer dat actueel wordt.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hovenier-aanvraag-opvolgen-meer-tuinen" class="text-dark fw-semibold">Aanvragen opvolgen als hovenier: van offerte naar tuinopdracht</a> →</p></div></div></div>
+
 ## Conclusie
 
 Als hovenier win je klussen niet alleen met je vakmanschap, maar met je snelheid en professionaliteit in de opvolging. Structureer je proces, automatiseer waar mogelijk en laat geen enkele offerte onbeantwoord. Meer opdrachten, minder gemiste kansen.

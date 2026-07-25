@@ -127,6 +127,8 @@ Een paar dingen die hoveniers verkeerd doen:
 - **Geen opvolging na verzending.** Wachten op een klant die niet reageert is omzet weggeven.
 - **Alle offertes van de week in het weekend doen.** Je bent dan al te laat. Doe ze dezelfde dag of de volgende ochtend.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hoveniersbedrijf-automatiseren" class="text-dark fw-semibold">Hoveniersbedrijf automatiseren: van offerte tot factuur</a> →</p></div></div></div>
+
 ## Begin deze week
 
 Drie acties voor de komende zeven dagen:

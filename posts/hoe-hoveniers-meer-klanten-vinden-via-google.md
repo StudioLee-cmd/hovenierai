@@ -7,7 +7,6 @@ image: "/images/blog/hoe-hoveniers-meer-klanten-vinden-via-google.png"
 tags: ["Vindbaarheid", "Google", "Hovenier", "Klanten"]
 cluster: "vindbaarheid"
 ---
-
 ## Hoveniers worden gevonden online — zo ziet dat eruit
 
 Iemand wil zijn tuin laten aanleggen of onderhouden. Ze googlen "hovenier [stad]" of "tuinman in de buurt". Ze zien een paar resultaten met foto's van eerder werk en reviews. Ze kiezen de hovenier die er het meest professioneel uitziet. En bellen.
@@ -103,6 +102,8 @@ Jij werkt in de tuin. Wij zorgen dat klanten jou vinden:
 **Plan een gratis kennismaking via [hovenierai.nl](https://www.hovenierai.nl).**
 
 ---
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/google-ads-vs-seo-hovenier" class="text-dark fw-semibold">Google Ads of SEO als hovenier: waar investeer je in?</a> →</p></div></div></div>
 
 ## Actieplan
 

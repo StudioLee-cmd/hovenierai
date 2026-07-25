@@ -7,7 +7,6 @@ image: "/images/blog/no-shows-voorkomen-hovenier.jpg"
 tags: ["No-shows", "Planning", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Wat kost een gemiste afspraak je als hovenier?
 
 Een gemiste afspraak als hovenier is dubbel vervelend. Je hebt niet alleen omzet misgelopen, maar ook je dag­planning is in de war. Met materiaal in de bus en een ploeg die klaarstaat, kost een no-show je al snel €200 tot €500 — afhankelijk van de klus.
@@ -33,7 +32,7 @@ Het goede nieuws: al deze oorzaken zijn te voorkomen met goede communicatie.
 
 ![Onderhouden Nederlandse tuin](/images/blog/no-shows-voorkomen-hovenier-2.jpg)
 
-Automatische herinneringen zijn de effectiefste maatregel tegen no-shows. Hoveniers die herinneringen versturen zien 50 tot 60 procent minder no-shows.
+Automatische [herinneringen](/automatisering) zijn de effectiefste maatregel tegen no-shows. Hoveniers die herinneringen versturen zien 50 tot 60 procent minder no-shows.
 
 De ideale timing:
 
@@ -67,6 +66,8 @@ Communiceer proactief over weer:
 - **Standaardbeleid**: communiceer bij de offerte dat je bij normaal weer altijd doorwerkt
 
 Door zelf het initiatief te nemen over weerupdates, voorkom je dat klanten denken dat het niet doorgaat en niet thuis zijn.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klant-komt-niet-opdagen-hovenier-wat-nu" class="text-dark fw-semibold">Klant komt niet opdagen als hovenier: wat nu?</a> →</p></div></div></div>
 
 ## Meer gerealiseerde klussen per week
 

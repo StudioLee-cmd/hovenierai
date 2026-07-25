@@ -229,8 +229,8 @@ const FreeTrialPage = () => {
                     {/* Footer Note */}
                     <p className="text-center text-sm text-gray-500 mt-6">
                         Heb je vragen? Neem contact met ons op via{' '}
-                        <a href="mailto:Info@dakdekkerai.nl" className="text-blue-600 hover:text-blue-700 font-medium">
-                            Info@dakdekkerai.nl
+                        <a href="mailto:tim@hovenierai.nl" className="text-blue-600 hover:text-blue-700 font-medium">
+                            tim@hovenierai.nl
                         </a>
                     </p>
                 </div>

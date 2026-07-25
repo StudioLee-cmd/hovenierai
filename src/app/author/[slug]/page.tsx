@@ -1,4 +1,5 @@
 import { authors, getAuthorBySlug } from '@/data/authors';
+import { siteDetails } from '@/data/siteDetails';
 import { getAllPosts } from '@/utils/posts';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -22,7 +23,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     }
 
     return {
-        title: `${author.name} - KapperAI`,
+        title: `${author.name} - ${siteDetails.siteName}`,
         description: author.bio,
     };
 }

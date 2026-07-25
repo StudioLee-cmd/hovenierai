@@ -28,7 +28,7 @@ const CostComparison: React.FC = () => {
                         </div>
                     </div>
 
-                    {/* KapperAI Way */}
+                    {/* Onze manier */}
                     <Link href="/#pricing" className="block w-full">
                         <motion.div
                             initial={{ opacity: 0, x: 20 }}

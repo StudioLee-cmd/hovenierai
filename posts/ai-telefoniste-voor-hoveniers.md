@@ -8,7 +8,6 @@ image: "/images/blog/ai-telefoniste-voor-hoveniers.png"
 tags: ["Voice AI", "Innovatie", "Ondernemen"]
 cluster: "voice-ai"
 ---
-
 Het meest frustrerende moment voor een hovenier? Je staat net met een snoeischaar bovenin een boom, of je bent net een strakke lijn aan het trekken voor de bestrating. Je concentratie is maximaal. En dan... gaat je telefoon. Je voelt hem trillen in je broekzak. Je weet dat het een potentiële klant kan zijn met een mooi tuinproject.
 
 Maar je kunt niet opnemen. Je hebt je handen vol, letterlijk. En als je nu stopt, is het onhandig of zelfs onveilig. Dus je laat hem gaan. Je denkt: "Ik bel straks wel terug."
@@ -23,7 +22,7 @@ Je telefoon blijft gewoon in de bus. Jij blijft gefocust op de planten of de ste
 
 ## Voice AI: Je nieuwe planner die nooit pauze heeft
 
-Onze Voice AI is geen krakend bandje met een irritant keuzemenu. Klanten haten dat en hangen op. Dit is een geavanceerde AI die praat als een mens. Ze klinkt vriendelijk, professioneel en ze weet alles van je bedrijf.
+Onze [Voice AI](/voice-ai) is geen krakend bandje met een irritant keuzemenu. Klanten haten dat en hangen op. Dit is een geavanceerde AI die praat als een mens. Ze klinkt vriendelijk, professioneel en ze weet alles van je bedrijf.
 
 ### Wat Sarah voor je doet:
 - **24/7 Opnemen:** Ook als jij vrij bent, slaapt, of met je handen in modder zit. Je bedrijf is altijd 'open'. Een klant die op zondagavond belt? Sarah staat ze te woord.

@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Software", "Vergelijking", "Tools", "Alles-in-één", "Hovenier"]
 cluster: "automatisering"
 ---
-
 **In het kort:**
 - 65% van de Nederlandse MKB-hoveniers werkt met 4 tot 8 losse tools voor planning, offertes, facturatie, klantbeheer, WhatsApp en reviews. Per tool €15-€60 per maand, samen €120-€350. Plus de verloren tijd door dubbele invoer en gebroken integraties: gemiddeld 6-9 uur per week aan tool-switching en data-migratie.
 - Een goed gekozen alles-in-één hovenier-systeem brengt deze kosten terug naar €60-€180 per maand én bespaart 5-7 uur per week aan tool-overhead. Op €65 declarabel uurtarief is dat €15.000 tot €23.000 per jaar aan teruggewonnen tijd plus €700-€2.000 aan tool-licenties.
@@ -123,6 +122,8 @@ De grootste angst van hoveniers bij software-overstap: alle bestaande klant-data
 Een [chatbot voor hoveniers](/chatbot) op je website kan tijdens de migratie nieuwe-klant-aanvragen direct in het nieuwe systeem opvangen, zodat je niet ALLE input dubbel hoeft te doen.
 
 [Lees ook: Werkspot alternatief voor hoveniers: eigen leads zonder commissie](/blog/werkspot-alternatief-hovenier)
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/beste-software-voor-hoveniers-2026" class="text-dark fw-semibold">Beste software voor hoveniers 2026: tools vergeleken</a> →</p></div></div></div>
 
 ## Wat StudioLee voor je inricht
 

@@ -25,7 +25,7 @@ Er is ook een leercurve. Zonder ervaring verspil je makkelijk geld aan verkeerde
 
 ## Wat SEO je oplevert
 
-SEO is het tegenovergestelde: langzaam opbouwen, maar het resultaat blijft. Je optimaliseert je website, publiceert regelmatig artikelen en bouwt je Google Bedrijfsprofiel op. Na drie tot zes maanden begin je te verschijnen in de organische zoekresultaten. Na een jaar staat je structureel bovenaan.
+SEO is het tegenovergestelde: langzaam opbouwen, maar het resultaat blijft. Je optimaliseert je website, publiceert regelmatig artikelen en bouwt je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-fotos-voor-na-hovenier) op. Na drie tot zes maanden begin je te verschijnen in de organische zoekresultaten. Na een jaar staat je structureel bovenaan.
 
 Het grote voordeel: elke bezoeker via organisch zoekverkeer is gratis. Geen kosten per klik, geen dagbudget. Een goed geoptimaliseerde pagina kan jarenlang klanten opleveren zonder dat je er nog iets voor betaalt.
 

@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Chatbot", "Leadopvolging", "Hoveniers"]
 cluster: "chatbot"
 ---
-
 Een chatbot op je website klinkt als een no-brainer. Je plaatst een knopje rechtsonder, er verschijnt een vriendelijke begroeting, en klaar. Maar de meeste chatbots die ik bij hoveniersbedrijven zie, doen precies één ding: ze vragen om een naam en een telefoonnummer en sturen je dan een mailtje. Dat is geen chatbot, dat is een contactformulier met een praatje eromheen. En het kost je net zo goed klussen, want de aanvrager krijgt geen antwoord op de vraag waar hij echt mee zit.
 
 De kern is dit: een chatbot is alleen iets waard als hij de juiste dingen kan. Hij moet een complete tuin-intake uitvragen, de terugkerende seizoensvragen beantwoorden, de aanvraag kwalificeren en het gesprek daarna netjes aan jou overdragen. Kan hij dat niet, dan betaal je maandelijks voor een duurder contactformulier. Hieronder zet ik op een rij wat een goede [ai chatbot voor hoveniers](/chatbot) concreet moet kunnen, zodat je weet waar je op let voordat je er een aanzet.
@@ -79,6 +78,8 @@ Loop deze punten langs voordat je een chatbot aanzet:
 - Werkt hij dag en nacht, ook in de piekmaanden?
 
 Vinkt een aanbieder deze rij niet af, dan koop je dat duurdere contactformulier waar we mee begonnen.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/chatbot-of-faq-pagina-hovenier-welke-vraag-waar" class="text-dark fw-semibold">Chatbot of FAQ-pagina: welke tuinvraag hoort waar?</a> →</p></div></div></div>
 
 ## Begin bij de aanvragen die je nu misloopt
 

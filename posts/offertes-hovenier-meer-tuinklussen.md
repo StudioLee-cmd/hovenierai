@@ -8,7 +8,6 @@ image: "/images/blog/offertes-hovenier-meer-tuinklussen.png"
 tags: ["Offertes", "Klussen", "Bedrijfsvoering"]
 cluster: "automatisering"
 ---
-
 ## Waarom de offerte je verkoopmoment is
 
 Als hovenier word je beoordeeld op je offerte nog voordat je een schep in de grond hebt gezet. De offerte is je eerste kans om professionaliteit en vakmanschap te tonen. Een slordige offerte met onduidelijke prijzen schrikt af — een overzichtelijke offerte met visualisatie overtuigt.
@@ -49,7 +48,7 @@ De hovenier die opvolgt, wint de klus. Simpelweg omdat de meeste concurrenten he
 
 ## Digitale offertetools
 
-Stap af van Word-documenten. Moderne offertetools besparen tijd en ogen professioneler:
+Stap af van Word-documenten. Moderne offertetools [besparen tijd](/blog/hoe-ai-hoveniers-helpt) en ogen professioneler:
 
 - **Offerte-apps**: maak ter plekke een offerte op je tablet
 - **Digitale handtekening**: de klant tekent direct — geen geprint naar huis sturen

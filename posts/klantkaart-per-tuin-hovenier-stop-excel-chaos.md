@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["CRM", "Klantbeheer", "Klantkaart", "Tuin-historie", "Hovenier"]
 cluster: "automatisering"
 ---
-
 **In het kort:**
 - 70% van de Nederlandse MKB-hoveniers werkt met losse Excel-bestanden, papieren tuinkaartjes of telefoon-foto's per project. Resultaat: bij elke nieuwe afspraak met een bestaande klant moet de hovenier opnieuw uitvinden welke planten er staan, wanneer er voor het laatst gesnoeid is, en wat de klant graag wel/niet wil.
 - Een centrale klantkaart per tuin met negen vaste velden (locatie, beplanting-historie, onderhoudsritme, voorkeuren, prijsafspraken, foto-archief, contracten, contact-historie en factuur-historie) bespaart 35-50 minuten per terugkerend klantbezoek én voorkomt 80% van de fouten zoals "verkeerde plant gesnoeid" of "vorig jaar bemest, dit jaar opnieuw geadviseerd".
@@ -118,6 +117,8 @@ Drie dingen die elke hovenier in de verleiding komt op te slaan, maar niet hoort
 **Geen privé-spullen-locatie.** "Sleutel ligt onder rode bloempot bij voordeur" hoort NIET in een digitaal systeem dat door 5 medewerkers gezien kan worden. Beperk locatie-info tot "afspreken bij de voordeur" of "klant geeft sleutel direct".
 
 [Lees ook: Klantbehoud als hovenier: van eenmalige opdracht naar vaste klant](/blog/klantbehoud-hovenier-vaste-klanten)
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hovenier-wintermaanden-omzet-behouden" class="text-dark fw-semibold">Hovenier in de wintermaanden: omzet houden als tuinen slapen</a> →</p></div></div></div>
 
 ## Wat StudioLee voor je inricht
 

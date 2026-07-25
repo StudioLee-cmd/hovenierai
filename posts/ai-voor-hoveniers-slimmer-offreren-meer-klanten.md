@@ -7,7 +7,6 @@ image: "/images/blog/ai-voor-hoveniers-slimmer-offreren-meer-klanten.png"
 tags: ["AI", "Automatisering", "Hoveniers"]
 cluster: "automatisering"
 ---
-
 Hovenieren is seizoensgebonden werk met pieken in lente en zomer en rustigere periodes in de winter. Slim plannen, snel offreren en actief klanten werven zijn het verschil tussen een volle en een lege agenda. AI helpt hoveniers die balans te vinden.
 
 ## Wat AI doet voor hoveniersbedrijven
@@ -34,6 +33,8 @@ Hoveniers worden gevonden via Google Maps en Werkspot. Hoge beoordelingen met re
 **Stap 1**: Automatiseer offerteaanvragen via je website.
 **Stap 2**: Stel seizoensmatige herinneringen in voor bestaande klanten.
 **Stap 3**: Activeer review-automatisering na elke afgeronde klus.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/leadgeneratie-hovenier" class="text-dark fw-semibold">Leadgeneratie als hovenier: meer tuinklussen via slimme kanalen</a> →</p></div></div></div>
 
 ## Conclusie
 

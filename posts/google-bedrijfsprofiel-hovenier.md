@@ -8,7 +8,6 @@ image: "/images/blog/google-bedrijfsprofiel-hovenier.png"
 tags: ["Google", "Lokaal", "Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
-
 "Hovenier in de buurt" — het is een van de meest gebruikte zoekopdrachten als huiseigenaren hun tuin willen laten aanleggen of onderhouden. En wat ze zien is het Google Maps-blok met drie hoveniers, hun reviews, en een bel-knop. Als jij niet in dat blok staat, mis je het grootste deel van de potentiële klanten in je werkgebied.
 
 In dit artikel lees je hoe je als hovenier je Google Bedrijfsprofiel optimaliseert om meer tuinklussen uit je buurt binnen te halen.
@@ -44,7 +43,7 @@ Lees ook ons artikel over duurzame tuinen als groeiende markt voor inspiratie bi
 
 ## Reviews: de motor achter lokale groei
 
-Een hovenier met 60 reviews en 4.8 sterren wint het van een concurrent met 5 reviews en 5.0 sterren. Volume én kwaliteit tellen — maar volume wint het van perfectie.
+Een hovenier met 60 [reviews](/reviews) en 4.8 sterren wint het van een concurrent met 5 reviews en 5.0 sterren. Volume én kwaliteit tellen — maar volume wint het van perfectie.
 
 Het beste moment om een review te vragen: wanneer de klant voor het eerst de afgeronde tuin ziet. Dat moment van "wauw" is wanneer de bereidheid om een review te schrijven het hoogst is. Stuur direct een WhatsApp-link.
 

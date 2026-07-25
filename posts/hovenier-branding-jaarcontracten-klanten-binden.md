@@ -45,7 +45,7 @@ Voor VvE's en zakelijke opdrachtgevers is uniforme werkkleding vaak een zachte v
 
 ## Element 3: het werf-bord dat verkoopt aan buurgenoten
 
-Een werf-bord bij een klant plaatsen is de krachtigste lokale marketing die er bestaat. Andere buren in de straat zien dat jij werkt, zien hoe netjes je werkt, en onthouden je naam. Van de hoveniers die systematisch werf-borden gebruiken, komt 15-25 procent van nieuwe aanvragen rechtstreeks uit buurt-herkenning via die borden.
+Een werf-bord bij een klant plaatsen is de krachtigste [lokale marketing](/blog/projectbord-hovenier-meer-buurt-aanvragen) die er bestaat. Andere buren in de straat zien dat jij werkt, zien hoe netjes je werkt, en onthouden je naam. Van de hoveniers die systematisch werf-borden gebruiken, komt 15-25 procent van nieuwe aanvragen rechtstreeks uit buurt-herkenning via die borden.
 
 **Wat op het bord:**
 - Groot logo + bedrijfsnaam
@@ -101,6 +101,8 @@ Week 5: eerste partij werf-borden laten maken + stands. Begin ermee op de eerstv
 Week 6: [website-aanpassing](/gratis-website) doorvoeren. Kleuren, foto's, jaarcontract-propositie prominent. Koppel je chatbot aan het nieuwe design.
 
 Voor hoveniers die dit volledig uitbesteden: in onze managed service regelen wij designer, belettering-leverancier, kledingleverancier en website-aanpassing in één traject. Bekijk de [tarieven](/tarieven) voor jouw bedrijfsgrootte.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/concurrentieanalyse-hoveniers-6-datapunten" class="text-dark fw-semibold">Concurrentieanalyse hoveniers: 6 datapunten in 30 min</a> →</p></div></div></div>
 
 ## Groei-of-Geld-Terug Garantie
 

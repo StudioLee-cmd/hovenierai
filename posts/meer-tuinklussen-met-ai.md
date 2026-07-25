@@ -8,10 +8,9 @@ image: "/images/blog/meer-tuinklussen-met-ai.png"
 tags: ["Marketing", "Reviews", "Groei"]
 cluster: "reviews"
 ---
-
 Als je zelf een hovenier zoekt, wat doe je dan? Precies: je kijkt op Google en checkt de sterren. Heeft een bedrijf 3,4 sterren? Dan scroll je door, want je vertrouwt ze niet met je tuin. Heeft hij 4,9 sterren met 200 reviews? Dan vraag je direct een offerte aan. In de hoveniersbranche, waar vakmanschap alles is, is jouw online reputatie je belangrijkste bezit.
 
-Voor jouw bedrijf zijn Google Reviews de levensader. Heb je minder dan 20 reviews? Dan besta je in de ogen van de moderne klant eigenlijk niet. Zeker bij grote tuinprojecten willen klanten zekerheid. Maar hoe kom je aan die reviews zonder te smeken?
+Voor jouw bedrijf zijn [Google Reviews](/reviews) de levensader. Heb je minder dan 20 reviews? Dan besta je in de ogen van de moderne klant eigenlijk niet. Zeker bij grote tuinprojecten willen klanten zekerheid. Maar hoe kom je aan die reviews zonder te smeken?
 
 ## Het Probleem: De "Vergeet-Factor"
 
@@ -31,7 +30,7 @@ Eén slechte review kan je gemiddelde flink omlaag halen, zeker als het onterech
 - **Is de klant blij? (Duim omhoog / 4-5 sterren)** -> Super! Dan stuurt de AI direct de link naar je Google Bedrijfsprofiel. De drempel is weg, de klant klikt en klaar. Binnen 10 seconden staat de review online.
 - **Is de klant niet blij? (Duim omlaag / 1-3 sterren)** -> Ai. Maar in plaats van een slechte Google review, opent er een privé feedback formulier dat **rechtstreeks naar jou** gaat. "Wat vervelend dat u niet tevreden bent, vertel ons wat er mis is zodat we het kunnen oplossen."
 
-Snap je de kracht hiervan? Je vangt de ontevreden klanten af vòòrdat ze online gaan klagen. Je krijgt de kans om het netjes op te lossen, en ze alsnog blij te maken. Je online reputatie blijft smetteloos, terwijl je wel waardevolle feedback krijgt.
+Snap je de kracht hiervan? Je vangt de ontevreden klanten af vòòrdat ze online gaan klagen. Je krijgt de kans om het netjes op te lossen, en ze alsnog blij te maken. Je [online reputatie](/blog/online-reputatie-hovenier) blijft smetteloos, terwijl je wel waardevolle feedback krijgt.
 
 ## Het Resultaat: Lokale Dominantie
 

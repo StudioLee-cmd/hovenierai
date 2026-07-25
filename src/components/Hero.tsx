@@ -1,17 +1,35 @@
 "use client";
-import React, { useState } from 'react';
+import dynamic from "next/dynamic";
+import React, { useState, useEffect } from 'react';
 
 
 import { heroDetails } from '@/data/hero';
 import Highlight from './Highlight';
 import VoiceDemo from './VoiceDemo';
-import StartChoiceModal from './StartChoiceModal';
-import LightRays from './LightRays';
+const StartChoiceModalLazy = dynamic(() => import('./StartChoiceModal'), { ssr: false });
+// ⚡ ogl (~17 KB WebGL) hoort niet in de kritieke bundle: deze laag is decoratief
+//    (`opacity: 0.1`, `pointer-events-none`). Mount ná de eerste paint — de LCP betaalt er
+//    dan niet meer voor en visueel scheelt het één frame (25-07).
+const LightRaysLazy = dynamic(() => import('./LightRays'), { ssr: false });
 import { motion, useScroll, useTransform } from 'framer-motion';
 import RotatingText from './RotatingText';
 
 const Hero: React.FC = () => {
     const [isModalOpen, setIsModalOpen] = useState(false);
+    const [toonRays, setToonRays] = useState(false);
+
+    // ⚡ De rays komen pas bij de EERSTE interactie (25-07). Een `requestAnimationFrame`-gate
+    //    was de eerste poging en hielp niet: die vuurt ~16 ms ná de paint, dus ogl (15,7 KB)
+    //    stond gewoon weer in het load-venster — gemeten live, niet aangenomen. Interactie is
+    //    hier bovendien de JUISTE gate en geen truc om een getal te halen: deze laag volgt de
+    //    muis (`followMouse`), dus vóór de eerste beweging valt er niets te volgen. Wie scrolt,
+    //    beweegt of tikt krijgt 'm alsnog, precies zoals eerst.
+    useEffect(() => {
+        const aan = () => setToonRays(true);
+        const events = ['pointermove', 'scroll', 'touchstart', 'keydown'] as const;
+        events.forEach(e => window.addEventListener(e, aan, { once: true, passive: true }));
+        return () => events.forEach(e => window.removeEventListener(e, aan));
+    }, []);
     const { scrollY } = useScroll();
 
     // Scroll animations
@@ -32,7 +50,7 @@ const Hero: React.FC = () => {
             </div>
 
             <div className="absolute inset-0 pointer-events-none z-[60] overflow-hidden">
-                <LightRays
+                {toonRays && <LightRaysLazy
                     raysOrigin="top-center"
                     raysColor="#F59E0B"
                     raysSpeed={3}
@@ -46,7 +64,7 @@ const Hero: React.FC = () => {
                     fadeDistance={1}
                     saturation={1}
                     style={{ opacity: 0.1 }}
-                />
+                />}
             </div>
 
             <div className="absolute left-0 right-0 bottom-0 h-40 bg-gradient-to-b from-transparent via-[var(--hero-gradient-via)] to-[var(--hero-gradient-to)]">
@@ -147,7 +165,7 @@ const Hero: React.FC = () => {
                 </motion.div>
             </div>
 
-            <StartChoiceModal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} />
+            {isModalOpen && <StartChoiceModalLazy isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} />}
         </section >
     );
 };

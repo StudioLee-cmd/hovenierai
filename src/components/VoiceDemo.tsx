@@ -1,51 +1,62 @@
 "use client";
-import React, { useState, useEffect } from 'react';
-import Vapi from '@vapi-ai/web';
+import React, { useState, useEffect, useRef } from 'react';
 
-const vapi = new Vapi("5cf7462d-30fe-4d70-9ea1-89ce0bd65ec5"); // Public Key
+// ⚡ De SDK wordt pas bij de EERSTE KLIK opgehaald (25-07, niche-homepage-395kb-js-blokkeert-lcp).
+//    Dit was `import Vapi from '@vapi-ai/web'` + `new Vapi(key)` op module-scope: de volledige
+//    WebRTC-stack (daily-js) werd bij élke pageview gedownload én opgestart voor een knop die
+//    vrijwel geen bezoeker aanraakt — veruit de zwaarste post van de 395 KB homepage-JS.
 
 const assistantId = "9c03abc4-56f3-4134-abad-661734908c92"; // Assistant ID from Dakdekker AI
 
 const VoiceDemo: React.FC = () => {
     const [isCalling, setIsCalling] = useState(false);
     const [status, setStatus] = useState("Status: Stand-by");
-    const [isSDKReady, setIsSDKReady] = useState(false);
 
+    const vapiRef = useRef<any>(null);
+    const levendRef = useRef(true);
+
+    // Bewaakt alleen nog dat een callback ná unmount geen state meer zet en een lopend gesprek stopt.
     useEffect(() => {
-        setIsSDKReady(true);
-
-        const onCallStart = () => {
-            console.log('Call started');
-            setStatus("Status: Verbonden (Spreek nu)");
-            setIsCalling(true);
-        };
-
-        const onCallEnd = () => {
-            console.log('Call ended');
-            setStatus("Status: Gesprek beëindigd");
-            setIsCalling(false);
-        };
-
-        const onError = (e: any) => {
-            console.error('Vapi Error:', e);
-            setStatus("Status: Fout opgetreden");
-            setIsCalling(false);
-        };
-
-        vapi.on('call-start', onCallStart);
-        vapi.on('call-end', onCallEnd);
-        vapi.on('error', onError);
-
+        levendRef.current = true;
         return () => {
-            vapi.off('call-start', onCallStart);
-            vapi.off('call-end', onCallEnd);
-            vapi.off('error', onError);
+            levendRef.current = false;
+            try {
+                vapiRef.current?.stop();
+            } catch {
+                /* er liep geen gesprek */
+            }
         };
     }, []);
 
-    const handleClick = () => {
+    const laadVapi = async () => {
+        if (vapiRef.current) return vapiRef.current;
+        const { default: Vapi } = await import('@vapi-ai/web');
+        const vapi = new Vapi("5cf7462d-30fe-4d70-9ea1-89ce0bd65ec5");
+
+        vapi.on('call-start', () => {
+            if (!levendRef.current) return;
+            setStatus("Status: Verbonden (Spreek nu)");
+            setIsCalling(true);
+        });
+        vapi.on('call-end', () => {
+            if (!levendRef.current) return;
+            setStatus("Status: Gesprek beëindigd");
+            setIsCalling(false);
+        });
+        vapi.on('error', (e: any) => {
+            console.error('Vapi Error:', e);
+            if (!levendRef.current) return;
+            setStatus("Status: Fout opgetreden");
+            setIsCalling(false);
+        });
+
+        vapiRef.current = vapi;
+        return vapi;
+    };
+
+    const handleClick = async () => {
         if (isCalling) {
-            vapi.stop();
+            vapiRef.current?.stop();
         } else {
             // Cookie consent required before VAPI
             const consent = localStorage.getItem('cookie_consent');
@@ -55,6 +66,7 @@ const VoiceDemo: React.FC = () => {
             }
             setStatus("Status: Verbinden...");
             try {
+                const vapi = await laadVapi();
                 vapi.start(assistantId);
             } catch (err) {
                 console.error("Vapi Start Error:", err);

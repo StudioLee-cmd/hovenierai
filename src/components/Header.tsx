@@ -1,5 +1,6 @@
 'use client';
 
+import dynamic from "next/dynamic";
 import Link from 'next/link';
 import Image from 'next/image';
 import React, { useState, useRef, useEffect } from 'react';
@@ -7,7 +8,7 @@ import { Transition } from '@headlessui/react';
 import { HiOutlineXMark, HiBars3 } from 'react-icons/hi2';
 
 import Container from './Container';
-import StartChoiceModal from './StartChoiceModal';
+const StartChoiceModalLazy = dynamic(() => import('./StartChoiceModal'), { ssr: false });
 import { AnimatedThemeToggler } from './ui/animated-theme-toggler';
 import { siteDetails } from '@/data/siteDetails';
 import { menuItems } from '@/data/menuItems';
@@ -154,7 +155,7 @@ const Header: React.FC = () => {
                 </div>
             </Transition>
 
-            <StartChoiceModal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} />
+            {isModalOpen && <StartChoiceModalLazy isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} />}
         </header>
     );
 };

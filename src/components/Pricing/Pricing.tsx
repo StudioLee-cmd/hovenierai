@@ -1,15 +1,16 @@
 "use client";
+import dynamic from "next/dynamic";
 import Link from "next/link";
 import React, { useState } from 'react';
 import { BsCheckCircleFill, BsStars } from "react-icons/bs";
 import PricingColumn from "./PricingColumn";
-import FreeTrialModal from "../FreeTrialModal";
-import PurchaseOptionsModal from "../PurchaseOptionsModal";
+const FreeTrialModalLazy = dynamic(() => import('../FreeTrialModal'), { ssr: false });
+const PurchaseOptionsModalLazy = dynamic(() => import('../PurchaseOptionsModal'), { ssr: false });
 import GuaranteeSection from "./GuaranteeSection";
 import { tiers } from "@/data/pricing";
 import { IPricing } from "@/types";
 
-import { motion, useScroll, useTransform } from "framer-motion";
+import { motion, useScroll, useTransform, useInView } from "framer-motion";
 
 const UnlimitedOptionBlock = () => {
     const ref = React.useRef(null);
@@ -86,9 +87,16 @@ const itemVariants = {
 
 
 
-import Cubes from "../Cubes";
+// ⚡ gsap (~23 KB) reist mee met Cubes, en Cubes is een decoratieve achtergrond ónder de vouw.
+//    `next/dynamic` alléén zou de chunk tijdens de hydration alsnog ophalen — dan is het gewicht
+//    verplaatst, niet weg. Met `useInView` erbij komt 'ie pas binnen als de sectie in beeld is.
+const CubesLazy = dynamic(() => import("../Cubes"), { ssr: false });
 
 const Pricing: React.FC = () => {
+    const cubesRef = React.useRef(null);
+    // `once` — eenmaal geladen blijft 'ie staan; `margin` laadt 'm net vóór de sectie in beeld
+    // komt, zodat de achtergrond er al is op het moment dat je 'm zou kunnen zien.
+    const cubesInView = useInView(cubesRef, { once: true, margin: "300px" });
     const [isAnnual, setIsAnnual] = useState(false);
     const [isModalOpen, setIsModalOpen] = useState(false);
     const [isOptionsModalOpen, setIsOptionsModalOpen] = useState(false);
@@ -105,8 +113,8 @@ const Pricing: React.FC = () => {
     return (
         <div className="relative w-full overflow-hidden">
             {/* Cubes Background - Full Width & Height of this section */}
-            <div className="absolute inset-0 z-0 pointer-events-auto">
-                <Cubes
+            <div ref={cubesRef} className="absolute inset-0 z-0 pointer-events-auto">
+                {cubesInView && <CubesLazy
                     rows={12}
                     columns={20}
                     maxAngle={45}
@@ -118,7 +126,7 @@ const Pricing: React.FC = () => {
                     autoAnimate={true}
                     rippleOnClick={true}
                     shadow={false}
-                />
+                />}
             </div>
 
             {/* Content Container - Centered and Constrained */}
@@ -294,18 +302,18 @@ const Pricing: React.FC = () => {
                 {/* Guarantee Section */}
                 <GuaranteeSection />
 
-                <FreeTrialModal
+                {isModalOpen && <FreeTrialModalLazy
                     isOpen={isModalOpen}
                     onClose={() => setIsModalOpen(false)}
                     isAnnual={isAnnual}
-                />
+                />}
 
-                <PurchaseOptionsModal
+                {isOptionsModalOpen && <PurchaseOptionsModalLazy
                     isOpen={isOptionsModalOpen}
                     onClose={() => setIsOptionsModalOpen(false)}
                     tier={selectedOptionTier}
                     isAnnual={isAnnual}
-                />
+                />}
             </div>
         </div>
     )

@@ -7,7 +7,6 @@ image: "/images/blog/hoveniersaanvragen-kwalificeren-snel-triage.jpg"
 cluster: "automatisering"
 tags: ["Lead Opvolging", "Kwalificatie", "Hovenier Operaties"]
 ---
-
 Een hovenier in het hoogseizoen krijgt 30 aanvragen per week. De helft is serieus en converteert mogelijk naar een offerte. De andere helft zijn buurmanvergelijkers, prijs-shoppers, of mensen die nog niet weten wat ze willen. Tijd kwijt aan beide groepen is gelijk. Maar het verschil tussen 30 oppervlakkige opvolgingen en 15 diepgaande gesprekken met serieuze leads is enorm voor je conversie. Dit artikel laat zien hoe je in 5 minuten per aanvraag bepaalt of het een serieuze lead is, en hoe je je tijd vervolgens richt op de mensen die echt willen.
 
 ## Waarom kwalificatie voor hoveniers anders is dan voor andere vakken
@@ -184,6 +183,8 @@ Eens per kwartaal. Kijk naar welke A-leads niet converteerden (was je inschattin
 ### Wat als ik geen tijd heb om elk gesprek te voeren?
 
 Stop dan in de [gratis website](/gratis-website) en [chatbot](/chatbot) een eerste filter. De chatbot stelt de eerste 3 vragen, jij neemt over voor de overige 2 en de afspraak.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-hovenier-tuinafspraak-voorkomen" class="text-dark fw-semibold">Gemiste tuinafspraken: wat het je kost als hovenier</a> →</p></div></div></div>
 
 ## Klaar om je tijd op de juiste leads te zetten?
 

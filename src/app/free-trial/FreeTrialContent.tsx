@@ -114,10 +114,10 @@ const FreeTrialPage = () => {
                     {/* Header */}
                     <div className="text-center mb-8">
                         <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-3">
-                            Start Je Gratis Proefperiode
+                            14 Dagen Proberen Voor €1
                         </h1>
                         <p className="text-gray-600 text-lg">
-                            Start gratis uitproberen. Geen creditcard vereist.
+                            14 dagen volledige toegang voor €1. Daarna pas beslissen.
                         </p>
                     </div>
 
@@ -202,7 +202,7 @@ const FreeTrialPage = () => {
                                         Bezig met verwerken...
                                     </span>
                                 ) : (
-                                    'Start Gratis Proefperiode'
+                                    'Start Voor €1'
                                 )}
                             </button>
                         </form>
@@ -214,13 +214,13 @@ const FreeTrialPage = () => {
                                     <svg className="w-5 h-5 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
                                         <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                                     </svg>
-                                    Start Gratis
+                                    14 dagen voor €1
                                 </div>
                                 <div className="flex items-center">
                                     <svg className="w-5 h-5 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
                                         <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                                     </svg>
-                                    Geen creditcard
+                                    Eenmalig €1
                                 </div>
                             </div>
                         </div>

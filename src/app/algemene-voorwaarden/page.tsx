@@ -150,9 +150,9 @@ const TermsPage: React.FC = () => {
                         Wij behouden ons tevens het recht voor om onze prijzen, pakketten en de kosten per credit (&quot;credit cost&quot;) te wijzigen. Daarnaast kan de werking van de AI-modellen worden aangepast of geüpdatet om de kwaliteit te waarborgen of te verbeteren. Indien er prijswijzigingen plaatsvinden, zullen wij de gebruiker hierover meerdere keren en ruim van tevoren inlichten, zodat je nooit voor verrassingen komt te staan.
                     </p>
 
-                    <h2 className="text-2xl font-semibold text-foreground mt-8 mb-4">14. Gratis Testaccount (Free Trial)</h2>
+                    <h2 className="text-2xl font-semibold text-foreground mt-8 mb-4">14. Testaccount (proefperiode van 14 dagen voor €1)</h2>
                     <p>
-                        Het aanvragen van een gratis testaccount geeft geen automatisch recht op toegang. Wij hanteren een limiet op het aantal beschikbare gratis accounts dat tegelijkertijd actief kan zijn. {siteDetails.siteName} behoudt zich het recht voor om een aanvraag voor een testaccount te weigeren, bijvoorbeeld (maar niet uitsluitend) bij een vermoeden van misbruik, eerdere overtredingen of wanneer de limiet van het aantal testaccounts is bereikt. Er kan geen aanspraak worden gemaakt op compensatie indien een gratis account wordt geweigerd of ingetrokken.
+                        Het aanvragen van een testaccount geeft geen automatisch recht op toegang. Een testaccount kost eenmalig €1 voor 14 dagen. Wij hanteren een limiet op het aantal beschikbare testaccounts dat tegelijkertijd actief kan zijn. {siteDetails.siteName} behoudt zich het recht voor om een aanvraag voor een testaccount te weigeren, bijvoorbeeld (maar niet uitsluitend) bij een vermoeden van misbruik, eerdere overtredingen of wanneer de limiet van het aantal testaccounts is bereikt. Er kan geen aanspraak worden gemaakt op compensatie indien een testaccount wordt geweigerd of ingetrokken.
                     </p>
 
                     <h2 className="text-2xl font-semibold text-foreground mt-8 mb-4">15. Bedrijfsgegevens</h2>

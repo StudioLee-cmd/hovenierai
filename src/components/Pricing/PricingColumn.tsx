@@ -129,10 +129,10 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTria
                             onClick={onStartTrial}
                             className={clsx("w-full py-3 px-4 rounded-full transition-colors font-semibold", { "bg-primary hover:bg-primary-accent text-black": highlight, "bg-gray-900 dark:bg-gray-700 text-white hover:opacity-80": !highlight })}
                         >
-                            Start Gratis
+                            Start Voor €1
                         </button>
                         <p className="text-xs text-[var(--foreground-accent)] text-center">
-                            14 dagen proefperiode
+                            14 dagen voor €1
                         </p>
                     </div>
                 )}

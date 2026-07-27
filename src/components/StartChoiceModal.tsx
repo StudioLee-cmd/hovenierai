@@ -87,10 +87,10 @@ const StartChoiceModal: React.FC<StartChoiceModalProps> = ({ isOpen, onClose }) 
                             <span className="text-3xl">🚀</span>
                             <div>
                                 <h3 className="font-bold text-gray-900 dark:text-white text-lg group-hover:text-primary transition-colors">
-                                    Start Gratis — 14 Dagen
+                                    14 Dagen Voor €1
                                 </h3>
                                 <p className="text-gray-500 dark:text-gray-400 text-sm mt-1">
-                                    Direct starten, geen creditcard vereist. Bekijk onze pakketten en kies wat bij je past.
+                                    Direct starten voor €1. Bekijk onze pakketten en kies wat bij je past.
                                 </p>
                             </div>
                         </a>

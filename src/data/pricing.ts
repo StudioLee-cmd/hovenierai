@@ -17,7 +17,7 @@ export const tiers: IPricing[] = [
 
             'Je eigen dashboard: agenda, berichten en klanten op één plek',
             'Elke week een nieuw artikel op je site, zodat je gevonden wordt',
-            'De eerste 14 dagen gratis uitproberen',
+            'De eerste 14 dagen voor €1 uitproberen',
             'Elke maand een kwartier overleg over wat er beter kan',
             'Maandelijks tegoed voor gesprekken en beelden',
             'Beelden voor je social, automatisch klaargezet',

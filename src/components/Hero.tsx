@@ -141,7 +141,7 @@ const Hero: React.FC = () => {
                             onClick={() => setIsModalOpen(true)}
                             className="flex items-center justify-center min-w-[205px] px-8 h-14 rounded-full text-black bg-primary text-xl font-bold hover:scale-105 transition-transform duration-300 shadow-xl hover:shadow-2xl hover:ring-4 ring-primary/20"
                         >
-                            Start Gratis
+                            Start Nu
                         </button>
                         <VoiceDemo />
                     </div>

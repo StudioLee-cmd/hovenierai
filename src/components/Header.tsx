@@ -82,7 +82,7 @@ const Header: React.FC = () => {
                                 onClick={() => setIsModalOpen(true)}
                                 className="text-black bg-primary hover:bg-primary-accent px-6 py-2 rounded-full transition-colors flex items-center justify-center whitespace-nowrap"
                             >
-                                Start Gratis
+                                Start Nu
                             </button>
                         </li>
                         <li>
@@ -148,7 +148,7 @@ const Header: React.FC = () => {
                                 onClick={() => { setIsModalOpen(true); toggleMenu(); }}
                                 className="text-black bg-primary hover:bg-primary-accent px-5 py-2 rounded-full block w-fit"
                             >
-                                Start Gratis
+                                Start Nu
                             </button>
                         </li>
                     </ul>

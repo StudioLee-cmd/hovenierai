@@ -36,7 +36,7 @@ const FAQ: React.FC = () => {
                         </p>
                         <a href="/#pricing" className="relative z-10 inline-block w-full">
                             <button className="w-full px-6 py-3 rounded-xl bg-gradient-to-r from-yellow-400 to-yellow-600 text-black font-bold hover:from-yellow-300 hover:to-yellow-500 transition-all shadow-lg transform hover:scale-[1.02]">
-                                Start gratis
+                                Start nu
                             </button>
                         </a>
                     </div>

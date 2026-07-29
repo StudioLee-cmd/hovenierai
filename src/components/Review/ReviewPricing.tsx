@@ -60,41 +60,17 @@ const ReviewPricing = () => {
                                 ))}
                             </ul>
 
-                            <button
-                                onClick={async () => {
-                                    if (pkg.price === 0) {
-                                        window.open(pkg.buttonLink, '_blank');
-                                        return;
-                                    }
-
-                                    try {
-                                        const res = await fetch('/api/create-payment', {
-                                            method: 'POST',
-                                            headers: { 'Content-Type': 'application/json' },
-                                            body: JSON.stringify({
-                                                packageId: pkg.id,
-                                                price: pkg.price,
-                                                description: `Bestelling: ${pkg.name}`
-                                            }),
-                                        });
-                                        const data = await res.json();
-                                        if (data.checkoutUrl) {
-                                            window.location.href = data.checkoutUrl;
-                                        } else {
-                                            alert('Er ging iets mis met het aanmaken van de betaling.');
-                                        }
-                                    } catch (error) {
-                                        console.error('Payment error:', error);
-                                        alert('Er is een fout opgetreden.');
-                                    }
-                                }}
+                            <a
+                                href={pkg.buttonLink}
+                                target="_blank"
+                                rel="noopener noreferrer"
                                 className={`block w-full py-4 px-6 rounded-xl text-center font-bold transition-all duration-200
                                 ${pkg.highlight
                                         ? 'bg-gradient-to-r from-indigo-600 to-blue-600 text-white hover:shadow-lg hover:scale-105'
                                         : 'bg-white dark:bg-gray-800 text-gray-900 dark:text-white border-2 border-gray-200 dark:border-gray-700 hover:border-indigo-500 dark:hover:border-indigo-500 hover:text-indigo-600 dark:hover:text-indigo-400'}`}
                             >
                                 {pkg.buttonText}
-                            </button>
+                            </a>
                         </div>
                     ))}
                 </div>

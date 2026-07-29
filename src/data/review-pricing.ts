@@ -23,8 +23,8 @@ export const reviewPackages: IReviewPackage[] = [
             'Google Review Link Shortener'
         ],
         highlight: false,
-        buttonText: 'Bestel Nu',
-        buttonLink: '#'
+        buttonText: 'Pakket aanvragen',
+        buttonLink: 'https://cal.com/studiolee'
     },
     {
         id: 'large',
@@ -42,8 +42,8 @@ export const reviewPackages: IReviewPackage[] = [
             'Gratis Design Consult'
         ],
         highlight: true,
-        buttonText: 'Bestel Nu',
-        buttonLink: '#'
+        buttonText: 'Pakket aanvragen',
+        buttonLink: 'https://cal.com/studiolee'
     },
     {
         id: 'custom',

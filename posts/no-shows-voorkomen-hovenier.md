@@ -32,7 +32,7 @@ Het goede nieuws: al deze oorzaken zijn te voorkomen met goede communicatie.
 
 ![Onderhouden Nederlandse tuin](/images/blog/no-shows-voorkomen-hovenier-2.jpg)
 
-Automatische [herinneringen](/automatisering) zijn de effectiefste maatregel tegen no-shows. Hoveniers die herinneringen versturen zien 50 tot 60 procent minder no-shows.
+Automatische [herinneringen](/automatisering) zijn de effectiefste maatregel tegen no-shows. Hoveniers die herinneringen versturen zien hun no-shows ruwweg halveren.
 
 De ideale timing:
 

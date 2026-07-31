@@ -13,7 +13,7 @@ cluster: "automatisering"
 - KAP-vergunningen zijn voor de meeste klanten een ondoorzichtig traject: 8 weken aanvraag-doorlooptijd, omgevingsloket-DigiD-frictie, beschermde-bomencheck per gemeente, 6 weken bezwaarperiode (verlengbaar tot 12), eventuele herplantplicht of storting in bomenfonds.
 - Een hovenier die het hele vergunning-traject namens de klant draait, verhoogt het ticket per boom-kap-opdracht van €650 (alleen kap) naar €1.400-€2.800 (volledige service incl. begeleiding, herplant, garantie).
 - De begeleidings-fee van €175-€295 per casus is pure dienstverlening-marge zonder materiaal-kosten. Voor een hovenier met 35-60 boom-kap-cases per jaar is dat €6.000-€18.000 extra jaaromzet.
-- Klanten die jouw vergunning-service hebben gebruikt komen 65-78% van de tijd binnen 18 maanden terug voor herplant, tuin-restyling of onderhoud, omdat ze in jou een vertrouwde "tuin-regisseur" zien geworden.
+- Klanten die jouw vergunning-service hebben gebruikt komen vaak binnen 18 maanden terug voor herplant, tuin-restyling of onderhoud, omdat ze in jou een vertrouwde "tuin-regisseur" zijn gaan zien.
 
 ## Wat krijgt jouw klant niet voor elkaar
 
@@ -59,7 +59,7 @@ Vier soorten gemeentelijke bescherming die je in 10 minuten checkt:
 
 **4. Uitzonderingen-categorieën.** Veel gemeenten kennen uitzonderingen voor bepaalde soorten of grootten. Voorbeeld Zeist: berken, ongeknotte wilgen/populieren, en schubconiferen onder 1,50 m stamomtrek vallen buiten vergunningplicht. Deze uitzonderingen verschillen per gemeente.
 
-Bouw zelf een spreadsheet met de top-20 gemeenten in jouw werkgebied en hun bomenverordening-link. 10 minuten één keer, scheelt elke check daarna 80%.
+Bouw zelf een spreadsheet met de top-20 gemeenten in jouw werkgebied en hun bomenverordening-link. 10 minuten één keer, en elke check daarna is nog maar een fractie van het werk.
 
 ## Herplantplicht en bomenfonds: hoe je marge pakt
 
@@ -81,13 +81,13 @@ Per casus standaard offerte-onderdelen:
 |---|---|---|---|
 | **Begeleidings-fee KAP-aanvraag** | €175-€295 | Klant | 100% (pure dienstverlening) |
 | **Leges gemeente** | €25-€150 (afhankelijk van gemeente) | Klant (doorbelast) | 0% (doorbelast) |
-| **Boomveiligheidsrapport** | €350-€500 | Klant (via partner) | 15-25% commissie als partner |
-| **Boomkap (incl. afvoer)** | €400-€1.000 | Klant | 22-32% |
-| **Herplant nieuwe boom + planting** | €250-€600 | Klant (indien geen bomenfonds) | 35-50% |
-| **3-jaar garantie-contract** | €255 totaal | Klant | 60-70% |
-| **Totaal ticket** | €1.455-€2.800 | | Gewogen marge ~32-42% |
+| **Boomveiligheidsrapport** | €350-€500 | Klant (via partner) | reken met 15-25% commissie als partner |
+| **Boomkap (incl. afvoer)** | €400-€1.000 | Klant | reken met 22-32% |
+| **Herplant nieuwe boom + planting** | €250-€600 | Klant (indien geen bomenfonds) | reken met 35-50% |
+| **3-jaar garantie-contract** | €255 totaal | Klant | reken met 60-70% |
+| **Totaal ticket** | €1.455-€2.800 | | Gewogen marge: reken met ~32-42% |
 
-Vergeleken met "alleen kap" (€650 ticket, ~25% marge = €165 marge), levert het complete pakket €1.455-€2.800 ticket met €465-€1.175 marge. Per casus 3-7x meer marge voor 4-6 uur extra werk.
+Vergeleken met "alleen kap" (€650 ticket, ~25% marge = €165 marge), levert het complete pakket €1.455-€2.800 ticket met €465-€1.175 marge. Per casus vele malen meer marge voor 4-6 uur extra werk.
 
 [Een goede SEO-strategie voor hoveniers](/seo) zorgt dat je gevonden wordt op zoektermen rond "boom kappen vergunning [stad]" waar veel kleine hoveniers nog niet zichtbaar zijn.
 
@@ -95,7 +95,7 @@ Vergeleken met "alleen kap" (€650 ticket, ~25% marge = €165 marge), levert h
 
 Wanneer een klant belt of mailt met "ik wil een boom laten kappen", gebruik dit drie-stappen pitch-script:
 
-**Stap 1.** "Heeft u al gecheckt of er een vergunning nodig is?" 80% van klanten zegt nee. Daarmee is het pitch-moment geopend.
+**Stap 1.** "Heeft u al gecheckt of er een vergunning nodig is?" Verreweg de meeste klanten zeggen nee. Daarmee is het pitch-moment geopend.
 
 **Stap 2.** "We doen dat hele traject voor u: vergunning-aanvraag, boomveiligheidsrapport, monitoring bezwaarperiode, herplant indien nodig. Tarief €X totaal." Concrete prijs.
 
@@ -117,6 +117,6 @@ In je CRM tag je de klant op "KAP-service casus" met velden: gemeente, boom-soor
 
 ## Conclusie
 
-KAP-vergunning-service als hovenier is een van de duidelijkste sticky-service-uitbreidingen in 2026: ticket-uplift van €650 naar €1.400-€2.800 per casus, marge van €165 naar €465-€1.175, plus 65-78% klant-retentie binnen 18 maanden voor opvolg-werk. De 5-stappen procedure, beschermde-bomencheck per gemeente, en het transparante pricing-model met begeleidings-fee + leges + boomveiligheidsrapport + kap + herplant + garantie vormen samen een implementatie-route die binnen 4 weken in je werkroutine past.
+KAP-vergunning-service als hovenier is een van de duidelijkste sticky-service-uitbreidingen in 2026: ticket-uplift van €650 naar €1.400-€2.800 per casus, marge van €165 naar €465-€1.175, plus een hoge klant-retentie binnen 18 maanden voor opvolg-werk. De 5-stappen procedure, beschermde-bomencheck per gemeente, en het transparante pricing-model met begeleidings-fee + leges + boomveiligheidsrapport + kap + herplant + garantie vormen samen een implementatie-route die binnen 4 weken in je werkroutine past.
 
 Wil je weten hoeveel KAP-aanvragen in jouw werkgebied lopen en welke gemeenten de hoogste vergunning-volumes genereren? [Doe een gratis AI-scan voor hoveniers](/gratis-scan), dan zien we welke route in jouw markt het snelst tot resultaat leidt.

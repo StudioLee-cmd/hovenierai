@@ -9,9 +9,9 @@ tags: ["CRM", "Klantbeheer", "Klantkaart", "Tuin-historie", "Hovenier"]
 cluster: "automatisering"
 ---
 **In het kort:**
-- 70% van de Nederlandse MKB-hoveniers werkt met losse Excel-bestanden, papieren tuinkaartjes of telefoon-foto's per project. Resultaat: bij elke nieuwe afspraak met een bestaande klant moet de hovenier opnieuw uitvinden welke planten er staan, wanneer er voor het laatst gesnoeid is, en wat de klant graag wel/niet wil.
-- Een centrale klantkaart per tuin met negen vaste velden (locatie, beplanting-historie, onderhoudsritme, voorkeuren, prijsafspraken, foto-archief, contracten, contact-historie en factuur-historie) bespaart 35-50 minuten per terugkerend klantbezoek én voorkomt 80% van de fouten zoals "verkeerde plant gesnoeid" of "vorig jaar bemest, dit jaar opnieuw geadviseerd".
-- Een MKB-hovenier met goed georganiseerde klantkaarten haalt jaarlijks 15-25% meer onderhouds-omzet uit zijn bestaande klantenbestand omdat seizoens-herinneringen en upsells systematisch getriggerd worden in plaats van vergeten.
+- Het merendeel van de Nederlandse MKB-hoveniers werkt met losse Excel-bestanden, papieren tuinkaartjes of telefoon-foto's per project. Resultaat: bij elke nieuwe afspraak met een bestaande klant moet de hovenier opnieuw uitvinden welke planten er staan, wanneer er voor het laatst gesnoeid is, en wat de klant graag wel/niet wil.
+- Een centrale klantkaart per tuin met negen vaste velden (locatie, beplanting-historie, onderhoudsritme, voorkeuren, prijsafspraken, foto-archief, contracten, contact-historie en factuur-historie) bespaart 35-50 minuten per terugkerend klantbezoek én voorkomt het gros van de fouten zoals "verkeerde plant gesnoeid" of "vorig jaar bemest, dit jaar opnieuw geadviseerd".
+- Een MKB-hovenier met goed georganiseerde klantkaarten haalt jaarlijks merkbaar meer onderhouds-omzet uit zijn bestaande klantenbestand omdat seizoens-herinneringen en upsells systematisch getriggerd worden in plaats van vergeten.
 - Drie ingrepen die de klantkaart productief maken: één centraal systeem in plaats van losse Excels en mappen, een tuinspecifieke veld-set die meer is dan generieke contact-info, en een seizoens-trigger-flow die per klant het juiste moment voor onderhoud-aanbieding signaleert.
 
 ## Waarom losse Excel + foto's-in-WhatsApp niet meer werkt
@@ -102,7 +102,7 @@ Vier seizoens-triggers die elk MKB-hovenier in zijn [crm systeem voor hoveniers]
 
 **Trigger 4: Winter-snoeiwerk (begin december).** Aan alle klanten met fruit-bomen of leihagen: "Hoi [naam], december is beste tijd voor winter-snoeiwerk fruitbomen. Reageer met 'winter' voor prijs-indicatie."
 
-Per trigger gemiddeld 18-28% conversie. Bij 100 actieve klanten en 4 triggers per jaar betekent dat 72-112 extra opdracht-aanvragen per jaar: geheel uit bestaande klantenbestand, geen nieuwe acquisitie nodig.
+Per trigger: reken met 18 tot 28 procent conversie. Bij 100 actieve klanten en 4 triggers per jaar betekent dat 72-112 extra opdracht-aanvragen per jaar: geheel uit bestaande klantenbestand, geen nieuwe acquisitie nodig.
 
 Een [chatbot voor hoveniers](/chatbot) op je website vangt nieuwe klanten 24/7 op zodat zij OOK in jouw klantenbestand komen voor de volgende seizoens-trigger.
 

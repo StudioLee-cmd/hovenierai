@@ -23,7 +23,7 @@ De meeste hoveniers zitten in één van twee valkuilen.
 
 De eerste: je neemt alles zelf op en reageert overal meteen op. Elk telefoontje trekt je uit je werk, ook de aanvraag die drie weken de tijd heeft. Je raakt je concentratie kwijt, je klus loopt uit, en 's avonds ben je nog steeds bereikbaar omdat je "niks wilt missen". Dat houd je een seizoen vol, daarna niet meer.
 
-De tweede: je zet de telefoon op de voicemail zodra het druk wordt. Rustig voor jou, maar minder dan een op de vijf bellers spreekt ook echt iets in. De rest belt gewoon door. En laat dat nou net de bellers zijn met de urgente, goedbetaalde klussen: de storm, de omgevallen boom, de wateroverlast bij de buren. Precies de klussen die je niet wilt missen, verdwijnen als eerste.
+De tweede: je zet de telefoon op de voicemail zodra het druk wordt. Rustig voor jou, maar slechts een kleine minderheid van de bellers spreekt ook echt iets in. De rest belt gewoon door. En laat dat nou net de bellers zijn met de urgente, goedbetaalde klussen: de storm, de omgevallen boom, de wateroverlast bij de buren. Precies de klussen die je niet wilt missen, verdwijnen als eerste.
 
 De oplossing zit in het midden: elke oproep wordt aangenomen, maar niet elke oproep leidt tot dezelfde actie. Een storm-melding hoort anders behandeld te worden dan een offerte-aanvraag voor het najaar. Dat onderscheid heet routing, en het is het hart van een goede [voice ai voor hoveniers](/voice-ai).
 

@@ -62,7 +62,7 @@ Vergelijk maandelijks. Een verbetering van twee naar zes aanvragen per maand bet
 
 - **Alleen mooie foto's, geen call-to-action**: een bezoeker moet weten wat de volgende stap is
 - **Verouderde content**: projectfoto's van vijf jaar geleden ondermijnen vertrouwen
-- **Geen mobiele optimalisatie**: meer dan 70% van je bezoekers zit op een telefoon
+- **Geen mobiele optimalisatie**: het merendeel van je bezoekers zit op een telefoon
 - **Te veel tekst, te weinig beeld**: tuinwerk is visueel. Laat het zien
 - **[Klantcommunicatie](/blog/klantcommunicatie-hovenier-nazorg) niet op de website reflecteren**: als klanten je offline aanbevelen maar online niets vindbaar is, verlies je leads
 

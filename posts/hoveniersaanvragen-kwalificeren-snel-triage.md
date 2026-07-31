@@ -13,13 +13,13 @@ Een hovenier in het hoogseizoen krijgt 30 aanvragen per week. De helft is serieu
 
 Een loodgieter heeft meestal een acuut probleem: lekkage moet vandaag gefixt. Een dakdekker heeft vaak een offerte voor een specifiek geweten probleem. Een hovenier krijgt vaak vage aanvragen: "Ik wil iets met mijn tuin." Wat dat "iets" inhoudt is meestal nog niet duidelijk voor de klant zelf.
 
-Dit maakt kwalificatie kritiek. Een hovenier die elke vage aanvraag oppakt en een offerte uitwerkt verspilt 60-80 procent van zijn vrije tijd. Een hovenier die in 5 minuten kan beoordelen of de aanvraag serieus is, kan zijn opvolg-tijd gericht inzetten op de mensen met echt budget en intentie.
+Dit maakt kwalificatie kritiek. Een hovenier die elke vage aanvraag oppakt en een offerte uitwerkt verspilt het grootste deel van zijn vrije tijd. Een hovenier die in 5 minuten kan beoordelen of de aanvraag serieus is, kan zijn opvolg-tijd gericht inzetten op de mensen met echt budget en intentie.
 
 **In het kort:**
-- 30-50 procent van hovenier-aanvragen leidt nooit tot een opdracht.
+- Een aanzienlijk deel van de hovenier-aanvragen leidt nooit tot een opdracht.
 - Vijf vragen filteren in de eerste 5 minuten serieus van vrijblijvend.
 - Snelle kwalificatie geeft tijd om diepgaand met serieuze leads te werken.
-- Conversie van offerte naar opdracht stijgt met 25-40 procent door betere lead-selectie.
+- Conversie van offerte naar opdracht stijgt merkbaar door betere lead-selectie.
 - De grootste fout: elke aanvraag direct met een offerte beantwoorden zonder kwalificatie.
 
 ## Het 5-vragen-framework voor hovenier-kwalificatie
@@ -105,7 +105,7 @@ Geef elke aanvraag een snelle score op basis van de vijf antwoorden:
 | **C: shopper / vaag** | 2 of minder specifiek + ontwijkend over budget | Stuur algemene info-pakket per e-mail, geen actief opvolgen |
 | **D: niet serieus** | "Ik kijk wat het kost" + 4+ andere offertes + onrealistisch budget | Vriendelijk afsluiten, geen tijd in steken |
 
-Bij ons werken we met deze categorisering al sinds 2024 en zien we dat hoveniers die 100 procent van hun opvolg-tijd in A en B steken hun conversie met 30-50 procent verhogen, terwijl ze 40 procent minder tijd kwijt zijn aan opvolging. Lees ook onze pagina over [chatbot voor hoveniers](/chatbot) om dit kwalificatie-proces deels te automatiseren.
+Bij ons werken we met deze categorisering al sinds 2024 en zien we dat hoveniers die 100 procent van hun opvolg-tijd in A en B steken hun conversie flink verhogen, terwijl ze aanmerkelijk minder tijd kwijt zijn aan opvolging. Lees ook onze pagina over [chatbot voor hoveniers](/chatbot) om dit kwalificatie-proces deels te automatiseren.
 
 ## Wat te doen met C- en D-leads
 
@@ -127,8 +127,8 @@ Door C en D te onderscheiden van A en B, focus je je actieve tijd op de juiste m
 Bij drie Nederlandse hoveniersbedrijven die we het afgelopen jaar hebben begeleid bij het invoeren van dit kwalificatie-framework:
 
 - **Tijd per aanvraag:** van gemiddeld 90 minuten naar 5 minuten (kwalificatie) plus diepgaande tijd voor A en B.
-- **Conversie van offerte naar opdracht:** +30 tot +50 procent.
-- **Aantal offertes per maand:** -25 procent (we sturen geen offertes meer naar D-leads).
+- **Conversie van offerte naar opdracht:** duidelijk omhoog.
+- **Aantal offertes per maand:** omlaag (we sturen geen offertes meer naar D-leads).
 - **Werkuren bespaard per week:** 8-12 uur (geen wasted opvolging).
 - **Klanttevredenheid (NPS):** stabiel of licht hoger (minder opdringerige opvolging voor mensen die niet willen).
 

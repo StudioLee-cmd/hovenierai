@@ -22,7 +22,7 @@ Particuliere klanten vragen meerdere hoveniers aan. De snelste en meest professi
 
 ## Herhaalklanten via slimme herinneringen
 
-Een klant die dit jaar tevreden was, is ook volgend jaar een potentiële opdrachtgever. AI stuurt automatisch een herinnering in het juiste seizoen: "Het is weer lente — wilt u uw tuin laten klaarmaken?" Dit levert hoveniers gemiddeld 30–40% meer herhaalopdrachten op.
+Een klant die dit jaar tevreden was, is ook volgend jaar een potentiële opdrachtgever. AI stuurt automatisch een herinnering in het juiste seizoen: "Het is weer lente — wilt u uw tuin laten klaarmaken?" Dit levert hoveniers merkbaar meer herhaalopdrachten op.
 
 ## Reviews en nieuwe klanten
 

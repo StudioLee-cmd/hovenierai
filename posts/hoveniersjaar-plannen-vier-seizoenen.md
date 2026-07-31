@@ -9,17 +9,17 @@ cluster: "automatisering"
 ---
 ## In het kort
 
-- **Een gemiddelde Nederlandse hovenier draait 70% van zijn omzet in 6 maanden** (april tot oktober). De andere 6 maanden zijn vaak halflege agenda's.
-- **Met de juiste seizoens-mix kun je 85-95% van je piek-omzet behouden in de winter,** door specifieke diensten en proactieve marketing.
+- **Een gemiddelde Nederlandse hovenier draait het leeuwendeel van zijn omzet in 6 maanden** (april tot oktober). De andere 6 maanden zijn vaak halflege agenda's.
+- **Met de juiste seizoens-mix kun je je piek-omzet in de winter grotendeels vasthouden,** door specifieke diensten en proactieve marketing.
 - **Vier diensten werken in elk seizoen:** onderhoudscontracten, snoeiwerk, ontwerp en bestrating.
-- **Wintermarketing voor het volgende seizoen** levert 40% meer voorjaarsboekingen op.
+- **Wintermarketing voor het volgende seizoen** levert fors meer voorjaarsboekingen op.
 - **De grootste fout: lijdzaam wachten op het lente-piek** in plaats van actief sturen op gespreide planning.
 
 ## Het hoveniers-jaar in vier seizoenen
 
 Een hovenier in Nederland heeft te maken met extreme seizoens-pieken. Maart tot juni: agenda overvol, klanten op wachtlijst, geen tijd voor nieuwe leads. Juli en augustus: nog steeds vol maar vakanties versplinteren de planning. September en oktober: drukke afsluitings-fase. November tot februari: vaak halflege agenda's of zelfs leeg, mensen die hun materiaal opnieuw oppoetsen en wachten op de lente.
 
-Deze pieken-en-dalen kosten een hovenier gemiddeld 30-40 procent van zijn jaaromzet vergeleken met een gespreide planning. Niet omdat de werkdruk te laag is in de winter, maar omdat de wintermarketing vaak ontbreekt en seizoens-specifieke diensten niet duidelijk worden aangeboden.
+Deze pieken-en-dalen kosten een hovenier een fors deel van zijn jaaromzet vergeleken met een gespreide planning. Niet omdat de werkdruk te laag is in de winter, maar omdat de wintermarketing vaak ontbreekt en seizoens-specifieke diensten niet duidelijk worden aangeboden.
 
 In dit artikel laten we per seizoen zien welke diensten goed werken, hoe je marketing-acties spreidt over het jaar en hoe je in januari en februari nog steeds factuurt zonder dat je wacht op het lente-piek. Lees ook onze bredere gids over [SEO voor hoveniers](/seo) waarmee je het hele jaar door gevonden wordt.
 
@@ -99,7 +99,7 @@ Reflectie + verkoop volgend seizoen. Stuur jaaroverzicht naar bestaande klanten 
 
 Drie technieken om de seizoens-pieken af te vlakken.
 
-**Techniek 1: korting bij voor-bestellen.** Klanten die een groot project (terrasrenovatie, nieuwe beplanting) in januari-februari boeken voor uitvoering in oktober-november krijgen 10-15 procent korting. Klanten denken graag mee over kosten, agenda krijgt vulling.
+**Techniek 1: korting bij voor-bestellen.** Klanten die een groot project (terrasrenovatie, nieuwe beplanting) in januari-februari boeken voor uitvoering in oktober-november krijgen korting; reken met 10 tot 15 procent. Klanten denken graag mee over kosten, agenda krijgt vulling.
 
 **Techniek 2: seizoens-pakketten met vaste prijs.** "Voorjaarspakket: 350 euro voor X, Y, Z." Klanten weten precies wat ze krijgen, jij weet hoeveel uren te plannen. Gemakkelijker te marketing-en dan losse uurtarieven.
 
@@ -109,10 +109,10 @@ Drie technieken om de seizoens-pieken af te vlakken.
 
 Bij twee Nederlandse hovenierbedrijven die we het afgelopen jaar hebben begeleid bij het invoeren van een 4-seizoenen-plan:
 
-- **Wintermaanden (dec-feb):** van gemiddeld 25 procent van de zomeromzet naar 65 procent
-- **Onderhoudscontracten:** 40 procent van klanten kiest een doorlopend contract (was 8 procent)
-- **Boekingen voor lente vanaf januari:** 60 procent van het lente-aanbod is al verkocht voor 1 maart
-- **Jaaromzet:** +18 tot +25 procent zonder extra werknemers
+- **Wintermaanden (dec-feb):** van een kwart van de zomeromzet naar bijna twee derde
+- **Onderhoudscontracten:** een flink deel van de klanten kiest nu een doorlopend contract (was een enkeling)
+- **Boekingen voor lente vanaf januari:** ruim de helft van het lente-aanbod is al verkocht voor 1 maart
+- **Jaaromzet:** fors omhoog zonder extra werknemers
 - **Werkdruk in piekmaanden:** stabieler door spreiding
 
 Voor een hoveniersbedrijf met 80.000 euro jaaromzet betekent dit conservatief 14.000-20.000 euro extra omzet per jaar. Bekijk ook onze [tarieven](/tarieven) als je dit volledig wilt laten plannen en marketen.

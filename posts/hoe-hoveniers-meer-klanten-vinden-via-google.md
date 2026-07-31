@@ -110,7 +110,7 @@ Jij werkt in de tuin. Wij zorgen dat klanten jou vinden:
 | Actie | Effect | Tijdsinvestering |
 |-------|--------|-----------------|
 | Google-profiel compleet met foto's werk | Direct meer aanvragen | 2 uur |
-| Review-opvolging na elke klus | 3-5x meer reviews | Eenmalige setup |
+| Review-opvolging na elke klus | duidelijk meer reviews | Eenmalige setup |
 | Aparte pagina per dienst | Meer organisch verkeer | 1-2 dagen |
 | Chatbot voor buiten werktijd | Nul gemiste aanvragen | Eenmalige setup |
 | Seizoensartikel schrijven | Terugkerend verkeer | 1 uur |

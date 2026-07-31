@@ -12,7 +12,7 @@ tags: ["Reviews", "Hovenier", "Google"]
 
 Je levert een prachtige tuin op. De klant is enthousiast. Buren kijken bewonderend over de schutting. Maar die waardering verdwijnt als sneeuw voor de zon als het niet online staat. De volgende potentiële klant die "hovenier [stad]" googelt, ziet jouw mooie werk niet.
 
-Reviews zijn de brug tussen tevreden klanten en nieuwe opdrachten. Hoveniers met meer dan 20 Google reviews en een score boven de 4,5 verschijnen hoger in lokale zoekresultaten en krijgen tot 3 keer meer offerteaanvragen.
+Reviews zijn de brug tussen tevreden klanten en nieuwe opdrachten. Hoveniers met meer dan 20 Google reviews en een score boven de 4,5 verschijnen hoger in lokale zoekresultaten en krijgen merkbaar meer offerteaanvragen.
 
 ## Waarom hoveniers een voorsprong hebben
 

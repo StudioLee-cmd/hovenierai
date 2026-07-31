@@ -15,11 +15,11 @@ Deze gids onderscheidt wat werkt van wat niet werkt. Welke verduurzamings-dienst
 
 Het is belangrijk om te snappen waar in de markt momenteel echt geld zit voor verduurzaming. Drie segmenten leveren aantoonbaar hogere marges dan standaard-werk.
 
-**Wateropvang en -infiltratie.** Gemeentes, provincies en projectontwikkelaars moeten klimaatadaptief bouwen. Vraag naar regenwater-oplossingen (infiltratiekratten, wadi's, groendaken) is gegroeid met 30-50% sinds 2023. Marges zijn hoog (30-45% boven standaardtarief) omdat het gespecialiseerd werk is waar weinig hoveniers echt in thuis zijn.
+**Wateropvang en -infiltratie.** Gemeentes, provincies en projectontwikkelaars moeten klimaatadaptief bouwen. Vraag naar regenwater-oplossingen (infiltratiekratten, wadi's, groendaken) is sinds 2023 fors gegroeid. Marges liggen duidelijk boven het standaardtarief omdat het gespecialiseerd werk is waar weinig hoveniers echt in thuis zijn.
 
-**Insect- en vogelvriendelijke tuinen voor particulieren.** Een specifieke klantgroep — veelal hoger opgeleid, 40+, bewust van natuurverlies — betaalt een premium voor een tuin die biodiverser is dan de buurman. Marges zijn goed (15-25% hoger dan standaardtuin) omdat de klant óók betaalt voor kennis (welke planten, welke compositie) en een langere ontwerpfase.
+**Insect- en vogelvriendelijke tuinen voor particulieren.** Een specifieke klantgroep — veelal hoger opgeleid, 40+, bewust van natuurverlies — betaalt een premium voor een tuin die biodiverser is dan de buurman. Marges liggen merkbaar hoger dan bij een standaardtuin omdat de klant óók betaalt voor kennis (welke planten, welke compositie) en een langere ontwerpfase.
 
-**Tuinrenovaties voor eigenaren van oudere woningen.** Huizen uit de jaren 70-80 hebben vaak tuinen die commercieel worden aangelegd met beperkte bodem en veel plavuizen. Renovatie naar doorlaatbare structuur is aantrekkelijk voor deze klant om drie redenen: waterschade wordt voorkomen, het huis krijgt meer uitstraling, en er is vaak een gemeentesubsidie beschikbaar. Marges: 20-35% boven standaard onderhoud.
+**Tuinrenovaties voor eigenaren van oudere woningen.** Huizen uit de jaren 70-80 hebben vaak tuinen die commercieel worden aangelegd met beperkte bodem en veel plavuizen. Renovatie naar doorlaatbare structuur is aantrekkelijk voor deze klant om drie redenen: waterschade wordt voorkomen, het huis krijgt meer uitstraling, en er is vaak een gemeentesubsidie beschikbaar. Marges liggen duidelijk boven die van standaard onderhoud.
 
 Een [AI chatbot](/chatbot) op je website die bij een aanvraag vraagt "Is wateropvang of klimaatadaptatie voor u belangrijk?" kan deze klanten in de intake al filteren — zodat jouw tijd alleen naar de juiste prospects gaat.
 
@@ -53,7 +53,7 @@ Het risico bij verduurzaming is dat je in een ideologische toon vervalt ("we moe
 
 **Spreek in concrete problemen, niet in abstracte waarden.** "Uw dakgoot raakt vol bij zware bui" is een probleem dat een klant herkent. "Klimaatverandering eist aanpassing" is een abstracte waarde die voor betere marketing niet werkt.
 
-**Toon voor/na-resultaten met harde cijfers.** Een wadi absorbeert 80-120 liter per m² per uur. Een groen dak houdt 15-20% van regenwater vast. Een insect-hotel trekt 30-50 soorten bijen aan in het eerste jaar. Cijfers maken het tastbaar en overtuigen de rationele klant.
+**Toon voor/na-resultaten met harde cijfers.** Een wadi absorbeert 80-120 liter per m² per uur. Een groen dak houdt een flink deel van het regenwater vast. Een insect-hotel trekt 30-50 soorten bijen aan in het eerste jaar. Cijfers maken het tastbaar en overtuigen de rationele klant.
 
 **Verbind het aan esthetiek en waarde van het huis.** "Deze tuin heeft meer biodiversiteit" is een zwakke pitch. "Deze tuin ziet er het hele jaar door mooi uit omdat er 8 verschillende bloeimomenten zijn, en verhoogt je woningwaarde met €5.000 tot €15.000" is overtuigend. De duurzame aspecten komen dan als bonus, niet als hoofdargument.
 
@@ -79,7 +79,7 @@ Als je serieus in verduurzaming wilt gaan zitten, moet je website mee. Drie krit
 
 ## Hoe dit rendeert: de cijfers
 
-Een hoveniersbedrijf dat zich scherp positioneert in verduurzamingsdiensten kan realistisch verwachten: 25-40% hogere gemiddelde opdrachtwaarde, 50-70% meer spontane verwijzingen (de klantgroep praat er graag over), en toegang tot gemeentelijke aanbestedingen die voorheen buiten bereik waren. Over twee jaar is de omzet vaak 30-50% hoger dan bij een generalistisch hoveniersbedrijf van vergelijkbare grootte.
+Een hoveniersbedrijf dat zich scherp positioneert in verduurzamingsdiensten kan realistisch verwachten: een hogere gemiddelde opdrachtwaarde, duidelijk meer spontane verwijzingen (de klantgroep praat er graag over), en toegang tot gemeentelijke aanbestedingen die voorheen buiten bereik waren. Over twee jaar ligt de omzet vaak merkbaar hoger dan bij een generalistisch hoveniersbedrijf van vergelijkbare grootte.
 
 De investering: 3-6 maanden positionering, één certificering, twee à drie referentie-projecten op de website. Wij begeleiden hoveniers die deze sprong willen maken via onze managed service — van website-inrichting tot lokale SEO tot gerichte content. Meer over [tarieven](/tarieven) en implementatietraject. Of vraag een [gratis scan](/gratis-scan) aan waarin we jouw huidige positionering analyseren en de drie meest kansrijke verduurzamings-diensten voor jouw regio benoemen.
 

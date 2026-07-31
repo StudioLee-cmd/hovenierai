@@ -10,9 +10,9 @@ cluster: "automatisering"
 ---
 
 **In het kort:**
-- 65% van de Nederlandse MKB-hoveniers vraagt nooit gestructureerd naar klanttevredenheid na een afgeronde opdracht. Resultaat: kleine ontevredenheid blijft onzichtbaar tot het in een 1-ster Google-review of een verloren herhaal-opdracht resulteert. Een eenvoudige 3-methodes-aanpak vangt 80% van die signalen op binnen 30 dagen.
+- Het merendeel van de Nederlandse MKB-hoveniers vraagt nooit gestructureerd naar klanttevredenheid na een afgeronde opdracht. Resultaat: kleine ontevredenheid blijft onzichtbaar tot het in een 1-ster Google-review of een verloren herhaal-opdracht resulteert. Een eenvoudige 3-methodes-aanpak vangt het gros van die signalen op binnen 30 dagen.
 - De beste methode-mix voor een MKB-hovenier: een 1-vraag NPS via WhatsApp na 7 dagen, een foto-feedback-vraag na 14 dagen, en een 30-dagen check-in-bericht. Totale tijdsinvestering per klant: minder dan 2 minuten, mits geautomatiseerd.
-- Goede klanttevredenheids-meting verhoogt het Google-review-volume met 200-350% en de herhaal-opdracht-rate met 18-28%. Op een gemiddelde MKB-hovenier-omzet van €250.000 betekent dat €45.000 tot €70.000 extra omzet per jaar uit bestaande klanten plus aanmerkelijk meer nieuwe klanten via reviews.
+- Goede klanttevredenheids-meting vermenigvuldigt het Google-review-volume en tilt de herhaal-opdracht-rate merkbaar omhoog. Op een gemiddelde MKB-hovenier-omzet van €250.000 betekent dat al gauw tienduizenden euro's extra omzet per jaar uit bestaande klanten, plus aanmerkelijk meer nieuwe klanten via reviews.
 - ACM Marktonderzoek Hoveniersbranche 2025 noemt de afwezigheid van structureel klantfeedback-systeem als top-3 oorzaak van bedrijfsstilstand bij MKB-hoveniers, niet door incompetentie maar door gemiste signaal-momenten.
 
 ## Waarom passieve klantfeedback niet werkt
@@ -29,7 +29,7 @@ Drie patronen die zonder structurele meting onzichtbaar blijven:
 
 **Onuitgesproken voorkeuren.** De klant had eigenlijk meer verticaal-element gewild, of een ander grindkleur, of meer kleur in het voorjaar. Hij zegt het niet direct uit beleefdheid, maar bij de volgende afspraak vraagt hij niet om een tuin-uitbreiding.
 
-ACM Marktonderzoek Hoveniersbranche 2025 noemt deze "stille onvrede" als de meest onderschatte omzet-lek in de groen-sector. MKB-hoveniers zonder feedback-systeem verliezen jaarlijks gemiddeld 22% van hun klantenbestand zonder te weten waarom.
+Volgens het ACM Marktonderzoek Hoveniersbranche 2025 is deze "stille onvrede" het meest onderschatte omzet-lek in de groen-sector: MKB-hoveniers zonder feedback-systeem verliezen jaarlijks gemiddeld 22% van hun klantenbestand zonder te weten waarom.
 
 [Plan een gratis AI-scan voor hoveniers](/gratis-scan) brengt voor jouw situatie in kaart hoe groot het risico op stille onvrede is en welke methodes het meeste opleveren.
 
@@ -40,11 +40,11 @@ NPS staat voor Net Promoter Score. Het concept is simpel: één vraag, één 0-1
 7 dagen na een afgeronde opdracht stuurt het systeem automatisch een WhatsApp:
 "Hoi [naam], op een schaal van 0 tot 10, hoe waarschijnlijk is het dat je ons aanraadt aan een vriend of familielid? Geen uitleg nodig, alleen een cijfer."
 
-Antwoord-rate ligt rond 60-75% binnen 24 uur. De cijfers verdelen automatisch in drie groepen:
+Antwoord-rate ligt hoog binnen 24 uur. De cijfers verdelen automatisch in drie groepen:
 
-- **9-10 (Promoters):** Stuur direct een vervolg-bericht: "Top, dank! Een Google-review zou enorm helpen. Hier de directe link: [google-review-link]." Conversie naar review: 35-50%.
+- **9-10 (Promoters):** Stuur direct een vervolg-bericht: "Top, dank! Een Google-review zou enorm helpen. Hier de directe link: [google-review-link]." Een flink deel van deze groep laat daadwerkelijk een review achter.
 - **7-8 (Passives):** Geen actie nodig. Klant is OK, niet enthousiast.
-- **0-6 (Detractors):** Stuur direct een vervolg-bericht: "Dank voor je eerlijkheid. Wat zouden we anders kunnen doen om jouw score naar een 10 te brengen?" Bel binnen 24 uur. Lost 80% van de problemen op voordat ze in een review of een verloren-vaste-klant resulteren.
+- **0-6 (Detractors):** Stuur direct een vervolg-bericht: "Dank voor je eerlijkheid. Wat zouden we anders kunnen doen om jouw score naar een 10 te brengen?" Bel binnen 24 uur. Dat lost de meeste problemen op voordat ze in een review of een verloren-vaste-klant resulteren.
 
 Een [crm voor hoveniers](/crm) met WhatsApp-koppeling automatiseert deze NPS-flow voor elke klus.
 
@@ -65,7 +65,7 @@ Drie waarden in één:
 
 **Voor je portfolio:** klant-foto's zijn vaak natuurlijker dan jouw professionele opnames. Met toestemming gebruik je ze in je social media of op je website.
 
-Antwoord-rate gemiddeld 35-50% van klanten. Conversie naar plant-vervanging-onder-garantie of follow-up-opdracht: 15-22%.
+Antwoord-rate: ongeveer de helft van de klanten reageert. Een deel daarvan converteert naar plant-vervanging-onder-garantie of een follow-up-opdracht.
 
 ## Methode 3: 30-dagen check-in-bericht
 
@@ -76,9 +76,9 @@ Stuur op dag 30 een WhatsApp:
 
 De vraag is bewust open. Antwoorden vallen in drie categorieën:
 
-- **"Alles top!" (60%):** stuur dan direct: "Mooi! Mocht je een Google-review willen achterlaten, hier is de link: [google-review-link]"
-- **"Hebben nog vragen over X" (25%):** beantwoord direct in WhatsApp of bel binnen 24 uur. Vaak gratis advies, soms leidt het tot vervolg-opdracht.
-- **"Niet helemaal tevreden over Y" (15%):** bel binnen 24 uur. Lost 80% van de issues op zonder review-schade.
+- **"Alles top!" (de grootste groep):** stuur dan direct: "Mooi! Mocht je een Google-review willen achterlaten, hier is de link: [google-review-link]"
+- **"Hebben nog vragen over X" (een kleinere groep):** beantwoord direct in WhatsApp of bel binnen 24 uur. Vaak gratis advies, soms leidt het tot vervolg-opdracht.
+- **"Niet helemaal tevreden over Y" (de kleinste groep):** bel binnen 24 uur. Dat lost de meeste issues op zonder review-schade.
 
 Een [chatbot voor hoveniers](/chatbot) op je website kan de "Alles top!" reacties automatisch opvolgen met de review-link, zodat jij die 60 reacties per maand niet handmatig hoeft te triggeren.
 
@@ -87,7 +87,7 @@ Een [chatbot voor hoveniers](/chatbot) op je website kan de "Alles top!" reactie
 Per klus tellen de 3 methodes op tot 7 dagen NPS + 14 dagen foto-feedback + 30 dagen check-in. Tijdsinvestering per klant met automatisering: 0 minuten na inrichting (alle berichten gaan automatisch). Met handmatige opvolging op feedback (Detractors bellen, foto-vervangingen plannen, check-in-vragen beantwoorden): 8-12 minuten per klant per maand.
 
 Bij 30 nieuwe klussen per maand komt dat neer op 4-6 uur extra werk per maand voor klant-feedback-opvolging. Resultaat:
-- 5-8 nieuwe Google-reviews per maand (van 60 NPS-promoters x 35% conversie + 30 dag check-in promoters)
+- 5-8 nieuwe Google-reviews per maand (uit je NPS-promoters plus de promoters uit de 30-dagen-check-in)
 - 4-6 plant-vervangingen-onder-garantie voorkomen die anders ontevreden klanten zouden hebben opgeleverd
 - 3-5 vervolg-opdrachten per maand uit de 30-dagen check-in opportunities
 
@@ -99,7 +99,7 @@ Een goed georganiseerd [reviews-systeem voor hoveniers](/reviews) koppelt deze d
 
 Drie meet-mistakes die hoveniers vaak maken:
 
-**Lange enquêtes met 10+ vragen.** Antwoord-rate zakt onder 5%. Houd het op één vraag per moment.
+**Lange enquêtes met 10+ vragen.** De antwoord-rate zakt dan naar vrijwel nul. Houd het op één vraag per moment.
 
 **Telefonische tevredenheids-interviews.** Klanten ervaren het als verkooppraatje. WhatsApp is veel laagdrempeliger.
 

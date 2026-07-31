@@ -32,7 +32,7 @@ Urenregistratie op zich is alleen turven. De winst zit in wat je er daarna mee d
 | Uren op locatie | 28 uur | 33 uur | +5 uur |
 | Reistijd | 2 uur | 5 uur | +3 uur |
 | Materiaal ophalen | inbegrepen | 3 uur | +3 uur |
-| Marge op de klus | gepland 22% | werkelijk 4% | leeggelopen |
+| Marge op de klus | gepland ruim een vijfde | werkelijk bijna niets | leeggelopen |
 
 Die laatste regel is het hele verhaal. De klus was niet verliesgevend, maar de marge liep leeg via posten die je nooit apart bekeek: reistijd tussen tuinen en het heen en weer rijden voor materiaal. Dat zie je alleen als je uren per project vastlegt in plaats van per dag. En het werkt het beste als die uren naast je klant- en projectgegevens staan, niet in een los schriftje: in [een crm waarin elke tuin zijn eigen kaart heeft](/crm) hangt de nacalculatie automatisch onder de juiste klant, zodat je bij de volgende offerte ziet wat dezelfde klant je vorige keer echt kostte.
 
@@ -60,7 +60,7 @@ Het scheelt het meest als de urenregistratie zit waar je klanten en projecten al
 
 Zodra je een paar maanden echte uren hebt, kun je iets doen wat de meeste hoveniers op gevoel doen: een tarief berekenen dat klopt. Niet het tarief dat de hovenier drie dorpen verderop vraagt, maar het tarief dat jouw kosten dekt en marge overhoudt.
 
-De rekensom is eenvoudiger dan hij lijkt. Tel je jaarlijkse kosten op: bus, gereedschap, verzekeringen, materiaal, je eigen loon. Deel dat door de uren die je echt declarabel bent, en dat is de kern: niet de uren die je werkt, maar de uren die een klant betaalt. Reistijd, offertes maken en de kwekerij bezoeken zijn uren die je maakt maar meestal niet factureert. Als je die niet meetelt, reken je jezelf structureel te goedkoop. Uit je urenregistratie rolt de verhouding tussen declarabele en niet-declarabele uren vanzelf, en die verhouding is vaak schrikken: veel hoveniers zitten rond de 60 procent, wat betekent dat elk factureerbaar uur ook de niet-factureerbare uren eromheen moet dragen.
+De rekensom is eenvoudiger dan hij lijkt. Tel je jaarlijkse kosten op: bus, gereedschap, verzekeringen, materiaal, je eigen loon. Deel dat door de uren die je echt declarabel bent, en dat is de kern: niet de uren die je werkt, maar de uren die een klant betaalt. Reistijd, offertes maken en de kwekerij bezoeken zijn uren die je maakt maar meestal niet factureert. Als je die niet meetelt, reken je jezelf structureel te goedkoop. Uit je urenregistratie rolt de verhouding tussen declarabele en niet-declarabele uren vanzelf, en die verhouding is vaak schrikken: veel hoveniers zitten maar net boven de helft, wat betekent dat elk factureerbaar uur ook de niet-factureerbare uren eromheen moet dragen.
 
 Wil je zien wat dat concreet voor jouw bedrijf betekent en wat automatisering eraan kan schelen, dan geeft [het overzicht van wat AI-automatisering een hovenier kost en oplevert](/tarieven) je een realistisch beeld. Het punt blijft: een uurtarief dat je op onderbuik baseert, is bijna altijd te laag, en urenregistratie is de enige manier om dat hard te maken.
 

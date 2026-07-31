@@ -29,7 +29,7 @@ Zorg voor:
 - Minimaal 15 foto's van tuinprojecten (voor-en-na werkt uitstekend)
 - Wekelijks een Google Post met een recent project of seizoenstip
 
-Een compleet profiel scoort tot 70 procent beter dan een profiel met alleen basisgegevens. Heb je je profiel al? Lees dan onze gids over het [optimaliseren van je Google Bedrijfsprofiel als hovenier](/blog/google-bedrijfsprofiel-hovenier).
+Een compleet profiel scoort duidelijk beter dan een profiel met alleen basisgegevens. Heb je je profiel al? Lees dan onze gids over het [optimaliseren van je Google Bedrijfsprofiel als hovenier](/blog/google-bedrijfsprofiel-hovenier).
 
 ## 2. Maak lokale landingspagina's per werkgebied
 
@@ -101,7 +101,7 @@ Inconsistente gegevens verwarren Google en verlagen je ranking. Loop alle vermel
 
 ## 7. Investeer in een snelle, mobielvriendelijke website
 
-Meer dan 65 procent van de zoekopdrachten naar hoveniers komt van mobiele apparaten. Huiseigenaren die in hun tuin staan en denken "dit moet anders", pakken hun telefoon en zoeken direct.
+Het merendeel van de zoekopdrachten naar hoveniers komt van mobiele apparaten. Huiseigenaren die in hun tuin staan en denken "dit moet anders", pakken hun telefoon en zoeken direct.
 
 Als je website niet goed werkt op een telefoon:
 

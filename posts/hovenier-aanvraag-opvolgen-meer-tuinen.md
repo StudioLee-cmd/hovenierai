@@ -28,7 +28,7 @@ Er zijn drie soorten vertraging die je moet aanpakken:
 2. **De tijd tot het bezoek** — wanneer kun je realistisch langskomen om te kijken
 3. **De tijd tot de offerte** — hoe lang na het bezoek komt de prijs op papier
 
-Alle drie kun je met een goed proces met 70 tot 90 procent verkorten.
+Alle drie kun je met een goed proces drastisch verkorten.
 
 ## Het ideale eerste contact binnen 24 uur
 
@@ -69,7 +69,7 @@ Het verzamelen ter plekke is cruciaal. Anders ben je een dag later met je foto's
 
 ## Stap 3: De offerte binnen 5 dagen
 
-De gemiddelde hovenier doet 2 tot 3 weken over een offerte. De top 10 procent doet 3 tot 5 dagen. Dat is het verschil tussen wel of niet de klus krijgen.
+De gemiddelde hovenier doet 2 tot 3 weken over een offerte. De koplopers doen 3 tot 5 dagen. Dat is het verschil tussen wel of niet de klus krijgen.
 
 Hoe haal je 5 dagen?
 
@@ -109,13 +109,13 @@ Met deze drie elementen mis je nooit meer een aanvraag, ook niet op zaterdagavon
 Reken even mee:
 
 - 4 aanvragen per week
-- Conversie nu: 25 procent (1 klus per week)
+- Conversie nu: reken met 25 procent (1 klus per week)
 - Gemiddelde kluswaarde: 6.000 euro
 - Maandomzet: 24.000 euro
 
-Met een snellere opvolging stijgt je conversie naar 50 procent. Maandomzet wordt dan 48.000 euro. Verdubbeling, zonder extra leads, alleen door beter op te volgen.
+In dit rekenvoorbeeld stijgt je conversie met snellere opvolging naar 50 procent. Maandomzet wordt dan 48.000 euro. Verdubbeling, zonder extra leads, alleen door beter op te volgen.
 
-Realistisch zit de winst tussen 30 en 60 procent erbij. Dat is 7.000 tot 14.000 euro extra per maand met dezelfde aanvragen die je nu al krijgt.
+Realistisch komt daar een derde tot ruim de helft aan extra conversie bij. Dat is 7.000 tot 14.000 euro extra per maand met dezelfde aanvragen die je nu al krijgt.
 
 ## Wat je vermijdt
 

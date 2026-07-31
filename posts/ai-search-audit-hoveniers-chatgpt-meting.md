@@ -23,13 +23,13 @@ In maart 2026 schreven wij een uitgebreide [rank-tactieken gids](/blog/hovenier-
 
 Eerlijke beantwoording: zonder een vaste maandelijkse audit weet je dat niet. Voor klassieke [seo voor hoveniers](/seo) volg je je positie via Google Search Console, lokale zichtbaarheid via Google Bedrijfsprofiel-insights, social via de platform-analytics. AI-search heeft geen dashboard, geen analytics-koppeling en geen Google Search Console. De enige manier om vooruitgang te zien is door zelf elke maand dezelfde prompts te stellen aan dezelfde modellen en bij te houden wie er wordt genoemd.
 
-Bedrijven met een marketingbudget van duizenden euro's per maand kopen daarvoor SaaS-tools zoals Otterly, Profound of HubSpot AI Visibility (vanaf 49 tot 499 euro per maand). Voor een ZZP-hovenier of een klein hoveniersbedrijf met een omzet onder de vier ton is dat een belachelijke investering voor een kanaal dat nu nog 5 tot 15 procent van zijn aanvragen oplevert. Met een vaste prompt-set en een simpele Google Sheet doe je het zelf in dertig minuten per maand, en je leert er meer van dan van een tool die je toch niet leest.
+Bedrijven met een marketingbudget van duizenden euro's per maand kopen daarvoor SaaS-tools zoals Otterly, Profound of HubSpot AI Visibility (vanaf 49 tot 499 euro per maand). Voor een ZZP-hovenier of een klein hoveniersbedrijf met een omzet onder de vier ton is dat een belachelijke investering voor een kanaal dat nu nog maar een klein deel van zijn aanvragen oplevert. Met een vaste prompt-set en een simpele Google Sheet doe je het zelf in dertig minuten per maand, en je leert er meer van dan van een tool die je toch niet leest.
 
 ## De drie meetwaarden die echt iets zeggen
 
 Het is verleidelijk om alles te willen meten: aantal keer genoemd, ranking-positie, sentiment, lengte van de beschrijving, type prompt, model, datum. Dat eindigt in een onleesbare spreadsheet. Drie waarden volstaan, mits ze consistent worden bijgehouden.
 
-**Noemt-percentage** is het simpelste: van de prompts die je test, in hoeveel procent komt jouw bedrijfsnaam voor in het antwoord. Drie maanden geleden 0 procent, deze maand 24 procent, dat is de hoofdtrend die je wilt zien.
+**Noemt-percentage** is het simpelste: van de prompts die je test, in hoeveel procent komt jouw bedrijfsnaam voor in het antwoord. In dit voorbeeld drie maanden geleden 0 procent en deze maand 24 procent, en dat is de hoofdtrend die je wilt zien.
 
 **Citatie-positie** is gradueel. Word je als eerste hovenier genoemd, als tweede van drie, of pas in een vervolg-prompt zoals "noem nog enkele andere opties"? Eerste positie heeft een geheel andere impact dan een achteloze vermelding in de drieëntwintigste regel.
 
@@ -69,7 +69,7 @@ Een werkbare audit-spreadsheet heeft zeven kolommen, niet meer.
 
 Acht prompts maal drie modellen levert 24 regels per maand. Iedere maand kopieer je het sjabloon, vul je het opnieuw in en zet je een grafiek op het noemt-percentage door de tijd heen. Die grafiek is de enige metric die je hoeft te delen met een medewerker of een marketingbureau om snel te zien of jouw investering werkt of niet.
 
-In de eerste maand verwacht je een laag noemt-percentage. Tussen 0 en 20 procent is normaal voor een ZZP-hovenier zonder schema markup, met onder de 30 reviews en zonder externe vermeldingen. Tussen 40 en 70 procent is realistisch na 6 tot 12 maanden consequent werken aan de drie bovengenoemde hefbomen. Boven de 70 procent is uitstekend en betekent meestal dat je in jouw stad bij de top-3 hoveniers hoort qua online aanwezigheid.
+In de eerste maand verwacht je een laag noemt-percentage. Vrijwel nul is normaal voor een ZZP-hovenier zonder schema markup, met onder de 30 reviews en zonder externe vermeldingen. Een score rond de helft van je prompts is realistisch na 6 tot 12 maanden consequent werken aan de drie bovengenoemde hefbomen. Zit je daar duidelijk boven, dan is dat uitstekend en betekent het meestal dat je in jouw stad bij de top-3 hoveniers hoort qua online aanwezigheid.
 
 ## Wat te doen met de uitslag
 
@@ -81,7 +81,7 @@ Een audit zonder actie is verspilde tijd. De uitslag stuurt waar je het komende 
 
 **Patroon 3: ChatGPT noemt me wel, Perplexity nooit.** Vaak een schema-of-bronnen-probleem. Perplexity citeert preciezer en eist vaker een directe quote of een schema-veld. Actie: zorg dat je FAQ-pagina vraag-antwoord-zinnen heeft met cijfers, en dat je schema markup foutloos wordt gelezen via Google's Rich Results Test. Hetzelfde schema dat je nodig hebt voor [ai seo voor hoveniers](/seo) helpt Perplexity om jouw bedrijf goed te identificeren. Vaak is binnen één maand verschuiving te zien.
 
-Naast deze drie patronen wijst de audit ook subtiel naar de bredere [lokale seo voor hoveniers](/seo) onderdelen die nog tekortschieten. Te lage Google-reviews? Tijd voor een review-strategie. Te weinig sociale signalen? [Social media voor hoveniers](/social-media) gaat helpen als jouw stad of regio AI-search-gevoelig is voor recente content. Geen vindbare website? Een [gratis website voor hoveniers](/gratis-website) met AI-search-ready opbouw lost de fundamentele structurele tekortkomingen op. Het patroon dat we steeds zien: het werk om [hoger in google komen als hovenier](/seo) overlapt voor 70 procent met het werk om vindbaar te worden in ChatGPT en Perplexity, dus de audit-uitslagen sturen ook je klassieke SEO-prioriteiten.
+Naast deze drie patronen wijst de audit ook subtiel naar de bredere [lokale seo voor hoveniers](/seo) onderdelen die nog tekortschieten. Te lage Google-reviews? Tijd voor een review-strategie. Te weinig sociale signalen? [Social media voor hoveniers](/social-media) gaat helpen als jouw stad of regio AI-search-gevoelig is voor recente content. Geen vindbare website? Een [gratis website voor hoveniers](/gratis-website) met AI-search-ready opbouw lost de fundamentele structurele tekortkomingen op. Het patroon dat we steeds zien: het werk om [hoger in google komen als hovenier](/seo) overlapt grotendeels met het werk om vindbaar te worden in ChatGPT en Perplexity, dus de audit-uitslagen sturen ook je klassieke SEO-prioriteiten.
 
 ## Een voorbeeld uit een echte audit
 
@@ -93,7 +93,7 @@ In februari is schema markup geïmplementeerd inclusief `knowsAbout` met vier sp
 
 April-audit, dezelfde acht prompts in drie modellen: 11 noemingen van de 24, voor specialisatie-prompts gemiddeld positie 2, sentiment in de helft van de noemingen expliciet positief ("gespecialiseerd in", "sinds 2018", "vier sterren met X reviews"). Noemt-percentage: 45,8 procent. Verdrievoudiging in drie maanden.
 
-De aanvraag-data uit hetzelfde kwartaal liet 17 procent meer offerte-aanvragen zien dan dezelfde periode het jaar ervoor. Niet alles is toe te schrijven aan AI-search, maar bij vijf nieuwe klanten gaf de aanvrager expliciet aan via ChatGPT of Perplexity te zijn gekomen. De audit zelf kost dertig minuten per maand en de extra omzet uit die vijf klanten was meer dan 18.000 euro.
+De aanvraag-data uit hetzelfde kwartaal liet duidelijk meer offerte-aanvragen zien dan dezelfde periode het jaar ervoor. Niet alles is toe te schrijven aan AI-search, maar bij vijf nieuwe klanten gaf de aanvrager expliciet aan via ChatGPT of Perplexity te zijn gekomen. De audit zelf kost dertig minuten per maand en de extra omzet uit die vijf klanten was meer dan 18.000 euro.
 
 ## Veelgestelde vragen
 
@@ -115,11 +115,11 @@ Niet om te beginnen. Een Google Sheet plus 30 minuten per maand is genoeg voor e
 
 ### Moet ik ook Gemini en Claude testen?
 
-Op dit moment zijn ChatGPT en Perplexity goed voor circa 85 procent van het Nederlandse AI-search-verkeer voor lokale services. Google AI Overviews voegen daar nog 10 procent aan toe. Gemini en Claude komen samen op ongeveer 5 procent en lopen meestal achter op ChatGPT-patronen, dus extra testen is niet de moeite waard tenzij je marketing-bureau erom vraagt.
+Op dit moment zijn ChatGPT en Perplexity samen goed voor het overgrote deel van het Nederlandse AI-search-verkeer voor lokale services. Google AI Overviews voegen daar een bescheiden deel aan toe. Gemini en Claude blijven een restcategorie en lopen meestal achter op ChatGPT-patronen, dus extra testen is niet de moeite waard tenzij je marketing-bureau erom vraagt.
 
 ### Wat is een realistisch noemt-percentage om naar te streven?
 
-Voor een lokale hovenier in een middelgrote stad, na 6 tot 12 maanden consequent werken aan de drie hefbomen uit [onze rank-tactieken gids](/blog/hovenier-vindbaar-chatgpt-ai-search), is 50 tot 70 procent realistisch. Onder de 30 procent betekent dat de basis nog niet op orde is. Boven de 70 procent betekent meestal dat je in jouw markt bij de top-3 hoort qua online aanwezigheid.
+Voor een lokale hovenier in een middelgrote stad, na 6 tot 12 maanden consequent werken aan de drie hefbomen uit [onze rank-tactieken gids](/blog/hovenier-vindbaar-chatgpt-ai-search), is een score rond de helft van je prompts realistisch. Blijf je daar duidelijk onder, dan is de basis nog niet op orde. Zit je er ruim boven, dan betekent dat meestal dat je in jouw markt bij de top-3 hoort qua online aanwezigheid.
 
 ### Verandert de aanpak in 2027?
 

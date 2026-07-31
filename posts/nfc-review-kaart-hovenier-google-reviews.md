@@ -35,7 +35,7 @@ Dit hele moment kost 60 tot 90 seconden. Op 80 procent van de opleveringen krijg
 
 Veel hoveniers vragen ons of een QR-code sticker niet evengoed werkt. Antwoord: voor binnenwerk wel, voor buitenwerk niet. Drie redenen:
 
-- QR-codes vereisen een actieve handeling: telefoon openen, camera-app starten, code in beeld krijgen. Dat is 4 tot 8 seconden meer dan NFC, en in die seconden haakt 30 procent af.
+- QR-codes vereisen een actieve handeling: telefoon openen, camera-app starten, code in beeld krijgen. Dat is 4 tot 8 seconden meer dan NFC, en in die seconden haakt een deel van de mensen af.
 - QR-codes vervagen in de buitenlucht. Een sticker op je bestelwagen die een seizoen door zon, regen en stof gaat, scant na zes maanden niet meer betrouwbaar.
 - NFC werkt door stof en lichte modder heen. Een QR-code die onder een dunne laag tuinstof ligt, scant niet. Een NFC-chip wel.
 
@@ -57,7 +57,7 @@ NFC werkt het best in combinatie met een tweede prikkel: een geautomatiseerd Wha
 
 > "Hoi [naam], ik hoop dat je nog steeds tevreden bent met de tuin. Mocht je een minuutje hebben, een korte review op Google helpt ons enorm. Hier is de link: [link]. Bedankt!"
 
-Een [automatische Google review strategie](/reviews) zorgt dat dit bericht consistent wordt verstuurd zonder dat jij eraan hoeft te denken. Combineer NFC (in het moment) en WhatsApp (48 uur later) en je dekt 95 procent van je tevreden klanten — een ratio die niemand handmatig haalt.
+Een [automatische Google review strategie](/reviews) zorgt dat dit bericht consistent wordt verstuurd zonder dat jij eraan hoeft te denken. Combineer NFC (in het moment) en WhatsApp (48 uur later) en je dekt vrijwel al je tevreden klanten — een dekking die niemand handmatig haalt.
 
 ## Outdoor praktijk: water, modder, zon en het voorjaarsseizoen
 
@@ -76,7 +76,7 @@ Vier fouten die we steeds weer terugzien bij hoveniers die net beginnen met NFC:
 - **De kaart in de wagen laten liggen.** Zonder kaart in je broekzak vergeet je hem. Maak het een deel van je opleverritueel: kaart altijd in je broek bij oplevering.
 - **De vraag te lang of te vaag stellen.** "Zou je misschien een keer een review willen schrijven?" — vrijwel niemand doet het. Wees direct: "Mag ik je vragen om nu een korte Google-review te schrijven? Hier is de kaart, één tap en hij staat open."
 - **Niet reageren op binnenkomende reviews.** Een review zonder reactie is een gemiste kans op zichtbaarheid. Reageer binnen 48 uur op elke review, ook de korte 5-sterren zonder tekst.
-- **Geen training voor je medewerkers.** Als jij actief vraagt maar je medewerkers niet, gaat 50 procent van de potentiële reviews verloren. Train iedereen die opleveringen doet om dezelfde vraag te stellen.
+- **Geen training voor je medewerkers.** Als jij actief vraagt maar je medewerkers niet, gaat een groot deel van de potentiële reviews verloren. Train iedereen die opleveringen doet om dezelfde vraag te stellen.
 
 Vermijd deze vier en je halveert je leercurve.
 

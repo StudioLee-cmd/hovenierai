@@ -69,7 +69,7 @@ Reken het voor: losse klussen kosten €X per keer, een contract kost €Y per m
 
 ### Hoeveel procent van mijn omzet moet uit contracten komen?
 
-Streef naar 30-50% contractomzet. Dat geeft voldoende stabiliteit in de wintermaanden zonder dat je flexibiliteit verliest voor grotere projecten.
+Streef naar contractomzet als stevig deel van je jaaromzet; reken met 30 tot 50 procent. Dat geeft voldoende stabiliteit in de wintermaanden zonder dat je flexibiliteit verliest voor grotere projecten.
 
 ### Moet ik in de winter actief adverteren?
 

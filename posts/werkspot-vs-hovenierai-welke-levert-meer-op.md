@@ -11,7 +11,7 @@ Veel hoveniers gebruiken Werkspot om klussen te vinden. Je betaalt per lead en c
 
 ## Werkspot: leads kopen, concurrentie ingebouwd
 
-Op Werkspot reageer je op klusaanvragen van particulieren. Je betaalt credits per reactie. De klant ontvangt 3–5 offertes en kiest. Gemiddelde conversie: 15–25%.
+Op Werkspot reageer je op klusaanvragen van particulieren. Je betaalt credits per reactie. De klant ontvangt 3–5 offertes en kiest er één. Je conversie is dus per definitie een fractie van je reacties.
 
 **De rekening:** 20 leads × €10–€20 per stuk = €200–€400/maand. Daarvan win je 3–5 klussen. De klant is niet van jou — volgend seizoen gaat hij terug naar Werkspot.
 

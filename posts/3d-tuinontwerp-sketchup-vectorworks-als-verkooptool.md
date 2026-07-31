@@ -10,8 +10,8 @@ cluster: "automatisering"
 ---
 
 **In het kort:**
-- 3D-tuinontwerp-software (SketchUp Pro, VectorWorks Landmark, Garden Planner Pro) verhoogt order-conversie van hoveniers met 25-40% omdat klanten het eindresultaat zien voordat ze tekenen. Tarieven liggen 15-25% hoger omdat de visualisatie premium-positionering ondersteunt.
-- Drie hoofdspelers: SketchUp Pro (€350/jaar, makkelijkst, goed genoeg voor 80% van hoveniers), VectorWorks Landmark (€1.890/jaar, professioneel maar steile leercurve, premium voor architectuur-niveau ontwerp), Garden Planner Pro (€95 eenmalig, instap-tool, beperkte presentatie-kwaliteit).
+- 3D-tuinontwerp-software (SketchUp Pro, VectorWorks Landmark, Garden Planner Pro) verhoogt de order-conversie van hoveniers merkbaar omdat klanten het eindresultaat zien voordat ze tekenen. Tarieven liggen navenant hoger omdat de visualisatie premium-positionering ondersteunt.
+- Drie hoofdspelers: SketchUp Pro (€350/jaar, makkelijkst, goed genoeg voor verreweg de meeste hoveniers), VectorWorks Landmark (€1.890/jaar, professioneel maar steile leercurve, premium voor architectuur-niveau ontwerp), Garden Planner Pro (€95 eenmalig, instap-tool, beperkte presentatie-kwaliteit).
 - Voor een hovenier met €200K omzet die start met 3D-presentatie: ROI is gemiddeld 8-12 weken. Eén extra gewonnen tuinontwerp-project (€8.000-€15.000) dekt de jaarlicentie van SketchUp Pro een tiental keer.
 - Een [crm voor hoveniers](/crm) waarin je het 3D-ontwerp linkt aan de klantkaart (versies, klant-feedback, offerte) maakt het verschil tussen "eenmalig wow-effect" en "professionele klant-journey die referrals oplevert".
 
@@ -22,18 +22,18 @@ In de hovenier-praktijk is offerte-presentatie meestal: een geprinte plattegrond
 De helft van potentiële klanten kan dat niet goed. Resultaat: aarzeling, "ik denk er nog over na", verloren opdracht na 2-4 weken twijfel.
 
 3D-presentatie ondervangt dat:
-- Klant ziet hoe de tuin er ECHT uit komt te zien op 50%, 80% en 100% volwassen beplanting
+- Klant ziet hoe de tuin er ECHT uit komt te zien: halfvolgroeid, bijna volgroeid en volgroeid beplant
 - Klant kan virtueel rondlopen, perspectief-wisselen, dag-tot-avond verlichting bekijken
 - Klant kan varianten vergelijken (plan A met grasveld vs plan B met sedum-dak)
 - Klant betrekt partner/gezin makkelijker bij de keuze
 
-Voor de hovenier betekent dit: van 40-50% offerte-conversie naar 55-70% conversie. En klanten die voor 3D-presentatie kiezen, betalen typically 15-25% meer voor het volledige project.
+Voor de hovenier betekent dit: een offerte-conversie die van ruim onder de helft naar duidelijk boven de helft schuift. En klanten die voor 3D-presentatie kiezen, betalen doorgaans meer voor het volledige project.
 
 ## De drie hoofdspelers vergeleken
 
 ### SketchUp Pro (€350/jaar)
 
-**Voor wie:** hoveniers met €100K-€500K omzet die geen architectuur-ontwerp doen maar wel professionele presentaties willen. 80% van de Nederlandse hoveniers past hier in.
+**Voor wie:** hoveniers met €100K-€500K omzet die geen architectuur-ontwerp doen maar wel professionele presentaties willen. Verreweg de meeste Nederlandse hoveniers passen hier in.
 
 **Sterke punten:**
 - Steile leercurve omlaag: 2-3 dagen training en je kan al iets bruikbaars maken
@@ -98,7 +98,7 @@ Voor de hovenier betekent dit: van 40-50% offerte-conversie naar 55-70% conversi
 - Particulier-only: SketchUp is meer dan genoeg
 - Particulier + B2B (architecten, projectontwikkelaars): VectorWorks vergroot je credibility
 
-Voor 80% van NL hoveniers is SketchUp Pro de juiste keuze.
+Voor verreweg de meeste Nederlandse hoveniers is SketchUp Pro de juiste keuze.
 
 ## Hoe je het in je klant-flow integreert
 
@@ -116,7 +116,7 @@ Vier stappen voor professionele 3D-presentatie als standaard:
 
 **Fout 1: 3D-ontwerp vragen om de hele klantenwerving te dragen.** 3D is een conversie-versterker, niet een lead-genererend. Je hebt nog steeds een goede website + SEO + reviews nodig. Een [chatbot voor hoveniers](/chatbot) op je website pakt eerste klant-vragen op, 3D komt pas in de offerte-fase.
 
-**Fout 2: Pricing 3D apart in rekening brengen aan de klant.** Werkt niet bij particulieren. Maak 3D-ontwerp standaard-onderdeel van je offerte-traject, verhoog je tarief voor de hele opdracht met 10-15%. Klanten zien de waarde, zijn bereid.
+**Fout 2: Pricing 3D apart in rekening brengen aan de klant.** Werkt niet bij particulieren. Maak 3D-ontwerp standaard-onderdeel van je offerte-traject en verhoog je tarief voor de hele opdracht: reken met een opslag van 10 tot 15 procent. Klanten zien de waarde, zijn bereid.
 
 **Fout 3: Realistisch-niveau visualiseren te belangrijk maken.** Klant hoeft het er niet uit te zien als foto. Klant moet hoofd-elementen kunnen herkennen en perspectief begrijpen. Te lang slijpen aan render-realisme is verspilde tijd.
 

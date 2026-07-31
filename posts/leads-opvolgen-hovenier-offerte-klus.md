@@ -11,7 +11,7 @@ tags: ["Leads", "Opvolging", "Hovenier"]
 
 Je rijdt naar een potentiële klant, bekijkt de tuin, maakt een offerte en stuurt die dezelfde avond. Dan hoor je niets meer. Een week later bel je — de klant heeft al een andere hovenier gekozen. Herkenbaar?
 
-Het probleem is zelden je prijs of je vakmanschap. Het probleem is timing. De hovenier die het snelst en het persoonlijkst opvolgt, wint de klus. Uit onderzoek in de bouw- en tuinsector blijkt dat 60% van de opdrachten gaat naar de eerste die een duidelijk voorstel doet.
+Het probleem is zelden je prijs of je vakmanschap. Het probleem is timing. De hovenier die het snelst en het persoonlijkst opvolgt, wint de klus. In de bouw- en tuinsector gaat het merendeel van de opdrachten naar de eerste die een duidelijk voorstel doet.
 
 ## Directe bevestiging na een aanvraag
 
@@ -46,7 +46,7 @@ In het voorjaar stromen de aanvragen binnen. Juist dan is snelle opvolging cruci
 
 Hoveniers die hun opvolging structureren, rapporteren:
 
-- **40-60% hogere conversie** van offerte naar opdracht
+- **Fors hogere conversie** van offerte naar opdracht
 - **Kortere beslissingstijd** bij klanten — ze hoeven niet zelf achter je aan
 - **Meer herhaalopdrachten** door het onderhouden van klantcontact
 - **Minder seizoenspieken** door proactieve winteropvolging

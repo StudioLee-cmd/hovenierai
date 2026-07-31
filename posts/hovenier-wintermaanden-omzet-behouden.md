@@ -8,7 +8,7 @@ tags: ["Seizoenswerk", "Omzet", "Hovenier"]
 cluster: "automatisering"
 ---
 
-Een doorsnee Nederlandse hovenier haalt 70 tot 80 procent van zijn jaaromzet tussen maart en oktober. De resterende 20 tot 30 procent moet uit vier wintermaanden komen — een verhouding die het einde van elk jaar stressvol maakt. Telefoon gaat stil, offerte-aanvragen droge op, en facturen uit eerdere klussen worden gebruikt om de winter te overbruggen. Toch is dit niet onvermijdelijk. Hoveniers die hun winterstrategie structureel aanpakken draaien vaak 40 tot 50 procent van hun jaaromzet in deze maanden, simpelweg door het aanbod te verbreden en het marketing-werk in de zomer al voor te bereiden.
+Een doorsnee Nederlandse hovenier haalt het leeuwendeel van zijn jaaromzet tussen maart en oktober. De rest moet uit vier wintermaanden komen — een verhouding die het einde van elk jaar stressvol maakt. Telefoon gaat stil, offerte-aanvragen drogen op, en facturen uit eerdere klussen worden gebruikt om de winter te overbruggen. Toch is dit niet onvermijdelijk. Hoveniers die hun winterstrategie structureel aanpakken draaien een fors groter deel van hun jaaromzet in deze maanden, simpelweg door het aanbod te verbreden en het marketing-werk in de zomer al voor te bereiden.
 
 Dit artikel legt vijf concrete strategieën uit die samen de wintermaanden van verliesgevend naar stabiel of zelfs rendabel veranderen. Elk is afzonderlijk toepasbaar en vraagt geen fundamentele bedrijfswijziging.
 
@@ -28,7 +28,7 @@ Alle drie zijn factoren, maar geen van drie vormt een reden om vier maanden lang
 
 De meest directe winterstrategie is het contractmatig aanbieden van winterklaar-maak-diensten. Snoeien van heesters, bladeren ruimen, gazon aeroferen, tuinmeubilair opbergen en inpakken, strooizout-routes uitzetten, vroege voorjaarsplanning.
 
-Door dit aan te bieden als abonnement (bijvoorbeeld "winterzorg-pakket" van 85 tot 180 euro per tuin voor 3 à 4 bezoeken tussen oktober en februari) krijg je voorspelbare maandinkomsten waar je anders op nul zat. Voor een klantbestand van 120 tuinen converteert typisch 20 tot 35 procent naar zo'n pakket — genoeg om de winter te dragen.
+Door dit aan te bieden als abonnement (bijvoorbeeld "winterzorg-pakket" van 85 tot 180 euro per tuin voor 3 à 4 bezoeken tussen oktober en februari) krijg je voorspelbare maandinkomsten waar je anders op nul zat. Voor een klantbestand van 120 tuinen converteert doorgaans een kwart tot een derde naar zo'n pakket — genoeg om de winter te dragen.
 
 Hoveniers die dit systematisch aanbieden via hun [website en onderhoudscontracten](/blog/onderhoudscontracten-hovenier-vaste-inkomsten) zien hun winter-omzet verdubbelen in het eerste jaar.
 
@@ -83,7 +83,7 @@ Deze "onzichtbare" werkzaamheden leveren indirecte omzet op: hogere reviews, bet
 
 Voor een doorsnee MKB-hoveniersbedrijf (één eigenaar + één of twee medewerkers), dragen deze strategieën samen bij aan:
 
-- **Winter-omzet (nov-feb) van gemiddeld 15 procent van jaartotaal naar 30 tot 40 procent**
+- **Winter-omzet (nov-feb) van een smalle marge van het jaartotaal naar een substantieel deel**
 - **Stabielere cashflow** zonder drastische dips in december en januari
 - **Volle pipeline bij maart-start** zonder in maart moeten jagen
 - **Minder piek-stress in mei-juni** omdat afspraken in januari al geboekt zijn

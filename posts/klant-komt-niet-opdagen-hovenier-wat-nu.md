@@ -38,13 +38,13 @@ Het ergste wat je kunt doen is twee uur in je bus zitten wachten. Actief een alt
 
 ## Voorkom het de volgende keer
 
-Een no-show voorkomen is goedkoper dan er eentje oplossen. Drie maatregelen die samen meer dan 80 procent van de no-shows elimineren:
+Een no-show voorkomen is goedkoper dan er eentje oplossen. Drie maatregelen die samen het overgrote deel van de no-shows elimineren:
 
 **Bevestiging 48 uur van tevoren:** stuur een bericht met datum, tijd en wat je komt doen. "Woensdag 9:00, snoeiwerk en borders planten. Graag zorgen dat de achtertuin toegankelijk is." Dit herinnert de klant en geeft ze de kans om af te zeggen als het niet uitkomt.
 
 **Bevestiging ochtend van de klus:** een kort bericht om 7:30: "Goedemorgen, ik kom vandaag om 9:00 langs. Tot zo!" Klanten die dit lezen en toch niet thuis kunnen zijn, zeggen op dat moment af. Dan heb je nog twee uur om de plek op te vullen.
 
-**Aanbetaling bij grotere projecten:** voor tuinaanleg, bestrating of projecten boven de 500 euro is een aanbetaling van 20 tot 25 procent normaal. Een klant die al heeft betaald verschijnt vrijwel altijd.
+**Aanbetaling bij grotere projecten:** voor tuinaanleg, bestrating of projecten boven de 500 euro is een aanbetaling normaal; reken met 20 tot 25 procent. Een klant die al heeft betaald verschijnt vrijwel altijd.
 
 ## Breng je no-show kosten in kaart
 

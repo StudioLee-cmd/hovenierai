@@ -11,7 +11,7 @@ tags: ["Google Bedrijfsprofiel", "Foto's", "Lokale SEO", "Hovenier"]
 
 # Google Bedrijfsprofiel voor-na foto's voor hoveniers: zo word je gebeld in plaats van gegoogeld weg
 
-Voor-na foto's zijn de sterkste visuele advertentie die een hovenier kan plaatsen op zijn Google Bedrijfsprofiel. Een aanvankelijk verwilderde tuin die zes weken later strakgeplant en met een nette terrasrand staat, vertelt in twee beelden meer dan tien alinea's tekst. En toch laten 8 op de 10 hoveniers de foto-sectie ofwel leeg, ofwel vol met willekeurige losse shots zonder duidelijk verhaal.
+Voor-na foto's zijn de sterkste visuele advertentie die een hovenier kan plaatsen op zijn Google Bedrijfsprofiel. Een aanvankelijk verwilderde tuin die zes weken later strakgeplant en met een nette terrasrand staat, vertelt in twee beelden meer dan tien alinea's tekst. En toch laten verreweg de meeste hoveniers de foto-sectie ofwel leeg, ofwel vol met willekeurige losse shots zonder duidelijk verhaal.
 
 Wie het wel goed doet, ziet binnen een seizoen een ranking-impact. Profielen met 50+ foto's en herkenbare voor-na series krijgen volgens een 2026-onderzoek van BrightLocal 2,3x meer routebezoeken en 1,8x meer telefoontjes dan profielen met minder dan 10 willekeurige foto's. Voor een hovenier met gemiddeld 4.500 euro per project is dat het verschil tussen een halve klant per week erbij — letterlijk genoeg om 60.000-100.000 euro extra omzet per jaar te draaien.
 
@@ -130,7 +130,7 @@ Mik op 50-100 foto's binnen 6 maanden. Top-rankende hovenier-profielen hebben 10
 
 ### Mag ik foto's van projecten uit 2018 nu nog uploaden?
 
-Ja, maar Google waardeert recente foto's hoger. Mix oude met recente — een paar oude succesverhalen kunnen tussen de nieuwe staan, maar 80 procent van de foto's zou jonger dan 12 maanden moeten zijn.
+Ja, maar Google waardeert recente foto's hoger. Mix oude met recente — een paar oude succesverhalen kunnen tussen de nieuwe staan, maar het overgrote deel van de foto's zou jonger dan 12 maanden moeten zijn.
 
 ### Kan ik klanten zelf foto's laten uploaden van mijn werk?
 

@@ -9,7 +9,7 @@ tags: ["Hovenier", "Branding", "Jaarcontracten", "Klantbinding"]
 ---
 Een hovenierbedrijf met sterke branding herken je van een kilometer afstand: het busje met een consistente kleur, de medewerkers in dezelfde werkkleding, het bord op de werklocatie, de Instagram-foto's met dezelfde filter. En dat is geen ijdelheid, dat zijn de fundamenten van een bedrijf dat niet van klus tot klus rondbreekt, maar jaarcontracten en doorlopende onderhoudsabonnementen afsluit.
 
-Branding voor een hovenier is niet "een logo en een kleurtje kiezen". Het is een manier om in de ogen van buurgenoten, voorbijgangers en opdrachtgevers te laten zien dat je geen eenmalige zelfstandige bent maar een bedrijf waar je zorgeloos een jaarcontract mee afsluit. In deze gids staan de vier herkenbaarheids-elementen die samen 20-35 procent meer jaarcontracten opleveren, plus hoe je ze stap voor stap opzet.
+Branding voor een hovenier is niet "een logo en een kleurtje kiezen". Het is een manier om in de ogen van buurgenoten, voorbijgangers en opdrachtgevers te laten zien dat je geen eenmalige zelfstandige bent maar een bedrijf waar je zorgeloos een jaarcontract mee afsluit. In deze gids staan de vier herkenbaarheids-elementen die samen merkbaar meer jaarcontracten opleveren, plus hoe je ze stap voor stap opzet.
 
 ## Waarom jaarcontracten de echte groei zijn voor een hovenier
 
@@ -45,13 +45,13 @@ Voor VvE's en zakelijke opdrachtgevers is uniforme werkkleding vaak een zachte v
 
 ## Element 3: het werf-bord dat verkoopt aan buurgenoten
 
-Een werf-bord bij een klant plaatsen is de krachtigste [lokale marketing](/blog/projectbord-hovenier-meer-buurt-aanvragen) die er bestaat. Andere buren in de straat zien dat jij werkt, zien hoe netjes je werkt, en onthouden je naam. Van de hoveniers die systematisch werf-borden gebruiken, komt 15-25 procent van nieuwe aanvragen rechtstreeks uit buurt-herkenning via die borden.
+Een werf-bord bij een klant plaatsen is de krachtigste [lokale marketing](/blog/projectbord-hovenier-meer-buurt-aanvragen) die er bestaat. Andere buren in de straat zien dat jij werkt, zien hoe netjes je werkt, en onthouden je naam. Van de hoveniers die systematisch werf-borden gebruiken, komt een aanzienlijk deel van de nieuwe aanvragen rechtstreeks uit buurt-herkenning via die borden.
 
 **Wat op het bord:**
 - Groot logo + bedrijfsnaam
 - Korte zin: "Tuinonderhoud door [Bedrijfsnaam]" of "Onderhoudsabonnementen beschikbaar"
 - Telefoonnummer (groot leesbaar)
-- QR-code naar een pagina op je website met aanbieding voor buren ("Jouw buur heeft een onderhoudsabonnement bij ons, bekijk wat we voor jouw tuin kunnen doen: 10% korting eerste jaar")
+- QR-code naar een pagina op je website met aanbieding voor buren ("Jouw buur heeft een onderhoudsabonnement bij ons, bekijk wat we voor jouw tuin kunnen doen: [X] procent korting eerste jaar")
 
 **Waar plaatsen:** tijdens de hele klusperiode zichtbaar vanuit de straat. Bij grotere klussen die meerdere dagen duren, 3-4 dagen laten staan geeft de maximale buurt-exposure. Bij 1-daagse klussen is het de moeite ook al, foto voor je Instagram, zichtbaarheid voor 10-20 voorbijgangers.
 
@@ -82,8 +82,8 @@ Een [geautomatiseerde review-flow](/reviews) zorgt dat elke nieuwe jaarcontract-
 Uitgangspunt: een hoveniersbedrijf met 4 medewerkers, nu 18 jaarcontract-klanten à €95 per maand (€20.520 per jaar), en 85 incidentele klus-klanten à €680 gemiddeld (€57.800 per jaar). Totaal: €78.320.
 
 Met consistente branding-aanpak over 12 maanden:
-- Jaarcontract-klanten stijgen met 35% (6 extra à €1.140/jaar = €6.840 extra)
-- Gemiddelde klusprijs stijgt 8-12% door betere positionering (€5.500-€7.500 extra)
+- Jaarcontract-klanten stijgen met ruim een derde (6 extra à €1.140/jaar = €6.840 extra)
+- Gemiddelde klusprijs stijgt merkbaar door betere positionering (€5.500-€7.500 extra)
 - Buurt-gerelateerde nieuwe klanten uit werf-borden en bus-herkenning: 10-15 extra per jaar (€7.000-€10.000 extra)
 
 Totaal: €19.340-€24.340 extra jaaromzet voor een branding-investering van €3.500-€6.000 (busbelettering + werkkleding + werf-borden + website). ROI tussen 3 en 7 binnen het eerste jaar.

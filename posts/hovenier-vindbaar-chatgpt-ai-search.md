@@ -11,7 +11,7 @@ cluster: "vindbaarheid"
 ## In het kort
 
 - **ChatGPT, Perplexity en Google AI Overviews kiezen welke hovenier ze noemen** op basis van autoriteit, reviews en gestructureerde data, niet op basis van klassieke Google-ranking.
-- **Een gemiddelde Nederlandse zelfstandige hovenier wordt door ChatGPT in minder dan 5 procent van de relevante prompts genoemd**, terwijl ketens als Donker en groot-hoveniers 60 tot 75 procent halen.
+- **Een gemiddelde Nederlandse zelfstandige hovenier wordt door ChatGPT vrijwel nooit in de relevante prompts genoemd**, terwijl ketens als Donker en groot-hoveniers er juist stelselmatig uit komen rollen.
 - **Drie hefbomen werken bewezen:** vraag-antwoord content over tuinaanleg en onderhoud, LandscapingBusiness schema markup en externe vermeldingen op review-platformen.
 - **Verwacht resultaat:** binnen 8 tot 12 weken meetbare stijging van AI-search citaties; binnen 6 maanden tien tot twintig procent meer offerte-aanvragen.
 - **Wie het moet overwegen:** elke ZZP-hovenier of klein hoveniersbedrijf dat nu slecht zichtbaar is in zoekopdrachten als "beste hovenier in [stad]" of "tuinaanleg [postcode]".
@@ -42,7 +42,7 @@ Hieronder zeven concrete acties, gerangschikt op verwachte impact in de eerste d
 
 **2. Implementeer LandscapingBusiness schema markup.** Voeg JSON-LD toe aan elke pagina van je website met LandscapingBusiness als hoofdtype, OpeningHoursSpecification voor je openingstijden en `hasOfferCatalog` voor je dienstenmenu. Test via Google's Rich Results Test of het foutloos wordt gelezen.
 
-**3. Verzamel reviews op platformen die ChatGPT leest.** ChatGPT en Perplexity wegen reviews op Google, Trustpilot, Werkspot, Tuinbranche.nl en Klushebber zwaar mee. Een hoveniersbedrijf met 80 Google-reviews en een 4.7-gemiddelde wordt veel vaker genoemd dan één met 12 reviews. Stuur na elk project automatisch een WhatsApp met een review-link. Wij zien gemiddeld 23 procent conversie als de uitnodiging binnen 24 uur na oplevering wordt verstuurd.
+**3. Verzamel reviews op platformen die ChatGPT leest.** ChatGPT en Perplexity wegen reviews op Google, Trustpilot, Werkspot, Tuinbranche.nl en Klushebber zwaar mee. Een hoveniersbedrijf met 80 Google-reviews en een 4.7-gemiddelde wordt veel vaker genoemd dan één met 12 reviews. Stuur na elk project automatisch een WhatsApp met een review-link. Wij zien de conversie flink oplopen als de uitnodiging binnen 24 uur na oplevering wordt verstuurd.
 
 **4. Zorg voor minimaal drie externe vermeldingen per kwartaal.** Schrijf een gastblog op een tuin-platform, geef commentaar in een lokale krant over een actueel onderwerp (droogte en gazon-onderhoud, tuinhulp bij energietransitie), of laat je interviewen voor een vakmedium als De Hovenier. Drie vermeldingen per kwartaal op middel- tot zware autoriteit-domeinen verhoogt je AI-citaties merkbaar.
 
@@ -66,7 +66,7 @@ Het derde veld is **knowsAbout** (of via additionalProperty). Hier vermeld je ex
 
 ## Reviews en autoriteit: waarom ChatGPT Trustpilot en Tuinbranche leest
 
-Toen wij in maart 2026 onze eerste AI-search audit deden voor 26 Nederlandse zelfstandige hoveniers, was de bevinding ondubbelzinnig: bedrijven met minder dan 30 Google-reviews werden in ChatGPT-prompts vrijwel nooit genoemd. Bedrijven met 100 of meer reviews en een gemiddelde van 4.6 of hoger werden in 60 tot 70 procent van de relevante prompts geciteerd.
+Toen wij in maart 2026 onze eerste AI-search audit deden voor 26 Nederlandse zelfstandige hoveniers, was de bevinding ondubbelzinnig: bedrijven met minder dan 30 Google-reviews werden in ChatGPT-prompts vrijwel nooit genoemd. Bedrijven met 100 of meer reviews en een gemiddelde van 4.6 of hoger werden in het merendeel van de relevante prompts geciteerd.
 
 Reviews op Google zijn de basis. Maar AI-modellen lezen ook andere bronnen. Werkspot, Tuinbranche, Trustpilot en zelfs Facebook-reviews wegen mee. Het patroon dat we zien: hoe diverser de review-bronnen, hoe groter de kans op vermelding. Vijftig Google-reviews wegen minder zwaar dan 30 Google-reviews plus 15 Werkspot-reviews plus 10 Tuinbranche-reviews. AI-modellen interpreteren spreiding als bewijs van authenticiteit.
 
@@ -78,7 +78,7 @@ AI-modellen extraheren content op een hele specifieke manier. Drie regels die he
 
 **Schrijf antwoorden voor de openingszin van een paragraaf, niet voor de afsluiter.** ChatGPT pakt vrijwel altijd de eerste zin onder een H2- of H3-kop. Zet daar het concrete antwoord neer. Een paragraaf die opent met "Eerst wat context: een gazon is al jaren een onderwerp van discussie..." wordt overgeslagen. Een paragraaf die opent met "Een gazon vernieuwen kost gemiddeld 35 tot 55 euro per vierkante meter inclusief grondwerk en zaden" wordt geciteerd.
 
-**Gebruik concrete getallen.** "De meeste tuinen" wordt nooit geciteerd. "78 procent van de tuinen onder de 100 vierkante meter heeft binnen 5 jaar onderhoud nodig" wel. Front-load percentages, euro-bedragen, vierkante meters en tijdsindicaties.
+**Gebruik concrete getallen.** "De meeste tuinen" wordt nooit geciteerd. "[X] procent van de tuinen onder de 100 vierkante meter heeft binnen 5 jaar onderhoud nodig" wel — met een getal dat je zelf kunt onderbouwen. Front-load percentages, euro-bedragen, vierkante meters en tijdsindicaties.
 
 **Vermijd promotie-taal.** ChatGPT is getraind om reclame eruit te filteren. Een zin als "Bij ons krijg je het beste vakmanschap" wordt overgeslagen. Een zin als "Onze hoveniers werken sinds 2018 met natuurlijke vijver-systemen en hebben sindsdien meer dan 80 vijvers in Utrecht en omgeving aangelegd" wordt opgepakt omdat het feitelijk en verifieerbaar is.
 
@@ -105,7 +105,7 @@ In de eerste maand zijn drie acties uitgevoerd: LandscapingBusiness schema marku
 
 In maand drie was het Google-review-aantal gegroeid naar 38. Een gastblog over droogte-bestendige beplanting was geplaatst op een lokaal woonplatform. In de hertest van dezelfde 25 prompts werd het bedrijf in 6 prompts genoemd, inclusief drie specialisatie-prompts ("ecologische tuin Tilburg", "kleine stadstuin Tilburg" en "onderhoudscontract hovenier Tilburg"). In maand zes, met 64 reviews en zes externe vermeldingen, was dat opgelopen naar 12 prompts van de 25.
 
-De impact op echte aanvragen: 18 procent meer offerte-aanvragen in mei en juni 2026 vergeleken met dezelfde maanden een jaar eerder. Een deel hiervan is toe te schrijven aan klassieke Google-ranking die ook verbeterde, maar bij vier nieuwe klanten gaf de aanvrager expliciet aan via ChatGPT te zijn gekomen.
+De impact op echte aanvragen: duidelijk meer offerte-aanvragen in mei en juni 2026 vergeleken met dezelfde maanden een jaar eerder. Een deel hiervan is toe te schrijven aan klassieke Google-ranking die ook verbeterde, maar bij vier nieuwe klanten gaf de aanvrager expliciet aan via ChatGPT te zijn gekomen.
 
 ## Veelgestelde vragen
 
@@ -115,7 +115,7 @@ Bij goede uitvoering zie je eerste citaties na 8 tot 12 weken. AI-modellen index
 
 ### Werkt dit ook voor Perplexity en Google AI Overviews?
 
-Ja, voor 80 procent overlapt de aanpak. Perplexity weegt directe quotes en gestructureerde data zelfs nog zwaarder dan ChatGPT. Google AI Overviews leunt sterker op klassieke Google-ranking, dus daar telt traditionele SEO meer mee. De zeven tactieken hierboven werken voor alle drie.
+Ja, de aanpak overlapt grotendeels. Perplexity weegt directe quotes en gestructureerde data zelfs nog zwaarder dan ChatGPT. Google AI Overviews leunt sterker op klassieke Google-ranking, dus daar telt traditionele SEO meer mee. De zeven tactieken hierboven werken voor alle drie.
 
 ### Moet ik mijn klassieke Google SEO laten vallen?
 

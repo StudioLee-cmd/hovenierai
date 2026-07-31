@@ -29,7 +29,7 @@ De buurman-hovenier die 3 aanvragen per maand uit Instagram haalt, mist meestal 
 
 ## De 4 reel-formats die voor hoveniers wel werken
 
-### Format 1: Before/after-transformatie (60% van je posting-tijd)
+### Format 1: Before/after-transformatie (ruim de helft van je posting-tijd)
 
 Dit is de absolute werkpaard-format voor hoveniers en de reden dat je een [social media voor hoveniers](/social-media) strategie überhaupt opzet. De structuur is bijna altijd hetzelfde:
 
@@ -38,11 +38,11 @@ Dit is de absolute werkpaard-format voor hoveniers en de reden dat je een [socia
 - **Seconde 6-12:** De "na"-shot. Statisch, lang doorhouden zodat het beklijft.
 - **Seconde 13-15:** Logo of "Hovenier [stadsnaam]. DM voor een gratis bezoek". Klein, niet dominant.
 
-De magic-ingrediënt: noem de stad. "Tuintransformatie in Hoofddorp" doet het 4 tot 8 keer beter op aanvragen dan "Tuintransformatie" alleen, omdat het algoritme dan begrijpt dat dit voor lokale audiences relevant is en de hashtag-discovery beter werkt. Plus, een potentiële klant die in Hoofddorp woont weet meteen: dit is mijn hovenier.
+De magic-ingrediënt: noem de stad. "Tuintransformatie in Hoofddorp" doet het op aanvragen veel beter dan "Tuintransformatie" alleen, omdat het algoritme dan begrijpt dat dit voor lokale audiences relevant is en de hashtag-discovery beter werkt. Plus, een potentiële klant die in Hoofddorp woont weet meteen: dit is mijn hovenier.
 
 **Wat NIET werkt aan before/after:** drone-shots van enorme tuinen die niet representatief zijn voor wat de klant zou krijgen. Eens per maand zo'n droomtuin is prima als showcase, maar je hoofdstroom moet "normale tuinen, herkenbare situaties" zijn.
 
-### Format 2: "Wat ik vandaag doe" (20% van je posting-tijd)
+### Format 2: "Wat ik vandaag doe" (een vijfde van je posting-tijd)
 
 Dit is een dagboek-stijl-format die werkt omdat het je gezicht laat zien en je vakmanschap toont in plaats van uitlegt. Structuur:
 
@@ -50,9 +50,9 @@ Dit is een dagboek-stijl-format die werkt omdat het je gezicht laat zien en je v
 - **Seconde 4-10:** Snelle cuts: planten in de grond, geluid van de schop, de afwerking met mulch.
 - **Seconde 11-15:** Jij weer in beeld, even kort: "Volgende week ga ik er onkruid wieden tussendoor, anders verstikken de jonge plantjes." En een sign-off met je accent.
 
-Waarom dit werkt: het is geen verkoop-pitch, het is dagboek. Mensen volgen je omdat ze nieuwsgierig zijn naar wat een hovenier doet. Reels die "een dag in mijn leven" laten zien hebben aantoonbaar 2 tot 3 keer meer save-ratio en DM-conversie dan productie-perfecte reels, omdat het authentieker voelt. Een potentiële klant die zo'n reel 3-4 keer ziet, voelt zich vertrouwd met je gezicht en stuurt sneller een bericht. Zie ook hoe deze content je [google reviews voor hoveniers](/reviews) versterkt: dezelfde klanten die je op Instagram vertrouwen, schrijven na de klus eerder een review.
+Waarom dit werkt: het is geen verkoop-pitch, het is dagboek. Mensen volgen je omdat ze nieuwsgierig zijn naar wat een hovenier doet. Reels die "een dag in mijn leven" laten zien halen een merkbaar hogere save-ratio en DM-conversie dan productie-perfecte reels, omdat het authentieker voelt. Een potentiële klant die zo'n reel 3-4 keer ziet, voelt zich vertrouwd met je gezicht en stuurt sneller een bericht. Zie ook hoe deze content je [google reviews voor hoveniers](/reviews) versterkt: dezelfde klanten die je op Instagram vertrouwen, schrijven na de klus eerder een review.
 
-### Format 3: Mythen ontkrachten (10% van je posting-tijd)
+### Format 3: Mythen ontkrachten (een tiende van je posting-tijd)
 
 Dit is het verrassend rendabele format dat de meeste hoveniers oversla en. De structuur:
 
@@ -62,7 +62,7 @@ Dit is het verrassend rendabele format dat de meeste hoveniers oversla en. De st
 
 Waarom dit werkt: educatieve content krijgt veel saves en shares omdat mensen het later willen terugzien. Een save is voor het algoritme een sterker signaal dan een like, en saves leiden tot een hogere ranking in de Discover-feed. Plus, mensen die jouw mythe-ontkrachters volgen, beschouwen jou als de expert in de buurt, en dat is precies de positionering die tot offerteaanvragen leidt.
 
-### Format 4: Klantreactie-reels (10% van je posting-tijd)
+### Format 4: Klantreactie-reels (eveneens een tiende van je posting-tijd)
 
 Dit is de minst gepubliceerde maar meest convertierende format voor zwarte-cijfer-aanvragen:
 
@@ -119,7 +119,7 @@ Hier is de meting die telt: hoeveel DM's krijg je per maand, en hoeveel daarvan 
 
 Een gezonde reel-strategie voor een hovenier in een middelgrote Nederlandse stad zou na 3-6 maanden consistent posten moeten opleveren: **8 tot 20 DM's per maand, waarvan 4 tot 10 vraag om prijzen of mogelijkheden, waarvan 2 tot 5 daadwerkelijk klant worden**. Bij een gemiddelde tuinklus van €1.800-3.500 is dat €3.600 tot €17.500 omzet per maand uit Instagram. Niet slecht voor 3-4 uur posting-werk plus een paar minuten DM-beantwoording per dag.
 
-**Belangrijke bottleneck:** een hovenier die DM's slecht of laat beantwoordt verliest 60-80% van zijn Instagram-leads. Een DM die niet binnen 4 uur wordt beantwoord wordt voor 70% niet meer beantwoord door de klant, want die heeft inmiddels al een andere hovenier benaderd. Dit is waar een [ai chatbot voor hoveniers](/chatbot) op je website + een goede DM-routing scherp verschil maakt.
+**Belangrijke bottleneck:** een hovenier die DM's slecht of laat beantwoordt verliest het grootste deel van zijn Instagram-leads. Een DM die niet binnen 4 uur wordt beantwoord blijft meestal onbeantwoord, want de klant heeft inmiddels al een andere hovenier benaderd. Dit is waar een [ai chatbot voor hoveniers](/chatbot) op je website + een goede DM-routing scherp verschil maakt.
 
 ## Wat StudioLee voor jou doet
 

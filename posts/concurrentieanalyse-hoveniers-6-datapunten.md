@@ -15,7 +15,7 @@ De meeste Nederlandse hoveniers benchmarken nooit hun aanbod tegen de lokale con
 
 ## In het kort
 
-- Veel hoveniers prijzen zichzelf 15-30 procent lager dan de lokale concurrent zonder het te beseffen.
+- Veel hoveniers prijzen zichzelf fors lager dan de lokale concurrent zonder het te beseffen.
 - Een goede concurrentieanalyse kost 30 minuten en levert direct bruikbare data op je tarief, je aanbod, en je website.
 - 6 lokale datapunten zijn meer dan genoeg: tarief, doorlooptijd, online presentatie, reviews, USP, en service-uitbreidingen.
 - Doe deze analyse minstens één keer per jaar; in vier seizoenen verschuift de markt.
@@ -69,7 +69,7 @@ Verdeel je 30 minuten als volgt:
 
 De analyse-tabel zelf is niet waardevol; de beslissingen die je eruit trekt wel. Vier typische uitkomsten en wat je ermee doet:
 
-- **Je tarief is significant lager dan markt.** Verhoog je uurtarief in stappen van 5-10 procent over 6 maanden, communicatief naar bestaande klanten met een korte uitleg ("door investering in materiaal en duurzaam-werk verhogen wij ons tarief per 1 juli").
+- **Je tarief is significant lager dan markt.** Verhoog je uurtarief in stappen over 6 maanden — reken met 5 tot 10 procent per stap — en communiceer dat naar bestaande klanten met een korte uitleg ("door investering in materiaal en duurzaam-werk verhogen wij ons tarief per 1 juli").
 - **Je portfolio is dun vergeleken met top-3.** Investeer in voor/na fotografie van komende projecten. Lees ook hoe je [een sterk hoveniers-portfolio opbouwt](/blog/portfolio-hovenier-opbouwen).
 - **Je hebt geen duidelijke USP.** Kies één onderscheidende factor (bijvoorbeeld "alle planten met groei-garantie 1 jaar" of "vaste teams, geen onderaannemers"). Communiceer dit op homepage, op offertes, en in elk klantgesprek.
 - **Concurrenten bieden service die jij niet hebt.** Overweeg uitbreiding alleen als die service complementair is aan je core. Beregening of sierbestrating zijn vaak goede toevoegingen; sneeuwopruiming alleen in regio's met veel sneeuwval.
@@ -87,7 +87,7 @@ Voor de breedere strategische context lees hoe je als hovenier specialiseert in 
 
 ## De 5 fouten die je kunt voorkomen
 
-1. **Alleen op tarief letten.** Tarief is één van zes datapunten, niet het enige. Een concurrent die 25 procent hoger zit maar veel meer reviews heeft, doet het misschien beter dan jij.
+1. **Alleen op tarief letten.** Tarief is één van zes datapunten, niet het enige. Een concurrent die fors hoger zit maar veel meer reviews heeft, doet het misschien beter dan jij.
 2. **Onbekenden uit de buurt vergelijken.** Als je een ZZP'er bent vergelijk je je niet met een groot hoveniersbedrijf. Pak vergelijkbare bedrijfsgrootte.
 3. **Concurrent benaderen onder eigen naam.** Voor de offerte-test gebruik een neutraal e-mailadres of vraag het via een vriend.
 4. **Geen schriftelijk vastleggen.** Een concurrentieanalyse die alleen "in je hoofd" zit is binnen 4 weken vergeten. Vul de tabel in en bewaar in je CRM-map of Google Drive.

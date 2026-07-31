@@ -23,11 +23,11 @@ Een calculatieprogramma lost dat niet vanzelf op. Software rekent precies zo goe
 
 ## Waarom twee hoveniers dezelfde tuin duizenden euro's uit elkaar prijzen
 
-Dit is geen theorie. Vakblad De Hovenier deed verslag van een financiële sessie van Groenversneller waarin bedrijfscoach Pieter Peelen de cijfers van een groep hoveniers naast elkaar legde. Het verschil tussen het hoogste en het laagste uurtarief in die ene groep was 72 procent.
+Dit is geen theorie. Volgens Vakblad De Hovenier, dat verslag deed van een financiële sessie van Groenversneller, legde bedrijfscoach Pieter Peelen daar de cijfers van een groep hoveniers naast elkaar. Het verschil tussen het hoogste en het laagste uurtarief in die ene groep was 72 procent.
 
 Dat zijn ondernemers in dezelfde markt, met vergelijkbaar werk. Het verschil zit niet in hun vakmanschap. Het zit in wat ze meerekenen.
 
-In datzelfde verslag staat een bruikbare meetlat. De arbeidsproductiviteit van een bedrijf wordt berekend als omzet min inkoop, gedeeld door het aantal fte maal de urennorm. Dat levert een brutomarge per uur op. Voor Nederlandse hoveniersbedrijven met nul tot tien medewerkers ligt de onderste 80 procent van de markt rond 28 euro per uur, terwijl de bovenste 20 procent op ongeveer 59 euro per uur uitkomt. Bij bedrijven met tien tot vijftig medewerkers is dat 43 euro tegenover 79 euro.
+Volgens datzelfde verslag in Vakblad De Hovenier hoort daar een bruikbare meetlat bij. De arbeidsproductiviteit van een bedrijf wordt berekend als omzet min inkoop, gedeeld door het aantal fte maal de urennorm. Dat levert een brutomarge per uur op. Voor Nederlandse hoveniersbedrijven met nul tot tien medewerkers ligt de onderste 80 procent van de markt rond 28 euro per uur, terwijl de bovenste 20 procent op ongeveer 59 euro per uur uitkomt. Bij bedrijven met tien tot vijftig medewerkers is dat 43 euro tegenover 79 euro.
 
 Die getallen zijn geen advies over wat jij moet vragen. Ze zijn een spiegel. Als jouw calculatie structureel op de onderste helft uitkomt terwijl je agenda vol zit, ligt het probleem zelden bij je klanten. Dan ligt het bij de posten die je niet berekent.
 
@@ -48,7 +48,7 @@ Die onderste twee rijen zijn waar het misgaat. Transport en afvoer voelen als bi
 
 ![Rekenblad met tuinmaten en een prijsopbouw per post](/images/blog/calculatieprogramma-hovenier-m2-naar-marge-2.jpg)
 
-Voor beplanting bestaat trouwens wel een vuistregel in de markt. Greenlink schreef daarover dat een marge van rond de 50 procent op beplanting gebruikelijk is, en dat je daar minstens 10 procent bovenop wilt rekenen als jij verantwoordelijk bent voor de inboet. Dat laatste is een goed voorbeeld van een afspraak die je in de calculatie hoort te zien, en die in de praktijk vaak alleen in het gesprek met de klant bestaat.
+Voor beplanting bestaat trouwens wel een vuistregel in de markt. Volgens Greenlink is een marge van rond de 50 procent op beplanting gebruikelijk, en wil je daar minstens 10 procent bovenop rekenen als jij verantwoordelijk bent voor de inboet. Dat laatste is een goed voorbeeld van een afspraak die je in de calculatie hoort te zien, en die in de praktijk vaak alleen in het gesprek met de klant bestaat.
 
 ## Waar de marge structureel weglekt
 
@@ -111,7 +111,7 @@ Je hoeft hier geen kwartaalproject van te maken. Drie avonden is genoeg om het f
 
 Een calculatieprogramma voor hoveniers is geen rekenmachine die je marge repareert. Het is de plek waar je rekenregels wonen. Klopt de regel, dan wordt elke offerte beter zonder dat jij er langer over doet. Klopt de regel niet, dan maakt software je alleen sneller ongelijk.
 
-Begin dus niet bij het pakket, maar bij de zes posten. Zet transport, afvoer en risico er expliciet in, bepaal je kostprijs per uur, en laat de nacalculatie je regels elk kwartaal bijsturen. Dan verschuift je offerte van een schatting naar een berekening, en verschuif jij van de onderste 80 procent naar de bovenste 20.
+Begin dus niet bij het pakket, maar bij de zes posten. Zet transport, afvoer en risico er expliciet in, bepaal je kostprijs per uur, en laat de nacalculatie je regels elk kwartaal bijsturen. Dan verschuift je offerte van een schatting naar een berekening, en verschuif jij op die meetlat van de onderkant van de markt naar de bovenkant.
 
 Jij maakt tuinen mooi, wij regelen de rest. Daar is HovenierAI voor gebouwd: het rekenwerk en de opvolging eromheen laten lopen terwijl jij in de tuin staat. Wil je zien waar in jouw offerte- en opvolgproces tijd en marge weglekken, vraag dan een [gratis ai scan voor hoveniers](/gratis-scan) aan. We kijken mee naar je aanvraagstroom, je opvolging en je [automatische opvolging](/automatisering) na oplevering, en je krijgt een concreet overzicht van wat er te winnen valt. Onze managed service loopt met de Groei-of-Geld-Terug Garantie, dus je zit nergens aan vast als het niets oplevert.
 

@@ -11,7 +11,7 @@ tags: ["Automatisering", "Hovenier", "Bedrijfsvoering"]
 
 Als hovenier is je passie buiten: tuinen ontwerpen, aanleggen en onderhouden. Maar het runnen van een hoveniersbedrijf brengt een berg administratie mee: offertes schrijven, planning bijhouden, materiaal bestellen, facturen versturen en klanten op de hoogte houden.
 
-GroenVision rapporteert dat hoveniersbedrijven gemiddeld 20 procent resultaatverbetering behalen na het automatiseren van hun bedrijfsprocessen. Dat is geen klein verschil: het is het verschil tussen net rondkomen en echt groeien.
+Volgens GroenVision behalen hoveniersbedrijven gemiddeld 20 procent resultaatverbetering na het automatiseren van hun bedrijfsprocessen. Dat is geen klein verschil: het is het verschil tussen net rondkomen en echt groeien.
 
 ## De processen die het meest opleveren
 
@@ -54,8 +54,8 @@ Na een tuinaanleg, een seizoensonderhoudsbeurt en een snoeiklus is een klant loy
 
 ## Resultaat
 
-- 20 procent hogere winstgevendheid
-- 70 procent snellere offertes
+- Duidelijk hogere winstgevendheid
+- Fors snellere offertes
 - Structurele herhaalopdrachten via seizoensherinneringen
 - Minder weervertragingen door proactieve communicatie
 

@@ -58,7 +58,7 @@ Doe je dit drie keer per jaar per contractklant, dan bouw je een gestage stroom 
 
 ## Wat je moet meten om het lek te dichten
 
-Automatiseren zonder meten is gokken met een net iets mooiere interface. Houd daarom twee cijfers bij. Het eerste is je **recall-ratio**: van alle contractklanten die deze cyclus een trigger kregen, hoeveel procent boekte daadwerkelijk de beurt? Zit die onder de 80%, dan klopt er iets aan je bericht of je timing.
+Automatiseren zonder meten is gokken met een net iets mooiere interface. Houd daarom twee cijfers bij. Het eerste is je **recall-ratio**: van alle contractklanten die deze cyclus een trigger kregen, hoeveel procent boekte daadwerkelijk de beurt? Reken met 80% als ondergrens — zit je eronder, dan klopt er iets aan je bericht of je timing.
 
 Het tweede is je **no-recall lekkage**: hoeveel contractklanten kregen dit seizoen géén trigger omdat hun klantkaart niet compleet was? Dat cijfer hoort nul te zijn. Elke klant die door een leeg datumveld geen bericht kreeg, is de klant die volgend jaar stilletjes opzegt. Precies dat lek dicht je met deze cyclus.
 

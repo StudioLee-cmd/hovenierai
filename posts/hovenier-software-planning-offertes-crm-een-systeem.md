@@ -9,7 +9,7 @@ tags: ["Software", "Vergelijking", "Tools", "Alles-in-één", "Hovenier"]
 cluster: "automatisering"
 ---
 **In het kort:**
-- 65% van de Nederlandse MKB-hoveniers werkt met 4 tot 8 losse tools voor planning, offertes, facturatie, klantbeheer, WhatsApp en reviews. Per tool €15-€60 per maand, samen €120-€350. Plus de verloren tijd door dubbele invoer en gebroken integraties: gemiddeld 6-9 uur per week aan tool-switching en data-migratie.
+- Het merendeel van de Nederlandse MKB-hoveniers werkt met 4 tot 8 losse tools voor planning, offertes, facturatie, klantbeheer, WhatsApp en reviews. Per tool €15-€60 per maand, samen €120-€350. Plus de verloren tijd door dubbele invoer en gebroken integraties: gemiddeld 6-9 uur per week aan tool-switching en data-migratie.
 - Een goed gekozen alles-in-één hovenier-systeem brengt deze kosten terug naar €60-€180 per maand én bespaart 5-7 uur per week aan tool-overhead. Op €65 declarabel uurtarief is dat €15.000 tot €23.000 per jaar aan teruggewonnen tijd plus €700-€2.000 aan tool-licenties.
 - De keuze tussen "best-of-breed losse tools" en "alles-in-één platform" hangt af van team-grootte: solo-hoveniers en duo's profiteren bijna altijd van alles-in-één; team-praktijken van 5+ medewerkers kunnen losse best-of-breed-tools verantwoorden mits ze een goede integratie-laag hebben.
 - Vier eval-criteria voor een hovenier-software-keuze: tuinspecifieke veld-set (NIET generiek MKB), WhatsApp-koppeling (niet alleen e-mail), seizoens-trigger-flow, en transparante prijsstelling per gebruiker.
@@ -79,7 +79,7 @@ Test-vraag bij elke demo: "Kan ik per klant een lijst van zijn planten met plant
 
 ### Criterium 2: WhatsApp-koppeling (niet alleen e-mail)
 
-78% van hoveniers-klanten gebruikt WhatsApp dagelijks. E-mail-open-rates zakken jaarlijks. Software die alleen e-mail-flows ondersteunt mist het primaire klantcommunicatie-kanaal.
+Verreweg de meeste hoveniers-klanten gebruiken WhatsApp dagelijks. E-mail-open-rates zakken jaarlijks. Software die alleen e-mail-flows ondersteunt mist het primaire klantcommunicatie-kanaal.
 
 Test-vraag: "Kan ik vanuit één centrale inbox WhatsApp-berichten beantwoorden, broadcasts versturen en gekoppeld aan de klant-record opslaan?" Als de software alleen mail-functionaliteit heeft of WhatsApp-integratie via een derde partij vereist, is dit een aanzienlijke beperking.
 
@@ -106,7 +106,7 @@ Test-vraag: "Wat kost het systeem totaal per maand voor mijn situatie (1 eigenaa
 | Grote groep (10+), multi-locatie | Best-of-breed met integratie-laag |
 | ZZP starter, beperkt budget | Alles-in-één AI-platform (meest tijdsbesparing voor minimale investering) |
 
-Voor 70-80% van de NL MKB-hoveniers (1-5 medewerkers) is een alles-in-één AI-platform de juiste keuze. Het bespaart de meeste tijd per maand en heeft een transparante kosten-structuur.
+Voor verreweg de meeste NL MKB-hoveniers (1-5 medewerkers) is een alles-in-één AI-platform de juiste keuze. Het bespaart de meeste tijd per maand en heeft een transparante kosten-structuur.
 
 ## Migratie-strategie: hoe stap je over zonder data te verliezen
 

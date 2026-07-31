@@ -17,7 +17,7 @@ Het probleem is niet alleen de gemiste oproep zelf. Het is ook het gebrek aan be
 
 ## De gouden 5 minuten
 
-Uit onderzoek blijkt dat 78 procent van de klanten kiest voor de vakman die als eerste reageert. Niet de goedkoopste, niet degene met de mooiste tuin op Instagram — de snelste.
+Klanten kiezen in de regel voor de vakman die als eerste reageert. Niet de goedkoopste, niet degene met de mooiste tuin op Instagram — de snelste.
 
 ![Prachtige onderhouden Nederlandse tuin](/images/blog/lead-opvolging-hovenier-aanvragen-omzetten-2.jpg)
 
@@ -67,7 +67,7 @@ Voeg foto's van vergelijkbare projecten toe aan je offerte. Een tuineigenaar die
 
 ## Structureel meer omzet zonder extra marketing
 
-De meeste hoveniers denken dat ze meer advertenties nodig hebben. In werkelijkheid verliezen ze 30 tot 50 procent van hun bestaande aanvragen door trage opvolging. Los dat op, en je hebt geen extra marketing nodig.
+De meeste hoveniers denken dat ze meer advertenties nodig hebben. In werkelijkheid verliezen ze een groot deel van hun bestaande aanvragen door trage opvolging. Los dat op, en je hebt geen extra marketing nodig.
 
 Doe de rekensom: als je 20 aanvragen per maand ontvangt en er 8 van mist, zijn dat 8 potentiële opdrachten die naar de concurrent gaan. Bij een gemiddelde opdrachtwaarde van €2.000 is dat €16.000 per maand aan gemiste omzet. Op jaarbasis is dat bijna €200.000 — meer dan genoeg om een extra medewerker aan te nemen.
 

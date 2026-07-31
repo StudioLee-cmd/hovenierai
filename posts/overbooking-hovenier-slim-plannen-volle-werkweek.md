@@ -20,17 +20,17 @@ Strategische overbooking lost dit op. Niet door meer werk aan te nemen dan je aa
 
 Het principe is identiek aan hoe luchtvaartmaatschappijen vliegen: je plant bewust iets meer dan je capaciteit toelaat, wetende dat een deel uitvalt.
 
-Als hovenier weet je uit ervaring dat gemiddeld 15 tot 25 procent van je geplande werk uitvalt door weer of annuleringen. Bij 5 geplande klussen per week vallen er gemiddeld 1 tot 1,5 uit. Als je 6 klussen plant in plaats van 5, heb je na uitval alsnog een volle week.
+Als hovenier weet je uit ervaring dat een deel van je geplande werk uitvalt door weer of annuleringen; reken met 15 tot 25 procent. Bij 5 geplande klussen per week vallen er gemiddeld 1 tot 1,5 uit. Als je 6 klussen plant in plaats van 5, heb je na uitval alsnog een volle week.
 
 Het verschil met willekeurig overboeken: je baseert het op data, niet op gevoel. Houd bij hoeveel procent van je afspraken daadwerkelijk uitvalt, per seizoen en per type klus.
 
 ## Seizoensgebonden overbookingpercentages
 
-Het uitvalpercentage verschikt per seizoen. In het voorjaar (maart tot mei) is het lager: klanten zijn enthousiast over hun tuin, het weer wordt beter, en de meeste klussen gaan door. Overbooking van 10 procent is voldoende.
+Het uitvalpercentage verschilt per seizoen. In het voorjaar (maart tot mei) is het lager: klanten zijn enthousiast over hun tuin, het weer wordt beter, en de meeste klussen gaan door. Reken met een overbooking van 10 procent.
 
-In het najaar (september tot november) stijgt de uitval door korter wordende dagen en slechter weer. Plan 20 procent over. In de winter (december tot februari) is de uitval het hoogst. Plan 25 tot 30 procent over, of focus op werkzaamheden die bij elk weer kunnen (snoeien, opruimen).
+In het najaar (september tot november) stijgt de uitval door korter wordende dagen en slechter weer; reken met 20 procent overboeking. In de winter (december tot februari) is de uitval het hoogst: reken met 25 tot 30 procent, of focus op werkzaamheden die bij elk weer kunnen (snoeien, opruimen).
 
-In de zomer kan extreme hitte ook voor annuleringen zorgen. Klanten die een veranda willen laten plaatsen, stellen uit als het 35 graden is. Plan 15 procent over.
+In de zomer kan extreme hitte ook voor annuleringen zorgen. Klanten die een veranda willen laten plaatsen, stellen uit als het 35 graden is. Reken met 15 procent overboeking.
 
 ![Tuingereedschap op een groen gazon](/images/blog/overbooking-hovenier-slim-plannen-volle-werkweek-2.jpg)
 

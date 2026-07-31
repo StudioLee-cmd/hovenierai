@@ -67,7 +67,7 @@ Met deze drie momenten heb je genoeg materiaal voor een 45-seconden before/in-pr
 
 Drone-content boven een privé-tuin is geen vrijbrief om alles op te nemen. Drie zaken die elke hovenier moet checken voordat de drone opstijgt:
 
-**1. Toestemming van de klant op schrift.** Een mailtje volstaat: "Tijdens en na het project maak ik drone-opnames die ik mogelijk gebruik voor mijn website en social media. Akkoord?" 95% zegt ja, vooral als je aanbiedt om hen een paar shots van hun nieuwe tuin te sturen.
+**1. Toestemming van de klant op schrift.** Een mailtje volstaat: "Tijdens en na het project maak ik drone-opnames die ik mogelijk gebruik voor mijn website en social media. Akkoord?" Vrijwel iedereen zegt ja, vooral als je aanbiedt om hen een paar shots van hun nieuwe tuin te sturen.
 
 **2. Geen herkenbare huisnummers of straatnamen in beeld.** Vlieg hoog genoeg dat de gevel met het huisnummer niet leesbaar is, of maskeer het in montage. Standaard moet je tijdens vluchten ook letten op buurpercelen, vlieg niet zo dat je over de schutting in iemand anders' tuin filmt zonder hun toestemming.
 
@@ -110,11 +110,11 @@ Niet elk project verdient drone-content. Bij kleine balkon- of voortuin-projecte
 
 Drone-content reserveer je voor projecten waar de transformatie groot, visueel én onmiskenbaar is.
 
-## De 38%-casus en wat je ervan kunt leren
+## De casus achter deze aanpak en wat je ervan kunt leren
 
 Een typisch voorbeeld uit de HovenierAI-praktijk: een hovenier in Noord-Brabant met een omzet rond de € 350k/jaar voegde 18 maanden geleden drone-content toe aan zijn standaard project-workflow. Vóór: ground-shots, drie posts per project op Instagram, gemiddeld 1,2 nieuwe aanvragen per maand vanuit social.
 
-Na: drie maanden later wisselde hij naar een vaste lokale drone-operator (jaarcontract € 1.800 voor 10 opdrachten), elk project boven € 8.000 kreeg drone-content + time-lapse. Hij ging van 1,2 naar gemiddeld 1,7 aanvragen per maand vanuit social. Een toename van **38%**.
+Na: drie maanden later wisselde hij naar een vaste lokale drone-operator (jaarcontract € 1.800 voor 10 opdrachten), elk project boven € 8.000 kreeg drone-content + time-lapse. Hij ging van 1,2 naar gemiddeld 1,7 aanvragen per maand vanuit social. Een duidelijke toename dus.
 
 De interessante observatie is niet alleen het aantal, maar de kwaliteit van de aanvragen. Klanten die binnenkwamen via drone-content vroegen vaker direct om een grotere scope (totale tuin-aanleg in plaats van een terrasje), en kwamen vaker uit dezelfde wijk als waar hij eerder gefilmd had. Lokale erkenning + zichtbare grootschaligheid = grotere conversie-waarde per aanvraag.
 

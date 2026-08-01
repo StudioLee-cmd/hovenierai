@@ -173,7 +173,7 @@ export default function GratisScanPage() {
                             Gratis AI & SEO Scan
                         </h1>
                         <p className="text-lg text-gray-600 dark:text-gray-300">
-                            We brengen in kaart hoe je scoort ten opzichte van concurrenten, waar je kansen laat liggen en hoe ons systeem je direct vooruit helpt.
+                            Je krijgt een cijfer op vier onderdelen: SEO en vindbaarheid, conversie, AI-vindbaarheid en de lokale signalen op je pagina. Met de belangrijkste verbeterpunten, wat er al goed gaat, en één verbetering die je vandaag zelf kunt doorvoeren.
                         </p>
                     </div>
 

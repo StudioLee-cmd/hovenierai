@@ -4,10 +4,10 @@ import GratisScanContent from "./GratisScanContent";
 
 export const metadata: Metadata = {
   title: `Gratis AI- en SEO-scan voor ${siteDetails.niche.toLowerCase()} | ${siteDetails.siteName}`,
-  description: `Vraag de gratis scan aan en zie in een rapport hoe je scoort tegenover andere ${siteDetails.niche.toLowerCase()}: waar je klanten misloopt en welke kansen je laat liggen.`,
+  description: `Gratis scan voor ${siteDetails.niche.toLowerCase()}: een cijfer op SEO, conversie, AI-vindbaarheid en lokale signalen, plus de belangrijkste verbeterpunten in je inbox.`,
   openGraph: {
     title: `Gratis AI- en SEO-scan | ${siteDetails.siteName}`,
-    description: `Vraag de gratis scan aan en zie in een rapport hoe je scoort tegenover andere ${siteDetails.niche.toLowerCase()}: waar je klanten misloopt en welke kansen je laat liggen.`,
+    description: `Gratis scan voor ${siteDetails.niche.toLowerCase()}: een cijfer op SEO, conversie, AI-vindbaarheid en lokale signalen, plus de belangrijkste verbeterpunten in je inbox.`,
     url: `${siteDetails.siteUrl}gratis-scan`,
     type: "website",
   },

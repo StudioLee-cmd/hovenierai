@@ -16,29 +16,29 @@ const GuaranteeSection: React.FC = () => {
                 </h3>
 
                 <p className="text-green-200 font-medium mb-8 max-w-2xl mx-auto relative z-10">
-                    Geldig op Level 2, 3 en 4. Omdat wij bij Managed Services investeren in dure softwarelicenties, jouw setup en hardware, werken wij met een kwartaal-commitment.
+                    Geldig vanaf Managed Groei Pro. Word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Je zit nergens aan vast: maandelijks opzegbaar.
                 </p>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-left relative z-10">
                     <div className="bg-green-800/40 p-6 rounded-xl border border-green-600/30 backdrop-blur-sm">
                         <h4 className="font-bold text-green-100 mb-2">De Harde Garantie</h4>
                         <p className="text-green-200 text-sm">
-                            Wij voeren op dag 1 een nulmeting uit (zichtbaar in je dashboard).
+                            Vóór de eerste werkdag leggen we vast waar je staat, zichtbaar in je dashboard. Daar meten we achteraf tegen, zodat je startpunt niet ter discussie staat.
                         </p>
                     </div>
 
                     <div className="bg-green-800/40 p-6 rounded-xl border border-green-600/30 backdrop-blur-sm">
                         <h4 className="font-bold text-green-100 mb-2">Resultaat of Refund</h4>
                         <ul className="text-green-200 text-sm space-y-2 list-disc list-inside">
-                            <li><strong>Level 2 & 3:</strong> Geen groei in bereik/AI? Geld terug.</li>
-                            <li><strong>Level 3 (Reviews):</strong> Geen toename reviews? Geld terug.</li>
-                            <li><strong>Level 4:</strong> KPI's niet behaald? Geld terug.</li>
+                            <li><strong>SEO:</strong> geen groei in je zichtbaarheid in Ahrefs? Geld terug.</li>
+                            <li><strong>Video en advertenties:</strong> geen groei in views? Geld terug.</li>
+                            <li><strong>Wat er buiten valt:</strong> klikken, aanvragen en omzet. Die hangen aan je eigen aanbod en je prijzen.</li>
                         </ul>
                     </div>
                 </div>
 
                 <div className="mt-8 text-green-300 text-sm italic relative z-10 font-medium">
-                    "Het risico ligt 100% bij ons. Jij hebt niets te verliezen, behalve je huidige chaos."
+                    "Word je wel beter zichtbaar maar belt er niemand, dan kijken we samen naar je aanbod."
                 </div>
             </div>
         </div>

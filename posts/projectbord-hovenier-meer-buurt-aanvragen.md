@@ -98,6 +98,6 @@ Voor hoveniers die hun lokale marketing breder willen aanpakken, hebben we [ai s
 
 Heb je nog geen projectbord, of werkt het bord dat je hebt niet zoals het zou moeten? Vraag dan een [gratis ai scan voor hoveniers](/gratis-scan) aan. We kijken naar je lokale zichtbaarheid, je Google-profiel en hoe je projectbord-tactiek aansluit op de rest van je marketing. Geen verkooppraatje, een concrete analyse.
 
-Geen resultaat binnen 90 dagen? Dan krijg je je geld terug. Groei-of-Geld-Terug Garantie.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/ai-search-audit-hoveniers-chatgpt-meting" class="text-dark fw-semibold">AI-search audit voor hoveniers: ChatGPT-zichtbaarheid meten</a> →</p></div></div></div>

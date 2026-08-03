@@ -190,4 +190,4 @@ Stop dan in de [gratis website](/gratis-website) en [chatbot](/chatbot) een eers
 
 Een goed kwalificatie-framework is een van de hoogste-impact veranderingen die een hoveniersbedrijf kan doorvoeren. Vijf vragen, vijf minuten, en je weet precies waar je tijd in moet steken. Wij regelen dit standaard voor onze hovenier-klanten, inclusief WhatsApp-templates, automatische scoring en gerichte opvolg-flows.
 
-Vraag een [gratis scan](/gratis-scan) aan en we kijken samen waar in jouw lead-opvolging de meeste tijd weglekt aan onnodige offertes. Werkt het niet? Geld terug, dat is onze Groei-of-Geld-Terug Garantie.
+Vraag een [gratis scan](/gratis-scan) aan en we kijken samen waar in jouw lead-opvolging de meeste tijd weglekt aan onnodige offertes. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.

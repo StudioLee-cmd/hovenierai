@@ -111,6 +111,6 @@ Ja, mits je het lokaal houdt. Gebruik je werkgebied in je teksten en laat herken
 
 Een contentkalender haalt de dagelijkse beslissing weg en vervangt hem door een ritme dat doorloopt, ook in je drukste weken. Begin klein: pak de kalender hierboven, maak deze week bij elke klus je foto's, en plan je eerste maand vooruit.
 
-Wil je weten waar voor jouw hoveniersbedrijf de meeste winst zit in je online aanwezigheid? Doe de [gratis AI-scan voor hoveniers](/gratis-scan) en je ziet precies waar de groeikansen liggen. Werken we daarna samen aan je social media en vindbaarheid, dan doen we dat met onze Groei-of-Geld-Terug Garantie: levert het binnen de afgesproken periode niet op wat we beloven, dan krijg je je geld terug.
+Wil je weten waar voor jouw hoveniersbedrijf de meeste winst zit in je online aanwezigheid? Doe de [gratis AI-scan voor hoveniers](/gratis-scan) en je ziet precies waar de groeikansen liggen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 [Lees ook: Drone-content voor hoveniers: meer tuinklussen via video](/blog/drone-content-hovenier-meer-tuinklussen-video)

@@ -97,4 +97,4 @@ Voor de meeste hoveniers binnen enkele weken. Bij een marge van rond €300 per 
 
 Jij maakt tuinen mooi, wij regelen de rest. StudioLee zet de [complete AI-automatisering voor hoveniers](/automatisering) voor je op: de telefonist, de opvolging en de reviews, afgestemd op hoe jouw bedrijf werkt. Je hoeft geen computerheld te zijn, want wij richten de flows in en jij ziet alleen de opdrachten binnenkomen.
 
-En omdat we geloven in de rekensom hierboven, werken we met een Groei-of-Geld-Terug Garantie. Levert het je geen groei op, dan krijg je je geld terug. Begin met een [gratis AI-scan voor hoveniers](/gratis-scan), of bekijk eerst rustig de tarieven van [HovenierAI](/tarieven). Meer opdrachten, ook buiten het seizoen, dat is het doel.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Begin met een [gratis AI-scan voor hoveniers](/gratis-scan), of bekijk eerst rustig de tarieven van [HovenierAI](/tarieven). Meer opdrachten, ook buiten het seizoen, dat is het doel.

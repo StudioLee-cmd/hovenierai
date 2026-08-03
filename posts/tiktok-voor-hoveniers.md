@@ -80,6 +80,6 @@ Dan hoef je niet in beeld. De voor-en-na video's en timelapses werken zonder dat
 
 TikTok is voor een lokale hovenier geen hype, maar een vrijwel gratis etalage: je laat zien wat je toch al maakt, en het algoritme brengt het naar precies de mensen in jouw buurt die een tuin willen. Begin klein. Film deze week bij je volgende klus een korte voor-en-na, en plan vast wie de aanvragen opvangt als het loopt.
 
-Wil je weten waar voor jouw hoveniersbedrijf de meeste winst zit in je online aanwezigheid? Doe de [gratis AI-scan voor hoveniers](/gratis-scan) van HovenierAI en je ziet precies waar de groeikansen liggen. Werken we daarna samen aan je social media en je bereikbaarheid, dan doen we dat met onze Groei-of-Geld-Terug Garantie: levert het binnen de afgesproken periode niet op wat we beloven, dan krijg je je geld terug. Jij maakt tuinen mooi, wij regelen de rest.
+Wil je weten waar voor jouw hoveniersbedrijf de meeste winst zit in je online aanwezigheid? Doe de [gratis AI-scan voor hoveniers](/gratis-scan) van HovenierAI en je ziet precies waar de groeikansen liggen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij maakt tuinen mooi, wij regelen de rest.
 
 [Lees ook: Instagram contentkalender hovenier: 30 dagen vooruit](/blog/instagram-contentkalender-hovenier)

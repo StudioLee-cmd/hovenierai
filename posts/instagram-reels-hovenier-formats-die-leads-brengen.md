@@ -123,7 +123,7 @@ Een gezonde reel-strategie voor een hovenier in een middelgrote Nederlandse stad
 
 ## Wat StudioLee voor jou doet
 
-Voor een hovenier die 4 reels per maand wil posten zonder zelf de bewerking, captions en hashtag-strategie te hoeven doen, is onze Managed Pro de juiste setup. Inbegrepen: maandelijkse content-planning (welke 4 reels, welke borders, welke locaties), bewerking van jouw ruwe filmpjes naar reel-klaar, captions en hashtag-onderzoek per reel, en posting volgens een vast schema. Plus de [Groei-of-Geld-Terug Garantie](/tarieven): als na 3 maanden je DM-volume niet meetbaar omhoog is, krijg je je geld terug.
+Voor een hovenier die 4 reels per maand wil posten zonder zelf de bewerking, captions en hashtag-strategie te hoeven doen, is onze Managed Pro de juiste setup. Inbegrepen: maandelijkse content-planning (welke 4 reels, welke borders, welke locaties), bewerking van jouw ruwe filmpjes naar reel-klaar, captions en hashtag-onderzoek per reel, en posting volgens een vast schema. Onze [Groei-of-Geld-Terug Garantie](/tarieven) geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Wil je eerst weten hoe jouw huidige Instagram-profiel scoort, plan dan een [gratis ai scan voor hoveniers](/gratis-scan). Dan kijken we naar je laatste 20 posts, je hashtag-keuze, je bio, en je DM-flow, en geef je een rapport met de eerste 3 verbeteringen die je deze week kunt doorvoeren.
 

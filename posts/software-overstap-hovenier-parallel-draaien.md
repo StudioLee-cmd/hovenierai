@@ -96,7 +96,7 @@ Eén nee? Dan verleng je de parallelperiode met twee weken en los je dat ene pun
 
 ## Wat StudioLee voor je inricht
 
-Bij HovenierAI doen we deze verhuizing voor je. We exporteren je oude gegevens, ontdubbelen je klantbestand, zetten alles in een [alles-in-één crm voor hoveniers](/crm) en richten de automatische opvolging in terwijl jij gewoon in de tuin staat. Jij maakt tuinen mooi, wij regelen de rest. En met de Groei-of-Geld-Terug Garantie loop je geen risico: levert het systeem niet op wat we afspreken, dan betaal je niet.
+Bij HovenierAI doen we deze verhuizing voor je. We exporteren je oude gegevens, ontdubbelen je klantbestand, zetten alles in een [alles-in-één crm voor hoveniers](/crm) en richten de automatische opvolging in terwijl jij gewoon in de tuin staat. Jij maakt tuinen mooi, wij regelen de rest. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Benieuwd hoe jouw huidige werkwijze ervoor staat en wat een overstap jou concreet oplevert? Vraag de [gratis AI-scan voor hoveniers](/gratis-scan) aan. Je ziet binnen een paar dagen waar je omzet laat liggen, en je weet meteen of een overstap deze winter de moeite waard is.
 

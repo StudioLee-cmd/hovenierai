@@ -32,6 +32,7 @@ const nextConfig = {
             { source: '/blog/branding-hovenier', destination: '/blog/hovenier-branding-jaarcontracten-klanten-binden', permanent: true },
             { source: '/blog/social-media-voor-hoveniers', destination: '/blog/social-media-hoveniers-tuinprojecten', permanent: true },
             { source: '/blog/tuinenportfolio-hovenier-projectfotos', destination: '/blog/portfolio-hovenier-opbouwen', permanent: true },
+            { source: '/blog/no-shows-hovenier-tuinafspraak-voorkomen', destination: '/blog/no-shows-voorkomen-hovenier', permanent: true },
         ];
     },
 };

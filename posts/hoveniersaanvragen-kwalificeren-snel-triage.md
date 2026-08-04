@@ -184,7 +184,7 @@ Eens per kwartaal. Kijk naar welke A-leads niet converteerden (was je inschattin
 
 Stop dan in de [gratis website](/gratis-website) en [chatbot](/chatbot) een eerste filter. De chatbot stelt de eerste 3 vragen, jij neemt over voor de overige 2 en de afspraak.
 
-<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-hovenier-tuinafspraak-voorkomen" class="text-dark fw-semibold">Gemiste tuinafspraken: wat het je kost als hovenier</a> →</p></div></div></div>
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-voorkomen-hovenier" class="text-dark fw-semibold">Gemiste tuinafspraken: wat het je kost als hovenier</a> →</p></div></div></div>
 
 ## Klaar om je tijd op de juiste leads te zetten?
 

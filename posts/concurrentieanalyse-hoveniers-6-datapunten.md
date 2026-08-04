@@ -136,5 +136,3 @@ Voor de eerste analyse helpt vaak een externe blik. Daarna kun je de jaarlijkse 
 Een concurrentieanalyse van 30 minuten geeft je objectieve data om beslissingen op je tarief, je aanbod en je website te baseren. Hoveniers die deze check minstens één keer per jaar doen, prijzen zichzelf marktconform of premium en winnen significantere project-omzet dan collega's die op gevoel werken.
 
 Wil je weten hoe jouw bedrijf zich positioneert in jouw regio? Plan een [gratis ai-scan](/gratis-scan) en we doen samen een volledige concurrentieanalyse plus directe verbeterpunten voor je website en aanbod. Met de Groei-of-Geld-Terug Garantie weet je vooraf wat je investering oplevert.
-
-<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hovenier-specialiseren-5-niches" class="text-dark fw-semibold">Specialiseren als hovenier: 5 niches die werken</a> →</p></div></div></div>

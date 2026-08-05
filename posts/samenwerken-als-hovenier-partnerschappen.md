@@ -8,7 +8,6 @@ image: "/images/blog/samenwerken-als-hovenier-partnerschappen.png"
 tags: ["samenwerkingen", "hovenier", "groei"]
 cluster: "branding"
 ---
-
 De meeste hoveniers zijn afhankelijk van seizoenen en mond-tot-mondreclame. Maar er zijn bedrijven die het hele jaar door dezelfde klanten bedienen als jij — en die nu nog niet naar jou doorverwijzen. Dat verandert met de juiste samenwerkingen.
 
 ## Waarom partnerschappen voor hoveniers werken
@@ -65,7 +64,7 @@ De beste hoveniers zijn niet degenen die het hardst adverteren. Het zijn de hove
 
 ## Hulp nodig?
 
-Bij HovenierAI helpen we hoveniers met het opzetten van slimme samenwerkingen en automatisering. Alles voor slechts 15 minuten per maand van jouw tijd.
+Bij HovenierAI helpen we hoveniers met het opzetten van slimme samenwerkingen en [automatisering](/automatisering). Alles voor slechts 15 minuten per maand van jouw tijd.
 
 Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 

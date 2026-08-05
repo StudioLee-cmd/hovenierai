@@ -7,7 +7,6 @@ image: "/images/blog/werkspot-alternatief-hovenier.jpg"
 tags: ["Vergelijking", "Werkspot", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Het Werkspot-model: wat het je echt kost
 
 Werkspot rekent €15 tot €30 per reactie op een aanvraag. Niet per gewonnen klus — per reactie. Of je de klus krijgt of niet, je betaalt. Bij 20 reacties per maand zit je al snel op €300 tot €600 aan leadkosten, terwijl je slechts een fractie van die leads daadwerkelijk omzet in werk.
@@ -31,7 +30,7 @@ De frustraties stapelen zich op:
 
 ## HovenierAI: je eigen klantenstroom opbouwen
 
-Met HovenierAI draai je het model om. In plaats van te betalen per lead op een platform, bouw je je eigen online aanwezigheid op. Klanten vinden jou via Google, lezen je content, zien je reviews en nemen direct contact op. Geen tussenpersoon, geen commissie.
+Met HovenierAI draai je het model om. In plaats van te betalen per lead op een platform, bouw je je eigen [online aanwezigheid](/gratis-website) op. Klanten vinden jou via Google, lezen je content, zien je reviews en nemen direct contact op. Geen tussenpersoon, geen commissie.
 
 En het belangrijkste: alles wat je opbouwt is van jou. Je website, je content, je reviews, je klantgegevens — als je ooit zou stoppen, neem je alles mee.
 

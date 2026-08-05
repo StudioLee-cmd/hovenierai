@@ -33,6 +33,7 @@ const nextConfig = {
             { source: '/blog/social-media-voor-hoveniers', destination: '/blog/social-media-hoveniers-tuinprojecten', permanent: true },
             { source: '/blog/tuinenportfolio-hovenier-projectfotos', destination: '/blog/portfolio-hovenier-opbouwen', permanent: true },
             { source: '/blog/no-shows-hovenier-tuinafspraak-voorkomen', destination: '/blog/no-shows-voorkomen-hovenier', permanent: true },
+            { source: '/blog/meer-tuinklussen-met-ai', destination: '/blog/meer-google-reviews-als-hovenier', permanent: true },
         ];
     },
 };

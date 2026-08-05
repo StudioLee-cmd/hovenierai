@@ -100,7 +100,7 @@ Vooraf-documentatie is de stille kracht achter een goed nazorg-protocol. Drie di
 
 ## Hoe maak je het systematisch?
 
-Drie niveaus van implementatie, oplopend in automatisering.
+Drie niveaus van implementatie, oplopend in [automatisering](/automatisering).
 
 **Niveau 1 — Notitieboekje + telefoon-herinneringen** (€0). Voor zzp-hoveniers met < 12 oplevering per jaar. Plan voor elke oplevering automatisch 4 herinneringen op je telefoon (1 dag, 7 dagen, 21 dagen, 30 dagen erna). Werkt, maar foutgevoelig en de teksten worden ad-hoc geschreven.
 

@@ -14,7 +14,7 @@ Hovenieren is seizoensgebonden werk met pieken in lente en zomer en rustigere pe
 - **Offerte generatie**: Op basis van tuinoppervlak, gewenste werkzaamheden en materialen stelt AI een offerte op. Klant ontvangt snel een helder voorstel.
 - **Seizoensplanning**: AI helpt terugkerende klanten proactief te plannen — snoeiwerk in het voorjaar, herfstopruiming in oktober — zodat je agenda niet leeg valt in rustiger periodes.
 - **Onderhoudscontracten**: AI beheert lopende onderhoudscontracten automatisch: herinneringen, facturatie en planningsaanpassingen.
-- **Klantcommunicatie**: Statusupdates, aankomstberichten en oplevermeldingen gaan automatisch via WhatsApp.
+- **[Klantcommunicatie](/automatisering)**: Statusupdates, aankomstberichten en oplevermeldingen gaan automatisch via WhatsApp.
 
 ## Offerte conversie verhogen
 

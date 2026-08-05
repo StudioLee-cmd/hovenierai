@@ -8,7 +8,6 @@ image: "/images/blog/mond-tot-mondreclame-hovenier.png"
 tags: ["mond-tot-mond", "hovenier", "klantwerving"]
 cluster: "branding"
 ---
-
 Als hovenier werkt je marketing letterlijk in de voortuin. Buren zien het resultaat. Voorbijgangers stoppen om te kijken. En als de klant tevreden is, vertelt die het aan iedereen in de straat.
 
 Mond-tot-mondreclame is al eeuwen de krachtigste marketingvorm — en voor hoveniers is dat nog steeds zo. Maar je kunt het versterken en versnellen. In dit artikel leer je hoe.
@@ -50,7 +49,7 @@ Veel hoveniers vullen hun agenda met deze buurt-voor-buurtstrategie. Lees meer o
 
 ### 3. Online reviews verzamelen
 
-Google reviews zijn de digitale versie van mond-tot-mond. Een aanbeveling die niet verdwijnt maar permanent online staat. Verzamel ze actief via een systeem dat na elke klus automatisch een [reviewverzoek stuurt](/blog/meer-google-reviews-als-hovenier).
+[Google reviews](/reviews) zijn de digitale versie van mond-tot-mond. Een aanbeveling die niet verdwijnt maar permanent online staat. Verzamel ze actief via een systeem dat na elke klus automatisch een [reviewverzoek stuurt](/blog/meer-google-reviews-als-hovenier).
 
 ### 4. Seizoenstips delen
 

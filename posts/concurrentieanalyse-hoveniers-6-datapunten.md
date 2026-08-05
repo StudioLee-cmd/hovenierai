@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Concurrentieanalyse", "Marktonderzoek", "Strategie"]
 cluster: "branding"
 ---
-
 Een hovenier in Den Bosch ontdekte vorig jaar dat hij al jaren 38 euro per uur factureerde, terwijl de drie grootste concurrenten in zijn regio tussen de 52 en 65 euro per uur zaten. Verlies aan misgelopen omzet over 5 jaar: rond de 60.000 euro. De aanleiding voor de ontdekking was 30 minuten concurrentieanalyse: drie websites bekijken, twee offertes opvragen, en één Google-zoekopdracht. Dat is alles wat nodig is om je positionering te corrigeren.
 
 De meeste Nederlandse hoveniers benchmarken nooit hun aanbod tegen de lokale concurrentie. Het voelt ongemakkelijk, "gluren bij de buurman", en de meeste denken het wel te weten op gevoel. Het gevolg: structureel onder-geprijsd of structureel mismatch met wat lokale klanten zoeken. Dit artikel geeft je een 30-minuten methode met 6 concrete datapunten die je tarieven en aanbod direct verbeteren.
@@ -51,7 +50,7 @@ De juiste concurrenten kiezen is cruciaal. Drie criteria voor de selectie:
 - **Vergelijkbare bedrijfsgrootte.** Een ZZP'er vergelijkt zich niet met een 30-koppig bedrijf, andersom ook niet.
 - **Vergelijkbaar dienstenpakket.** Tuinaanleg-specialist vergelijk je niet met een onderhouds-only hovenier.
 
-Een snelle manier om de juiste concurrenten te vinden: zoek op Google "hovenier \[stadsnaam\]" en pak de top 3-5 organische resultaten plus de top 3 in Google Maps. De overlap zijn jouw directe concurrenten.
+Een snelle manier om de juiste concurrenten te vinden: zoek op [Google](/seo) "hovenier \[stadsnaam\]" en pak de top 3-5 organische resultaten plus de top 3 in Google Maps. De overlap zijn jouw directe concurrenten.
 
 ![Een werkbank met een tablet die een spreadsheet toont met 6 abstracte kolommen, een notitieblok met handgeschreven regels, een gele potlood en een mok koffie op een houten tafel naast een potje met groene plant in zachte ochtendzon](/images/blog/concurrentieanalyse-hoveniers-6-datapunten-2.jpg)
 

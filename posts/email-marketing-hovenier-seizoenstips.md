@@ -10,7 +10,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["email marketing", "hovenier", "seizoenstips"]
 cluster: "automatisering"
 ---
-
 ## Waarom email marketing werkt voor hoveniers
 
 Tuinen zijn seizoensgebonden. In het voorjaar moet er gesnoeid worden, in de zomer bewaterd, in de herfst opgeruimd en in de winter beschermd. Dat maakt hoveniers uniek geschikt voor email marketing — er is altijd een reden om contact op te nemen.
@@ -47,7 +46,7 @@ Naast seizoenstips zijn project-updates krachtige emails:
 
 **Voor-en-na foto's**. Heb je een mooie tuin aangelegd of gerenoveerd? Stuur een paar foto's met een korte beschrijving. "Onlangs hebben we deze verwaarloosde achtertuin in Haarlem getransformeerd naar een onderhoudsarme buitenkamer." Dit inspireert klanten die twijfelen over hun eigen tuin.
 
-**Nieuwe diensten**. Bied je iets nieuws aan, zoals verticale tuinen, daktuin-aanleg of biodivers tuinieren? Laat het je klantenbestand weten. Bestaande klanten zijn vaak de eersten die nieuwe diensten afnemen.
+**Nieuwe diensten**. Bied je iets nieuws aan, zoals verticale tuinen, daktuin-aanleg of biodivers tuinieren? Laat het je [klantenbestand](/crm) weten. Bestaande klanten zijn vaak de eersten die nieuwe diensten afnemen.
 
 **Tuininspiratie**. Deel trends en ideeeen: welke planten zijn populair dit jaar, welke tuinstijlen zijn in opkomst. Dit positioneert je als expert en houdt je klanten betrokken.
 

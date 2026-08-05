@@ -8,7 +8,6 @@ image: "/images/blog/leadgeneratie-hovenier.png"
 tags: ["leadgeneratie", "hovenier", "klanten werven"]
 cluster: "automatisering"
 ---
-
 Als hovenier ben je afhankelijk van een constante stroom nieuwe opdrachten. [Google](/blog/hoe-hoveniers-meer-klanten-vinden-via-google) en mond-tot-mond zijn de basis, maar ze zijn niet genoeg om het hele jaar door vol te zitten — vooral niet in de [rustigere maanden](/blog/seizoensplanning-hovenier-heel-jaar-werk).
 
 Slimme hoveniers bouwen meerdere leadkanalen tegelijk. Dit artikel laat zien welke kanalen het meest opleveren.
@@ -75,4 +74,4 @@ De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
 
 ## Conclusie
 
-Hoveniers die diversificeren in hun leadgeneratie — tuincentra, makelaars, VvE's, architecten en social media — hebben het hele jaar door werk. Begin deze week met het benaderen van twee tuincentra en een makelaar in je buurt. De eerste samenwerking kan al binnen een maand nieuwe opdrachten opleveren.
+Hoveniers die diversificeren in hun leadgeneratie — tuincentra, makelaars, VvE's, architecten en [social media](/social-media) — hebben het hele jaar door werk. Begin deze week met het benaderen van twee tuincentra en een makelaar in je buurt. De eerste samenwerking kan al binnen een maand nieuwe opdrachten opleveren.

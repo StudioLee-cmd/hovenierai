@@ -1,12 +1,19 @@
 "use client";
 import React from 'react';
 import Image from 'next/image';
-import { testimonials } from '@/data/testimonials';
+import { proofBlock } from '@/data/testimonials';
 import { FaStar } from 'react-icons/fa';
 
+// BOUWSTEEN 8 — dit component rendert alleen wat `src/data/testimonials.ts` aanlevert.
+// Er staat hier bewust géén copy en géén disclaimer: zijn er geen echte quotes, dan is er
+// niets te tonen en verdwijnt de hele sectie (Tim, keur 173 — geen vervangende constructie).
 const Testimonials: React.FC = () => {
+    const { quotes } = proofBlock;
+
+    if (!quotes || quotes.length === 0) return null;
+
     // Duplicate for seamless loop
-    const extendedTestimonials = [...testimonials, ...testimonials];
+    const extendedTestimonials = [...quotes, ...quotes];
 
     return (
         <div className="w-full overflow-hidden py-10 relative">
@@ -66,14 +73,8 @@ const Testimonials: React.FC = () => {
             {/* Gradient Fade Edges */}
             <div className="absolute inset-y-0 left-0 w-20 bg-gradient-to-r from-[var(--background)] to-transparent pointer-events-none" />
             <div className="absolute inset-y-0 right-0 w-20 bg-gradient-to-l from-[var(--background)] to-transparent pointer-events-none" />
-
-            {/* Disclaimer */}
-            <div className="absolute bottom-2 left-0 w-full text-center text-[10px] text-[var(--foreground-accent)] opacity-70 pointer-events-none">
-                * Reviews zijn AI-gegenereerde voorbeelden ter illustratie. Echte ervaringen volgen binnenkort.
-            </div>
         </div>
     );
 };
 
 export default Testimonials;
-

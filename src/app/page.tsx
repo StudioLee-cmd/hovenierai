@@ -8,6 +8,9 @@ import Logos from "@/components/Logos";
 import Benefits from "@/components/Benefits/Benefits";
 import Container from "@/components/Container";
 import Section from "@/components/Section";
+// BOUWSTEEN 8 — kop + subkop van het bewijs-blok komen uit dezelfde bron als de inhoud,
+// zodat ze nooit iets anders kunnen beweren dan wat eronder staat (src/data/testimonials.ts).
+import { proofBlock } from "@/data/testimonials";
 
 
 import CostComparison from "@/components/CostComparison/CostComparison";
@@ -56,13 +59,15 @@ const HomePage: React.FC = () => {
 
       <Container>
 
-        <Section
-          id="testimonials"
-          title="Wat Onze Klanten Zeggen"
-          description="Ervaringen van bedrijven die al werken met HovenierAI."
-        >
-          <Testimonials />
-        </Section>
+        {proofBlock.section && (
+          <Section
+            id="testimonials"
+            title={proofBlock.section.title}
+            description={proofBlock.section.description}
+          >
+            <Testimonials />
+          </Section>
+        )}
 
         <FAQ />
 

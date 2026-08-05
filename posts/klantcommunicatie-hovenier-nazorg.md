@@ -8,7 +8,6 @@ image: "/images/blog/klantcommunicatie-hovenier-nazorg.png"
 tags: ["Communicatie", "Klantrelatie", "Nazorg"]
 cluster: "automatisering"
 ---
-
 ## Waarom communicatie klanten behoudt
 
 Een mooie tuin is het begin. Maar de klantrelatie wordt gebouwd door communicatie — voor, tijdens en na het project. Hoveniers die goed communiceren krijgen meer herhaalopdrachten, meer aanbevelingen en betere [Google reviews](/blog/meer-google-reviews-als-hovenier).
@@ -59,4 +58,4 @@ Combineer dit met je [social media strategie](/blog/social-media-hoveniers-tuinp
 
 ## Conclusie
 
-Goede klantcommunicatie onderscheidt de professionele hovenier van de rest. Met verwachtingsmanagement vooraf, foto-updates tijdens het werk en nazorg na oplevering bouw je een reputatie die nieuwe klussen oplevert. Begin klein: stuur bij je volgende project een dagelijkse foto-update. Wil je meer tuinklussen binnenhalen? Vraag een [gratis scan](/gratis-scan) aan.
+Goede [klantcommunicatie](/automatisering) onderscheidt de professionele hovenier van de rest. Met verwachtingsmanagement vooraf, foto-updates tijdens het werk en nazorg na oplevering bouw je een reputatie die nieuwe klussen oplevert. Begin klein: stuur bij je volgende project een dagelijkse foto-update. Wil je meer tuinklussen binnenhalen? Vraag een [gratis scan](/gratis-scan) aan.

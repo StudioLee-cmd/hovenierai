@@ -8,7 +8,6 @@ image: "/images/blog/administratie-hovenier-boekhouding-facturatie.jpg"
 tags: ["Administratie", "Efficiëntie", "Tools"]
 cluster: "automatisering"
 ---
-
 ## Waarom administratie voor hoveniers belangrijk is
 
 Als hovenier ben je het liefst buiten bezig — tuinen aanleggen, snoeien, onderhoud plegen. Maar achter elk succesvol hoveniersbedrijf zit een stukje administratie dat net zo belangrijk is als het vakwerk.
@@ -69,7 +68,7 @@ De investering is minimaal — €10-20 per maand — maar de tijdsbesparing is 
 1. **Maak er een routine van**: elke week een vast moment voor je administratie
 2. **Factureer direct**: niet wachten tot het einde van de maand
 3. **Digitaliseer alles**: geen papieren bonnetjes meer die kwijtraken
-4. **Automatiseer waar mogelijk**: herinneringen, terugkerende facturen, BTW-berekeningen
+4. **Automatiseer waar mogelijk**: [herinneringen](/automatisering), terugkerende facturen, BTW-berekeningen
 5. **Schakel hulp in**: een boekhouder voor de complexe zaken, zodat jij je kunt focussen op tuinen
 
 Goede administratie is geen doel op zich — het is een middel om je hoveniersbedrijf financieel gezond te houden en meer tijd te besteden aan wat je het liefst doet: mooie tuinen maken.

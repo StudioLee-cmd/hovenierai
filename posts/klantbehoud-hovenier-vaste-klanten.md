@@ -10,7 +10,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["klantbehoud", "hovenier", "vaste klanten"]
 cluster: "automatisering"
 ---
-
 ## Waarom vaste klanten je bedrijf stabiliseren
 
 Een hovenier die elke maand opnieuw moet werven, heeft een kwetsbaar bedrijf. Een hovenier met 30 vaste klanten die elk seizoen terugkomen, heeft een stabiel bedrijf met voorspelbare omzet.
@@ -61,6 +60,6 @@ Tevreden tuinklanten praten met buren. Maak doorverwijzen makkelijk:
 
 Klantbehoud als hovenier begint bij goed werk en eindigt bij goede communicatie. Lever kwaliteit, bied nazorg, houd contact en maak doorverwijzen makkelijk.
 
-De hovenier die dit consequent doet, bouwt een klantenbestand dat elk seizoen groeit.
+De hovenier die dit consequent doet, bouwt een [klantenbestand](/crm) dat elk seizoen groeit.
 
 Wil je als hovenier online beter gevonden worden? [Vraag een gratis scan aan](/gratis-scan) en ontdek wat er beter kan.

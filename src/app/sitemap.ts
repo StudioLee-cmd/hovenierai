@@ -2,9 +2,34 @@ import { MetadataRoute } from 'next'
 import { getAllPosts } from '@/utils/posts'
 import { authors } from '@/data/authors'
 
-// Hardcoded lastmod for static landing pages. Bump manually when you meaningfully edit one of these pages.
-// Using a stable date avoids signalling to Google that every URL changed on every build.
-const STATIC_LASTMOD = new Date('2026-04-01T00:00:00Z')
+// ─── SITEMAP-LASTMOD:START — gegenereerd door alpha1/scripts/sitemap_lastmod.py (niet met de hand bewerken)
+// Per route de datum van de NIEUWSTE commit die inhoud onder src/app/<route>/ toevoegde of
+// wijzigde. Handmatig bijwerken hoeft niet en mag niet — draai het script hierboven opnieuw.
+// De vloot-gate `check_fleet_deploys.py --sitemap-lastmod` wordt rood zodra een route een
+// nieuwere inhoud-commit draagt dan de datum hieronder; de oude regel 'bump manually' hield
+// van 2026-04-01 tot 2026-08-05 niet, en dat kostte 210 URL's hun vers-signaal bij Google.
+const STATIC_LASTMOD_BY_ROUTE: Record<string, string> = {
+    '/gratis-scan': '2026-08-01',
+    '/review-pakket': '2026-07-25',
+    '/tarieven': '2026-07-25',
+    '/gratis-website': '2026-07-25',
+    '/chatbot': '2026-07-25',
+    '/voice-ai': '2026-07-25',
+    '/seo': '2026-07-25',
+    '/reviews': '2026-07-25',
+    '/social-media': '2026-07-25',
+    '/privacy': '2026-07-25',
+    '/legal': '2026-07-25',
+    '/algemene-voorwaarden': '2026-07-27',
+    '/automatisering': '2026-07-25',
+    '/crm': '2026-07-25',
+    '/free-trial': '2026-07-27',
+}
+const STATIC_LASTMOD_FALLBACK = '2026-08-01'
+const STATIC_LASTMOD = new Date(`${STATIC_LASTMOD_FALLBACK}T00:00:00Z`)
+const staticLastmod = (route: string): Date =>
+    new Date(`${STATIC_LASTMOD_BY_ROUTE[route] ?? STATIC_LASTMOD_FALLBACK}T00:00:00Z`)
+// ─── SITEMAP-LASTMOD:EIND
 
 export default function sitemap(): MetadataRoute.Sitemap {
     const baseUrl = 'https://www.hovenierai.nl'
@@ -29,7 +54,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ]
     const staticRoutes = staticPages.map((route) => ({
         url: `${baseUrl}${route}`,
-        lastModified: STATIC_LASTMOD,
+        lastModified: staticLastmod(route),
         changeFrequency: (route === '/tarieven' || route === '/gratis-website') ? 'monthly' as const : 'yearly' as const,
         priority: (route === '/tarieven' || route === '/gratis-website') ? 0.9 : 0.7,
     }))

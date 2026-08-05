@@ -8,7 +8,6 @@ image: "/images/blog/seizoensplanning-hovenier-heel-jaar-werk.png"
 tags: ["Hovenier", "Seizoensplanning", "Bedrijfsvoering"]
 cluster: "automatisering"
 ---
-
 ## Het seizoensritme van hoveniers
 
 Als hovenier leef je met de seizoenen. In het voorjaar en de zomer kun je de aanvragen nauwelijks aan. Tuinaanleg, onderhoud, terrasaanleg — alles moet tegelijk. Maar in november wordt het stil. En in januari staar je naar een lege agenda.
@@ -85,7 +84,7 @@ Gebruik de rustige winter voor:
 
 ### 5. Automatiseer je seizoenscommunicatie
 
-Laat het systeem automatisch seizoensgebonden berichten sturen naar je klantenbestand:
+Laat het systeem automatisch seizoensgebonden berichten sturen naar je [klantenbestand](/crm):
 - **Februari**: "Het voorjaar komt eraan — plan nu je tuinproject"
 - **Juni**: "Zomeronderhoud nodig? We hebben nog ruimte in juli"
 - **September**: "Tijd om je tuin winterklaar te maken"

@@ -11,7 +11,7 @@ Als hovenier ben je het liefst buiten bezig — niet achter een computer. Maar z
 
 ## Wat heb je nodig als hovenier?
 
-- **Nieuwe klanten** — gevonden worden wanneer iemand zoekt op "hovenier in [stad]"
+- **Nieuwe klanten** — [gevonden worden](/seo) wanneer iemand zoekt op "hovenier in [stad]"
 - **Planning** — werkdagen en projecten overzichtelijk inplannen
 - **Offertes en facturatie** — snel offertes sturen en correct factureren
 - **Reviews** — vertrouwen opbouwen met goede Google-reviews

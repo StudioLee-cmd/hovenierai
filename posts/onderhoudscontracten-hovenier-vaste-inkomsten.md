@@ -8,7 +8,6 @@ image: "/images/blog/onderhoudscontracten-hovenier-vaste-inkomsten.png"
 tags: ["Hovenier", "Onderhoudscontracten", "Vaste Inkomsten"]
 cluster: "automatisering"
 ---
-
 ## Het probleem: pieken en dalen
 
 Als hovenier ken je het ritme. Van maart tot oktober draai je overuren. Maar in november wordt het stil. En in januari staar je naar een lege agenda terwijl de vaste lasten doorlopen.
@@ -88,7 +87,7 @@ Reken mee met 20 onderhoudscontracten:
 ## Automatiseer het beheer
 
 Onderhoudscontracten beheren hoeft geen administratieve last te zijn:
-- **Automatische herinneringen** aan je klanten voor elk gepland bezoek
+- **[Automatische herinneringen](/automatisering)** aan je klanten voor elk gepland bezoek
 - **Automatische facturering** per maand of kwartaal
 - **Seizoensberichten**: "Volgende week komen we voor de herfstsnoei"
 - **Verlengingsherinnering**: "Je contract loopt af over 2 maanden. Wil je verlengen?"

@@ -9,10 +9,9 @@ authorSlug: "tim-van-der-lee"
 tags: ["website", "hovenier", "conversie"]
 cluster: "website"
 ---
-
 ## Waarom de meeste hovenierwebsites te weinig opleveren
 
-Veel hoveniers hebben een mooie website met prachtige tuinfoto's. Maar het aantal offerteverzoeken dat via de site binnenkomt, is teleurstellend. Het probleem is niet het design maar het ontbreken van conversie-elementen.
+Veel hoveniers hebben een mooie [website](/gratis-website) met prachtige tuinfoto's. Maar het aantal offerteverzoeken dat via de site binnenkomt, is teleurstellend. Het probleem is niet het design maar het ontbreken van conversie-elementen.
 
 Een bezoeker die je website vindt via Google, zit in de orientatiefase. Die persoon wil weten: kan deze hovenier mijn tuin aanpakken, wat kost het ongeveer en hoe neem ik contact op? Als je website die drie vragen niet snel beantwoordt, klikt de bezoeker door naar je concurrent.
 

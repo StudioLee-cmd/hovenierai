@@ -93,7 +93,7 @@ Naast je website en Google-profiel telt ook hoe vaak je naam ergens anders verme
 
 Jij werkt in de tuin. Wij zorgen dat klanten jou vinden:
 
-- **Google Bedrijfsprofiel** ingericht en bijgehouden
+- **[Google Bedrijfsprofiel](/seo)** ingericht en bijgehouden
 - **Automatische reviews** na elke klus
 - **AI Chatbot** voor aanvragen buiten werktijd
 - **SEO-pagina's** per dienst en seizoen

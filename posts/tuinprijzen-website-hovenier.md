@@ -12,7 +12,7 @@ cluster: "website"
 
 ## Waarom klanten afhaken zonder prijsindicatie
 
-Een tuinproject is een flinke investering. Klanten vergelijken meerdere hoveniers. Als jouw website zegt "Neem contact op voor een vrijblijvende offerte", terwijl een concurrent toont "Tuinaanleg vanafprijs per m2", kiest de klant voor de concurrent.
+Een tuinproject is een flinke investering. Klanten vergelijken meerdere hoveniers. Als jouw [website](/gratis-website) zegt "Neem contact op voor een vrijblijvende offerte", terwijl een concurrent toont "Tuinaanleg vanafprijs per m2", kiest de klant voor de concurrent.
 
 ## Drie manieren om tuinprijzen te tonen
 

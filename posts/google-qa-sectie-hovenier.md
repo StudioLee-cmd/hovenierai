@@ -1,8 +1,8 @@
 ---
-title: "Google Q&A voor hoveniers: beantwoord vragen vooraf"
+title: "Google Q&A hovenier: weg, en waar je antwoord nu hoort"
 slug: google-qa-sectie-hovenier
 date: "2026-07-21"
-excerpt: "Zet de vragensectie op je Google Bedrijfsprofiel aan het werk: beantwoord seizoensvragen, prijsvragen en aanvraag-drempels voordat klanten bellen."
+excerpt: "De vragensectie op je Google Bedrijfsprofiel is verdwenen. Waar je seizoens-, prijs- en aanvraagantwoorden nu moeten staan om gevonden te worden."
 image: "/images/blog/google-qa-sectie-hovenier.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Google Bedrijfsprofiel", "Vindbaarheid", "Lokale SEO"]
@@ -11,81 +11,86 @@ cluster: "vindbaarheid"
 
 Het is voorjaar, je staat tot je enkels in een border en je telefoon gaat voor de derde keer die ochtend. Weer iemand met dezelfde vraag: wanneer kunnen jullie snoeien, en wat kost dat ongeveer? Je geeft hetzelfde antwoord als gisteren, en eergisteren. Ondertussen ligt je schoffel stil.
 
-Voor precies dit soort terugkerende vragen heeft Google een plek die de meeste hoveniers nooit aanraken: de Q&A sectie op je Google Bedrijfsprofiel. Daar beantwoord je die vragen één keer, zichtbaar voor iedereen die je bedrijf in Google vindt. Wie serieus werk maakt van [seo voor hoveniers](/seo), begint bij dit soort laaghangend fruit. Het kost je een halfuur en het vangt vragen af nog voordat er gebeld wordt.
+Voor precies dat soort vragen had Google een plek op je Bedrijfsprofiel: de vragensectie. Die is verdwenen. Google heeft hem afgeschaft en alles wat erin stond is niet meer zichtbaar.
 
-## Wat is de Q&A sectie op je Google Bedrijfsprofiel?
+De vragen zijn niet weg. Die derde beller belt nog steeds. Wat veranderd is: Google beantwoordt zijn vraag nu zelf, met wat het over jouw bedrijf kan vinden. Wie serieus werk maakt van [seo voor hoveniers](/seo) begint daarom niet meer bij een vakje, maar bij de drie plekken waar Google leest.
 
-De Q&A sectie, in het Nederlands "Vragen en antwoorden", is het onderdeel van je Google Bedrijfsprofiel waar iedereen een vraag over jouw bedrijf kan stellen. En waar iedereen, dus ook jij als eigenaar, die vraag kan beantwoorden. De sectie staat direct op je profiel in Google Zoeken en Google Maps, naast je reviews, foto's en openingstijden.
+## Wat er precies is gebeurd
 
-In Nederland wordt bijna 1.900 keer per maand gezocht op "google bedrijfsprofiel". Ondernemers ontdekken hun profiel dus massaal, maar de vragensectie blijft bij de meeste bedrijven leeg. Dat is zonde, en het is ook een risico. Iedereen kan er namelijk vragen plaatsen én beantwoorden. Laat je de sectie leeg, dan bepaalt straks een willekeurige voorbijganger met een half kloppend antwoord wat jouw toekomstige klant leest. Wie het eerst antwoordt, stuurt het gesprek.
+Twee momenten, allebei door Google zelf aangekondigd.
 
-## Waarom vragen vooraf beantwoorden werkt
+Op 3 november 2025 zette Google de koppeling uit waarmee software vragen en antwoorden kon lezen en plaatsen. In de eigen documentatie voor ontwikkelaars staat dat de Q&A-API is stopgezet en dat je er geen vragen en antwoorden meer mee kunt lezen of posten. Vanaf 3 december 2025 verdween de publieke sectie van de profielen zelf, verspreid over de maanden erna.
 
-Een potentiële klant die je profiel bekijkt, zit midden in zijn keuzemoment. Hij vergelijkt twee of drie hoveniers en belt degene waar hij het meeste vertrouwen in heeft. Staan de antwoorden op zijn vragen al klaar, dan ben jij die hovenier. Niet omdat je beter snoeit dan de concurrent, maar omdat je de drempel om te kiezen hebt weggehaald.
+Er komt geen vervangende sectie waarin je zelf vragen kunt plaatsen. De winst: die willekeurige voorbijganger die met een half kloppend antwoord jouw toekomstige klant kon wegjagen, is uit beeld.
 
-Er zit nog een tweede winst in. Elke vraag die vooraf beantwoord is, is een telefoontje dat je niet hoeft op te nemen terwijl je op een klus staat. De vragen die overblijven zijn de serieuze aanvragen, en die wil je juist wél aannemen. Zo werkt de vragensectie als een voorman die het eerste klantcontact voor je afvangt.
+## Wie er nu antwoord geeft namens jouw bedrijf
 
-Google staat het bovendien gewoon toe dat je als eigenaar zelf vragen plaatst en beantwoordt. Dit is geen trucje, het is precies waar de functie voor bedoeld is: je meest gestelde vragen als kant-en-klare FAQ op je profiel zetten. Zorg wel dat de basis staat. Eerst [je Google Bedrijfsprofiel goed invullen](/blog/google-bedrijfsprofiel-hovenier-invullen), daarna pas deze verdieping. En wie daarna verder wil met [lokale seo voor hoveniers](/seo), heeft met een gevulde vragensectie alvast een profiel dat compleet oogt voor Google én voor de klant.
+Google zelf. In Nederland zie je dat in de AI-overzichten boven de zoekresultaten, sinds mei 2025 ook in het Nederlands, en in de AI-modus die hier sinds oktober 2025 wordt uitgerold. Het antwoord komt uit drie bronnen:
+
+- **Je Bedrijfsprofiel.** Je diensten, je werkgebied, je openingstijden, je bedrijfsomschrijving. Zorg dus dat de basis staat: eerst [je Google Bedrijfsprofiel goed invullen](/blog/google-bedrijfsprofiel-hovenier-invullen), daarna de rest.
+- **Je website.** De pagina's waarop je uitlegt wat je doet, in welke maanden, in welke plaatsen en wat het ongeveer kost.
+- **Je reviews.** De woorden die klanten gebruiken, niet alleen het aantal sterren.
 
 ![Hovenier beantwoordt klantvragen op een laptop aan een werktafel](/images/blog/google-qa-sectie-hovenier-2.jpg)
 
-## Deze vragen zet je er als hovenier alvast in
+De omkering waar het om draait: vroeger typte je het antwoord letterlijk in een vakje. Nu vul je de bronnen en vertelt Google het na. Een hovenier die nergens heeft staan dat hij in het najaar hagen snoeit, komt niet voor in het antwoord op die vraag. Niet omdat hij het niet doet, maar omdat het nergens te lezen valt.
 
-Denk aan de vragen die je in het seizoen elke week door de telefoon beantwoordt. Voor de meeste hoveniersbedrijven vallen ze in drie categorieën.
+## Waarom dit nog steeds werkt, en beter
 
-| Categorie | Voorbeeldvraag | Wat je antwoord moet doen |
+Een potentiële klant die naar een hovenier zoekt zit midden in zijn keuzemoment. Hij vergelijkt er twee of drie en belt degene waar hij het meeste vertrouwen in heeft. Staat het antwoord op zijn vraag al ergens, dan ben jij die hovenier. Niet omdat je beter snoeit, maar omdat je de drempel hebt weggehaald.
+
+Wat er veranderd is: dat antwoord staat nu op je eigen site in plaats van in een vakje op een profiel dat je niet bezit. Dat is meer werk en tegelijk een betere investering, want dezelfde pagina bedient het AI-antwoord, je gewone zoekresultaat én de bezoeker die alsnog doorklikt. Wie daarna verder wil met [lokale seo voor hoveniers](/seo), heeft die pagina's dan al staan.
+
+## De vragen die ertoe doen, en waar ze nu horen
+
+Denk aan de vragen die je in het seizoen elke week door de telefoon beantwoordt. Voor de meeste hoveniersbedrijven vallen ze in vier categorieën. Alleen de laatste kolom is nieuw.
+
+| Categorie | De vraag van je klant | Waar het antwoord nu hoort |
 |---|---|---|
-| Snoei-seizoen | Wanneer kunnen jullie onze haag of bomen snoeien? | Het seizoen uitleggen en vertellen hoe ver vooruit je agenda vol loopt |
-| Prijs | Wat kost tuinonderhoud per maand ongeveer? | Een vanaf-prijs of prijsopbouw geven en doorverwijzen naar de offerte-route |
-| Tuinaanleg-aanvraag | Hoe snel kunnen jullie starten met een nieuwe tuin? | Doorlooptijd noemen en benoemen wat jij van de klant nodig hebt |
+| Snoei-seizoen | Wanneer kunnen jullie onze haag of bomen snoeien? | Op een eigen snoeipagina, met de maanden erin en hoe ver je agenda vooruit vol loopt |
+| Prijs | Wat kost tuinonderhoud per maand ongeveer? | Op een tarievenpagina, met een vanaf-prijs of de factoren die de prijs bepalen |
+| Tuinaanleg | Hoe snel kunnen jullie starten met een nieuwe tuin? | Op je aanlegpagina, met de doorlooptijd en wat je van de klant nodig hebt |
+| Werkgebied | Werken jullie ook in [naburige plaats]? | In je werkgebied op je profiel, plus een eigen pagina per plaats waar je echt werkt |
 
-Schrijf de antwoorden zoals je ze aan de telefoon zou geven: kort, concreet en zonder vakjargon. Bij prijsvragen hoef je geen exacte bedragen te noemen. Een eerlijke vanaf-prijs of een uitleg van de factoren die de prijs bepalen werkt beter dan stilte. Prijstransparantie wint vertrouwen, en vertrouwen wint de klus.
+Schrijf de antwoorden zoals je ze aan de telefoon zou geven: kort, concreet en zonder vakjargon. Bij prijsvragen hoef je geen exacte bedragen te noemen, maar er moet wel íets staan. Een prijs die nergens genoemd wordt kan Google ook niet noemen, en stilte is het enige antwoord dat gegarandeerd niets oplevert.
 
-Vijf tot tien vragen is genoeg voor de start. Meer wordt een muur van tekst die niemand leest.
+Gebruik de woorden die klanten zelf gebruiken. Een klant vraagt niet naar "renovatiesnoei", hij vraagt of die grote struik weg kan of dat de haag lager mag.
 
-## Zo voeg je zelf vragen en antwoorden toe
+## Zo schrijf je het op
 
-Het toevoegen kost je een halfuur, inclusief nadenken over de formulering.
+1. **Beantwoord de vraag in de eerste zin.** "Hagen snoeien we van juni tot september." Daarna pas de nuance.
+2. **Zet het feit erin.** Een maand, een vanaf-bedrag, een doorlooptijd, een plaatsnaam. Zonder feit is er niets om door te geven.
+3. **Eén onderwerp, één pagina.** Drie pagina's die half hetzelfde zeggen zijn slechter dan één die het goed zegt.
+4. **Vul je profielvelden af.** Diensten, werkgebied, openingstijden. Dat is aanvinkwerk en het is de bron die het snelst rendeert.
 
-1. Log in met het Google-account waarmee je je bedrijfsprofiel beheert.
-2. Zoek je bedrijfsnaam in Google of open je bedrijf in Google Maps.
-3. Scroll op je profiel naar het blok "Vragen en antwoorden".
-4. Kies "Een vraag stellen" en typ de vraag zoals een klant hem zou stellen, in klantentaal.
-5. Beantwoord de vraag daarna vanuit je bedrijfsprofiel, zodat je antwoord herkenbaar van de eigenaar komt.
-6. Herhaal dit voor je meest gestelde vragen en lees alles nog één keer na als klant.
+## Houd het bij, net als een tuin
 
-Gebruik in de vragen de woorden die klanten zelf gebruiken. Een klant vraagt niet naar "renovatiesnoei", hij vraagt of die grote struik weg kan of dat de haag lager mag.
+Er is geen sectie meer om te bewaken, dus dit is minder onderhoud dan voorheen. Wat blijft:
 
-## Houd de sectie bij, hij is nooit af
+- **Werk je seizoenspagina's bij als de agenda schuift.** Een snoeipagina die nog van vorig jaar is, geeft Google verkeerde maanden door.
+- **Controleer je tarieven één keer per jaar.** Een verouderd vanaf-bedrag dat netjes wordt doorgegeven aan een klant is schadelijker dan geen bedrag.
+- **Noteer welke vraag je die maand het vaakst kreeg.** Elke vraag die nog gebeld wordt, is een vraag waarop Google bij jou geen antwoord kon vinden.
 
-Na de eerste vulling is de vragensectie onderhoud, net als een tuin. Er komen nieuwe vragen binnen van echte klanten, en die wil je snel beantwoorden voordat iemand anders het doet. Check bij je wekelijkse administratieronde even je profiel, of zet meldingen aan zodat je een seintje krijgt bij een nieuwe vraag.
-
-Drie dingen om op te letten:
-
-- **Antwoord snel.** Het liefst binnen een dag. Een onbeantwoorde vraag staat voor iedereen zichtbaar open en nodigt anderen uit om voor jou te antwoorden.
-- **Stem op je eigen antwoord.** Antwoorden met de meeste stemmen komen bovenaan. Een paar stemmen van jou en je team houdt het juiste antwoord in beeld.
-- **Rapporteer onzin.** Spam of nepvragen meld je bij Google via de rapporteeroptie. Dat houdt je profiel schoon.
-
-De vragensectie werkt het hardst naast een gezonde reviewstroom. [Google reviews verzamelen als hovenier](/reviews) en de Q&A versterken elkaar: reviews bewijzen dat je goed werk levert, de vragensectie haalt de laatste twijfel weg.
+Je reviews wegen daarbij zwaarder dan vroeger, want ze zijn nu een van de drie bronnen. [Google reviews verzamelen als hovenier](/reviews) is dus geen los kanaal meer: een review met de zin "in het najaar onze hele haag gedaan en de tuin netjes achtergelaten" is inhoud waar Google iets mee kan, vijf sterren zonder tekst niet.
 
 ## Veelgestelde vragen
 
-### Mag je je eigen vragen plaatsen en beantwoorden op Google?
+### Komt de vragensectie nog terug?
 
-Ja, dat mag gewoon. De functie is er juist voor bedoeld om veelgestelde vragen zichtbaar te beantwoorden, en niemand kent die vragen beter dan jij. Je antwoord is bovendien herkenbaar als antwoord van de eigenaar.
+Nee. Google heeft de functie in november en december 2025 uitgezet en geen vervanger aangekondigd waarin je zelf vragen kunt plaatsen. De vervanging zit in de antwoorden die Google zelf samenstelt.
 
-### Hoe snel moet je op een nieuwe vraag reageren?
+### Zijn de oude vragen en antwoorden nog te zien?
 
-Het liefst binnen een dag. De vraagsteller zit vaak midden in zijn keuze tussen twee of drie hoveniers, en een snel antwoord is precies het verschil dat jou de aanvraag bezorgt.
+Nee, die zijn met de sectie verdwenen. Stond daar informatie die nergens anders staat, dan is dat nu een gat op je website of in je profiel.
 
-### Verschijnen de vragen ook in de zoekresultaten?
+### Hoe zie ik wat Google over mijn bedrijf vertelt?
 
-Ja, de vragensectie staat op je Google Bedrijfsprofiel en is zichtbaar in zowel Google Zoeken als Google Maps. Iedereen die jouw bedrijf opzoekt, kan de vragen en antwoorden direct lezen.
+Zoek je bedrijf en je belangrijkste diensten op zoals een klant dat zou doen, op je telefoon en niet ingelogd. Wat je dan boven de resultaten leest, is wat zij lezen.
 
-## Conclusie: beantwoord het één keer, laat Google het herhalen
+## Conclusie: schrijf het één keer op, laat Google het herhalen
 
-Die derde beller in de border stelt volgend voorjaar zijn vraag niet meer aan jou, maar aan je profiel. Jij snoeit door, het antwoord staat er al. Dat is het hele idee: elk antwoord dat je één keer goed opschrijft, hoef je nooit meer te herhalen. Gevonden worden als mensen een hovenier zoeken, dat is het doel, en een gevuld profiel brengt je daar dichterbij.
+Die derde beller in de border stelt zijn vraag volgend voorjaar niet meer aan jou, mits het antwoord ergens staat waar Google het kan lezen. Dat is het hele idee, en het is niet veranderd. Alleen de plek is verschoven: van een vakje op je profiel naar je profielvelden en je eigen site.
 
-Benieuwd waar jouw profiel en website nu staan? Vraag de [gratis AI-scan voor hoveniers](/gratis-scan) aan, dan zie je binnen een paar minuten waar je de meeste klussen laat liggen. Kies je daarna voor de aanpak van HovenierAI, dan werk je met de Groei-of-Geld-Terug Garantie, dus zonder risico. Jij maakt tuinen mooi, wij regelen de rest.
+Benieuwd waar jouw profiel en website nu staan? Vraag de [gratis AI-scan voor hoveniers](/gratis-scan) aan, dan zie je binnen een paar minuten waar je de meeste klussen laat liggen. Kies je daarna voor de aanpak van HovenierAI, dan werk je met de Groei-of-Geld-Terug Garantie vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij maakt tuinen mooi, wij regelen de rest.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/stadspaginas-hovenier-ranken-zonder-duplicate-content" class="text-dark fw-semibold">Stadspagina's voor hoveniers zonder duplicate content</a> →</p>

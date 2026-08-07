@@ -6,6 +6,12 @@ import { siteDetails } from '@/data/siteDetails';
 import { motion, AnimatePresence } from "framer-motion";
 import { BsGlobe, BsPerson, BsEnvelope, BsCheckCircleFill } from "react-icons/bs";
 
+// ⚑ ÉÉN BRON voor de zin die de bezoeker LEEST en de zin die als bewijs op de lead-rij LANDT.
+// Zou 'ie twee keer staan, dan bewijst de lead-rij op termijn een tekst die de voordeur allang
+// niet meer toont — precies wat een consent-log waardeloos maakt. Zelfde constructie als
+// `lib/consent.ts` op de gids-sites. Wijzig je deze zin, dan wijzigt het bewijs automatisch mee.
+const OPTIN_TEKST = `Ja, ${siteDetails.siteName} mag mijn e-mailadres gebruiken om na deze scan contact met me op te nemen met tips en aanbod. Geen spam, je kunt je altijd uitschrijven.`;
+
 // Separate component to handle search params securely within Suspense
 const ScanForm = ({ onStartScan }: { onStartScan: (data: any) => void }) => {
     const searchParams = useSearchParams();
@@ -16,6 +22,8 @@ const ScanForm = ({ onStartScan }: { onStartScan: (data: any) => void }) => {
     const [email, setEmail] = useState('');
     const [struggles, setStruggles] = useState('');
     const [error, setError] = useState('');
+    // niet voorgevinkt: een vakje dat al aanstaat is geen toestemming die iemand gaf
+    const [optin, setOptin] = useState(false);
 
     // Pre-fill effect
     useEffect(() => {
@@ -50,7 +58,10 @@ const ScanForm = ({ onStartScan }: { onStartScan: (data: any) => void }) => {
             return;
         }
 
-        onStartScan({ name, website, email, struggles });
+        // De toestemming reist als `consent`-object mee, dezelfde vorm die de gids-inschrijving
+        // al op `leads.payload.consent` zet — één vorm, één lezer (RULE 3).
+        onStartScan({ name, website, email, struggles,
+                      consent: { optin_email: optin, tekst: OPTIN_TEKST } });
     };
 
     return (
@@ -128,6 +139,28 @@ const ScanForm = ({ onStartScan }: { onStartScan: (data: any) => void }) => {
                     ✨ Ik weet het niet, verras mij maar
                 </button>
             </div>
+
+            {/* AVG-opt-in. OPTIONEEL en niet voorgevinkt: de scan krijg je hoe dan ook — dit
+                vinkje gaat alleen over de commerciële opvolging daarna (fase 3 van de sequence). */}
+            <label className="flex items-start gap-3 cursor-pointer select-none">
+                <input
+                    type="checkbox"
+                    checked={optin}
+                    onChange={(e) => setOptin(e.target.checked)}
+                    className="mt-1 h-4 w-4 shrink-0 rounded border-gray-300 dark:border-gray-600 text-blue-600 focus:ring-blue-500"
+                />
+                <span className="text-sm text-gray-500 dark:text-gray-400 leading-relaxed">
+                    {OPTIN_TEKST}{' '}
+                    <a
+                        href="/privacy"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="underline hover:text-gray-700 dark:hover:text-gray-200"
+                    >
+                        Privacyverklaring
+                    </a>
+                </span>
+            </label>
 
             {error && (
                 <div className="bg-red-50 text-red-600 p-3 rounded-lg text-sm">

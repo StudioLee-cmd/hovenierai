@@ -66,11 +66,11 @@ Eén post per twee weken houdt je profiel actief. Voeg altijd een foto toe — t
 
 ## Veelgestelde vragen
 
-Voeg Q&A toe aan je profiel:
+De vragensectie waarin bezoekers iets op je profiel konden vragen bestaat niet meer. Google stopte op 3 november 2025 de koppeling waarmee software vragen en antwoorden kon lezen en plaatsen, en faseerde de publieke sectie vanaf 3 december 2025 uit. De vragen blijven, alleen stelt Google het antwoord nu zelf samen uit je profiel, je website en je reviews. Zorg dus dat deze drie antwoorden echt ergens staan:
 
-- "Wat kost een tuin aanleggen?" — "Prijzen variëren sterk afhankelijk van omvang en materialen. Een gemiddelde achtertuin kost €5.000-€15.000. Vraag een gratis offerte aan voor een prijsindicatie op maat."
-- "Doen jullie ook onderhoud?" — "Ja, we bieden seizoensabonnementen aan voor regelmatig tuinonderhoud."
-- "Hoe lang duurt een tuinaanleg?" — "Een gemiddelde tuin is in 1-2 weken aangelegd, afhankelijk van de complexiteit."
+- "Wat kost een tuin aanleggen?" — op je tarieven- of offertepagina: "Prijzen variëren sterk afhankelijk van omvang en materialen. Een gemiddelde achtertuin kost €5.000-€15.000. Vraag een gratis offerte aan voor een prijsindicatie op maat."
+- "Doen jullie ook onderhoud?" — als aparte dienst in de dienstenlijst van je profiel: "Ja, we bieden seizoensabonnementen aan voor regelmatig tuinonderhoud."
+- "Hoe lang duurt een tuinaanleg?" — bij de dienst zelf op je site: "Een gemiddelde tuin is in 1-2 weken aangelegd, afhankelijk van de complexiteit."
 
 ## Veelgemaakte fouten
 

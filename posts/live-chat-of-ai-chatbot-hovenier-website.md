@@ -39,7 +39,7 @@ Voor gemiste telefoontjes bestaat om dezelfde reden een aparte oplossing, de [ai
 
 ## Wat een AI chatbot met tuinaanleg-aanvragen doet
 
-Een goede [website chatbot voor hoveniers](/chatbot) doet meer dan vragen beantwoorden: hij kwalificeert de aanvraag terwijl jij iets anders doet. In de praktijk ziet dat er zo uit:
+Een goede website chatbot voor hoveniers doet meer dan vragen beantwoorden: hij kwalificeert de aanvraag terwijl jij iets anders doet. In de praktijk ziet dat er zo uit:
 
 1. De bezoeker stelt een vraag, bijvoorbeeld over een complete achtertuin-aanleg.
 2. De chatbot vraagt door: wat voor klus, welke plaats, hoe groot is de tuin ongeveer, is er een richtbudget?
@@ -47,6 +47,8 @@ Een goede [website chatbot voor hoveniers](/chatbot) doet meer dan vragen beantw
 4. De aanvraag staat compleet in je inbox of agenda, en de klant krijgt meteen bevestiging met een realistische vervolgstap.
 
 Daarmee verandert je website van een digitale folder in een intake-balie die nooit dicht is. Vooral voor avondaanvragen is dat het verschil tussen een lead en een gemiste kans; hoe dat via WhatsApp werkt, lees je in ons artikel over de [avond-chatflow voor hoveniers](/blog/whatsapp-chatbot-hovenier-avondaanvragen). En omdat zo'n digitale assistent elke aanvraag op dezelfde manier uitvraagt, krijg je offerte-aanvragen binnen die je direct kunt inschatten, in plaats van "wat kost een tuin?"-mailtjes waar nog drie belrondes achteraan moeten.
+
+Let wel op stap 4, want daar gaat het bij de meeste hoveniers alsnog mis. Wat er ná het gesprek gebeurt bepaalt of die aanvraag een klus wordt: de bevestiging, de herinnering een dag voor het bezoek en het review-verzoek na afloop. Dat hoort niet opnieuw op jouw lijstje te belanden, dat is [klantcommunicatie automatiseren](/automatisering). Een chatbot die alleen antwoordt levert daardoor minder op dan dezelfde chatbot die aan die opvolging vastzit.
 
 ## De vergelijking in één tabel
 
@@ -68,7 +70,7 @@ De eerlijke tussenvorm is hybride: de chatbot vangt alles op, en waar het gespre
 
 ## Wat kost het?
 
-De kostenvraag is bij deze keuze vooral een tijdvraag. Live chat lijkt gratis omdat de software weinig kost, maar de echte prijs zit in de uren: iemand moet beschikbaar zijn op de momenten dat bezoekers chatten, dus ook in de avond en in het weekend. Reken je jouw uurtarief mee, dan is elke chat-dienst van een avond duurder dan een maand software. Een AI chatbot draait dat om: een vaste maandprijs, geen uren. Wat dat concreet betekent voor jouw situatie vind je bij de [tarieven van HovenierAI](/tarieven), alle prijzen ex BTW.
+De kostenvraag is bij deze keuze vooral een tijdvraag. Live chat lijkt gratis omdat de software weinig kost, maar de echte prijs zit in de uren: iemand moet beschikbaar zijn op de momenten dat bezoekers chatten, dus ook in de avond en in het weekend. Reken je jouw uurtarief mee, dan is elke chat-dienst van een avond duurder dan een maand software. Een AI chatbot draait dat om: een vaste maandprijs, geen uren. Wat automatisering voor een hoveniersbedrijf concreet kost, rekenen we door in [wat kost AI-automatisering voor een hovenier](/blog/wat-kost-ai-automatisering-hovenier), alle prijzen ex BTW.
 
 ## Veelgestelde vragen
 
@@ -78,7 +80,7 @@ Ja, een goed ingerichte chatbot neemt de complete intake uit handen: kluslocatie
 
 ### Wat gebeurt er met vragen die de chatbot niet kan beantwoorden?
 
-Die draagt hij over: de bot vat het gesprek samen en zet het bij jou in de inbox, met naam en contactgegevens van de bezoeker. De klant merkt geen doodlopend gesprek, jij ziet precies waar je moet instappen. Wat een [chatbot voor hoveniers](/chatbot) verder minimaal moet kunnen, hebben we in een eerder artikel uitgewerkt.
+Die draagt hij over: de bot vat het gesprek samen en zet het bij jou in de inbox, met naam en contactgegevens van de bezoeker. De klant merkt geen doodlopend gesprek, jij ziet precies waar je moet instappen. Wat een chatbot voor hoveniers verder minimaal moet kunnen, hebben we in een eerder artikel uitgewerkt.
 
 ### Jaagt een chatbot bezoekers niet weg?
 
@@ -86,7 +88,7 @@ Nee, mits hij zich niet voordoet als mens. Wees er gewoon helder over dat het ee
 
 ## Conclusie: kies op bezetting, niet op techniek
 
-Terug naar die aanvraag van 21:14. De vraag is niet of live chat persoonlijker is dan een [ai-chatbot](/chatbot), want dat is hij. De vraag is wie er bij jou om 21:14 achter het scherm zit. Is dat antwoord "niemand", dan is de keuze al gemaakt: liever een digitale assistent die elke aanvraag netjes uitvraagt dan een chatvenster dat stilte belooft. Jij maakt tuinen mooi, wij regelen de rest.
+Terug naar die aanvraag van 21:14. De vraag is niet of live chat persoonlijker is dan een ai-chatbot, want dat is hij. De vraag is wie er bij jou om 21:14 achter het scherm zit. Is dat antwoord "niemand", dan is de keuze al gemaakt: liever een digitale assistent die elke aanvraag netjes uitvraagt dan een chatvenster dat stilte belooft. Jij maakt tuinen mooi, wij regelen de rest.
 
 Benieuwd wat een chatbot op jouw website concreet zou opleveren? Vraag de [gratis ai scan voor hoveniers](/gratis-scan) aan, dan zie je binnen een paar dagen waar jouw site aanvragen laat liggen. Met de Groei-of-Geld-Terug Garantie loop je daarbij geen risico.
 

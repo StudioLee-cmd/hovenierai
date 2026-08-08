@@ -4,6 +4,17 @@ import React, { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import Container from '@/components/Container';
 
+// ⚑ GEGENEREERD uit .agent/skills/dpa_generator/toestemming-aanmelding.json door
+// alpha1/scripts/patch_free_trial_consent_formulier.py — nooit met de hand bijwerken. Zou een zin
+// hier los herschreven worden, dan toont de pagina tekst A terwijl `public.clients` versie B
+// vastlegt, en dan bewijst het consent-log precies niets meer.
+// De versie is een vingerafdruk van de tekst (`toestemming_aanmelding.versie`), dus 'ie schuift
+// vanzelf mee zodra de standaard verandert. Wij sturen 'm mee als DRIFT-SIGNAAL: de n8n-flow bakt
+// z'n eigen tekst in en zet wat de browser meldt ernaast als `consent_tekst.bezoeker_versie`.
+const CONSENT_VERSIE = 'v1.06547ae7';
+const CONSENT_ACCOUNT_TEKST = `Ik ga akkoord met de Privacy Policy en Algemene Voorwaarden.`;
+const CONSENT_PROMOTIE_TEKST = `StudioLee mag me af en toe iets sturen over nieuwe mogelijkheden. Hoogstens 4 keer per jaar, en nooit verkooppraat. Daarbuiten mailen we je alleen over je eigen account. Afmelden kan altijd.`;
+
 // N8N Webhook URL - Replace with your actual webhook URL
 const N8N_WEBHOOK_URL = "JOUW_N8N_WEBHOOK_URL_HIER";
 
@@ -28,7 +39,8 @@ const FreeTrialPage = () => {
         email: '',
         businessName: '',
         niche: 'hovenier',
-        termsAccepted: false,
+        consent_account: false,
+        consent_promotie: false,
     });
     const [isLoading, setIsLoading] = useState(false);
     const [error, setError] = useState('');
@@ -55,7 +67,7 @@ const FreeTrialPage = () => {
             return;
         }
 
-        if (!formData.termsAccepted) {
+        if (!formData.consent_account) {
             setError('Je moet akkoord gaan met de voorwaarden om door te gaan.');
             return;
         }
@@ -74,6 +86,14 @@ const FreeTrialPage = () => {
                     business_name: formData.businessName,
                     bedrijfsnaam: formData.businessName,
                     niche: formData.niche,
+                    // De toestemming reist mee naar flow WsCDiEQixfuoGa1U, die 'm op public.clients
+                    // zet. Het MOMENT en de TEKST sturen we bewust niet mee — die stempelt en bakt
+                    // de server ($now.toISO() resp. de standaard), want een bewijsstuk dat de
+                    // inzender zelf aanlevert bewijst niets. De versie gaat wél mee, als
+                    // drift-signaal; n8n zet 'm ernaast als consent_tekst.bezoeker_versie.
+                    consent_account: formData.consent_account,
+                    consent_promotie: formData.consent_promotie,
+                    consent_versie: CONSENT_VERSIE,
                     name: formData.businessName, // Fallback name
                     source: 'website_signup_page',
                 }),
@@ -161,22 +181,42 @@ const FreeTrialPage = () => {
                             </div>
 
 
-                            {/* Terms Checkbox */}
+                            {/* Toestemming — gegevens (verplicht) + promotie (vrij) */}
                             <div className="flex items-start">
                                 <div className="flex items-center h-5 mt-1">
                                     <input
-                                        id="termsAccepted"
-                                        name="termsAccepted"
+                                        id="consent_account"
+                                        name="consent_account"
                                         type="checkbox"
                                         required
-                                        checked={formData.termsAccepted}
+                                        checked={formData.consent_account}
                                         onChange={handleChange}
                                         className="w-4 h-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500 cursor-pointer"
                                         disabled={isLoading}
                                     />
                                 </div>
-                                <label htmlFor="termsAccepted" className="ml-3 text-sm text-gray-700">
-                                    Ik ga akkoord met de voorwaarden en de proefperiode van 14 dagen. <span className="text-red-500">*</span>
+                                <label htmlFor="consent_account" className="ml-3 text-sm text-gray-700">
+                                    {CONSENT_ACCOUNT_TEKST} <span className="text-red-500">*</span>
+                                </label>
+                            </div>
+
+                            {/* ⚑ NOOIT `required`: toestemming die je moet geven om een account te
+                                krijgen is niet vrij gegeven en daarmee ongeldig (AVG art. 7(4)).
+                                Ook niet voorgevinkt — een vakje dat al aanstaat is geen keuze. */}
+                            <div className="flex items-start">
+                                <div className="flex items-center h-5 mt-1">
+                                    <input
+                                        id="consent_promotie"
+                                        name="consent_promotie"
+                                        type="checkbox"
+                                        checked={formData.consent_promotie}
+                                        onChange={handleChange}
+                                        className="w-4 h-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500 cursor-pointer"
+                                        disabled={isLoading}
+                                    />
+                                </div>
+                                <label htmlFor="consent_promotie" className="ml-3 text-sm text-gray-500">
+                                    {CONSENT_PROMOTIE_TEKST}
                                 </label>
                             </div>
 

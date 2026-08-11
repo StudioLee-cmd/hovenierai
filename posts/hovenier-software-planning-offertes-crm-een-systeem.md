@@ -10,7 +10,7 @@ cluster: "automatisering"
 ---
 **In het kort:**
 - Het merendeel van de Nederlandse MKB-hoveniers werkt met 4 tot 8 losse tools voor planning, offertes, facturatie, klantbeheer, WhatsApp en reviews. Per tool €15-€60 per maand, samen €120-€350. Plus de verloren tijd door dubbele invoer en gebroken integraties: gemiddeld 6-9 uur per week aan tool-switching en data-migratie.
-- Een goed gekozen alles-in-één hovenier-systeem brengt deze kosten terug naar €60-€180 per maand én bespaart 5-7 uur per week aan tool-overhead. Op €65 declarabel uurtarief is dat €15.000 tot €23.000 per jaar aan teruggewonnen tijd plus €700-€2.000 aan tool-licenties.
+- Een goed gekozen alles-in-één hovenier-systeem brengt die losse licenties terug tot één abonnement (bedragen op /tarieven) én bespaart 5-7 uur per week aan tool-overhead. Op €65 declarabel uurtarief is dat €15.000 tot €23.000 per jaar aan teruggewonnen tijd, plus wat je op de losse tool-licenties uitspaart.
 - De keuze tussen "best-of-breed losse tools" en "alles-in-één platform" hangt af van team-grootte: solo-hoveniers en duo's profiteren bijna altijd van alles-in-één; team-praktijken van 5+ medewerkers kunnen losse best-of-breed-tools verantwoorden mits ze een goede integratie-laag hebben.
 - Vier eval-criteria voor een hovenier-software-keuze: tuinspecifieke veld-set (NIET generiek MKB), WhatsApp-koppeling (niet alleen e-mail), seizoens-trigger-flow, en transparante prijsstelling per gebruiker.
 
@@ -57,9 +57,9 @@ Sterk voor: hoveniers met specifieke tuinontwerp-werk of grote landschap-project
 
 Zwak voor: solo-hoveniers en duo's die voornamelijk onderhoud-werk doen: de extra functionaliteit blijft ongebruikt en de prijs is relatief hoog.
 
-### Stack 3: Alles-in-één AI-platform (€60-€180/mnd)
+### Stack 3: Alles-in-één AI-platform
 
-Karakteristieken: één platform dat klantbeheer + agenda + WhatsApp + facturatie + reviews + chatbot + voice-ai + dashboard combineert. Voorbeelden: HighLevel-based platforms zoals onze HovenierAI suite, of vergelijkbare alles-in-één marketing-automation-tools.
+Karakteristieken: één platform dat klantbeheer + agenda + WhatsApp + facturatie + reviews + chatbot + voice-ai + dashboard combineert. Voorbeelden: HighLevel-based platforms zoals onze HovenierAI suite, of vergelijkbare alles-in-één marketing-automation-tools. Wat onze suite kost staat op /tarieven.
 
 Sterk voor: solo-hoveniers, duo's en kleine teams die voornamelijk onderhoud + simpele aanleg doen. Beste tijdsbesparing per euro.
 

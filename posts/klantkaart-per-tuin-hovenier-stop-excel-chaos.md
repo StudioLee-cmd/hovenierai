@@ -84,7 +84,7 @@ Drie categorieën tools, elk met sterke en zwakke kanten:
 
 **Branche-software** (Hero Software, SideKick, GreenPro, Brinqs): heeft de meeste tuin-velden, maar vaak gebouwd voor 10+ medewerkers en relatief duur (€80-€180 per maand) voor een solo-hovenier of duo.
 
-**Alles-in-één AI-platform** (zoals onze [klantbeheer software voor hoveniers](/crm)): combineert klantkaart + WhatsApp + facturatie + reviews + agenda in één systeem, met tuinspecifieke veld-set en automatische seizoens-triggers vanaf €40-€80 per maand. Beste fit voor MKB-hoveniers tussen 1-5 medewerkers.
+**Alles-in-één AI-platform** (zoals onze [klantbeheer software voor hoveniers](/crm)): combineert klantkaart + WhatsApp + facturatie + reviews + agenda in één systeem, met tuinspecifieke veld-set en automatische seizoens-triggers; de bedragen staan op /tarieven. Beste fit voor MKB-hoveniers tussen 1-5 medewerkers.
 
 Of je nu kiest voor een dedicated branche-tool of voor een [alles-in-één crm voor hoveniers](/crm), het belangrijkste is dat je STOPT met losse Excels en alle 9 velden CENTRAAL bijhoudt.
 

@@ -11,9 +11,16 @@ import Container from '@/components/Container';
 // De versie is een vingerafdruk van de tekst (`toestemming_aanmelding.versie`), dus 'ie schuift
 // vanzelf mee zodra de standaard verandert. Wij sturen 'm mee als DRIFT-SIGNAAL: de n8n-flow bakt
 // z'n eigen tekst in en zet wat de browser meldt ernaast als `consent_tekst.bezoeker_versie`.
-const CONSENT_VERSIE = 'v1.06547ae7';
+const CONSENT_VERSIE = 'v1.bc63ba7c';
 const CONSENT_ACCOUNT_TEKST = `Ik ga akkoord met de Privacy Policy en Algemene Voorwaarden.`;
 const CONSENT_PROMOTIE_TEKST = `StudioLee mag me af en toe iets sturen over nieuwe mogelijkheden. Hoogstens 4 keer per jaar, en nooit verkooppraat. Daarbuiten mailen we je alleen over je eigen account. Afmelden kan altijd.`;
+// AI-Act art. 50 (Tim 12-08-2026): informeren gebeurt op het AANMELD-moment, niet meer via een
+// losse mailronde. Het adres is ABSOLUUT en dat is gemeten: /ai-en-privacy staat alleen op
+// studiolee.nl (`GET kapperai.nl/ai-en-privacy` → 404), dus relatief zou hier een dode link zijn.
+const CONSENT_AI_KOP = `In deze dienst zit AI.`;
+const CONSENT_AI_TEKST = `Vanaf 2 augustus 2026 vraagt de AI-Act dat mensen kunnen weten dat ze met AI te maken hebben. Wij vertellen je wat dat voor jou betekent en geven je de formulering; de melding zelf zet jij, want het is jouw systeem.`;
+const CONSENT_AI_LINK = `Wat dat precies betekent`;
+const CONSENT_AI_HREF = 'https://www.studiolee.nl/ai-en-privacy';
 
 // N8N Webhook URL - Replace with your actual webhook URL
 const N8N_WEBHOOK_URL = "JOUW_N8N_WEBHOOK_URL_HIER";
@@ -180,6 +187,14 @@ const FreeTrialPage = () => {
                                 />
                             </div>
 
+
+                            {/* AI-Act art. 50 — de informeer-plicht op het aanmeld-moment.
+                                Een MEDEDELING, geen toestemming: daarom geen vinkje. De tekst komt
+                                uit de standaard hierboven, nooit met de hand. */}
+                            <p className="text-sm text-gray-600">
+                                <strong className="text-gray-800">{CONSENT_AI_KOP}</strong> {CONSENT_AI_TEKST}{' '}
+                                <a href={CONSENT_AI_HREF} className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">{CONSENT_AI_LINK}</a>.
+                            </p>
 
                             {/* Toestemming — gegevens (verplicht) + promotie (vrij) */}
                             <div className="flex items-start">

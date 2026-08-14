@@ -54,7 +54,7 @@ const plans = [
   },
   {
     name: "De site afkopen",
-    price: "€800",
+    price: "In overleg",
     period: "eenmalig",
     description: "Liever geen maandbedrag? Dan koop je de site af. Eerlijk erbij: zonder abonnement staat 'ie stil, dus geen nieuwe teksten, geen chatbot, geen telefoon die opneemt.",
     features: [
@@ -73,7 +73,7 @@ const plans = [
 const customOptions = [
   {
     name: "Eenmalig laten bouwen",
-    price: "Vanaf €1.000",
+    price: "Op aanvraag",
     description: "Volledig custom gebouwd. Eenmalige investering, geen maandbedrag. Je betaalt daarnaast alleen wat je écht verbruikt.",
     cta: "Vraag offerte aan",
     ctaLink: "https://cal.com/studiolee",
@@ -98,7 +98,7 @@ const faqs = [
   },
   {
     q: "Kan ik de website ook gewoon kopen?",
-    a: "Dat kan, voor €800 eenmalig. Wees je er dan wel van bewust dat 'ie daarna stilstaat: geen nieuwe artikelen, geen chatbot, geen telefoon die opneemt. Dat zeggen we liever vooraf dan achteraf. Je kunt altijd later alsnog laten draaien.",
+    a: "Dat kan. Wat het kost hangt af van wat er al staat en hoe lang je draait, dus dat rekenen we in een gesprek voor je uit. Wees je er dan wel van bewust dat 'ie daarna stilstaat: geen nieuwe artikelen, geen chatbot, geen telefoon die opneemt. Dat zeggen we liever vooraf dan achteraf. Je kunt altijd later alsnog laten draaien.",
   },
   {
     q: "Wat kost het als ik het los zou regelen?",

@@ -37,7 +37,7 @@ Met HovenierAI is dit verleden tijd. Het systeem kan oneindig veel gesprekken te
 Veel ondernemers denken dat AI hun vakmanschap wil vervangen. Dat is onzin. Een robot kan (voorlopig) geen strakke bestrating leggen of een beplantingsplan maken. Het gaat om het vervangen van het dure, trage kantoorwerk. Onze AI tools vervangen in feite drie partijen:
 - **De Telefoniste/Planner:** Een kracht op kantoor kost je al snel €35.000 per jaar. Onze [Voice AI](/voice-ai) (onderdeel van het Elite pakket) neemt 24/7 op, plant afspraken, en beantwoordt vragen over tarieven en beschikbaarheid.
 - **Het Marketingbureau:** Wil je meer specifieke klussen, zoals exclusieve tuinontwerpen of boomverzorging? Vroeger betaalde je een bureau €1.500 per maand. Onze Social Media AI & SEO Blog AI regelen je zichtbaarheid. Ze posten tuintips op Instagram en schrijven blogs.
-- **De Boekhouder (deels):** Natuurlijk heb je een boekhouder nodig. Maar het dagelijkse werk? Facturatie AI koppelt alles aan elkaar. Geen gedoe met bonnetjes meer, facturen worden automatisch verstuurd na de klus.
+- **De Boekhouder (deels):** Natuurlijk heb je een boekhouder nodig. Maar het dagelijkse werk? Factuur AI koppelt alles aan elkaar. Geen gedoe met bonnetjes meer, facturen worden automatisch verstuurd na de klus.
 
 Die drie hangen aan elkaar via één flow, van de eerste aanvraag tot de factuur. Hoe die keten er stap voor stap uitziet, hebben we uitgeschreven in [hoveniersbedrijf automatiseren: van offerte tot factuur](/blog/hoveniersbedrijf-automatiseren).
 

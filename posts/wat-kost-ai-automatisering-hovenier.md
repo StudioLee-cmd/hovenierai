@@ -34,11 +34,11 @@ Hier de prijzen op een rij, zoals ze ook op de [actuele tarieven](/tarieven) sta
 | Optie | Kosten | Voor wie |
 |---|---|---|
 | Gratis website-ontwerp | €0 | Wie eerst wil zien wat het oplevert |
-| Website kopen | €800 eenmalig + €200 per jaar | Wie alleen een nieuwe site wil, zonder abonnement |
+| Website kopen | Bespreek de overdrachtsoptie | Wie alleen een nieuwe site wil, zonder abonnement |
 | Managed AI-automatisering | vanaf €79 per maand | De meeste hoveniers, geen contract |
 | Traditioneel marketingbureau | €1.500 tot €3.000 per maand | Bedrijven met meer dan €1 miljoen omzet |
 
-Het zwaartepunt zit op de regel "vanaf €79 per maand". Dat is een managed pakket: wij richten de flows in, jij doet de tuinen. Geen opzegtermijn, geen setup-kosten, en het is toegankelijk vanaf €10.000 omzet. Wil je liever alleen een nette site, dan is een [gratis website voor hoveniers](/gratis-website) het startpunt, met de optie die later voor €800 over te kopen.
+Het zwaartepunt zit op de regel "vanaf €79 per maand". Dat is een managed pakket: wij richten de flows in, jij doet de tuinen. Geen opzegtermijn, geen setup-kosten, en het is toegankelijk vanaf €10.000 omzet. Wil je liever alleen een nette site, dan is een [gratis website voor hoveniers](/gratis-website) het startpunt, met een overdrachtsoptie die we in een gesprek toelichten.
 
 ![Notitieblok met een handgeschreven ROI-berekening, rekenmachine en snoeischaar op een werkbank bij een hovenier](/images/blog/wat-kost-ai-automatisering-hovenier-2.jpg)
 
@@ -79,7 +79,7 @@ Bij een managed pakket zijn er geen setup-kosten, geen opzegtermijn en geen verp
 
 ### Wat kost AI voor een klein hoveniersbedrijf?
 
-AI-automatisering voor een klein hoveniersbedrijf begint bij €79 per maand, zonder contract. Daarvoor krijg je een managed systeem dat je telefoon, opvolging en reviews automatisch afhandelt. Een eenmalige website kopen kan apart voor €800 plus €200 per jaar voor hosting en onderhoud.
+AI-automatisering voor een klein hoveniersbedrijf begint bij €79 per maand, zonder contract. Daarvoor krijg je een managed systeem dat je telefoon, opvolging en reviews automatisch afhandelt. Een eenmalige website-overdracht bespreken we apart, inclusief de onderhoudsafspraken.
 
 ### Zit ik vast aan een lang contract?
 

@@ -1,3 +1,5 @@
+
+import { publicContacts } from "@/data/publicContacts";
 import React from "react";
 import Container from "@/components/Container";
 import { siteDetails } from "@/data/siteDetails";
@@ -28,7 +30,7 @@ const LegalPage: React.FC = () => {
                             <li><strong>Adres:</strong> {footerDetails.address}</li>
                             <li><strong>KVK (KvK):</strong> {footerDetails.kvk}</li>
                             <li><strong>BTW (VAT):</strong> {footerDetails.btw}</li>
-                            <li><strong>Email:</strong> <a href="mailto:tim@studiolee.nl" className="text-primary hover:underline">tim@studiolee.nl</a></li>
+                            <li><strong>Email:</strong> <a href={("mailto:" + publicContacts.primary.email)} className="text-primary hover:underline">{publicContacts.primary.email}</a></li>
                         </ul>
                     </div>
                 </div>

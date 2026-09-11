@@ -1,3 +1,5 @@
+
+import { publicContacts } from "@/data/publicContacts";
 import { IMenuItem, ISocials } from "@/types";
 
 export const footerDetails: {
@@ -45,7 +47,7 @@ export const footerDetails: {
         { text: "Gratis Website", url: "/gratis-website" },
         { text: "Blog", url: "/blog" },
     ],
-    email: 'tim@hovenierai.nl',
+    email: publicContacts.primary.email,
     telephone: '+31612345678',
     socials: {
         youtube: 'https://www.youtube.com/@DIGITAL.STUDIOLEE',

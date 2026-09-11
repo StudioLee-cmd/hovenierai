@@ -1,3 +1,5 @@
+
+import { publicContacts } from "@/data/publicContacts";
 import React from "react";
 import Container from "@/components/Container";
 import { siteDetails } from "@/data/siteDetails";
@@ -46,7 +48,7 @@ const PrivacyPage: React.FC = () => {
 
                     <h2 className="text-2xl font-semibold text-foreground mt-8 mb-4">5. Inzage & Wijzigen</h2>
                     <p>
-                        Je hebt altijd het recht op inzage in je gegevens. Ook kun je ons verzoeken gegevens aan te passen of te verwijderen. Neem hiervoor contact op via <a href="mailto:tim@studiolee.nl" className="text-primary hover:underline">tim@studiolee.nl</a>.
+                        Je hebt altijd het recht op inzage in je gegevens. Ook kun je ons verzoeken gegevens aan te passen of te verwijderen. Neem hiervoor contact op via <a href={("mailto:" + publicContacts.primary.email)} className="text-primary hover:underline">{publicContacts.primary.email}</a>.
                     </p>
 
                     <h2 className="text-2xl font-semibold text-foreground mt-8 mb-4">6. Cookies</h2>

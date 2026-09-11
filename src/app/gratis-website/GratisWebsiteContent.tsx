@@ -1,4 +1,6 @@
 "use client";
+import { publicContacts } from "@/data/publicContacts";
+
 import React, { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
@@ -41,7 +43,7 @@ export default function GratisWebsiteContent() {
       if (!res.ok) throw new Error("Verzenden mislukt");
       setIsSubmitted(true);
     } catch {
-      setError("Er ging iets mis. Mail tim@studiolee.nl en ik help je direct.");
+      setError(("Er ging iets mis. Mail " + publicContacts.primary.email + " en ik help je direct."));
     } finally {
       setIsSubmitting(false);
     }

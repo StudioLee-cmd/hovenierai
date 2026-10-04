@@ -9,7 +9,7 @@ tags: ["Website", "Kosten", "Offerte"]
 cluster: "website"
 ---
 
-Je hebt drie offertes opgevraagd voor een nieuwe site. De eerste zit onder de duizend euro, de tweede rond de tweeëneenhalf, de derde ergens boven de vijf. Alle drie zeggen ze "professionele website voor uw hoveniersbedrijf".
+Stel: je hebt drie offertes opgevraagd voor een nieuwe site. De eerste zit onder de duizend euro, de tweede rond de tweeëneenhalf, de derde ergens boven de vijf. Alle drie zeggen ze "professionele website voor uw hoveniersbedrijf".
 
 Dat verschil is niet willekeurig en het is ook geen kwestie van wie de meeste winst pakt. Er zit een andere hoeveelheid werk onder, en het is de moeite waard om te weten welke.
 
@@ -17,9 +17,9 @@ Dat verschil is niet willekeurig en het is ook geen kwestie van wie de meeste wi
 
 Een website is geen product met een vaste inhoud. Het woord dekt alles van een sjabloon met jouw logo erin tot een op maat gebouwde site met een offerte-aanvraagstroom erachter.
 
-Om een idee te geven van de marktbandbreedte: op de tarievenpagina van webbouwer Vyzual, geraadpleegd op 20 augustus 2026, staat een onepager op € 750 tot € 1.250, een basis bedrijfswebsite van vier tot zes pagina's op € 1.250 tot € 2.000, een professionele site met strategie en conversie-opbouw op € 2.000 tot € 3.500, en maatwerk met extra functionaliteiten op € 3.500 tot € 6.000. Andere bouwers hanteren andere indelingen, maar de treden zien er vrijwel overal zo uit.
+De bedragen in de opening zijn een rekenvoorbeeld, geen gemeten marktprijzen of aanbod van HovenierAI. Vergelijk de actuele offertes die je zelf ontvangt op inhoud: een enkele pagina, een bedrijfswebsite met losse dienstenpagina's of maatwerk met koppelingen kunnen heel verschillende hoeveelheden werk vragen.
 
-Reken erop dat zulke bedragen exclusief btw zijn en vraag dat na, want dat is bij een offerte van tweeduizend euro geen detail.
+Controleer bij iedere offerte of het bedrag inclusief of exclusief btw is, want dat is bij een offerte van tweeduizend euro geen detail.
 
 Het verschil tussen de treden zit zelden in het design. Het zit in de vraag of iemand eerst nadenkt over wat jouw site moet doen, en of er daarna nog naar gekeken wordt. Wat een [gratis website voor hoveniers](/gratis-website) van ons daarin doet is een aparte vraag, en die staat aan het eind.
 
@@ -33,7 +33,7 @@ Voor het laagste bedrag krijg je een sjabloon met jouw naam, kleuren en foto's e
 
 **Wat er meestal niet in zit:** een structuur die op jouw diensten is gebouwd, teksten die iemand voor jou geschreven heeft, en enige aandacht voor vindbaarheid. Je krijgt de doos, niet de inhoud.
 
-**Waar je op moet letten:** wie de teksten en foto's aanlevert. Ook een [gratis website design voor hoveniers](/gratis-website) valt of staat met dat aanleverwerk. In negen van de tien goedkope offertes ben jij dat, en het is precies het onderdeel waar het maandenlang op blijft liggen. Reken dat aanleverwerk mee als kostenpost, ook al staat het niet op de offerte.
+**Waar je op moet letten:** wie de teksten en foto's aanlevert. Ook een [gratis website design voor hoveniers](/gratis-website) valt of staat met dat aanleverwerk. Staat in jouw offerte dat je dit zelf aanlevert? Spreek dan af wat je moet opsturen en wanneer. Reken dat aanleverwerk mee als kostenpost, ook al staat het niet op de offerte.
 
 ## De middenmoot: waar de meeste hoveniers uitkomen
 
@@ -43,7 +43,7 @@ Iemand kijkt naar welke diensten je hebt en welke daarvan geld opleveren, en bou
 
 Daar hoort in dit segment ook bij: teksten die door iemand anders geschreven zijn, een portfolio dat je zelf kunt bijwerken (zie [portfolio als hovenier opbouwen](/blog/portfolio-hovenier-opbouwen)), en een aanvraagstroom die meer doet dan een e-mail sturen.
 
-Voor de meeste hoveniersbedrijven met een paar man personeel is dit de trede die klopt. Een [professionele website voor hoveniers](/gratis-website) in dit segment verdient zichzelf terug op een paar extra aanvragen, en dat is bij aanlegprojecten al snel één klus.
+Voor de meeste hoveniersbedrijven met een paar man personeel is dit de trede die klopt. Of een [professionele website voor hoveniers](/gratis-website) zich terugverdient, hangt af van de totale kosten, extra opdrachten en de marge die na uitvoering overblijft. Een aanvraag is nog geen betaalde klus.
 
 <p class="lees-ook" style="background-color: rgba(193, 255, 114, 0.18); padding: 12px 16px; border-radius: 8px; margin: 28px 0;"><strong>Lees ook:</strong> <a href="/blog/hovenierwebsite-offerte-machine">Je hovenierwebsite omzetten in een offerte-machine</a> &rarr;</p>
 
@@ -94,7 +94,7 @@ Nee, mits je weet wat je koopt. Hij wordt duur als je verwacht dat er aanvragen 
 Meestal wel, en niet gratis. Van een sjabloon naar een op maat gebouwde structuur is vaak opnieuw beginnen. Als je weet dat je binnen een jaar dienstpagina's wilt, is meteen de middelste trede goedkoper dan twee keer bouwen.
 
 **Wat is een reëel budget voor een hoveniersbedrijf?**
-Kijk naar wat één aanlegproject je oplevert en hoeveel extra aanvragen je nodig hebt om de site terug te verdienen. Bij de meeste hoveniers is dat een handvol, en dan valt de middelste trede binnen een seizoen terug te verdienen.
+Kijk naar wat één aanlegproject je oplevert en hoeveel extra aanvragen je nodig hebt om de site terug te verdienen. Reken met de marge per extra opdracht en tel hosting, onderhoud en je eigen uren mee. Zonder die gegevens kun je geen terugverdientijd vaststellen.
 
 ## Conclusie: vergelijk de inhoud, niet het bedrag
 

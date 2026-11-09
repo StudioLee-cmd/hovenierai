@@ -1,5 +1,5 @@
 export const heroDetails = {
     heading: 'De grootste kans voor hoveniers sinds de uitvinding van de grasmaaier.',
-    subheading: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. HovenierAI regelt je agenda, telefoon en administratie volledig automatisch. Zo kan jij ongestoord doen waar je goed in bent: prachtige tuinen creëren.',
+    subheading: "Wij maken de website voor jouw hoveniersbedrijf. Chatbot, telefoon en marketing sluit je erop aan via je pakket, zodat jij kunt doen waar je goed in bent.",
     centerImageSrc: '/images/hero-image.png',
 }

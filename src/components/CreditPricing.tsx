@@ -2,33 +2,42 @@
 import React from 'react';
 import { FiPhone, FiVideo, FiEdit3, FiMessageSquare, FiShare2, FiMail, FiImage, FiPieChart, FiCamera, FiFileText, FiPhoneMissed, FiInbox } from 'react-icons/fi';
 
+// PROPOSITIE-CONTRACT ⛔1 (niche-sites-upgrade-programma.md §PROPOSITIE-CONTRACT): GEEN tool-namen, niet
+// extern en niet intern — je verkoopt de UITKOMST, niet de gereedschapskist. Tot 26-07 was dit blok een
+// volledige interne gereedschapslijst mét een prijs per stuk ("Content AI (Basis)", "Voice AI (Software
+// License)", "SEO Blog AI (Idee/Artikel/Editor)", "Social Planner", "Review Manager", …). Dat is twee keer
+// fout: ⛔1 én de tegenpool van §② — vergelijk de REKENING, nooit de onderdelen; dit wás de onderdelenlijst.
+// De contract-gate meldde er 0 overtredingen op omdat 'ie letterlijke strings kende (`Voice AI (Basic)`,
+// `Social Media Planner`) en de site de HERNOEMDE broertjes droeg; sinds 26-07 meet 'ie de VORM.
+// Bedragen, creditaantallen, de subtitels en de volgorde zijn BEWUST ongewijzigd: dat is prijs-presentatie
+// en dus een business-beslissing (RULE 5). Alleen de BENAMING is hier veranderd — wat de kapper krijgt.
 const includedItems = [
-    { title: "Voice AI (Software License)", subtitle: "Excl. belkosten", icon: <FiPhone size={24} /> },
-    { title: "Website Chatbot", subtitle: "Onbeperkt inbegrepen", icon: <FiMessageSquare size={24} /> },
-    { title: "Workflow AI (Automations)", subtitle: "Onbeperkt inbegrepen", icon: <FiShare2 size={24} /> },
-    { title: "Review Manager", subtitle: "Onbeperkt inbegrepen", icon: <FiMessageSquare size={24} /> },
-    { title: "Centrale Inbox", subtitle: "Onbeperkt inbegrepen", icon: <FiInbox size={24} /> },
-    { title: "Email Inbox AI (Workflow)", subtitle: "Onbeperkt inbegrepen", icon: <FiMail size={24} /> },
-    { title: "Factuur AI", subtitle: "Onbeperkt inbegrepen", icon: <FiFileText size={24} /> },
-    { title: "Social Planner", subtitle: "Onbeperkt inbegrepen", icon: <FiShare2 size={24} /> },
-    { title: "Gemiste Oproep SMS (Software)", subtitle: "Excl. SMS (WhatsApp optie +€20 p/m)", icon: <FiPhoneMissed size={24} /> },
-    { title: "Image AI (Lite)", subtitle: "Onbeperkt inbegrepen", icon: <FiImage size={24} /> },
-    { title: "Content AI (Basis)", subtitle: "Onbeperkt inbegrepen", icon: <FiEdit3 size={24} /> },
+    { title: "De telefoon wordt opgenomen", subtitle: "Excl. belkosten", icon: <FiPhone size={24} /> },
+    { title: "Vragen op je site krijgen antwoord", subtitle: "Onbeperkt inbegrepen", icon: <FiMessageSquare size={24} /> },
+    { title: "Afspraken en opvolging lopen door", subtitle: "Onbeperkt inbegrepen", icon: <FiShare2 size={24} /> },
+    { title: "Reviews vragen en beantwoorden", subtitle: "Onbeperkt inbegrepen", icon: <FiMessageSquare size={24} /> },
+    { title: "Al je berichten op één plek", subtitle: "Onbeperkt inbegrepen", icon: <FiInbox size={24} /> },
+    { title: "E-mail wordt automatisch opgevolgd", subtitle: "Onbeperkt inbegrepen", icon: <FiMail size={24} /> },
+    { title: "Facturen gaan vanzelf de deur uit", subtitle: "Onbeperkt inbegrepen", icon: <FiFileText size={24} /> },
+    { title: "Je posts staan vooruit klaar", subtitle: "Onbeperkt inbegrepen", icon: <FiShare2 size={24} /> },
+    { title: "Gemiste beller krijgt meteen een sms", subtitle: "Excl. SMS (WhatsApp optie +€20 p/m)", icon: <FiPhoneMissed size={24} /> },
+    { title: "Eenvoudige beelden voor je socials", subtitle: "Onbeperkt inbegrepen", icon: <FiImage size={24} /> },
+    { title: "Korte teksten voor je site en posts", subtitle: "Onbeperkt inbegrepen", icon: <FiEdit3 size={24} /> },
 ];
 
 const paygItems = [
-    { title: "SEO Blog AI (Idee)", cost: "1 Credit", icon: <FiEdit3 size={24} /> },
-    { title: "SEO Blog AI (Artikel)", cost: "2 Credits", icon: <FiEdit3 size={24} /> },
-    { title: "SEO Blog AI (Editor)", cost: "1 Credit (Binnenkort)", icon: <FiEdit3 size={24} /> },
-    { title: "Image AI (2K)", cost: "1 Credit", icon: <FiImage size={24} /> },
-    { title: "Image AI (4K)", cost: "2 Credits", icon: <FiImage size={24} /> },
-    { title: "Video AI (10s)", cost: "5 Credits", icon: <FiVideo size={24} /> },
-    { title: "Social Media AI (Idee)", cost: "1 Credit", icon: <FiShare2 size={24} /> },
-    { title: "Social Media AI (Image)", cost: "1 Credit", icon: <FiShare2 size={24} /> },
-    { title: "Social Media AI (Video)", cost: "5 Credits", icon: <FiShare2 size={24} /> },
-    { title: "Sales Deck AI (5 slides)", cost: "4 Credits", icon: <FiPieChart size={24} /> },
-    { title: "Sales Deck AI (10 slides)", cost: "8 Credits", icon: <FiPieChart size={24} /> },
-    { title: "Telefoon & SMS Kosten", cost: "Pay-as-you-go", icon: <FiPhone size={24} /> },
+    { title: "Idee voor een blog", cost: "1 Credit", icon: <FiEdit3 size={24} /> },
+    { title: "Blog-artikel, geschreven", cost: "2 Credits", icon: <FiEdit3 size={24} /> },
+    { title: "Bestaande blog bijwerken", cost: "1 Credit (Binnenkort)", icon: <FiEdit3 size={24} /> },
+    { title: "Foto in 2K", cost: "1 Credit", icon: <FiImage size={24} /> },
+    { title: "Foto in 4K", cost: "2 Credits", icon: <FiImage size={24} /> },
+    { title: "Video van 10 seconden", cost: "5 Credits", icon: <FiVideo size={24} /> },
+    { title: "Idee voor een post", cost: "1 Credit", icon: <FiShare2 size={24} /> },
+    { title: "Post met een beeld", cost: "1 Credit", icon: <FiShare2 size={24} /> },
+    { title: "Post met een video", cost: "5 Credits", icon: <FiShare2 size={24} /> },
+    { title: "Presentatie van 5 pagina's", cost: "4 Credits", icon: <FiPieChart size={24} /> },
+    { title: "Presentatie van 10 pagina's", cost: "8 Credits", icon: <FiPieChart size={24} /> },
+    { title: "Bel- en sms-kosten", cost: "Pay-as-you-go", icon: <FiPhone size={24} /> },
 ];
 
 const CreditPricing: React.FC = () => {
@@ -81,7 +90,7 @@ const CreditPricing: React.FC = () => {
                         <span>✅</span> Inbegrepen in Unlimited Plan
                     </h4>
                     <p className="text-sm text-gray-600 dark:text-[var(--foreground-accent)] mb-6">
-                        Onbeperkte toegang tot de software-motor. Je betaalt hier <u>geen</u> credits voor.
+                        Dit gebruik je onbeperkt. Je betaalt er <u>geen</u> credits voor.
                     </p>
                     <div className="space-y-3">
                         {includedItems.map((item, index) => (
@@ -103,7 +112,7 @@ const CreditPricing: React.FC = () => {
                         <span>💳</span> Niet Inbegrepen (Credits & PAYG)
                     </h4>
                     <p className="text-sm text-gray-600 dark:text-[var(--foreground-accent)] mb-6">
-                        Kosten voor creatieve generatie (credits) en externe providers (telefonie/SMS).
+                        Wat je laat máken kost credits. Bellen en sms&apos;en reken je af op verbruik.
                     </p>
                     <div className="space-y-3">
                         {paygItems.map((item, index) => (

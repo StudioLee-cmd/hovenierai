@@ -14,11 +14,11 @@ import { proofBlock } from "@/data/testimonials";
 
 
 import CostComparison from "@/components/CostComparison/CostComparison";
-import HomeLatestBlogs from "@/components/HomeLatestBlogs";
 import FallingText from "@/components/FallingText";
 
 import USPPillars from "@/components/USPPillars";
 import SetupSupport from "@/components/SetupSupport";
+import HomeLatestBlogs from "@/components/HomeLatestBlogs";
 
 import type { Metadata } from 'next';
 
@@ -73,9 +73,8 @@ const HomePage: React.FC = () => {
 
 
       </Container>
-      <HomeLatestBlogs />
-
       <FallingText />
+    <HomeLatestBlogs />
     </>
   );
 };

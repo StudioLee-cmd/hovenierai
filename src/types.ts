@@ -13,6 +13,9 @@ export interface IBenefit {
     bullets: IBenefitBullet[];
     buttonText?: string;
     buttonUrl?: string;
+    // PROPOSITIE-CONTRACT §①: de homepage toont VIER dingen; de onderdelen waar zo'n ding uit bestaat
+    // hangen hieronder en klappen open (src/components/Benefits/BenefitDetails.tsx).
+    details?: IBenefit[];
 }
 
 export interface IBenefitBullet {

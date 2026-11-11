@@ -1,4 +1,14 @@
 "use client";
+// ⛔ BOUWSTEEN 4 VAN HET BOODSCHAP-FRAME — dit blok beantwoordt WAT KOST HET LOS, verder niets.
+// Volle wet: niche-sites-upgrade-programma.md §HET BOODSCHAP-FRAME (28-07). Het propositie-contract §②
+// schrijft deze vergelijking zelfs voor ("vergelijk de REKENING, nooit de onderdelen") — de TABEL klopte
+// dus, de KOP erboven niet. Wat er tot 28-07 stond ("Waarom teveel betalen?" / "Stop met het verspillen
+// van geld aan dure freelancers. HovenierAI doet het beter, sneller en goedkoper") faalde op twee
+// toon-regels, en stond zo op alle 14 live sites:
+//   · drie onbewezen superlatieven op een rij (beter, sneller, goedkoper) — we meten er geen van drie
+//   · het kleineert de lezer: wie vandaag een fotograaf inhuurt "verspilt geld". Dat is precies de
+//     ondernemer die we willen spreken, en je opent bij hem met een verwijt.
+// De rekensom zelf is ongemoeid gelaten: de bedragen zijn prijs-presentatie en dus business (RULE 5).
 import React from 'react';
 import Link from 'next/link';
 import Section from '../Section';
@@ -8,14 +18,13 @@ import { comparisonData, totalTraditionalCost, onzePrijsPerMaand } from '@/data/
 import { BsCheckCircleFill } from 'react-icons/bs';
 import Highlight from '../Highlight';
 import { motion } from 'framer-motion';
-import { siteDetails } from '@/data/siteDetails';
 
 const CostComparison: React.FC = () => {
     return (
         <Section
             id="comparison"
-            title="Waarom teveel betalen?"
-            description={`Stop met het verspillen van geld aan dure kantoorpersoneel. ${siteDetails.siteName} doet het beter, sneller en goedkoper.`}
+            title="Wat dit los bij elkaar kost"
+            description="Dezelfde dingen los inkopen — een vaste kracht voor je social, iemand voor je teksten, losse abonnementen voor je agenda en je website. Dit is wat je daar per maand aan kwijt bent, naast wat je hier voor hetzelfde werk betaalt."
         >
             <Container>
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
@@ -41,22 +50,26 @@ const CostComparison: React.FC = () => {
                             <div className="absolute bottom-0 left-0 -mb-10 -ml-10 w-40 h-40 bg-secondary opacity-20 rounded-full blur-3xl"></div>
 
                             <h3 className="text-2xl lg:text-3xl font-bold mb-2 relative z-10">
-                                De <Highlight color="primary" className="text-3xl lg:text-4xl">{siteDetails.siteName}</Highlight> Manier
+                                De <Highlight color="primary" className="text-3xl lg:text-4xl">HovenierAI</Highlight> Manier
                             </h3>
                             <p className="text-gray-300 mb-8 relative z-10">Alles-in-één oplossing voor marktdominantie.</p>
 
                             <div className="space-y-4 mb-10 relative z-10">
+                                {/* PROPOSITIE-CONTRACT ⛔1: hier stonden drie TOOL-NAMEN in het vet
+                                    ("Review AI", "SEO Blog AI", "Photo & Social AI") — de gereedschapskist
+                                    in plaats van de uitkomst, op de plek waar de bezoeker juist de REKENING
+                                    vergelijkt (§②). Zelfde pas als het credit-blok eronder, 26-07. */}
                                 <div className="flex items-center gap-3">
                                     <BsCheckCircleFill className="text-green-400 flex-shrink-0" size={24} />
-                                    <span className="text-lg">Top Google Maps rankings dankzij <strong>Review AI</strong></span>
+                                    <span className="text-lg">Bovenaan in Google Maps, met <strong>reviews die vanzelf binnenkomen</strong></span>
                                 </div>
                                 <div className="flex items-center gap-3">
                                     <BsCheckCircleFill className="text-green-400 flex-shrink-0" size={24} />
-                                    <span className="text-lg">Dominantie in ChatGPT & Google AI met <strong>SEO Blog AI</strong></span>
+                                    <span className="text-lg">Gevonden worden in Google <strong>én in de AI-assistenten waar mensen nu zoeken</strong></span>
                                 </div>
                                 <div className="flex items-center gap-3">
                                     <BsCheckCircleFill className="text-green-400 flex-shrink-0" size={24} />
-                                    <span className="text-lg">Altijd een frisse, actuele uitstraling met <strong>Photo & Social AI</strong></span>
+                                    <span className="text-lg">Altijd <strong>verse foto&apos;s en posts</strong>, zonder dat jij er tijd in steekt</span>
                                 </div>
                                 <div className="flex items-center gap-3">
                                     <BsCheckCircleFill className="text-green-400 flex-shrink-0" size={24} />
@@ -76,7 +89,7 @@ const CostComparison: React.FC = () => {
                                     transition={{ delay: 0.3, type: "spring" }}
                                     className="mt-4 text-green-400 font-bold bg-green-400/10 inline-block px-4 py-2 rounded-full"
                                 >
-                                    Je bespaart € {totalTraditionalCost - onzePrijsPerMaand} per maand!
+                                    Verschil per maand: € {totalTraditionalCost - onzePrijsPerMaand},-
                                 </motion.p>
                             </div>
                         </motion.div>

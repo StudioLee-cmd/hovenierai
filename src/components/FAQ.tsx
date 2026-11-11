@@ -1,4 +1,17 @@
 "use client"
+// ⛔ BOUWSTEEN 9 VAN HET BOODSCHAP-FRAME — het slot beantwoordt WAAROM IS DIT HET WAARD, verder niets.
+// Volle wet: niche-sites-upgrade-programma.md §HET BOODSCHAP-FRAME (28-07). De CTA-kaart hiernaast droeg
+// tot 28-07 de zwaarste overtreding van de hele pagina, op alle 14 live sites tegelijk:
+//   · "Gemiddeld besparen onze klanten 10+ uur per week" — een VERZONNEN cijfer (RULE 9) én toegeschreven
+//     aan klanten die dit merk niet heeft. De rework van 26-07 haalde ditzelfde getal uit de USP-pijlers
+//     en liet déze staan; de contract-gate meldde ondertussen 0 overtredingen, want 'ie meet de drie
+//     verboden en geen enkele claim. Zie [[gate-groen-is-geen-goede-boodschap]].
+//   · "Eén extra gevulde stoel per week dekt vaak de kosten al" — arithmetisch onwaar naast het tarief
+//     waar 'ie bij staat: €297/mnd is ~€69 per week en een knipbeurt ligt op €25-45.
+// De VORM van die rekensom is wel precies goed en staat nergens anders op de site (source-doc
+// messaging-en-sales-flow-2026-07-28.md, ratio 4: jaarprijs ÷ gemiddelde winst per klus = het aantal
+// extra klussen). Dus blijft de rekensom staan en gaat het GETAL eruit: de bezoeker rekent 'm zelf op
+// zijn eigen bedrag. De gemiddelde winst per klus per niche is NOT MEASURED en mag niet geschat worden.
 import { Disclosure, DisclosureButton, DisclosurePanel } from "@headlessui/react";
 import { BiMinus, BiPlus } from "react-icons/bi";
 
@@ -30,9 +43,9 @@ const FAQ: React.FC = () => {
                         {/* Decorative shine */}
                         <div className="absolute top-0 right-0 -mt-4 -mr-4 w-24 h-24 bg-yellow-500/20 blur-xl rounded-full"></div>
 
-                        <h3 className="text-xl font-bold mb-3 relative z-10">Klaar om je bedrijf te transformeren?</h3>
+                        <h3 className="text-xl font-bold mb-3 relative z-10">Is dit het waard voor jouw hoveniersbedrijf?</h3>
                         <p className="text-gray-300 mb-6 text-sm leading-relaxed relative z-10">
-                            Gemiddeld besparen onze klanten 10+ uur per week aan administratie en telefoontjes. Daarnaast heb je geen gaten meer in je agenda door no-shows of gemiste oproepen. Eén extra gevulde stoel per week dekt vaak de kosten al.
+                            Reken het terug naar je eigen klussen: deel het maandbedrag door wat een gemiddelde klus jou oplevert. Zo veel klussen heb je nodig om quitte te staan. Elke beller die je nu misloopt en straks tóch een afspraak maakt, telt daarboven op.
                         </p>
                         <a href="/#pricing" className="relative z-10 inline-block w-full">
                             <button className="w-full px-6 py-3 rounded-xl bg-gradient-to-r from-yellow-400 to-yellow-600 text-black font-bold hover:from-yellow-300 hover:to-yellow-500 transition-all shadow-lg transform hover:scale-[1.02]">

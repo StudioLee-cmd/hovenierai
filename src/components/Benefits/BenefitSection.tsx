@@ -4,6 +4,7 @@ import clsx from "clsx";
 import { motion, Variants } from "framer-motion"
 
 import BenefitBullet from "./BenefitBullet";
+import BenefitDetails from "./BenefitDetails";
 import SectionTitle from "../SectionTitle";
 import { IBenefit } from "@/types";
 
@@ -47,12 +48,12 @@ export const childVariants = {
 };
 
 const BenefitSection: React.FC<Props> = ({ benefit, imageAtRight }: Props) => {
-    const { title, description, imageSrc, videoSrc, bullets, buttonText, buttonUrl } = benefit;
+    const { title, description, imageSrc, videoSrc, bullets, buttonText, buttonUrl, details } = benefit;
 
     return (
         <section className="benefit-section">
             <motion.div
-                className="flex flex-wrap flex-col items-center justify-center gap-2 lg:flex-row lg:gap-20 lg:flex-nowrap mb-24"
+                className="flex flex-wrap flex-col items-center justify-center gap-2 lg:flex-row lg:gap-20 lg:flex-nowrap mb-10"
                 variants={containerVariants}
                 initial="offscreen"
                 whileInView="onscreen"
@@ -124,21 +125,14 @@ const BenefitSection: React.FC<Props> = ({ benefit, imageAtRight }: Props) => {
                                     <div className="absolute inset-0 shadow-[inset_0_0_20px_-5px_white] pointer-events-none rounded-[30px]" />
                                 </div>
                             ) : (
-                                <div className="relative w-full max-w-[384px] h-auto">
-                                    <Image
-                                        src={imageSrc!}
-                                        alt={title}
-                                        width={384}
-                                        height={762}
-                                        quality={100}
-                                        className="lg:ml-0 w-full h-auto object-cover"
-                                    />
-                                </div>
+                                <Image src={imageSrc!} alt="title" width="384" height="762" quality={100} className="lg:ml-0" />
                             )}
                         </div>
                     </motion.div>
                 )}
             </motion.div>
+
+            {details && details.length > 0 && <BenefitDetails details={details} />}
         </section>
     );
 }

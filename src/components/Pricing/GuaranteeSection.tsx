@@ -1,3 +1,9 @@
+// ⛔ BOUWSTEEN 6 VAN HET BOODSCHAP-FRAME — de garantie beantwoordt WAT ALS HET NIET WERKT, verder niets.
+// Volle wet: niche-sites-upgrade-programma.md §HET BOODSCHAP-FRAME (28-07). De risico-omkering zelf is
+// precies goed (sales-lessons Les 6) en blijft ongewijzigd; de SLOTZIN eronder viel op toon-regel 5:
+// "Jij hebt niets te verliezen, behalve je huidige chaos" zegt tegen de ondernemer die we willen
+// spreken dat z'n zaak een chaos is. Gemeten 28-07 op 14 van de 14 live sites. Een garantie hoeft de
+// lezer niet te beledigen om te werken: het bedrag terug is het argument.
 
 import React from 'react';
 import { BsShieldCheck } from 'react-icons/bs';

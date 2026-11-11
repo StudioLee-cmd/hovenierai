@@ -65,7 +65,7 @@ const CostComparison: React.FC = () => {
                                 </div>
                                 <div className="flex items-center gap-3">
                                     <BsCheckCircleFill className="text-green-400 flex-shrink-0" size={24} />
-                                    <span className="text-lg">Gevonden worden in Google <strong>én in de AI-assistenten waar mensen nu zoeken</strong></span>
+                                    <span className="text-lg">Gevonden worden in Google <strong>én in AI-assistenten als ChatGPT, waar mensen nu zoeken</strong></span>
                                 </div>
                                 <div className="flex items-center gap-3">
                                     <BsCheckCircleFill className="text-green-400 flex-shrink-0" size={24} />

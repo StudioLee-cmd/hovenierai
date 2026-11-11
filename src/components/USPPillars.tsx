@@ -38,7 +38,7 @@ const pillars = [
     {
         title: "Je website houdt zichzelf bij",
         subtitle: "Website",
-        description: "Een echt mooie website die zichzelf bijwerkt. Staat er over een jaar nóg goed bij, zonder dat jij 'm bijhoudt.",
+        description: "Een echt mooie website die zichzelf bijwerkt. Staat er over een jaar nóg goed bij, zonder dat jij 'm bijhoudt. Wij maken websites voor hoveniers en houden ze bij.",
         icon: <FiGlobe size={32} />,
         pillarLinks: [{ href: "/gratis-website", anchor: "gratis website voor hoveniers" }],
     }

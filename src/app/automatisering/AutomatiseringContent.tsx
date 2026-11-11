@@ -164,9 +164,7 @@ export default function AutomatiseringContent() {
             className="flex flex-col sm:flex-row gap-4 justify-center sl-reveal sl-reveal-2"
           >
             <a
-              href="https://cal.com/studiolee"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="/demo"
               className="inline-flex items-center justify-center gap-2 bg-primary text-black px-8 py-3 rounded-xl font-semibold hover:bg-primary-accent transition-all"
             >
               <BsCalendar3 /> Plan een Gratis Gesprek
@@ -469,9 +467,7 @@ export default function AutomatiseringContent() {
               Gratis AI Scan
             </Link>
             <a
-              href="https://cal.com/studiolee"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="/demo"
               className="border border-foreground/20 px-8 py-3 rounded-xl font-semibold hover:bg-foreground/5 transition-all inline-flex items-center justify-center gap-2"
             >
               <BsCalendar3 /> Plan een Gesprek

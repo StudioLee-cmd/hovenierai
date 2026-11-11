@@ -1,3 +1,4 @@
+import EzidaPlanFrame from "@/components/EzidaPlanFrame";
 import type { Metadata } from "next";
 import { siteDetails } from "@/data/siteDetails";
 import GratisWebsiteContent from "./GratisWebsiteContent";
@@ -19,5 +20,10 @@ export const metadata: Metadata = {
 };
 
 export default function GratisWebsitePage() {
-  return <GratisWebsiteContent />;
+  return (
+    <>
+      <GratisWebsiteContent />
+      <EzidaPlanFrame />
+    </>
+  );
 }

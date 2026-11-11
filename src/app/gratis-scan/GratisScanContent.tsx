@@ -188,7 +188,7 @@ export default function GratisScanPage() {
             await fetch('https://n8n.aireclamestudio.nl/webhook/free-scan', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ ...data, niche: siteDetails.niche }),
+                body: JSON.stringify({ ...data, niche: siteDetails.niche, bron: new URLSearchParams(window.location.search).get('bron') || 'direct' }),
             });
         } catch (err) {
             console.error('Webhook error:', err);

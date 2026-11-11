@@ -2,6 +2,7 @@
 import React, { useState, useEffect, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import Header from "@/components/Header";
+import ConsentVideo from "@/components/ConsentVideo";
 import { siteDetails } from '@/data/siteDetails';
 import { motion, AnimatePresence } from "framer-motion";
 import { BsGlobe, BsPerson, BsEnvelope, BsCheckCircleFill } from "react-icons/bs";
@@ -248,15 +249,7 @@ export default function GratisScanPage() {
                             <div className="aspect-video bg-black relative">
                                 <div className="absolute inset-0 flex items-center justify-center text-white/50">
                                     {/* Placeholder for Video */}
-                                    <iframe
-                                        width="100%"
-                                        height="100%"
-                                        src="https://www.youtube.com/embed/3RaBKCJdLMA?autoplay=1&mute=1"
-                                        title="Waiting Room Video"
-                                        frameBorder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowFullScreen
-                                    ></iframe>
+                                    <ConsentVideo videoId="3RaBKCJdLMA" title="Waiting Room Video" />
                                 </div>
                             </div>
 

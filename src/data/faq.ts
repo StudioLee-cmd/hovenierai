@@ -15,7 +15,7 @@ export const faqs: IFAQ[] = [
     },
     {
         question: "Werkt dit samen met mijn huidige software?",
-        answer: "Ja, wij koppelen met systemen zoals Moneybird, e-Boekhouden, Exact en Outlook. Zo worden facturen en afspraken direct goed gezet zonder dat jij iets hoeft over te typen.",
+        answer: "Je planning- en boekhoudpakket blijven. Afspraken komen in je agenda, Moneybird, e-Boekhouden en Exact Online koppelen we automatisch, AFAS en OutSmart via hun API. Werk je met GroenVision of CannonWorks, dan zetten we klanten over met een export die wij voor je inladen.",
     },
     {
         question: "Wat als de AI het antwoord niet weet?",

@@ -86,6 +86,5 @@ In de managed service van HovenierAI nemen we dit voor je uit handen:
 - We stemmen je diensten af op je sterkste zoekwoorden in jouw werkgebied
 - We koppelen je reviewstroom aan je diensten zodat beide signalen elkaar versterken
 - We updaten je seizoensmodules automatisch vóór elke piek
-- Alles met een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Vraag een gratis AI-scan voor hoveniers aan](/gratis-scan) — we bekijken je huidige Google Bedrijfsprofiel, laten zien welke diensten je mist en op welke lokale zoekopdrachten je nu kansen laat liggen. Geen verkooppraat, gewoon een helder overzicht op één A4.

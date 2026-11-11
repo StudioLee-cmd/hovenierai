@@ -68,8 +68,6 @@ Architecten ontwerpen tuinen maar voeren niet uit. Bouw relaties met lokale land
 
 Bij StudioLee nemen we de complete online marketing over. Van [klantcommunicatie](/blog/klantcommunicatie-hovenier-nazorg) tot content die opdrachten oplevert. Met slechts **15 minuten per maand** aan jouw kant.
 
-De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
-
 [Vraag een gratis scan aan](/gratis-scan) en ontdek welke kanalen voor jou het best werken.
 
 ## Conclusie

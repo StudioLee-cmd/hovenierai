@@ -94,7 +94,7 @@ Laat het systeem automatisch seizoensgebonden berichten sturen naar je [klantenb
 
 Seizoenswerk hoeft niet te betekenen dat je inkomen ook seizoensgebonden is. Met de juiste mix van onderhoudscontracten, winterdiensten en vooruit plannen, bouw je een hoveniersbedrijf met jaarrond stabiliteit.
 
-Met [HovenierAI](/) automatiseer je klantcommunicatie, seizoenscampagnes en opvolging. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [HovenierAI](/) automatiseer je klantcommunicatie, seizoenscampagnes en opvolging. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je het hele jaar door vol zit.
 

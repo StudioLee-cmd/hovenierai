@@ -104,6 +104,4 @@ Voor hoveniers die dit volledig uitbesteden: in onze managed service regelen wij
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/concurrentieanalyse-hoveniers-6-datapunten" class="text-dark fw-semibold">Concurrentieanalyse hoveniers: 6 datapunten in 30 min</a> →</p></div></div></div>
 
-## Groei-of-Geld-Terug Garantie
-
-Als je jaarcontract-klanten na zes maanden niet meetbaar zijn gestegen, krijg je je investering terug. Vraag een [gratis scan](/gratis-scan) aan om je huidige branding te laten analyseren. Jij houdt tuinen netjes, wij regelen de rest.
+Vraag een [gratis scan](/gratis-scan) aan om je huidige branding te laten analyseren. Jij houdt tuinen netjes, wij regelen de rest.

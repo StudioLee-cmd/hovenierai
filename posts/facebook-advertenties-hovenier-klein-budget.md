@@ -105,4 +105,4 @@ Begin met fotograferen voordat je begint met adverteren. Één telefoon, elke kl
 
 Als je nu twijfelt of adverteren iets voor jou is, is de eerlijke volgorde: eerst kijken of je site en je opvolging klaarstaan, dan pas geld erachter zetten. Dat is precies wat wij bij een [gratis ai scan voor hoveniers](/gratis-scan) nakijken, zonder dat je iets hoeft af te nemen.
 
-Word je klant, dan regelen wij bij HovenierAI de hele keten: de vindbaarheid, het [social media beheer voor hoveniers](/social-media), de site waar het verkeer landt, de opvang van aanvragen buiten werktijd en de opvolging erna. Met onze Groei-of-Geld-Terug Garantie, want jij maakt tuinen mooi, wij regelen de rest.
+Word je klant, dan regelen wij bij HovenierAI de hele keten: de vindbaarheid, het [social media beheer voor hoveniers](/social-media), de site waar het verkeer landt, de opvang van aanvragen buiten werktijd en de opvolging erna.

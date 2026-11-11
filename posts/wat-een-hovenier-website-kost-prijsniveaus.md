@@ -102,4 +102,4 @@ De drie offertes op je tafel zijn geen drie prijzen voor hetzelfde. Ze zijn drie
 
 Bepaal daarom eerst wat je site moet doen: doorverwijzen, of aanvragen binnenhalen. Tel je eigen aanleveruren mee. Zet de doorlopende kosten er voor drie jaar naast. En stel die vijf vragen voor je tekent.
 
-Bij HovenierAI leveren we die dienstpagina's, de teksten en de aanvraagstroom in één keer, zodat je die aanleverstapel niet zelf hoeft te vullen. Meer daarover staat op onze pagina over de [ai website voor hoveniers](/gratis-website), en wat het kost op onze [tarieven](/tarieven). Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet meetbaar beter zichtbaar in Ahrefs, dan krijg je je geld terug.
+Bij HovenierAI leveren we die dienstpagina's, de teksten en de aanvraagstroom in één keer, zodat je die aanleverstapel niet zelf hoeft te vullen. Meer daarover staat op onze pagina over de [ai website voor hoveniers](/gratis-website), en wat het kost op onze [tarieven](/tarieven).

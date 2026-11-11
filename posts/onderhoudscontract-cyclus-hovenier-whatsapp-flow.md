@@ -62,7 +62,7 @@ Automatiseren zonder meten is gokken met een net iets mooiere interface. Houd da
 
 Het tweede is je **no-recall lekkage**: hoeveel contractklanten kregen dit seizoen géén trigger omdat hun klantkaart niet compleet was? Dat cijfer hoort nul te zijn. Elke klant die door een leeg datumveld geen bericht kreeg, is de klant die volgend jaar stilletjes opzegt. Precies dat lek dicht je met deze cyclus.
 
-Wil je weten hoe groot dat lek bij jou nu is, dan is een [gratis ai scan voor hoveniers](/gratis-scan) de snelste manier om het zichtbaar te maken: die laat zien welke terugkerende omzet je laat liggen. Onze managed service draait de complete cyclus voor je, met een Groei-of-Geld-Terug Garantie, zodat het systeem zichzelf moet bewijzen voordat het iets kost.
+Wil je weten hoe groot dat lek bij jou nu is, dan is een [gratis ai scan voor hoveniers](/gratis-scan) de snelste manier om het zichtbaar te maken: die laat zien welke terugkerende omzet je laat liggen.
 
 ## Veelgestelde vragen
 

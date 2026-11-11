@@ -95,4 +95,4 @@ Dan noteer je dat en vraag je het volgend seizoen nog één keer, met een andere
 
 Als je vandaag één ding zou veranderen: leg bij elke oplevering vast wanneer het eerste onderhoudsmoment valt. Niets anders. Zonder die aantekening heeft geen enkel systeem iets om op af te gaan, en mét die aantekening kun je de rest later automatiseren.
 
-Wij richten bij HovenierAI die keten in één keer in. Dat betekent [klantcommunicatie automatiseren als hovenier](/automatisering) vanaf de oplevering, een klantkaart die het moment onthoudt, en berichten die op tijd de deur uit gaan zonder dat jij eraan denkt. Wat dat kost staat op onze pagina over [wat ai voor hoveniers kost](/tarieven). Met onze Groei-of-Geld-Terug Garantie, want jij maakt tuinen mooi, wij regelen de rest.
+Wij richten bij HovenierAI die keten in één keer in. Dat betekent [klantcommunicatie automatiseren als hovenier](/automatisering) vanaf de oplevering, een klantkaart die het moment onthoudt, en berichten die op tijd de deur uit gaan zonder dat jij eraan denkt. Wat dat kost staat op onze pagina over [wat ai voor hoveniers kost](/tarieven).

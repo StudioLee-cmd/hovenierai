@@ -117,6 +117,5 @@ Bij HovenierAI helpen we MKB-hoveniers hun klanttevredenheids-systeem opzetten e
 - Een Promoter-flow die direct doorzet naar de Google-review-aanvraag via [reviews voor hoveniers](/reviews)
 - Een dashboard dat per kwartaal je NPS-score laat zien plus de top-3 verbeterpunten uit de Detractor-feedback
 - Een [chatbot voor hoveniers](/chatbot) die de "Alles top!" antwoorden automatisch opvolgt met review-link
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor hoveniers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).

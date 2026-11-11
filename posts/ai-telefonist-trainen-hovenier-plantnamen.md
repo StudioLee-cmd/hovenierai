@@ -111,4 +111,4 @@ Vaak wel, en dat is geen probleem zolang het gesprek soepel loopt en er iets con
 
 Hoeveel data heb je nodig? Twintig tot dertig recente aanvragen, tien offertes, je agenda-regels en je tien meest gestelde vragen. Plus die ene lijst die niemand anders voor je kan maken: de plantnamen, vaktermen en plaatsnamen die jouw bellers gebruiken. Dat is een middag werk, en het is het verschil tussen een telefonist die aardig klinkt en een telefonist die aanvragen aflevert waar je maandagochtend mee vooruit kunt.
 
-Jij maakt tuinen mooi, wij regelen de rest. Wil je weten wat dit voor jouw bedrijf kost en wat je ervoor terugkrijgt, bekijk dan [wat ai voor hoveniers kost](/tarieven). Met de Groei-of-Geld-Terug Garantie van HovenierAI zit je nergens aan vast als het je niets oplevert.
+Jij maakt tuinen mooi, wij regelen de rest. Wil je weten wat dit voor jouw bedrijf kost en wat je ervoor terugkrijgt, bekijk dan [wat ai voor hoveniers kost](/tarieven).

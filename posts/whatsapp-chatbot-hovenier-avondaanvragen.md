@@ -68,6 +68,6 @@ Dat hoort hij gewoon te weten. Een eerlijke begroeting ("je krijgt zo even een p
 
 ## Begin met de aanvragen die je nu al mist
 
-Jij maakt tuinen mooi, wij regelen de rest. Een WhatsApp-chatbot is geen luxe gadget, maar het verschil tussen een avondaanvraag die binnenkomt en een avondaanvraag die blijft hangen. Wil je weten hoeveel aanvragen jouw bedrijf nu buiten kantooruren laat liggen, vraag dan een [gratis ai scan voor hoveniers](/gratis-scan) aan. HovenierAI laat je zien waar de lekken zitten en wat een [ai chatbot voor jouw hovenier](/chatbot) realistisch oplevert. Werkt het niet zoals beloofd, dan geldt onze Groei-of-Geld-Terug Garantie. Gevonden worden als mensen een hovenier zoeken, dat is het doel, ook om half negen 's avonds.
+Jij maakt tuinen mooi, wij regelen de rest. Een WhatsApp-chatbot is geen luxe gadget, maar het verschil tussen een avondaanvraag die binnenkomt en een avondaanvraag die blijft hangen. Wil je weten hoeveel aanvragen jouw bedrijf nu buiten kantooruren laat liggen, vraag dan een [gratis ai scan voor hoveniers](/gratis-scan) aan. HovenierAI laat je zien waar de lekken zitten en wat een [ai chatbot voor jouw hovenier](/chatbot) realistisch oplevert. Gevonden worden als mensen een hovenier zoeken, dat is het doel, ook om half negen 's avonds.
 
 <div style="background-color: rgba(193, 255, 114, 0.18); padding: 12px 18px; border-radius: 8px; margin: 28px 0;"><strong>Lees ook:</strong> <a href="/chatbot">Bekijk hoe de AI chatbot voor hoveniers werkt</a> →</div>

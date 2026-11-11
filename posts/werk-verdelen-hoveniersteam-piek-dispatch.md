@@ -70,7 +70,7 @@ Je hoeft dit niet in één keer perfect te maken. Bouw het op in vijf stappen:
 
 Reken het eens om. Een kwartier ochtend-discussie per dag is over een piekseizoen van acht maanden al gauw veertig uur, een volle werkweek die je kwijt bent aan puzzelen wat een systeem in seconden doet. Tel daar de dubbele ritten bij op, de gemiste klussen door miscommunicatie, en de klanten die afhaken omdat niemand kwam opdagen. Dat zijn de echte kosten van planning op gevoel, en ze lopen op naarmate je groeit. Wat een gestructureerde dispatch je aan tijd en marge teruggeeft, zie je terug in je [tarieven](/tarieven)-rekensom: minder verloren uren betekent meer productieve uren tegen hetzelfde loon.
 
-Wil je AI en automatisering voor je hoveniersbedrijf inzetten, dan werken we met een **Groei-of-Geld-Terug Garantie**: levert het je binnen de afgesproken periode geen aantoonbare groei op, dan krijg je je investering terug. Zo ligt het risico bij ons, niet bij jou.
+Zo ligt het risico bij ons, niet bij jou.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/overbooking-hovenier-slim-plannen-volle-werkweek" class="text-dark fw-semibold">Overbooking als hovenier: slim plannen voor een volle werkweek</a> →</p></div></div></div>
 

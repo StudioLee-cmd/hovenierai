@@ -111,7 +111,7 @@ Je hoeft niet alles tegelijk te doen. Begin klein en bouw op:
 
 Social media is geen luxe meer voor hoveniers — het is een noodzaak. De hovenier die vandaag investeert in online zichtbaarheid, plukt daar morgen de vruchten van. En met AI-tools is het eenvoudiger dan ooit om professioneel aanwezig te zijn zonder er uren per dag aan te besteden.
 
-Met HovenierAI krijg je een complete online marketingoplossing — inclusief social media ondersteuning. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met HovenierAI krijg je een complete online marketingoplossing — inclusief social media ondersteuning. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek wat social media voor jouw hovenier kan betekenen.
 

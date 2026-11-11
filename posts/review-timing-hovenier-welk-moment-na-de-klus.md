@@ -122,6 +122,6 @@ Het beste moment om een review te vragen bestaat niet als los antwoord. Bij de o
 
 Begin daarom niet met de vraag welk moment het beste is, maar met de vraag bij hoeveel klussen er op dit moment helemaal niets wordt gevraagd. Dat gat dichten levert meer op dan welke optimalisatie van het moment ook. Zodra dat staat, verschuif je het accent naar het nazorgmoment, want daar zitten de reviews die over de tuin gaan in plaats van over het opruimen.
 
-Wil je weten hoe je bedrijf er nu voor staat en welke momenten je nog laat liggen? Vraag een [gratis ai scan voor hoveniers](/gratis-scan) aan. Je krijgt een overzicht van je huidige review-profiel en de plekken waar de meeste aanvragen blijven liggen, inclusief de Groei-of-Geld-Terug Garantie op het traject dat daaruit volgt.
+Wil je weten hoe je bedrijf er nu voor staat en welke momenten je nog laat liggen? Vraag een [gratis ai scan voor hoveniers](/gratis-scan) aan.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/review-respons-automatiseren-hovenier" class="text-dark fw-semibold">Review-respons automatiseren met AI-templates voor hoveniers</a> →</p>

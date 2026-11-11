@@ -3,7 +3,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
-import { getAllPosts, getPostBySlug, getPostHtml } from '@/utils/posts';
+import { getAllPosts, getPostBySlug, getPostHtml, getRelatedPosts } from '@/utils/posts';
 import { getAuthorBySlug } from '@/data/authors';
 import { siteDetails } from '@/data/siteDetails';
 import Container from '@/components/Container';
@@ -57,6 +57,7 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
 
     const contentHtml = await getPostHtml(slug);
     const author = getAuthorBySlug(post.authorSlug);
+    const related = getRelatedPosts(slug);
 
 
     const postUrl = `${SITE_URL}/blog/${slug}`;
@@ -149,6 +150,22 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
                     </div>
 
                     <BlogContent content={contentHtml} />
+
+                    {related.length > 0 && (
+                        <nav aria-labelledby="verder-lezen" className="mt-12 pt-8 border-t border-[var(--card-border)]">
+                            <h2 id="verder-lezen" className="text-2xl font-bold mb-6 text-[var(--foreground)]">Verder lezen</h2>
+                            <ul className="grid gap-4 md:grid-cols-2">
+                                {related.map((item) => (
+                                    <li key={item.slug}>
+                                        <Link href={`/blog/${item.slug}`} className="block h-full p-5 bg-[var(--card-background)] rounded-2xl border border-[var(--card-border)] hover:border-[var(--secondary)] transition-colors">
+                                            <span className="block font-semibold text-[var(--foreground)] mb-2">{item.title}</span>
+                                            <span className="block text-sm text-[var(--foreground-accent)]">{item.excerpt}</span>
+                                        </Link>
+                                    </li>
+                                ))}
+                            </ul>
+                        </nav>
+                    )}
 
                     {author && (
                         <div className="mt-12 p-6 bg-[var(--card-background)] rounded-2xl border border-[var(--card-border)]">

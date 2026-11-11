@@ -158,8 +158,7 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
                                 {related.map((item) => (
                                     <li key={item.slug}>
                                         <Link href={`/blog/${item.slug}`} className="block h-full p-5 bg-[var(--card-background)] rounded-2xl border border-[var(--card-border)] hover:border-[var(--secondary)] transition-colors">
-                                            <span className="block font-semibold text-[var(--foreground)] mb-2">{item.title}</span>
-                                            <span className="block text-sm text-[var(--foreground-accent)]">{item.excerpt}</span>
+                                            <span className="block font-semibold text-[var(--foreground)]">{item.title}</span>
                                         </Link>
                                     </li>
                                 ))}

@@ -26,16 +26,12 @@ const ScanForm = ({ onStartScan }: { onStartScan: (data: any) => void }) => {
     // niet voorgevinkt: een vakje dat al aanstaat is geen toestemming die iemand gaf
     const [optin, setOptin] = useState(false);
 
-    // Pre-fill effect
+    // Pre-fill: alleen de website, nooit naam of e-mail. Een link naar deze pagina hoeft dus
+    // geen persoonsgegevens te dragen (AVG: geen e-mail of naam in URL's, logs en referrers).
     useEffect(() => {
         if (searchParams) {
-            const pName = searchParams.get('firstName');
             const pWebsite = searchParams.get('website');
-            const pEmail = searchParams.get('email');
-
-            if (pName) setName(pName);
             if (pWebsite) setWebsite(pWebsite);
-            if (pEmail) setEmail(pEmail);
         }
     }, [searchParams]);
 

@@ -20,8 +20,7 @@ const SetupSupport: React.FC = () => {
             </div>
 
             <Link
-                href="https://cal.com/studiolee"
-                target="_blank"
+                href="/demo"
                 className="flex-shrink-0 w-full md:w-auto bg-blue-600 hover:bg-blue-700 dark:bg-[var(--secondary)] dark:hover:bg-orange-600 text-white font-semibold py-4 px-8 rounded-full transition-all transform hover:scale-105 shadow-md flex items-center justify-center gap-2 group"
             >
                 Plan Gratis Setup Call

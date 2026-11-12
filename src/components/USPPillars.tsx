@@ -15,30 +15,30 @@ import { motion } from 'framer-motion';
 // een VIJFDE kaart zou ⛔3 zijn.
 const pillars = [
     {
-        title: "De Omzet Generator",
-        subtitle: "(Capture)",
-        description: "Mis nooit meer een klus van €500+ omdat je bezig was. Voice AI & SMS vangt elke lead, 24/7.",
+        title: "Je planning blijft vol",
+        subtitle: "Meer afspraken",
+        description: "Elke beller wordt te woord gestaan en elke aanvraag komt in je agenda — ook als jij met je handen in de aarde zit.",
         icon: <FiTrendingUp size={32} />,
         pillarLinks: [{ href: "/voice-ai", anchor: "ai telefonist voor hoveniers" }, { href: "/chatbot", anchor: "ai chatbot voor hoveniers" }],
     },
     {
-        title: "De Reputatie Bouwer",
-        subtitle: "(Authority)",
-        description: "Rank beter in Google en AI met onze Content AI. Door slimme artikelen en reviews ben je altijd vindbaar voor nieuwe klanten.",
+        title: "Nieuwe klanten vinden je",
+        subtitle: "Beter gevonden",
+        description: "Je komt boven in Google én in de AI-assistenten waar mensen tegenwoordig zoeken, met teksten en reviews die vanzelf blijven komen.",
         icon: <FiStar size={32} />,
         pillarLinks: [{ href: "/seo", anchor: "seo voor hoveniers" }, { href: "/reviews", anchor: "review management voor hoveniers" }],
     },
     {
-        title: "De Tijd Bespaarder",
-        subtitle: "(Admin)",
-        description: "Bespaar 10 uur per week én dure fotografen. De AI beantwoordt vragen, voorkomt no-shows en maakt professionele beelden zonder camera.",
+        title: "Je avond is weer van jou",
+        subtitle: "Minder gedoe",
+        description: "Vragen, herinneringen, facturen en nieuwe beelden van je werk lopen door zonder dat jij er 's avonds voor gaat zitten.",
         icon: <FiClock size={32} />,
         pillarLinks: [{ href: "/automatisering", anchor: "workflow automatisering voor hoveniers" }, { href: "/crm", anchor: "crm voor hoveniers" }],
     },
     {
         title: "Je website houdt zichzelf bij",
-        subtitle: "(Website)",
-        description: "Een echt mooie website die zichzelf bijwerkt. Staat er over een jaar nóg goed bij, zonder dat jij 'm bijhoudt.",
+        subtitle: "Website",
+        description: "Een echt mooie website die zichzelf bijwerkt. Staat er over een jaar nóg goed bij, zonder dat jij 'm bijhoudt. Wij maken websites voor hoveniers en houden ze bij.",
         icon: <FiGlobe size={32} />,
         pillarLinks: [{ href: "/gratis-website", anchor: "gratis website voor hoveniers" }],
     }

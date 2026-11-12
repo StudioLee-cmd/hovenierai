@@ -13,10 +13,11 @@ export const menuItems: IMenuItem[] = [
         text: "Wat we doen",
         url: "#",
         children: [
+            { text: "Je website", url: "/gratis-website" },
             { text: "Chatbot op je site", url: "/chatbot" },
             { text: "Telefoon die opneemt", url: "/voice-ai" },
+            { text: "Terugbelagent", url: "/terugbellen" },
             { text: "Marketing die vanzelf loopt", url: "/automatisering" },
-            { text: "Je website", url: "/gratis-website" },
         ]
     },
     {

@@ -5,7 +5,7 @@ date: "2026-04-22"
 cluster: "branding"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hovenier-branding-jaarcontracten-klanten-binden.jpg"
-tags: ["Klantbehoud"]
+tags: ["Branding", "Jaarcontracten"]
 ---
 Een hovenierbedrijf met sterke branding herken je van een kilometer afstand: het busje met een consistente kleur, de medewerkers in dezelfde werkkleding, het bord op de werklocatie, de Instagram-foto's met dezelfde filter. En dat is geen ijdelheid, dat zijn de fundamenten van een bedrijf dat niet van klus tot klus rondbreekt, maar jaarcontracten en doorlopende onderhoudsabonnementen afsluit.
 

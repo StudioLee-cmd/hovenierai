@@ -5,7 +5,7 @@ date: "2026-07-21"
 excerpt: "De vragensectie op je Google Bedrijfsprofiel is verdwenen. Waar je seizoens-, prijs- en aanvraagantwoorden nu moeten staan om gevonden te worden."
 image: "/images/blog/google-qa-sectie-hovenier.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Google Bedrijfsprofiel"]
+tags: ["Vindbaarheid", "Lokale SEO"]
 cluster: "vindbaarheid"
 ---
 

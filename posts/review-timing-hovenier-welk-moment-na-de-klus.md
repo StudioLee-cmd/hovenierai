@@ -5,7 +5,7 @@ date: "2026-07-29"
 excerpt: "Vraag je om een review bij de oplevering, bij de factuur of pas als de tuin is aangeslagen? Zo kies je het moment dat bij jouw werk past."
 image: "/images/blog/review-timing-hovenier-welk-moment-na-de-klus.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Klantcommunicatie"]
+tags: ["Klantcommunicatie", "Google"]
 cluster: "reviews"
 ---
 

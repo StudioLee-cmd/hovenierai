@@ -4,7 +4,7 @@ excerpt: "Zo wordt jouw hoveniersbedrijf genoemd door ChatGPT, Perplexity en Goo
 date: "2026-04-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hovenier-vindbaar-chatgpt-ai-search.jpg"
-tags: ["Vindbaarheid", "AI Search", "AI"]
+tags: ["AI Search", "ChatGPT"]
 cluster: "vindbaarheid"
 ---
 

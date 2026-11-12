@@ -5,7 +5,7 @@ date: "2026-04-03"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-strategie-hovenier.jpg"
-tags: ["Reviews", "Strategie"]
+tags: ["Reviews", "Review strategie"]
 ---
 ## Het visuele voordeel van hoveniers bij reviews
 

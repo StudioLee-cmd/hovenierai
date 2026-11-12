@@ -4,7 +4,7 @@ excerpt: "Ontdek waarom steeds meer hoveniers stoppen met Werkspot en kiezen voo
 date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/werkspot-alternatief-hovenier.jpg"
-tags: ["Vergelijking", "Groei"]
+tags: ["Vergelijking", "Werkspot"]
 cluster: "automatisering"
 ---
 ## Het Werkspot-model: wat het je echt kost

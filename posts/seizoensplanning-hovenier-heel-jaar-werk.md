@@ -5,7 +5,7 @@ excerpt: "Lente en zomer druk, herfst en winter rustig? Zo spreid je als hovenie
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/seizoensplanning-hovenier-heel-jaar-werk.png"
-tags: ["Bedrijfsvoering", "Planning"]
+tags: ["Seizoensplanning"]
 cluster: "automatisering"
 ---
 ## Het seizoensritme van hoveniers

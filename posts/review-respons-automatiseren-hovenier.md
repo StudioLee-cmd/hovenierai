@@ -5,7 +5,7 @@ date: "2026-07-14"
 excerpt: "Reacties op je Google reviews stapelen op na een drukke week. Zo beantwoord je positieve en kritische tuinproject-reviews met AI-templates binnen een uur."
 image: "/images/blog/review-respons-automatiseren-hovenier.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Automatisering", "AI"]
+tags: ["Reviews", "Automatisering"]
 cluster: "reviews"
 ---
 

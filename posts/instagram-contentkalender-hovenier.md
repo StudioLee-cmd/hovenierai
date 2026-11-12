@@ -5,7 +5,7 @@ date: "2026-06-29"
 excerpt: "Nooit meer twijfelen wat je post. Een kant-en-klare 30-dagen Instagram contentkalender voor hoveniers, met seizoensformats die echt tuinklussen opleveren."
 image: "/images/blog/instagram-contentkalender-hovenier.jpg"
 authorSlug: tim-van-der-lee
-tags: ["Social Media", "Instagram"]
+tags: ["Instagram", "Contentplanning"]
 cluster: social-media
 ---
 

@@ -5,7 +5,7 @@ date: "2026-05-31"
 excerpt: "Drone-foto en -video verkopen tuinprojecten beter dan elke ground-shot. Wanneer koop je zelf, wanneer huur je in, en hoe maak je er meer klussen mee."
 image: "/images/blog/drone-content-hovenier-meer-tuinklussen-video.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Marketing"]
+tags: ["Social Media", "Video", "Drone"]
 cluster: "social-media"
 ---
 

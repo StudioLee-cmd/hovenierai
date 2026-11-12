@@ -5,7 +5,7 @@ date: "2026-05-13"
 excerpt: "Voorjaarspiek als hovenier: 5-stappen-strategie om je agenda in maart en april vol te krijgen zonder no-shows of overwerken."
 image: "/images/blog/voorjaarspiek-hovenier-agenda-strategie-maart-april.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Seizoenswerk", "Planning"]
+tags: ["Seizoenswerk", "Voorjaar"]
 cluster: "automatisering"
 ---
 

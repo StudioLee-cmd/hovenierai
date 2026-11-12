@@ -5,7 +5,7 @@ date: "2026-04-16"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nfc-review-kaart-hovenier-google-reviews.jpg"
-tags: ["Reviews", "Google"]
+tags: ["Reviews", "NFC"]
 ---
 ## Waarom hoveniers met een NFC review kaart meer sterren oogsten
 

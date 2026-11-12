@@ -5,7 +5,7 @@ date: "2026-04-21"
 cluster: "branding"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verduurzaming-hovenier-wat-klanten-voor-betalen.jpg"
-tags: []
+tags: ["Verduurzaming"]
 ---
 "Verduurzaming" is voor veel hoveniers een gevoelig woord geworden. Elke klant zegt dat hij duurzaam wil, drie van de vier laten zich door de offerte-prijs overtuigen om toch voor de kunstgras te gaan. Intussen is de markt voor echt duurzame tuinen aan het verschuiven: klimaatadaptatie, waterberging, insectenvriendelijke beplanting — er zijn klanten die hier wél hard voor betalen, en er zijn diensten die juist commercieel weinig opleveren.
 

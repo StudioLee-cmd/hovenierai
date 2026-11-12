@@ -5,7 +5,7 @@ date: "2026-05-25"
 excerpt: "Een 30-minuten audit-protocol om maandelijks te meten of ChatGPT, Perplexity en AI Overviews jouw hoveniersbedrijf noemen, en wat je met de uitslag doet."
 image: "/images/blog/ai-search-audit-hoveniers-chatgpt-meting.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["AI Search", "Vindbaarheid", "AI"]
+tags: ["AI Search", "ChatGPT", "Audit"]
 cluster: "vindbaarheid"
 ---
 

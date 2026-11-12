@@ -5,7 +5,7 @@ date: "2026-07-15"
 excerpt: "Urenregistratie voor hoveniers laat zien welke tuinen echt winst maken. Zo houd je je uren per project bij en bereken je een eerlijk uurtarief."
 image: "/images/blog/urenregistratie-hovenier.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Marge", "Automatisering"]
+tags: ["Urenregistratie", "Marge"]
 cluster: "automatisering"
 ---
 

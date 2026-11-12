@@ -7,7 +7,7 @@ excerpt: "Tuinen hebben het hele jaar onderhoud nodig. Met email marketing herin
 image: "/images/blog/email-marketing-hovenier-seizoenstips.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["Marketing", "Automatisering"]
+tags: ["Email marketing"]
 cluster: "automatisering"
 ---
 ## Waarom email marketing werkt voor hoveniers

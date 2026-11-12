@@ -5,7 +5,7 @@ date: "2026-11-12"
 excerpt: "Je werktijden schuiven mee met het seizoen, je website vaak niet. Zo leg je als hovenier je seizoensuren vast met schema markup en test je of het klopt."
 image: "/images/blog/schema-markup-hovenier-seizoensuren.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid"]
+tags: ["Schema markup"]
 cluster: "vindbaarheid"
 ---
 

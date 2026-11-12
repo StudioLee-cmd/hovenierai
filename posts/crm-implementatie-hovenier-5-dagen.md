@@ -5,7 +5,7 @@ date: "2026-07-01"
 excerpt: "CRM-implementatie als hovenier hoeft geen half jaar te duren. Een dag-voor-dag roadmap die je systeem in 5 dagen live zet, buiten je voorjaarspiek om."
 image: "/images/blog/crm-implementatie-hovenier-5-dagen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["CRM", "Automatisering"]
+tags: ["CRM", "Klantbeheer"]
 cluster: "automatisering"
 ---
 Een border leg je niet aan in de vrieskou en ook niet midden in de zomerdroogte. Je bereidt de grond voor in het juiste seizoen, want doe je het op het verkeerde moment, dan overleeft er niks en heb je twee keer werk. Met een CRM invoeren is het precies zo. De meeste hoveniers proberen het er in maart even bij te doen, precies als de aanvragen binnenstromen, en dan strandt het na een week omdat er simpelweg geen tijd is. Niet omdat het systeem niet deugt, maar omdat het moment niet deugt.

@@ -5,7 +5,7 @@ date: "2026-07-20"
 excerpt: "Een spoedtarief dat je pas op de factuur noemt is geen tarief maar een discussie. Zo bepaal je je avondtarief en zeg je het op het juiste moment."
 image: "/images/blog/spoedtarief-hovenier-avondtarief-uitleggen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bedrijfsvoering"]
+tags: ["Voice AI", "Tarieven"]
 cluster: "voice-ai"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-08-01"
 excerpt: "Lokaal adverteren als hovenier zonder groot budget. Waar je geld op zet, waar niet, en wat er klaar moet staan voordat je de campagne aanzet."
 image: "/images/blog/facebook-advertenties-hovenier-klein-budget.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Leads"]
+tags: ["Social Media", "Adverteren"]
 cluster: "social-media"
 ---
 

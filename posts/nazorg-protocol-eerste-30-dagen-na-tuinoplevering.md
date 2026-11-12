@@ -6,7 +6,7 @@ date: "2026-04-25"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nazorg-protocol-eerste-30-dagen-na-tuinoplevering.jpg"
-tags: ["Nazorg", "Klanttevredenheid"]
+tags: ["Nazorg", "Tuinaanleg"]
 ---
 Drie weken nadat je de tuin hebt opgeleverd belt een klant die je goed kent. Toen je de auto inpakte na oplevering was hij dolblij — hij had foto's gemaakt, omhelsd je medewerker, gezegd dat hij je ging aanbevelen aan zijn buren. Vandaag klinkt zijn stem anders. Drie hortensia's lijken dood, het hagebeukhaag dat je net plantte heeft hier en daar bruine blaadjes, en het kant-en-klaar gras heeft een paar plekken die een vreemde geel-bruine kleur hebben. Hij vraagt of je gratis komt om dit op te lossen, en je hoort onderliggend de zin "anders ga ik dit op Google review zetten".
 

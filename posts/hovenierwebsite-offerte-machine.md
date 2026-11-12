@@ -6,7 +6,7 @@ excerpt: "De meeste hovenierwebsites zijn mooi maar leveren weinig aanvragen op.
 image: "/images/blog/hovenierwebsite-offerte-machine.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["Website", "Offertes"]
+tags: ["Website", "Conversie"]
 cluster: "website"
 ---
 ## Waarom de meeste hovenierwebsites te weinig opleveren

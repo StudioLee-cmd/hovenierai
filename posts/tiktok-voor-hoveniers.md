@@ -5,7 +5,7 @@ date: "2026-06-30"
 excerpt: "Werkt TikTok echt voor een lokale hovenier? Ja, mits je het slim aanpakt. Welke tuinvideos klussen opleveren en hoe je de stroom aanvragen daarna opvangt."
 image: "/images/blog/tiktok-voor-hoveniers.jpg"
 authorSlug: tim-van-der-lee
-tags: ["Social Media", "Marketing"]
+tags: ["TikTok", "Videomarketing"]
 cluster: social-media
 ---
 

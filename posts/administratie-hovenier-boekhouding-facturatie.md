@@ -5,7 +5,7 @@ excerpt: "Ontdek hoe je als hovenier je administratie slim regelt, ook in het dr
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/administratie-hovenier-boekhouding-facturatie.jpg"
-tags: ["Efficiëntie", "Tools"]
+tags: ["Administratie", "Efficiëntie"]
 cluster: "automatisering"
 ---
 ## Waarom administratie voor hoveniers belangrijk is

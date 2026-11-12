@@ -5,7 +5,7 @@ date: "2026-04-12"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-hovenier-invullen.jpg"
-tags: ["Vindbaarheid", "Google", "Groei"]
+tags: ["Vindbaarheid", "Google"]
 ---
 ## Waarom je Google profiel belangrijker is dan je visitekaartje
 

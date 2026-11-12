@@ -60,7 +60,7 @@ const BlogPage = async () => {
         <div className="py-24 bg-[var(--background)]">
             <Container>
                 <div className="mb-12 text-center">
-                    <h1 className="text-4xl md:text-5xl font-bold mb-4 text-[var(--foreground)]">Waarom Kiezen Voor HovenierAI</h1>
+                    <h1 className="text-4xl md:text-5xl font-bold mb-4 text-[var(--foreground)]">Blog over AI voor {siteDetails.niche.toLowerCase()}</h1>
                     <p className="text-xl text-[var(--foreground-accent)] max-w-2xl mx-auto">
                         Het laatste nieuws, tips en inzichten over AI voor hoveniers en hoveniersbedrijven.
                     </p>

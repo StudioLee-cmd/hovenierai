@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next'
 import { getAllPosts } from '@/utils/posts'
+import { postLastmod } from '@/utils/lastmod'
 import { authors } from '@/data/authors'
 
 // ─── SITEMAP-LASTMOD:START — gegenereerd door alpha1/scripts/sitemap_lastmod.py (niet met de hand bewerken)
@@ -78,7 +79,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     // Individual blog posts — true per-article lastmod
     const blogRoutes = posts.map((post) => ({
         url: `${baseUrl}/blog/${post.slug}`,
-        lastModified: new Date(post.date),
+        lastModified: postLastmod(post),
         changeFrequency: 'yearly' as const,
         priority: 0.6,
     }))

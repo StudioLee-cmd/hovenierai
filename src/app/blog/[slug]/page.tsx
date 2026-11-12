@@ -121,7 +121,7 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
                     </div>
                 </div>
 
-                <div className="max-w-3xl mx-auto">
+                <div data-article-body className="max-w-3xl mx-auto" style={{ overflowWrap: 'break-word', hyphens: 'auto' }}>
                     <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-6 text-[var(--foreground)] leading-tight">
                         {post.title}
                     </h1>
@@ -152,9 +152,7 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
                         </div>
                     </div>
 
-                    <div data-article-body style={{ overflowWrap: 'break-word', hyphens: 'auto' }}>
-                        <BlogContent content={contentHtml} />
-                    </div>
+                    <BlogContent content={contentHtml} />
 
                     <ArticleScanCta />
 

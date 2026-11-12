@@ -33,6 +33,8 @@ export const ezidaPlan = {
     "Automatiseringen",
     "Een extra kanaal",
     "Zoekwoordenonderzoek",
-    "Vragen over je boekhouding"
+    "Vragen over je boekhouding",
+    "100 blogs volledig verzorgd",
+    "Beeld en video, door ons gemaakt"
   ]
 } as const;

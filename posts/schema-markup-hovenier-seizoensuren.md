@@ -3,7 +3,7 @@ title: "Schema markup hovenier: seizoensuren in het zoekresultaat"
 slug: schema-markup-hovenier-seizoensuren
 date: "2026-11-12"
 excerpt: "Je werktijden schuiven mee met het seizoen, je website vaak niet. Zo leg je als hovenier je seizoensuren vast met schema markup en test je of het klopt."
-image: "/images/blog/google-bedrijfsprofiel-hovenier-invullen.jpg"
+image: "/images/blog/schema-markup-hovenier-seizoensuren.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Vindbaarheid"]
 cluster: "vindbaarheid"
@@ -124,6 +124,8 @@ Code die je niet test, werkt vaak niet. Gelukkig is controleren gratis en snel.
 Doe de controle ook na elke wijziging aan je openingstijden. Een verkeerd geplaatste komma maakt het hele blok onleesbaar.
 
 ## Een vast moment per seizoen
+
+![Een vast moment per seizoen](/images/blog/schema-markup-hovenier-seizoensuren-2.jpg)
 
 Schema markup is geen klus van één keer, maar wel een kleine. Het werk zit vooral in de eerste keer: het juiste type, de juiste gegevens, de seizoensblokken. Daarna is het twee keer per jaar een kort klusje: datums vooruit zetten, tijden checken, testen.
 

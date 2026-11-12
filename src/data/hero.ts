@@ -23,6 +23,6 @@ export const heroDetails = {
         { before: 'draaiend', accent: '', after: '' },
         { before: '', accent: 'opgeleverd', after: '.' },
     ],
-    subheading: 'Voor hoveniersbedrijven die geen tijd hebben om er zelf achteraan te zitten. Je website, je telefoon, je afspraken en je vindbaarheid staan aan vanaf de eerste dag, en blijven aan zonder dat jij eraan denkt.',
+    subheading: "Wij maken de website voor jouw hoveniersbedrijf. Chatbot, telefoon en marketing sluit je erop aan via je pakket, zodat jij kunt doen waar je goed in bent.",
     centerImageSrc: '/images/hero-mockup.webp',
 }

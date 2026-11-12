@@ -1,3 +1,4 @@
+import EzidaPlanFrame from "@/components/EzidaPlanFrame";
 import type { Metadata } from "next";
 import { siteDetails } from "@/data/siteDetails";
 import FreeTrialContent from "./FreeTrialContent";
@@ -17,5 +18,10 @@ export const metadata: Metadata = {
 };
 
 export default function FreeTrialPage() {
-  return <FreeTrialContent />;
+  return (
+    <>
+      <FreeTrialContent />
+      <EzidaPlanFrame />
+    </>
+  );
 }

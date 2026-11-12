@@ -5,7 +5,7 @@ date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoveniersaanvragen-kwalificeren-snel-triage.jpg"
 cluster: "automatisering"
-tags: ["Lead Opvolging", "Kwalificatie", "Hovenier Operaties"]
+tags: ["Lead opvolging"]
 ---
 Een hovenier in het hoogseizoen krijgt 30 aanvragen per week. De helft is serieus en converteert mogelijk naar een offerte. De andere helft zijn buurmanvergelijkers, prijs-shoppers, of mensen die nog niet weten wat ze willen. Tijd kwijt aan beide groepen is gelijk. Maar het verschil tussen 30 oppervlakkige opvolgingen en 15 diepgaande gesprekken met serieuze leads is enorm voor je conversie. Dit artikel laat zien hoe je in 5 minuten per aanvraag bepaalt of het een serieuze lead is, en hoe je je tijd vervolgens richt op de mensen die echt willen.
 

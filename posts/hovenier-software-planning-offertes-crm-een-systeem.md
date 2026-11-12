@@ -5,7 +5,7 @@ date: "2026-05-14"
 excerpt: "Hovenier-software vergelijken: alles-in-één vs losse tools voor planning, offertes en klantbeheer. Eval-criteria en investerings-keuze."
 image: "/images/blog/hovenier-software-planning-offertes-crm-een-systeem.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Software", "Vergelijking", "Tools", "Alles-in-één", "Hovenier"]
+tags: ["Software", "Vergelijking"]
 cluster: "automatisering"
 ---
 **In het kort:**

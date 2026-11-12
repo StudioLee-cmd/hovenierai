@@ -5,7 +5,7 @@ date: "2026-07-10"
 excerpt: "Meer aanvragen uit Instagram als hovenier: bouw een carrousel van 10 slides rond een tuinproject, van voor-foto tot aanvraag op slide 10."
 image: "/images/blog/instagram-carousel-hovenier-voor-na-10-slides.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Instagram", "Social Media", "Leadgeneratie"]
+tags: ["Instagram", "Social Media"]
 cluster: "social-media"
 ---
 

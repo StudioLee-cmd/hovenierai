@@ -5,7 +5,7 @@ date: "2026-07-09"
 excerpt: "Automatiseer de onderhoudscontract-cyclus als hovenier en haal contractklanten 3x per jaar terug met een vaste WhatsApp-flow in voorjaar, nazomer en herfst."
 image: "/images/blog/onderhoudscontract-cyclus-hovenier-whatsapp-flow.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Onderhoudscontracten", "WhatsApp", "Klantcommunicatie"]
+tags: ["Automatisering", "WhatsApp"]
 cluster: "automatisering"
 ---
 

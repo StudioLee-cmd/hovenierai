@@ -5,7 +5,7 @@ date: "2026-05-12"
 excerpt: "Klanttevredenheid meten als hovenier in 3 simpele methodes na elke opdracht: NPS-vraag, foto-feedback en 30-dagen check-in voor sterke reviews."
 image: "/images/blog/klanttevredenheid-meten-hoveniers-3-methodes.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Nazorg", "Klanttevredenheid", "Feedback", "Reviews", "Hovenier"]
+tags: ["Nazorg", "Klanttevredenheid"]
 cluster: "automatisering"
 ---
 

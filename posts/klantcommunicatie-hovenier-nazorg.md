@@ -5,7 +5,7 @@ excerpt: "Leer hoe je als hovenier met goede communicatie klanten behoudt en aan
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantcommunicatie-hovenier-nazorg.png"
-tags: ["Communicatie", "Klantrelatie", "Nazorg"]
+tags: ["Klantcommunicatie", "Nazorg"]
 cluster: "automatisering"
 ---
 ## Waarom communicatie klanten behoudt

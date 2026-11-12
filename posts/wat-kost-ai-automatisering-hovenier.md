@@ -4,7 +4,7 @@ excerpt: "Wat kost AI-automatisering voor een hoveniersbedrijf echt? Een eerlijk
 date: "2026-05-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wat-kost-ai-automatisering-hovenier.jpg"
-tags: ["Kosten", "ROI", "Automatisering"]
+tags: ["Kosten", "Automatisering", "AI"]
 cluster: "automatisering"
 ---
 Je staat op een ladder een leiboom te snoeien en je telefoon gaat. Voor de derde keer die ochtend. Je kunt niet opnemen, dus de aanvraag verdwijnt naar de hovenier die wel opnam. 's Avonds zie je drie gemiste oproepen en een vol mailtje met offerteverzoeken die je morgen "echt even" gaat oppakken. Klinkt bekend?

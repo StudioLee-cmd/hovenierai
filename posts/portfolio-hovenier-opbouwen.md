@@ -5,7 +5,7 @@ date: "2026-04-05"
 cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/portfolio-hovenier-opbouwen.jpg"
-tags: ["Portfolio", "Hovenier", "Marketing"]
+tags: ["Marketing", "Website"]
 ---
 ## Een foto zegt meer dan duizend woorden
 

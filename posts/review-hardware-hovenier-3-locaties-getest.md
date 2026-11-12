@@ -5,7 +5,7 @@ date: "2026-07-07"
 excerpt: "NFC-kaart op de offertemap, QR op de bestelwagen of sticker op de schuurdeur? Drie plekken getest, geteld welke de meeste Google reviews oplevert."
 image: "/images/blog/review-hardware-hovenier-3-locaties-getest.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Google reviews", "Hoveniers"]
+tags: ["Reviews"]
 cluster: "reviews"
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Vastgoedbeheerders willen grip, geen telefoontjes. Zo werkt een eigen 
 date: "2026-02-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elite-hovenier-app.png"
-tags: ["Elite Plan", "Client App", "Innovatie"]
+tags: ["Innovatie", "Automatisering"]
 cluster: "automatisering"
 ---
 

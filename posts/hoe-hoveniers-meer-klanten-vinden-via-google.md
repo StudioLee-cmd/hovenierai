@@ -4,7 +4,7 @@ excerpt: "Tuineigenaren zoeken hun hovenier steeds vaker online. Wie gevonden wo
 date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-hoveniers-meer-klanten-vinden-via-google.png"
-tags: ["Vindbaarheid", "Google", "Hovenier", "Klanten"]
+tags: ["Vindbaarheid", "Google"]
 cluster: "vindbaarheid"
 ---
 ## Hoveniers worden gevonden online — zo ziet dat eruit

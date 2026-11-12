@@ -5,7 +5,7 @@ date: "2026-06-21"
 excerpt: "Een chatbot op je hovenier-website is pas waardevol als hij de tuin-intake uitvraagt, seizoensvragen beantwoordt en de lead netjes aan jou doorgeeft."
 image: "/images/blog/hovenier-chatbot-wat-moet-hij-kunnen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Leadopvolging", "Hoveniers"]
+tags: ["Chatbot", "Lead opvolging"]
 cluster: "chatbot"
 ---
 Een chatbot op je website klinkt als een no-brainer. Je plaatst een knopje rechtsonder, er verschijnt een vriendelijke begroeting, en klaar. Maar de meeste chatbots die ik bij hoveniersbedrijven zie, doen precies één ding: ze vragen om een naam en een telefoonnummer en sturen je dan een mailtje. Dat is geen chatbot, dat is een contactformulier met een praatje eromheen. En het kost je net zo goed klussen, want de aanvrager krijgt geen antwoord op de vraag waar hij echt mee zit.

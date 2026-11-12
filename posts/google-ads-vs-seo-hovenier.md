@@ -5,7 +5,7 @@ date: "2026-04-17"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-ads-vs-seo-hovenier.jpg"
-tags: ["Vindbaarheid", "Google", "Marketing"]
+tags: ["Vindbaarheid", "Google"]
 ---
 ## Twee wegen naar dezelfde klant
 

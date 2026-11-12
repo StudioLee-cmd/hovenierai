@@ -5,7 +5,7 @@ date: "2026-05-28"
 excerpt: "De diensten-tab in je Google Bedrijfsprofiel is je sterkste lokale rankingtool. Zo zet je je tuindiensten slim op en word je gevonden in jouw stad."
 image: "/images/blog/google-bedrijfsprofiel-diensten-hovenier.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["vindbaarheid", "google-bedrijfsprofiel", "lokale-seo"]
+tags: ["Vindbaarheid", "Lokale SEO"]
 cluster: "vindbaarheid"
 ---
 

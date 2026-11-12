@@ -5,7 +5,7 @@ date: "2026-04-06"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoveniersbedrijf-automatiseren.jpg"
-tags: ["Automatisering", "Hovenier", "Bedrijfsvoering"]
+tags: ["Automatisering"]
 ---
 ## Je staat liever in de tuin dan achter het bureau
 

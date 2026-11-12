@@ -5,7 +5,7 @@ date: "2026-05-27"
 excerpt: "Hoe een simpel projectbord bij elke tuinklus zorgt voor extra aanvragen uit de buurt. Wat erop moet, formaat, plaatsing en QR-code voor reviews."
 image: "/images/blog/projectbord-hovenier-meer-buurt-aanvragen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid", "Lokale Marketing", "Buurt"]
+tags: ["Vindbaarheid", "Marketing"]
 cluster: "vindbaarheid"
 ---
 

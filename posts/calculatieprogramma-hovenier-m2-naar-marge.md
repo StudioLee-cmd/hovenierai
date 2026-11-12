@@ -5,7 +5,7 @@ date: "2026-07-22"
 excerpt: "Een calculatieprogramma voor hoveniers rekent pas goed als je rekenregels kloppen. Dit zijn de posten die je offerte moet dragen en waar marge weglekt."
 image: "/images/blog/calculatieprogramma-hovenier-m2-naar-marge.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Calculatie", "Offerte", "Marge", "Automatisering", "Hovenier"]
+tags: ["Offertes", "Marge"]
 cluster: "automatisering"
 ---
 

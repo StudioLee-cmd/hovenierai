@@ -6,7 +6,7 @@ date: "2026-04-06"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hovenier-reviews-google-verzamelen.jpg"
-tags: ["Reviews", "Hovenier", "Google"]
+tags: ["Reviews", "Google"]
 ---
 ## Een mooie tuin verkoopt zichzelf, maar alleen als anderen het zien
 

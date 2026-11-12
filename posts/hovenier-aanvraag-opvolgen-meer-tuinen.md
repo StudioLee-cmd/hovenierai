@@ -6,7 +6,7 @@ date: "2026-04-08"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hovenier-aanvraag-opvolgen-meer-tuinen.jpg"
-tags: ["Lead opvolging", "Hovenier", "Offertes"]
+tags: ["Lead opvolging", "Offertes"]
 ---
 ## Snelheid bepaalt wie de tuin mag aanleggen
 

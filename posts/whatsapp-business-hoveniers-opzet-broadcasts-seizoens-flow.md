@@ -5,7 +5,7 @@ date: "2026-05-10"
 excerpt: "WhatsApp Business voor hoveniers: opzet, broadcasts en seizoens-flow. Templates voor offerte-bevestiging, voorjaar-aanbieding en before/after-delen."
 image: "/images/blog/whatsapp-business-hoveniers-opzet-broadcasts-seizoens-flow.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Klantcommunicatie", "WhatsApp", "Broadcasts", "Seizoens-flow", "Hovenier"]
+tags: ["Klantcommunicatie"]
 cluster: "automatisering"
 ---
 

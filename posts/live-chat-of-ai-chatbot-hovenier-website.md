@@ -5,7 +5,7 @@ excerpt: "Live chat klinkt persoonlijk, maar wie antwoordt als jij in de tuin st
 date: "2026-07-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/live-chat-of-ai-chatbot-hovenier-website.jpg"
-tags: ["Chatbot", "Leadopvang", "Website"]
+tags: ["Chatbot", "Lead opvolging"]
 cluster: "chatbot"
 ---
 

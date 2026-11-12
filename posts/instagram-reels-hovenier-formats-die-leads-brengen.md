@@ -5,7 +5,7 @@ date: "2026-05-18"
 excerpt: "Twaalf reels gepost, twee viraal gegaan met 12K views, en de telefoon zweeg. Lees welke 4 reel-formats wel offerteaanvragen opleveren voor hoveniers."
 image: "/images/blog/instagram-reels-hovenier-formats-die-leads-brengen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Instagram", "Leads"]
+tags: ["Social Media", "Instagram"]
 cluster: "social-media"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-04-17"
 cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/onderhoudscontracten-hovenier-website.jpg"
-tags: ["Vindbaarheid", "Website", "Onderhoudscontracten"]
+tags: ["Vindbaarheid", "Website"]
 ---
 ## Waarom onderhoudscontracten je hoveniersbedrijf stabieler maken
 

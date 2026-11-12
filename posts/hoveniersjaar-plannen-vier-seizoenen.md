@@ -4,7 +4,7 @@ excerpt: "Hoe plan je je hoveniersjaar zodat je in elke maand omzet draait, ook 
 date: "2026-04-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoveniersjaar-plannen-vier-seizoenen.jpg"
-tags: ["Planning", "Seizoenswerk", "Hovenier"]
+tags: ["Planning", "Seizoenswerk"]
 cluster: "automatisering"
 ---
 ## In het kort

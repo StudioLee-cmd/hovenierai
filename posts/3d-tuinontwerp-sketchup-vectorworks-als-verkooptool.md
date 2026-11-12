@@ -5,7 +5,7 @@ date: "2026-05-14"
 excerpt: "SketchUp Pro, Vectorworks Landmark of Garden Planner: welke tuinontwerp-software past bij jouw offertes? De eerlijke vergelijking voor hoveniers."
 image: "/images/blog/3d-tuinontwerp-sketchup-vectorworks-als-verkooptool.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Tools-uitleg", "3D-ontwerp", "SketchUp", "Software", "Hovenier"]
+tags: ["Tools", "Software"]
 cluster: "automatisering"
 ---
 

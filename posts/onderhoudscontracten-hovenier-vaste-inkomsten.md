@@ -5,7 +5,7 @@ excerpt: "Seizoenswerk is de grootste uitdaging voor hoveniers. Onderhoudscontra
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/onderhoudscontracten-hovenier-vaste-inkomsten.png"
-tags: ["Hovenier", "Onderhoudscontracten", "Vaste Inkomsten"]
+tags: ["Automatisering"]
 cluster: "automatisering"
 ---
 ## Het probleem: pieken en dalen

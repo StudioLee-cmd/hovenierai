@@ -5,7 +5,7 @@ excerpt: "Je online reputatie bepaalt of huiseigenaren jou kiezen voor hun tuinp
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-hovenier.png"
-tags: ["online reputatie", "hovenier", "reviews"]
+tags: ["Reviews"]
 cluster: "reviews"
 ---
 Een tuinproject is een investering. Huiseigenaren willen zekerheid dat ze de juiste hovenier kiezen. Ze googelen, vergelijken en lezen reviews. Jouw online [reputatie](/reviews) bepaalt of ze jou bellen of de concurrent.

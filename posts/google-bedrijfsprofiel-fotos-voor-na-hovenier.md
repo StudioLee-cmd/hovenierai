@@ -6,7 +6,7 @@ cluster: "vindbaarheid"
 excerpt: "Voor-na foto's op je Google Bedrijfsprofiel verdubbelen als hovenier je aanvragen. Welke shots, welke compositie en hoe vaak je moet posten."
 image: "/images/blog/google-bedrijfsprofiel-fotos-voor-na-hovenier.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Google Bedrijfsprofiel", "Foto's", "Lokale SEO", "Hovenier"]
+tags: ["Google Bedrijfsprofiel"]
 ---
 
 # Google Bedrijfsprofiel voor-na foto's voor hoveniers: zo word je gebeld in plaats van gegoogeld weg

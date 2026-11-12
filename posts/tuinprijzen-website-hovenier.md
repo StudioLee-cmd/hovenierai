@@ -5,7 +5,7 @@ excerpt: "Moet je als hovenier prijzen op je website tonen? Ontdek hoe transpara
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/tuinprijzen-website-hovenier.png"
-tags: ["prijzen communiceren", "hovenier", "website"]
+tags: ["Website"]
 cluster: "website"
 ---
 "Wat kost een nieuwe tuin?" Huiseigenaren willen het weten voordat ze een hovenier bellen. Toch tonen de meeste hoveniers geen prijzen op hun [website](/blog/hovenierwebsite-offerte-machine). "Elke tuin is anders." Klopt — maar klanten willen op z'n minst weten of ze in de juiste prijsklasse zitten.

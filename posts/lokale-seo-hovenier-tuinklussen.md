@@ -5,7 +5,7 @@ date: "2026-04-03"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-seo-hovenier-tuinklussen.jpg"
-tags: ["Lokale SEO", "Vindbaarheid", "Hovenier", "Google Maps"]
+tags: ["Lokale SEO", "Vindbaarheid"]
 ---
 ## Waarom lokale SEO perfect past bij hoveniers
 

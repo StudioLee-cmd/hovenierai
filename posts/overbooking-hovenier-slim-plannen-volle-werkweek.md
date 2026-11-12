@@ -6,7 +6,7 @@ date: "2026-04-10"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/overbooking-hovenier-slim-plannen-volle-werkweek.jpg"
-tags: ["No-shows", "Hovenier", "Planning"]
+tags: ["No-shows", "Planning"]
 ---
 ## Het weer en annuleringen: de twee vijanden van je planning
 

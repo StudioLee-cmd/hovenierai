@@ -5,7 +5,7 @@ date: "2026-05-03"
 excerpt: "Een concurrentieanalyse helpt je je hovenier-prijs en aanbod onderbouwen. Zo verzamel je in 30 minuten 6 lokale datapunten die je tarief en USP scherp maken."
 image: "/images/blog/concurrentieanalyse-hoveniers-6-datapunten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Concurrentieanalyse", "Marktonderzoek", "Strategie"]
+tags: ["Strategie"]
 cluster: "branding"
 ---
 Een hovenier in Den Bosch ontdekte vorig jaar dat hij al jaren 38 euro per uur factureerde, terwijl de drie grootste concurrenten in zijn regio tussen de 52 en 65 euro per uur zaten. Verlies aan misgelopen omzet over 5 jaar: rond de 60.000 euro. De aanleiding voor de ontdekking was 30 minuten concurrentieanalyse: drie websites bekijken, twee offertes opvragen, en één Google-zoekopdracht. Dat is alles wat nodig is om je positionering te corrigeren.

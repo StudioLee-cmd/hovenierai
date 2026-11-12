@@ -5,7 +5,7 @@ date: "2026-06-12"
 excerpt: "Zo bouw je per plaats een eigen pagina die rankt op hovenier plus plaatsnaam, met unieke lokale content en zonder dat Google je werkgebied als kopie ziet."
 image: "/images/blog/stadspaginas-hovenier-ranken-zonder-duplicate-content.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Lokale SEO", "Vindbaarheid", "Stadspagina"]
+tags: ["Lokale SEO", "Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
 

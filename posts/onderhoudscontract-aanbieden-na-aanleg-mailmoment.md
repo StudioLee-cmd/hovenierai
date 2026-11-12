@@ -5,7 +5,7 @@ date: "2026-08-01"
 excerpt: "Bij de oplevering zegt de klant dat hij het laat weten en daarna hoor je niets. Zo kies je het moment waarop de vraag om onderhoud wel landt."
 image: "/images/blog/onderhoudscontract-aanbieden-na-aanleg-mailmoment.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Klantbehoud", "Onderhoudscontracten"]
+tags: ["Automatisering"]
 cluster: "automatisering"
 ---
 

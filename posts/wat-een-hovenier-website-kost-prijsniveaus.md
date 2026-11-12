@@ -5,7 +5,7 @@ date: "2026-08-21"
 excerpt: "Drie offertes, drie totaal andere bedragen. Dit zit er in een goedkope, een gemiddelde en een dure hovenier-site en waar het verschil zich terugverdient."
 image: "/images/blog/wat-een-hovenier-website-kost-prijsniveaus.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Website", "Kosten", "Offerte"]
+tags: ["Website", "Kosten", "Offertes"]
 cluster: "website"
 ---
 

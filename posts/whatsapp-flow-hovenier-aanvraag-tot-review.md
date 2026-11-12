@@ -5,7 +5,7 @@ date: "2026-06-24"
 excerpt: "Eén WhatsApp-flow die elke tuinaanvraag opvangt, op tijd herinnert en na oplevering om een review vraagt. Zo loopt je klantcontact zonder handwerk."
 image: "/images/blog/whatsapp-flow-hovenier-aanvraag-tot-review.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["WhatsApp", "Automatisering", "Klantcommunicatie", "Hoveniers"]
+tags: ["WhatsApp", "Automatisering"]
 cluster: "automatisering"
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Leer hoe je als hovenier meer tuinopdrachten wint door slimmer en snel
 date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lead-opvolging-hovenier-aanvragen-omzetten.jpg"
-tags: ["Lead opvolging", "Klanten", "Groei"]
+tags: ["Lead opvolging", "Klanten"]
 cluster: "automatisering"
 ---
 ## Waarom hoveniers zoveel aanvragen mislopen

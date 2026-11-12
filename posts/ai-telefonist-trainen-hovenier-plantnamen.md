@@ -5,7 +5,7 @@ date: "2026-07-27"
 excerpt: "Hoeveel eigen data heeft een AI telefonist nodig voor hij jouw tuinaanvragen goed uitvraagt? De vier bronnen die je al hebt, plus de plantnamen."
 image: "/images/blog/ai-telefonist-trainen-hovenier-plantnamen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Automatisering"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

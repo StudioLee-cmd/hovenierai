@@ -4,7 +4,7 @@ excerpt: "November tot februari liggen veel hoveniersagenda's leeg. Vijf concret
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hovenier-wintermaanden-omzet-behouden.jpg"
-tags: ["Seizoenswerk", "Omzet", "Hovenier"]
+tags: ["Seizoenswerk"]
 cluster: "automatisering"
 ---
 

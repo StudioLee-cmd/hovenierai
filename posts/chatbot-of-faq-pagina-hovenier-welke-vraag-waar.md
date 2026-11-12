@@ -5,7 +5,7 @@ date: "2026-07-24"
 excerpt: "Een FAQ-pagina en een chatbot vangen niet dezelfde vraag op. Met een simpele sorteertest weet je precies welke tuinvraag waar thuishoort."
 image: "/images/blog/chatbot-of-faq-pagina-hovenier-welke-vraag-waar.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Website", "Leads", "Klantcontact"]
+tags: ["Chatbot", "Website", "Leads"]
 cluster: "chatbot"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-04-04"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-hovenier-offerte-klus.jpg"
-tags: ["Leads", "Opvolging", "Hovenier"]
+tags: ["Leads", "Lead opvolging"]
 ---
 ## Het verschil tussen een offerte en een opdracht
 

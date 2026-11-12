@@ -5,7 +5,7 @@ date: "2026-07-13"
 excerpt: "Zo combineer je als hovenier 4 projecten op 1 dag in de voorjaarspiek: geo-clusteren, slimme klusvolgorde en auto-dispatch die je route zelf bijstuurt."
 image: "/images/blog/routeplanning-hovenier-voorjaarspiek.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Routeplanning", "Werkplanning", "Automatisering", "Voorjaarspiek"]
+tags: ["Planning", "Automatisering"]
 cluster: "automatisering"
 ---
 

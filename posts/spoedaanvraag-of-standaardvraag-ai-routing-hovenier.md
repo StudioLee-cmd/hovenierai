@@ -5,7 +5,7 @@ date: "2026-07-08"
 excerpt: "Een takbreuk om 21:00 is geen offerte-aanvraag die tot maandag kan wachten. Zo laat je een AI-telefonist spoed van standaard onderscheiden en juist routeren."
 image: "/images/blog/spoedaanvraag-of-standaardvraag-ai-routing-hovenier.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Hovenier Operaties"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

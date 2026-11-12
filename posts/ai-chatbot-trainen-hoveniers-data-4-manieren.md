@@ -5,7 +5,7 @@ excerpt: "Een chatbot is zo slim als de data die je hem geeft. 4 concrete manier
 date: "2026-07-16"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-chatbot-trainen-hoveniers-data-4-manieren.jpg"
-tags: ["Chatbot", "AI", "Leadopvang"]
+tags: ["Chatbot", "AI", "Lead opvolging"]
 cluster: "chatbot"
 ---
 

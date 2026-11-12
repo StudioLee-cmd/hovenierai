@@ -5,7 +5,7 @@ excerpt: "Met drie ploegen op vier projecten wordt werkverdeling je grootste kne
 date: "2026-07-17"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/werk-verdelen-hoveniersteam-piek-dispatch.jpg"
-tags: ["Automatisering", "Werkplanning", "Personeelsplanning", "Seizoenspiek"]
+tags: ["Automatisering", "Planning"]
 cluster: "automatisering"
 ---
 Kwart voor zeven in de loods. Drie busjes staan klaar, de aanhangers zijn geladen, en dan komt de vraag die je elke ochtend een kwartier kost: wie gaat waarheen? Kees kan die bestrating in Haarlem doen, maar hij zit ook op het beplantingsproject in Heemstede, en de nieuwe jongen weet niet welke klant vandaag de sleutel klaarlegt. Je lost het op met een groepsapp en een beetje geheugen, en het gaat meestal net goed. Maar "net goed" is precies wat je in de piek geld kost.

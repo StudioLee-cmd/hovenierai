@@ -5,7 +5,7 @@ date: "2026-04-05"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraak-herinneringen-hovenier.jpg"
-tags: ["Herinneringen", "Hovenier", "Planning"]
+tags: ["Planning", "Automatisering"]
 ---
 ## De tuin waar je niet in mag
 

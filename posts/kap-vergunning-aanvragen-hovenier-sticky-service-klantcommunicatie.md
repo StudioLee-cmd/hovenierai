@@ -5,7 +5,7 @@ date: "2026-05-09"
 excerpt: "KAP-vergunning-service als hovenier: het hele aanvraag-traject voor klanten draaien levert €175-€295 begeleidings-fee plus klant-binding voor 18+ maanden."
 image: "/images/blog/kap-vergunning-aanvragen-hovenier-sticky-service-klantcommunicatie.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Klantcommunicatie", "KAP-vergunning", "Sticky-service", "Herplant", "Hovenier"]
+tags: ["Klantcommunicatie"]
 cluster: "automatisering"
 ---
 

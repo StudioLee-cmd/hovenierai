@@ -5,7 +5,7 @@ date: "2026-07-28"
 excerpt: "Elke offerte opnieuw opbouwen kost je avonden. Dit zijn de zeven vaste blokken die in elke hovenier-offerte horen en wat elk blok met de akkoordkans doet."
 image: "/images/blog/offerte-template-hovenier-7-vaste-onderdelen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Offertes", "Conversie", "Klantbeheer"]
+tags: ["Automatisering", "Offertes"]
 cluster: "automatisering"
 ---
 

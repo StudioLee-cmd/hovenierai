@@ -5,7 +5,7 @@ date: "2026-06-06"
 excerpt: "Avondaanvragen die naar de voicemail gaan, zijn tuinklussen voor de concurrent. Zo vangt een WhatsApp-chatbot ze 24/7 op en zet ze in je planning."
 image: "/images/blog/whatsapp-chatbot-hovenier-avondaanvragen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "WhatsApp", "Leadopvang"]
+tags: ["Chatbot", "WhatsApp"]
 cluster: "chatbot"
 ---
 

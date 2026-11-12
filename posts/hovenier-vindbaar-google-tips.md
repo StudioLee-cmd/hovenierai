@@ -5,7 +5,7 @@ date: "2026-04-07"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hovenier-vindbaar-google-tips.jpg"
-tags: ["SEO", "Vindbaarheid", "Hovenier"]
+tags: ["Vindbaarheid"]
 ---
 ## Hoveniers zijn online nauwelijks vindbaar
 

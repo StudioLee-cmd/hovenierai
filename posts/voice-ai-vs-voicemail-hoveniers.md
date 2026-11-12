@@ -5,7 +5,7 @@ date: "2026-05-27"
 excerpt: "Voicemail klinkt veilig — totdat je hoort dat minder dan één op de vijf bellers ook écht inspreekt. Wat dat kost in voorjaarspiek."
 image: "/images/blog/voice-ai-vs-voicemail-hoveniers.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["voice-ai", "bereikbaarheid", "leads"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 # Voice AI vs voicemail voor hoveniers: wat werkt beter?

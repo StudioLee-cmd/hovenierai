@@ -5,7 +5,7 @@ date: "2026-04-12"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klant-komt-niet-opdagen-hovenier-wat-nu.jpg"
-tags: ["No-shows", "Klantcontact", "Groei"]
+tags: ["No-shows", "Groei"]
 ---
 ## De dichte deur: een herkenbaar scenario
 

@@ -5,7 +5,7 @@ date: "2026-07-23"
 excerpt: "Groeit je hoveniersbedrijf naar meerdere ploegen? Zo houd je de notities over een tuinproject tussen je medewerkers synchroon, zonder losse Excel-lijsten."
 image: "/images/blog/multi-medewerker-crm-hovenier-tuinnotities-synchroon.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "CRM", "Teamwerk", "Klantbeheer"]
+tags: ["Automatisering", "CRM"]
 cluster: "automatisering"
 ---
 

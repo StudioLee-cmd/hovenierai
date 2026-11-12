@@ -5,7 +5,7 @@ date: "2026-07-06"
 excerpt: "Overstappen van Excel of een oud pakket zonder klantdata te verliezen? Het playbook: data-export, import en 30 dagen parallel draaien."
 image: "/images/blog/software-overstap-hovenier-parallel-draaien.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Software", "CRM", "Automatisering"]
+tags: ["Software", "CRM"]
 cluster: "automatisering"
 ---
 

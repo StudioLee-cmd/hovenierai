@@ -4,7 +4,7 @@ excerpt: "Behandel je een VIP-jaarcontractklant net als een eenmalige aanleg-kla
 date: "2026-06-08"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantsegmentatie-hovenier-3-klanttypes-flows.jpg"
-tags: ["Klantsegmentatie", "CRM", "Automatisering"]
+tags: ["CRM", "Automatisering"]
 cluster: "automatisering"
 ---
 

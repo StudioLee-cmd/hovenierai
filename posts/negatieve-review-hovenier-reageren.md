@@ -5,7 +5,7 @@ date: "2026-04-11"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/negatieve-review-hovenier-reageren.jpg"
-tags: ["Reviews", "Reputatie", "Groei"]
+tags: ["Reviews", "Groei", "Google"]
 ---
 ## Een negatieve review is geen ramp
 

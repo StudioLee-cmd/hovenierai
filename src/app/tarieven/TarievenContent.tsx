@@ -52,35 +52,12 @@ const plans = [
     highlight: true,
     badge: "Meest gekozen",
   },
-  {
-    name: "De site afkopen",
-    price: "In overleg",
-    period: "eenmalig",
-    description: "Liever geen maandbedrag? Dan koop je de site af. Eerlijk erbij: zonder abonnement staat 'ie stil, dus geen nieuwe teksten, geen chatbot, geen telefoon die opneemt.",
-    features: [
-      "De volledige website, eenmalig afgekocht",
-      "Gebouwd op het ontwerp dat jij koos",
-      "Je kunt later alsnog laten draaien",
-      "Losse hulp op aanvraag",
-    ],
-    cta: "Vraag het aan",
-    ctaLink: "/gratis-website",
-    highlight: false,
-    badge: "Eenmalig",
-  },
 ];
 
 const customOptions = [
   {
-    name: "Eenmalig laten bouwen",
-    price: "Op aanvraag",
-    description: "Volledig custom gebouwd. Eenmalige investering, geen maandbedrag. Je betaalt daarnaast alleen wat je écht verbruikt.",
-    cta: "Vraag offerte aan",
-    ctaLink: "https://cal.com/studiolee",
-  },
-  {
     name: "Volledig uit handen",
-    price: "Op maat",
+    price: "Vanaf €379 per maand",
     description: "Wij doen alles: de teksten, de vindbaarheid, de social, de opvolging. Jij doet je vak. Wat het kost hangt af van wat je nodig hebt, dat rekenen we samen door.",
     cta: "Plan een gesprek",
     ctaLink: "https://cal.com/studiolee",
@@ -114,7 +91,7 @@ const faqs = [
   },
   {
     q: "En als ik mijn blogs en vindbaarheid niet zelf ga doen?",
-    a: "Dan is de instap niet genoeg, en dat zeggen we liever nu dan straks. Wie het schrijven en de vindbaarheid uit handen wil geven zit goed bij het pakket waarin wij het werk doen. Wat dat kost hangt af van wat je nodig hebt. Advies en strategie zitten er altijd in, zonder verborgen uurtarieven.",
+    a: "Dan is de instap niet genoeg, en dat zeggen we liever nu dan straks. Wie het schrijven en de vindbaarheid uit handen wil geven zit goed bij het pakket waarin wij het werk doen. Dat kan vanaf €379 per maand; wat het precies wordt hangt af van wat je nodig hebt. Advies en strategie zitten er altijd in, zonder verborgen uurtarieven.",
   },
 ];
 
@@ -155,7 +132,7 @@ export default function TarievenContent() {
             <p className="text-sm text-gray-400 mb-4">Alleen toegankelijk voor bedrijven met €1M+ omzet</p>
             <div className="w-16 h-px bg-gray-600 mx-auto mb-4"></div>
             <p className="text-primary font-semibold text-lg">{brand}</p>
-            <p className="text-3xl md:text-4xl font-bold">Vanaf €79/maand</p>
+            <p className="text-3xl md:text-4xl font-bold">€79 per maand</p>
             <p className="text-sm text-gray-300 mt-2">Alles inbegrepen, en dat is minder dan die onderdelen los bij elkaar.</p>
           </motion.div>
         </div>
@@ -163,7 +140,7 @@ export default function TarievenContent() {
 
       {/* Pricing Cards */}
       <section className="py-12 px-4">
-        <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div className="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
           {plans.map((plan, i) => (
             <motion.div
               key={plan.name}
@@ -220,7 +197,7 @@ export default function TarievenContent() {
           <p className="text-foreground-accent text-center mb-10 max-w-xl mx-auto">
             Niet elk bedrijf past in een standaardpakket. Daarom bieden we ook maatwerkoplossingen.
           </p>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div className="grid grid-cols-1 gap-6 max-w-xl mx-auto">
             {customOptions.map((opt) => (
               <div key={opt.name} className="border border-[var(--card-border)] rounded-2xl p-6">
                 <h3 className="text-lg font-bold mb-1">{opt.name}</h3>

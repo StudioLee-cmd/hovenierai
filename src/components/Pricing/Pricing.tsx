@@ -288,9 +288,9 @@ const Pricing: React.FC = () => {
                             <div className="text-center md:text-right">
                                 <p className="text-gray-400 mb-2">Prijs</p>
                                 <p className="text-4xl lg:text-5xl font-black text-white mb-6">
-                                    Op maat
+                                    {fullServiceTier.price}
                                 </p>
-                                <p className="text-gray-500 text-sm mb-6">neem contact op voor een offerte</p>
+                                <p className="text-gray-500 text-sm mb-6">per maand, excl. btw; wat erin zit bepaalt het eindbedrag</p>
                                 <Link href="https://cal.com/studiolee" target="_blank" className="inline-block w-full md:w-auto bg-yellow-500 text-black font-bold py-4 px-8 rounded-full hover:bg-yellow-400 transition-all transform hover:scale-105 shadow-lg shadow-yellow-500/20">
                                     Boek een Demo Call
                                 </Link>

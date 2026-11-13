@@ -45,7 +45,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     // Static routes — rarely change. Stable lastmod.
     const staticPages = [
         '/gratis-scan', '/review-pakket',
-        '/tarieven', '/gratis-website',
+        '/tarieven', '/website-kopen', '/gratis-website',
         '/chatbot', '/voice-ai', '/seo', '/reviews', '/social-media',
         '/privacy', '/legal', '/algemene-voorwaarden',
             '/automatisering',

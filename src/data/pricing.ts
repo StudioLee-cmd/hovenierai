@@ -73,8 +73,8 @@ export const tiers: IPricing[] = [
     },
     {
         name: 'Full Service',
-        price: 'Op maat', // Display as text, not number
-        priceMonthly: 999,
+        price: 'Vanaf € 379,-',
+        priceMonthly: 379,
         pricePrefix: '',
         ctaType: 'call',
         guarantee: true,

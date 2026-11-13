@@ -51,28 +51,24 @@ const CreditPricing: React.FC = () => {
 
                 {/* Credit Packs */}
                 <div className="mt-8 max-w-4xl mx-auto overflow-hidden rounded-xl border border-gray-200 dark:border-[var(--card-border)] bg-white dark:bg-[var(--card-background)] shadow-sm">
-                    <div className="grid grid-cols-4 bg-gray-100 dark:bg-[var(--hero-background)] border-b border-gray-200 dark:border-[var(--card-border)] text-sm font-semibold p-4">
+                    <div className="grid grid-cols-3 bg-gray-100 dark:bg-[var(--hero-background)] border-b border-gray-200 dark:border-[var(--card-border)] text-sm font-semibold p-4">
                         <div className="text-left text-gray-900 dark:text-[var(--foreground)]">Pakket</div>
                         <div className="text-center text-gray-900 dark:text-[var(--foreground)]">Credits</div>
-                        <div className="text-center text-gray-900 dark:text-[var(--foreground)]">Per Credit</div>
-                        <div className="text-right text-gray-900 dark:text-[var(--foreground)]">Prijs</div>
+                                                <div className="text-right text-gray-900 dark:text-[var(--foreground)]">Prijs</div>
                     </div>
-                    <div className="grid grid-cols-4 p-4 border-b border-gray-200 dark:border-[var(--card-border)] last:border-0 hover:bg-gray-50 dark:hover:bg-[var(--hero-background)] transition-colors items-center">
+                    <div className="grid grid-cols-3 p-4 border-b border-gray-200 dark:border-[var(--card-border)] last:border-0 hover:bg-gray-50 dark:hover:bg-[var(--hero-background)] transition-colors items-center">
                         <div className="text-left font-medium text-gray-900 dark:text-[var(--foreground)]">Small Pack</div>
                         <div className="text-center text-gray-600 dark:text-[var(--foreground-accent)]">40</div>
-                        <div className="text-center text-gray-600 dark:text-[var(--foreground-accent)] text-xs">€1.25</div>
                         <div className="text-right font-bold text-orange-500 dark:text-[var(--secondary)]">€50,-</div>
                     </div>
-                    <div className="grid grid-cols-4 p-4 border-b border-gray-200 dark:border-[var(--card-border)] last:border-0 hover:bg-gray-50 dark:hover:bg-[var(--hero-background)] transition-colors items-center">
+                    <div className="grid grid-cols-3 p-4 border-b border-gray-200 dark:border-[var(--card-border)] last:border-0 hover:bg-gray-50 dark:hover:bg-[var(--hero-background)] transition-colors items-center">
                         <div className="text-left font-medium text-gray-900 dark:text-[var(--foreground)]">Large Pack</div>
                         <div className="text-center text-gray-600 dark:text-[var(--foreground-accent)]">180</div>
-                        <div className="text-center text-gray-600 dark:text-[var(--foreground-accent)] text-xs">€1.11</div>
                         <div className="text-right font-bold text-orange-500 dark:text-[var(--secondary)]">€200,-</div>
                     </div>
-                    <div className="grid grid-cols-4 p-4 border-b border-gray-200 dark:border-[var(--card-border)] last:border-0 hover:bg-amber-100 dark:hover:bg-amber-900/20 transition-colors items-center bg-amber-50 dark:bg-amber-900/30 border-t border-amber-300 dark:border-amber-500/30">
+                    <div className="grid grid-cols-3 p-4 border-b border-gray-200 dark:border-[var(--card-border)] last:border-0 hover:bg-amber-100 dark:hover:bg-amber-900/20 transition-colors items-center bg-amber-50 dark:bg-amber-900/30 border-t border-amber-300 dark:border-amber-500/30">
                         <div className="text-left font-medium text-amber-700 dark:text-amber-400">Agency Pack</div>
                         <div className="text-center text-gray-600 dark:text-[var(--foreground-accent)]">1000</div>
-                        <div className="text-center text-amber-600 dark:text-amber-500/60 text-xs">€1.00</div>
                         <div className="text-right font-bold text-amber-600 dark:text-amber-500">€1000,-</div>
                     </div>
                 </div>

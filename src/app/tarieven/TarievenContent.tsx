@@ -132,8 +132,10 @@ export default function TarievenContent() {
             <p className="text-sm text-gray-400 mb-4">Alleen toegankelijk voor bedrijven met €1M+ omzet</p>
             <div className="w-16 h-px bg-gray-600 mx-auto mb-4"></div>
             <p className="text-primary font-semibold text-lg">{brand}</p>
-            <p className="text-3xl md:text-4xl font-bold">€79 per maand</p>
-            <p className="text-sm text-gray-300 mt-2">Alles inbegrepen, en dat is minder dan die onderdelen los bij elkaar.</p>
+            <p>
+              <span className="block text-3xl md:text-4xl font-bold">Vanaf €79 per maand</span>
+              <span className="block text-sm text-gray-300 mt-2">Alles inbegrepen, en dat is minder dan die onderdelen los bij elkaar.</span>
+            </p>
           </motion.div>
         </div>
       </section>

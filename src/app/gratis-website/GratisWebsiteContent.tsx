@@ -102,7 +102,7 @@ export default function GratisWebsiteContent() {
                 <div className="space-y-2 text-sm text-foreground-accent">
                   <div className="flex justify-between">
                     <span>Laten draaien: live gezet, gevonden worden, telefoon die opneemt</span>
-                    <span className="font-semibold text-primary">€79/mnd</span>
+                    <span className="font-semibold text-primary whitespace-nowrap">vanaf €79/mnd</span>
                   </div>
                   <div className="flex justify-between border-t border-[var(--card-border)] pt-2 mt-2">
                     <span>Of de site afkopen, en 'm daarna zelf stil laten staan</span>

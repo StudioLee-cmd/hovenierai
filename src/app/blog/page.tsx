@@ -3,6 +3,7 @@ import { getAllPosts } from '@/utils/posts';
 import { getAuthorBySlug } from '@/data/authors';
 import Container from '@/components/Container';
 import BlogGrid from '@/components/BlogGrid';
+import BlogSearch from '@/components/BlogSearch';
 
 import type { Metadata } from "next";
 import { siteDetails } from "@/data/siteDetails";
@@ -66,6 +67,7 @@ const BlogPage = async () => {
                     </p>
                 </div>
 
+                <BlogSearch />
                 <BlogGrid posts={postsWithAuthors} clusters={clusters} />
             </Container>
         </div>

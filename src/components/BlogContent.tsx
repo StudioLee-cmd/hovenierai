@@ -105,6 +105,21 @@ export default function BlogContent({ content }: BlogContentProps) {
                 .blog-content a:hover {
                     color: var(--foreground);
                 }
+                /* Wide tables and code blocks scroll inside the article, never the whole page on a phone */
+                .blog-content table,
+                .blog-content pre {
+                    display: block;
+                    max-width: 100%;
+                    overflow-x: auto;
+                }
+                .blog-content pre {
+                    white-space: pre-wrap;
+                    overflow-wrap: anywhere;
+                }
+                .blog-content p,
+                .blog-content li {
+                    overflow-wrap: break-word;
+                }
 
                 /* Dark mode overrides for specific elements if needed */
                 .dark .blog-content {

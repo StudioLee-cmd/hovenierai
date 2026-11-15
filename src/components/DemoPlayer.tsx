@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from 'react';
 import dynamic from 'next/dynamic';
-import { voiceDemos, demoAanvraagUrl } from '@/data/voice-demos';
+import { voiceDemos } from '@/data/voice-demos';
 
 // ⚑ VERVANGT `VoiceDemo` (29-07, project voice-demo-omzetting). Die component zette een LIVE
 //    VAPI-call op; die knop is hier weg. Zie src/data/voice-demos.ts voor het waarom.
@@ -29,9 +29,7 @@ const DemoPlayer: React.FC = () => {
     if (opgenomen.length === 0) {
         return (
             <a
-                href={demoAanvraagUrl}
-                target="_blank"
-                rel="noopener noreferrer"
+                href="/demo"
                 className={KNOP}
             >
                 <span aria-hidden="true" className="mr-2">📞</span>

@@ -1,7 +1,6 @@
 "use client";
 import React, { useEffect, useRef, useState } from 'react';
 import type { VoiceDemoOpname } from '@/data/voice-demos';
-import { demoAanvraagUrl } from '@/data/voice-demos';
 
 interface DemoPlayerModalProps {
     demos: VoiceDemoOpname[];
@@ -116,9 +115,7 @@ const DemoPlayerModal: React.FC<DemoPlayerModalProps> = ({ demos, onClose }) => 
 
                     <div className="mt-6 border-t border-foreground/10 pt-6">
                         <a
-                            href={demoAanvraagUrl}
-                            target="_blank"
-                            rel="noopener noreferrer"
+                            href="/demo"
                             className="flex h-14 items-center justify-center rounded-full bg-primary px-8 text-lg font-bold text-black shadow-lg transition-all hover:scale-105 hover:shadow-xl focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-primary/40"
                         >
                             Vraag een live demo aan

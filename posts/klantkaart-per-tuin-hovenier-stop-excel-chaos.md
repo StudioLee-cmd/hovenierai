@@ -131,4 +131,4 @@ Bij HovenierAI helpen we MKB-hoveniers hun klantkaart-systeem opbouwen en koppel
 - Reviews-flow gekoppeld aan klant-historie via [reviews voor hoveniers](/reviews)
 - Een [chatbot voor hoveniers](/chatbot) die nieuwe klanten 24/7 opvangt en direct in je klantenbestand zet
 
-[Plan een gratis AI-scan voor hoveniers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor hoveniers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](/demo).

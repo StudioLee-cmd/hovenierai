@@ -24,7 +24,7 @@ export const reviewPackages: IReviewPackage[] = [
         ],
         highlight: false,
         buttonText: 'Pakket aanvragen',
-        buttonLink: 'https://cal.com/studiolee'
+        buttonLink: '/demo'
     },
     {
         id: 'large',
@@ -43,7 +43,7 @@ export const reviewPackages: IReviewPackage[] = [
         ],
         highlight: true,
         buttonText: 'Pakket aanvragen',
-        buttonLink: 'https://cal.com/studiolee'
+        buttonLink: '/demo'
     },
     {
         id: 'custom',
@@ -57,6 +57,6 @@ export const reviewPackages: IReviewPackage[] = [
         ],
         highlight: false,
         buttonText: 'Plan Strategie Call',
-        buttonLink: 'https://cal.com/studiolee'
+        buttonLink: '/demo'
     }
 ];

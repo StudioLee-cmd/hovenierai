@@ -136,4 +136,4 @@ Bij HovenierAI helpen we MKB-hoveniers hun software-stack consolideren naar éé
 - Migratie-begeleiding van je bestaande klantenbestand, foto-archief en factuur-historie zonder data-verlies
 - 4 weken parallel-running ter validatie en team-training
 
-[Plan een gratis AI-scan voor hoveniers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor hoveniers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](/demo).

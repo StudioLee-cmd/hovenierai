@@ -98,9 +98,7 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTria
                 {ctaType === 'call' ? (
                     <div className="space-y-3">
                         <a
-                            href="https://cal.com/studiolee"
-                            target="_blank"
-                            rel="noopener noreferrer"
+                            href="/demo"
                             className={clsx("w-full py-3 px-4 rounded-full transition-colors font-semibold block text-center",
                                 { "bg-primary hover:bg-primary-accent text-black": highlight, "bg-gray-900 dark:bg-gray-700 text-white hover:opacity-80": !highlight }
                             )}

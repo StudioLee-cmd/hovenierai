@@ -64,6 +64,5 @@ Wil je weten hoe dit voor jouw specifieke bedrijf uitpakt? In de managed-service
 - Automatische terugbel-prioritering op basis van klus-type en urgentie
 - Een 24-uur opvolg-flow via WhatsApp met afspraak-bevestiging en herinnering
 - Maandelijkse rapportage op gemiste vs gewonnen leads, met euro-impact
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor hoveniers](/gratis-scan) — we kijken naar je inbound-volume, je seizoenspiek en de paar uur per week die je nu kwijt bent aan terugbellen, en rekenen voor jou uit wat een voice AI maandelijks zou besparen of opleveren. Geen verkooppraat: een rapport met cijfers, op één A4.

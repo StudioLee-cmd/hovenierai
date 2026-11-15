@@ -12,7 +12,7 @@ cluster: "vindbaarheid"
 
 - **ChatGPT, Perplexity en Google AI Overviews kiezen welke hovenier ze noemen** op basis van autoriteit, reviews en gestructureerde data, niet op basis van klassieke Google-ranking.
 - **Een gemiddelde Nederlandse zelfstandige hovenier wordt door ChatGPT vrijwel nooit in de relevante prompts genoemd**, terwijl ketens als Donker en groot-hoveniers er juist stelselmatig uit komen rollen.
-- **Drie hefbomen werken bewezen:** vraag-antwoord content over tuinaanleg en onderhoud, LandscapingBusiness schema markup en externe vermeldingen op review-platformen.
+- **Drie hefbomen werken bewezen:** vraag-antwoord content over tuinaanleg en onderhoud, LocalBusiness schema markup en externe vermeldingen op review-platformen.
 - **Verwacht resultaat:** binnen 8 tot 12 weken meetbare stijging van AI-search citaties; binnen 6 maanden tien tot twintig procent meer offerte-aanvragen.
 - **Wie het moet overwegen:** elke ZZP-hovenier of klein hoveniersbedrijf dat nu slecht zichtbaar is in zoekopdrachten als "beste hovenier in [stad]" of "tuinaanleg [postcode]".
 
@@ -30,7 +30,7 @@ ChatGPT en Perplexity citeren websites op basis van drie signalen die deels ande
 
 **Signaal 1: Autoriteit van het domein.** AI-modellen zijn getraind op web-data tot een bepaalde cutoff-datum, en doen daarnaast live-zoekopdrachten via Bing of een eigen index. Hoe vaker jouw domein in betrouwbare bronnen wordt genoemd (kranten, vakmedia zoals De Hovenier of Tuin & Landschap, professionele directories als VHG en Tuinbranche.nl), hoe groter de kans dat het in een antwoord opduikt. Dit lijkt op klassieke domain authority, maar de bronnen wegen anders: een vermelding op AD.nl of in De Telegraaf telt zwaarder dan tien backlinks van willekeurige blog-sites.
 
-**Signaal 2: Gestructureerde data.** Schema markup, vooral het LandscapingBusiness- of HomeAndConstructionBusiness-type, helpt ChatGPT om jouw bedrijf eenduidig te identificeren. Zonder schema moet het AI-model raden of "Tuinservice Centrum" een hovenier, een tuincentrum of een groothandel is. Met schema weet het zeker: LandscapingBusiness in Utrecht, met onderhoudscontracten, gespecialiseerd in ecologische tuinen en moderne stadspatio's. Wij schreven eerder over [vindbaar op Google als hovenier](/blog/hovenier-vindbaar-google-tips) waarin schema en Google Bedrijfsprofiel hand in hand werken, voor AI-search is dit minimaal even belangrijk.
+**Signaal 2: Gestructureerde data.** Schema markup, vooral het LocalBusiness- of HomeAndConstructionBusiness-type, helpt ChatGPT om jouw bedrijf eenduidig te identificeren. Zonder schema moet het AI-model raden of "Tuinservice Centrum" een hovenier, een tuincentrum of een groothandel is. Met schema weet het zeker: LocalBusiness in Utrecht, met onderhoudscontracten, gespecialiseerd in ecologische tuinen en moderne stadspatio's. Wij schreven eerder over [vindbaar op Google als hovenier](/blog/hovenier-vindbaar-google-tips) waarin schema en Google Bedrijfsprofiel hand in hand werken, voor AI-search is dit minimaal even belangrijk.
 
 **Signaal 3: Vraag-antwoord patroon in content.** AI-modellen extraheren letterlijke zinnen uit websites die een vraag direct beantwoorden. Een pagina met de zin "Een complete tuinaanleg voor 80 vierkante meter kost tussen 12.000 en 22.000 euro inclusief grondwerk en beplanting" wordt veel vaker geciteerd dan een pagina met dezelfde info verspreid in drie alinea's. Schrijf je content alsof je een interview geeft: vraag in de kop, antwoord in de eerste zin van de paragraaf.
 
@@ -40,7 +40,7 @@ Hieronder zeven concrete acties, gerangschikt op verwachte impact in de eerste d
 
 **1. Schrijf vraag-antwoord blokken op je service-pagina's.** Op iedere dienstpagina (tuinontwerp, beplanting, onderhoud, terras, vijver) zet je drie tot vijf veelgestelde vragen met directe antwoorden in de eerste zin. Vermijd een aanloop als "Goede vraag, dat hangt ervan af...", dat schrapt ChatGPT eruit. Schrijf direct: "Een complete tuinrenovatie voor een gemiddelde achtertuin van 60 vierkante meter kost tussen 8.500 en 14.500 euro inclusief grondwerk en beplanting."
 
-**2. Implementeer LandscapingBusiness schema markup.** Voeg JSON-LD toe aan elke pagina van je website met LandscapingBusiness als hoofdtype, OpeningHoursSpecification voor je openingstijden en `hasOfferCatalog` voor je dienstenmenu. Test via Google's Rich Results Test of het foutloos wordt gelezen.
+**2. Implementeer LocalBusiness schema markup.** Voeg JSON-LD toe aan elke pagina van je website met LocalBusiness als hoofdtype, OpeningHoursSpecification voor je openingstijden en `hasOfferCatalog` voor je dienstenmenu. Test via Google's Rich Results Test of het foutloos wordt gelezen.
 
 **3. Verzamel reviews op platformen die ChatGPT leest.** ChatGPT en Perplexity wegen reviews op Google, Trustpilot, Werkspot, Tuinbranche.nl en Klushebber zwaar mee. Een hoveniersbedrijf met 80 Google-reviews en een 4.7-gemiddelde wordt veel vaker genoemd dan één met 12 reviews. Stuur na elk project automatisch een WhatsApp met een review-link. Wij zien de conversie flink oplopen als de uitnodiging binnen 24 uur na oplevering wordt verstuurd.
 
@@ -101,7 +101,7 @@ Run dezelfde prompts ook in Perplexity en Google's AI Overview (de samenvatting 
 
 Een ZZP-hovenier in Tilburg startte in januari 2026 met deze aanpak. Uitgangspositie: 21 Google-reviews, geen schema markup, FAQ van 7 vragen, twee externe vermeldingen (Werkspot-profiel uit 2018 en een vermelding in een lokaal weekblad). Het bedrijf werd in een baseline-test van 25 ChatGPT-prompts ("hovenier Tilburg", "tuinaanleg Tilburg", etcetera) nul keer genoemd.
 
-In de eerste maand zijn drie acties uitgevoerd: LandscapingBusiness schema markup geïmplementeerd inclusief areaServed met 7 omliggende gemeenten (5 uur werk), FAQ uitgebreid van 7 naar 33 vragen met vraag-antwoord-formaat (12 uur), en een geautomatiseerde Google-review-flow ingericht via WhatsApp na oplevering (3 uur opzet, daarna automatisch).
+In de eerste maand zijn drie acties uitgevoerd: LocalBusiness schema markup geïmplementeerd inclusief areaServed met 7 omliggende gemeenten (5 uur werk), FAQ uitgebreid van 7 naar 33 vragen met vraag-antwoord-formaat (12 uur), en een geautomatiseerde Google-review-flow ingericht via WhatsApp na oplevering (3 uur opzet, daarna automatisch).
 
 In maand drie was het Google-review-aantal gegroeid naar 38. Een gastblog over droogte-bestendige beplanting was geplaatst op een lokaal woonplatform. In de hertest van dezelfde 25 prompts werd het bedrijf in 6 prompts genoemd, inclusief drie specialisatie-prompts ("ecologische tuin Tilburg", "kleine stadstuin Tilburg" en "onderhoudscontract hovenier Tilburg"). In maand zes, met 64 reviews en zes externe vermeldingen, was dat opgelopen naar 12 prompts van de 25.
 
@@ -123,7 +123,7 @@ Nee, beide kanalen voeden elkaar. AI-search bouwt voort op je klassieke vindbaar
 
 ### Heb ik een nieuwe website nodig?
 
-Niet per se, maar veel oudere hovenier-websites missen de basis: schema markup, snelle laadtijden, mobiele optimalisatie, FAQ-secties. Wij bieden een [gratis website voor hoveniers](/gratis-website) inclusief AI-search-ready opbouw, LandscapingBusiness schema en automatische review-integratie.
+Niet per se, maar veel oudere hovenier-websites missen de basis: schema markup, snelle laadtijden, mobiele optimalisatie, FAQ-secties. Wij bieden een [gratis website voor hoveniers](/gratis-website) inclusief AI-search-ready opbouw, LocalBusiness schema en automatische review-integratie.
 
 ### Hoeveel kost het om dit zelf op te zetten?
 
@@ -141,6 +141,6 @@ In grote steden (Amsterdam, Rotterdam, Den Haag, Utrecht) is de concurrentie gro
 
 Vindbaarheid in ChatGPT, Perplexity en Google AI Overviews is geen toekomst-onderwerp meer. In maart 2026 kwam volgens Similarweb 14 procent van het Nederlandse zoekverkeer al via AI-tools binnen, met een groei-curve die de komende kwartalen niet afvlakt. Wie nu de basis legt, oogst over 6 tot 12 maanden de aanvragen die concurrenten dan nog niet binnen halen.
 
-Begin met de drie laaghangende vruchten: LandscapingBusiness schema markup op alle pagina's, een FAQ-pagina met 25 of meer directe antwoorden, en een geautomatiseerde review-flow op minimaal twee platformen. Dat alleen al verschuift de naald.
+Begin met de drie laaghangende vruchten: LocalBusiness schema markup op alle pagina's, een FAQ-pagina met 25 of meer directe antwoorden, en een geautomatiseerde review-flow op minimaal twee platformen. Dat alleen al verschuift de naald.
 
-Wil je weten waar jouw bedrijf nu staat en welke drie acties de meeste impact hebben? Plan een gratis 30-minuten gesprek via [cal.com/studiolee](https://cal.com/studiolee). Wij doen een live AI-search audit op jouw bedrijf, laten zien waar je nu wel en niet wordt genoemd, en geven een concreet stappenplan. Met onze Groei-of-Geld-Terug Garantie weet je zeker dat de investering rendement oplevert, of we storten het terug.
+Wil je weten waar jouw bedrijf nu staat en welke drie acties de meeste impact hebben? Plan een gratis 30-minuten gesprek via [cal.com/studiolee](https://cal.com/studiolee). Wij doen een live AI-search audit op jouw bedrijf, laten zien waar je nu wel en niet wordt genoemd, en geven een concreet stappenplan.

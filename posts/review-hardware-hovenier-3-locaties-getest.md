@@ -99,4 +99,4 @@ Beter niet. Google wil eigen woorden van de klant. Maak de stap makkelijk met ee
 
 ## Meer reviews, minder werk
 
-De kortste route naar meer reviews is een NFC-kaart in je offertemap plus een automatische flow die de rest opvangt. Wij zetten dat voor je op, van de fysieke kaarten tot de WhatsApp-opvolging na elke klus, met een Groei-of-Geld-Terug Garantie: laat een [gratis AI-scan voor hoveniers](/gratis-scan) zien waar jij nu reviews laat liggen en hoeveel je er met een paar simpele stappen bij kunt krijgen. Jij maakt tuinen mooi, wij regelen de rest.
+De kortste route naar meer reviews is een NFC-kaart in je offertemap plus een automatische flow die de rest opvangt. Jij maakt tuinen mooi, wij regelen de rest.

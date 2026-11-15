@@ -135,7 +135,6 @@ Bij HovenierAI helpen we hoveniers 3D-ontwerp structureel in hun verkoop-flow in
 - Training-traject (3 dagen SketchUp basis + 2 dagen advanced)
 - Plant-database template (top-50 NL tuin-planten) met onderhoud + watering-eisen ingevuld
 - Offerte-template met geïntegreerde 3D-bijlage
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor hoveniers](/gratis-scan) of bekijk onze [tarieven HovenierAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 

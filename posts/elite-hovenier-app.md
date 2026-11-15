@@ -44,4 +44,4 @@ Dat werkt twee kanten op, en dat is het eerlijke verhaal erbij. Een beheerder di
 
 Begin niet bij de app. Begin bij het dossier: krijg eerst per object de afspraken, de historie en de foto's op één plek. Draait dat een seizoen, dan is de app er een schil omheen die je in een middag aanzet. Andersom bouw je een etalage voor een magazijn dat leeg is.
 
-Benieuwd wat er in jouw huidige opzet al vastligt en wat nog nergens staat? Vraag de [gratis ai scan voor hoveniers](/gratis-scan) aan. We werken met een Groei-of-Geld-Terug Garantie, dus je kunt het rustig uitproberen.
+Benieuwd wat er in jouw huidige opzet al vastligt en wat nog nergens staat? Vraag de [gratis ai scan voor hoveniers](/gratis-scan) aan.

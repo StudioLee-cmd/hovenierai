@@ -135,6 +135,5 @@ Bij HovenierAI helpen we MKB-hoveniers hun software-stack consolideren naar éé
 - Een [chatbot voor hoveniers](/chatbot) en [ai telefonist voor hoveniers](/voice-ai) gekoppeld aan het centrale systeem voor 24/7 leadopvang
 - Migratie-begeleiding van je bestaande klantenbestand, foto-archief en factuur-historie zonder data-verlies
 - 4 weken parallel-running ter validatie en team-training
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor hoveniers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).

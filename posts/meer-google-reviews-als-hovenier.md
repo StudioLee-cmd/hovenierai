@@ -80,18 +80,6 @@ En het mooiste: je hoeft er maar **15 minuten per maand** aan te besteden. Dat i
 
 Lees ook hoe je [meer klanten via Google](/blog/hoe-hoveniers-meer-klanten-vinden-via-google) om je volledige online strategie te versterken.
 
-## Groei-of-Geld-Terug Garantie
-
-Onze garantie geldt vanaf Managed Groei Pro. Word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Je zit nergens aan vast: maandelijks opzegbaar.
-
-- **Nulmeting vóór de eerste werkdag.** We leggen vast waar je staat, zichtbaar in je dashboard. Daar meten we achteraf tegen, zodat je startpunt niet ter discussie staat.
-- **SEO:** geen groei in je zichtbaarheid in Ahrefs? Geld terug.
-- **Video en advertenties:** geen groei in views? Geld terug.
-- **Wat er buiten valt:** klikken, aanvragen en omzet. Die hangen aan je eigen aanbod en je prijzen.
-
-Word je wel beter zichtbaar maar belt er niemand, dan kijken we samen naar je aanbod.
-
-Wij geloven zo sterk in ons systeem dat we een garantie bieden:
 ## Conclusie
 
 Google reviews zijn geen "nice to have" — ze zijn essentieel voor elke hovenier die online gevonden wil worden. Met de juiste aanpak en automatisering hoef je er zelf geen tijd aan te besteden en stromen de reviews vanzelf binnen.

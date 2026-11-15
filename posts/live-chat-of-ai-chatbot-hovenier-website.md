@@ -90,6 +90,6 @@ Nee, mits hij zich niet voordoet als mens. Wees er gewoon helder over dat het ee
 
 Terug naar die aanvraag van 21:14. De vraag is niet of live chat persoonlijker is dan een ai-chatbot, want dat is hij. De vraag is wie er bij jou om 21:14 achter het scherm zit. Is dat antwoord "niemand", dan is de keuze al gemaakt: liever een digitale assistent die elke aanvraag netjes uitvraagt dan een chatvenster dat stilte belooft. Jij maakt tuinen mooi, wij regelen de rest.
 
-Benieuwd wat een chatbot op jouw website concreet zou opleveren? Vraag de [gratis ai scan voor hoveniers](/gratis-scan) aan, dan zie je binnen een paar dagen waar jouw site aanvragen laat liggen. Met de Groei-of-Geld-Terug Garantie loop je daarbij geen risico.
+Benieuwd wat een chatbot op jouw website concreet zou opleveren? Vraag de [gratis ai scan voor hoveniers](/gratis-scan) aan, dan zie je binnen een paar dagen waar jouw site aanvragen laat liggen.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hovenier-chatbot-wat-moet-hij-kunnen" class="text-dark fw-semibold">Wat een hovenier-chatbot écht moet kunnen</a> →</p></div></div></div>

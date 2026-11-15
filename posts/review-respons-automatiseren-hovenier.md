@@ -86,7 +86,7 @@ Even concreet, want daar draait het om. Stel je krijgt gemiddeld acht reviews pe
 
 Belangrijker dan de tijd is de consistentie. Elke review een antwoord, elke keer binnen een uur, elke keer persoonlijk. Dat bouwt op je Google-profiel een reputatie op die nieuwe klanten over de streep trekt en die je positie op de kaart versterkt. Wil je weten of jouw reviewprofiel nu al werkt of geld laat liggen? Vraag een [gratis AI-scan voor hoveniers](/gratis-scan) aan, dan kijken we samen waar de winst zit.
 
-En de garantie: als de aanpak binnen de afgesproken periode niet leidt tot meer en beter beantwoorde reviews, dan geldt onze **Groei-of-Geld-Terug Garantie**. Jij maakt tuinen mooi, wij regelen de rest.
+Jij maakt tuinen mooi, wij regelen de rest.
 
 ## Veelgestelde vragen
 

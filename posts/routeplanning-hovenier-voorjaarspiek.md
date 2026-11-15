@@ -80,7 +80,7 @@ Wie deze vijf stappen doorvoert, merkt het eerst aan het einde van de dag: je be
 
 Terug naar die border. Wie de volgorde van het werk kent, kruit één keer en plant daarna in alle rust. Wie zijn routes clustert, rijdt één keer per wijk en werkt daarna in alle rust. De klussen veranderen niet, de dag eromheen wel.
 
-De optelsom uit dit verhaal: geo-clusteren bespaart je in de piek een uur of meer per dag, de juiste klusvolgorde haalt de stress uit de middag, en auto-dispatch zorgt dat een regenbui of zieke collega geen drie boze klanten oplevert. Benieuwd wat dat bij HovenierAI kost en wat het oplevert? Bekijk [wat kost ai voor hoveniers](/tarieven) voor de concrete cijfers. We werken met een Groei-of-Geld-Terug Garantie, dus het risico ligt bij ons, niet bij jou.
+De optelsom uit dit verhaal: geo-clusteren bespaart je in de piek een uur of meer per dag, de juiste klusvolgorde haalt de stress uit de middag, en auto-dispatch zorgt dat een regenbui of zieke collega geen drie boze klanten oplevert. Benieuwd wat dat bij HovenierAI kost en wat het oplevert? Bekijk [wat kost ai voor hoveniers](/tarieven) voor de concrete cijfers.
 
 Jij maakt tuinen mooi, wij regelen de rest.
 

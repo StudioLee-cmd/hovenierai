@@ -111,4 +111,4 @@ Bij HovenierAI helpen we MKB-hoveniers hun voorjaarspiek strategisch organiseren
 - Een 24-uur-offerte-flow met WhatsApp-template, foto-archief en automatische 3-dag en 7-dag follow-up
 - Lokale SEO-optimalisatie via [seo voor hoveniers](/seo) voor zoekwoorden zoals "hovenier voorjaar [stad]"
 
-[Plan een gratis AI-scan voor hoveniers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor hoveniers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](/demo).

@@ -115,4 +115,4 @@ Bij HovenierAI helpen we MKB-hoveniers hun WhatsApp Business professioneel inric
 - Een before/after-foto-flow met deel-stimulus voor klanten en automatische opslag in je portfolio
 - Een [ai chatbot voor hoveniers](/chatbot) op je website voor 24/7 leadopvang buiten WhatsApp-uren
 
-[Plan een gratis AI-scan voor hoveniers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor hoveniers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](/demo).

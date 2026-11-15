@@ -798,7 +798,7 @@ export const managedService: IBenefit = {
         // afkeuren (bewijs verslaat belofte; de kapper zit op niveau 1-2, niet op marktdominantie).
         description: "Dan zetten wij het op, houden wij het bij en sturen wij het elke maand bij. Jij ziet alleen de afspraken binnenkomen.",
         buttonText: "Plan een Strategie Call",
-        buttonUrl: "https://cal.com/studiolee",
+        buttonUrl: "/demo",
         bullets: [
         {
             title: "AI Dominantie",

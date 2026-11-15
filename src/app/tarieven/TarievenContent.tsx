@@ -38,14 +38,13 @@ const plans = [
     name: "Laten draaien",
     price: "€79",
     period: "/maand",
-    description: "Een website die stilstaat levert niets op. Dit is wat 'm laat wérken: live gezet, gevonden worden, en iemand die opneemt als jij bezig bent.",
+    description: "Een website die stilstaat levert niets op. Dit laat 'm draaien: live gezet, bijgehouden en een chatbot die vragen opvangt.",
     features: [
-      "Je site live gezet en bijgehouden",
-      "Elke week een nieuw artikel, zodat je gevonden wordt",
-      "Chatbot die vragen opvangt buiten openingstijden",
-      "Telefoon die opneemt als jij je handen niet vrij hebt",
-      "Herinneringen en opvolging die vanzelf gaan",
+      "Website op maat, door ons opgezet",
+      "Hosting en SSL",
+      "AI-chatbot op je website, met beperkt gebruik",
       "Maandelijks opzegbaar",
+      "Artikelen, posts en de AI-telefonist neem je erbij wanneer jij wilt",
     ],
     cta: "Zo wil ik het",
     ctaLink: "/gratis-scan",
@@ -134,7 +133,7 @@ export default function TarievenContent() {
             <p className="text-primary font-semibold text-lg">{brand}</p>
             <p>
               <span className="block text-3xl md:text-4xl font-bold">Vanaf €79 per maand</span>
-              <span className="block text-sm text-gray-300 mt-2">Alles inbegrepen, en dat is minder dan die onderdelen los bij elkaar.</span>
+              <span className="block text-sm text-gray-300 mt-2">Je website met de chatbot; de rest neem je erbij wanneer jij wilt.</span>
             </p>
           </motion.div>
         </div>

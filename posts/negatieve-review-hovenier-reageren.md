@@ -76,4 +76,4 @@ Met een [automatisch review-systeem](/reviews) gaan deze verzoeken vanzelf uit n
 
 Reviews zijn meer dan een rapportcijfer. Ze zijn je sterkste marketingtool als hovenier. Potentiële klanten vertrouwen reviews meer dan je website, je advertenties of je portfolio. Een profiel met 30+ reviews en een score boven de 4,5 wint vrijwel altijd van een concurrent met 5 reviews.
 
-Wil je weten hoe jouw online reputatie er nu voor staat en waar de kansen liggen? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je reviews, je vindbaarheid en concrete verbeterpunten. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie als je besluit er professioneel mee aan de slag te gaan.
+Wil je weten hoe jouw online reputatie er nu voor staat en waar de kansen liggen? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je reviews, je vindbaarheid en concrete verbeterpunten.

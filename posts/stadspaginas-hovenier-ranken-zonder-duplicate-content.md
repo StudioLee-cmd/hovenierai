@@ -97,4 +97,4 @@ Reken op drie tot zes maanden voordat een nieuwe stadspagina stabiel rankt, in k
 
 Jouw bus rijdt al door acht gemeenten; je website mag dat ook gaan doen. Kies de plaatsen waar je echt werkt, geef elke plaats een eigen pagina met eigen projecten, eigen reviews en eigen wijknamen, en laat het kopieerwerk aan de concurrent die straks weggefilterd wordt. Meer opdrachten, ook buiten je eigen dorp: dat is wat een goed gebouwd werkgebied oplevert.
 
-Geen tijd om zelf pagina's te bouwen tussen het snoeien door? Dat snappen we. HovenierAI zet [ai seo voor hoveniers](/seo) voor je in en bouwt je stadspagina's en vindbaarheid op terwijl jij in de tuin staat, met onze Groei-of-Geld-Terug Garantie als zekerheid. Vraag de [gratis seo scan voor hoveniers](/gratis-scan) aan en zie binnen een paar dagen in welke gemeenten jij nu klussen laat liggen. Jij maakt tuinen mooi, wij regelen de rest.
+Geen tijd om zelf pagina's te bouwen tussen het snoeien door? Dat snappen we. Vraag de [gratis seo scan voor hoveniers](/gratis-scan) aan en zie binnen een paar dagen in welke gemeenten jij nu klussen laat liggen. Jij maakt tuinen mooi, wij regelen de rest.

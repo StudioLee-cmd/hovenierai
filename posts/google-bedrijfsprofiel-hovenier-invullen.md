@@ -67,4 +67,4 @@ Je profiel trekt de aandacht, je website geeft de verdieping. Zorg dat beide dez
 
 Open je Google Bedrijfsprofiel, vul alle lege velden in en upload 5 foto's van je beste projecten. Dat kost je dertig minuten en het effect is direct merkbaar.
 
-Wil je een compleet beeld van je online zichtbaarheid? Vraag een [gratis scan](/gratis-scan) aan. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je een compleet beeld van je online zichtbaarheid? Vraag een [gratis scan](/gratis-scan) aan.

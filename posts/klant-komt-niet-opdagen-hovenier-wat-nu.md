@@ -58,4 +58,4 @@ De meeste hoveniers schatten hun no-show kosten te laag in. Twee keer per maand 
 
 No-shows zijn vervelend, maar ze zijn ook voorspelbaar. Met bevestigingen, aanbetalingen en een plan B voor lege ochtenden beperk je de schade tot bijna nul.
 
-Wil je weten hoe je je hele klantcommunicatie en planning kunt stroomlijnen? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je bedrijf en concrete verbeterpunten. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je je hele klantcommunicatie en planning kunt stroomlijnen? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je bedrijf en concrete verbeterpunten.

@@ -102,7 +102,7 @@ Een hovenier-website die concurrentieanalyse-inzichten direct kan toepassen, hee
 - Reviews-integratie van Google die automatisch updaten.
 - Een offerte-aanvraag flow die binnen 24 uur reactie geeft (sneller dan de meeste concurrenten).
 
-Wil je weten waar jouw website momenteel staat ten opzichte van de top-3 in jouw regio? Plan een [gratis ai-scan](/gratis-scan) en we doen een complete concurrentieanalyse plus website-audit. We werken met de Groei-of-Geld-Terug Garantie.
+Wil je weten waar jouw website momenteel staat ten opzichte van de top-3 in jouw regio? Plan een [gratis ai-scan](/gratis-scan) en we doen een complete concurrentieanalyse plus website-audit.
 
 ## Veelgestelde vragen
 
@@ -134,4 +134,4 @@ Voor de eerste analyse helpt vaak een externe blik. Daarna kun je de jaarlijkse 
 
 Een concurrentieanalyse van 30 minuten geeft je objectieve data om beslissingen op je tarief, je aanbod en je website te baseren. Hoveniers die deze check minstens één keer per jaar doen, prijzen zichzelf marktconform of premium en winnen significantere project-omzet dan collega's die op gevoel werken.
 
-Wil je weten hoe jouw bedrijf zich positioneert in jouw regio? Plan een [gratis ai-scan](/gratis-scan) en we doen samen een volledige concurrentieanalyse plus directe verbeterpunten voor je website en aanbod. Met de Groei-of-Geld-Terug Garantie weet je vooraf wat je investering oplevert.
+Wil je weten hoe jouw bedrijf zich positioneert in jouw regio? Plan een [gratis ai-scan](/gratis-scan) en we doen samen een volledige concurrentieanalyse plus directe verbeterpunten voor je website en aanbod.

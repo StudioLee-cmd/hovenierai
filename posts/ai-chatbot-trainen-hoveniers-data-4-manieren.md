@@ -84,6 +84,6 @@ Een goed getrainde bot antwoordt binnen de kennis die jij hem geeft en draagt ov
 
 Terug naar die twee chatbots van het begin. De één jaagt de hele dag verkeerde aanvragen jouw kant op, de ander levert je elke ochtend een handvol serieuze, complete leads. Het verschil is geen dure techniek, maar vier bronnen uit je eigen bedrijf: je vragen, je kennis, je voorraad en je papierwerk. Vul die en de bot gaat klinken als iemand die jouw bedrijf al jaren kent. Jij maakt tuinen mooi, wij regelen de rest.
 
-Benieuwd hoeveel aanvragen jouw site nu laat liggen zonder slimme opvang? Vraag de [gratis ai scan voor hoveniers](/gratis-scan) aan, dan zie je binnen een paar dagen waar de lekken zitten. Met de Groei-of-Geld-Terug Garantie loop je daarbij geen risico.
+Benieuwd hoeveel aanvragen jouw site nu laat liggen zonder slimme opvang? Vraag de [gratis ai scan voor hoveniers](/gratis-scan) aan, dan zie je binnen een paar dagen waar de lekken zitten.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/live-chat-of-ai-chatbot-hovenier-website" class="text-dark fw-semibold">Live chat of AI chatbot op je hovenier-website?</a> →</p></div></div></div>

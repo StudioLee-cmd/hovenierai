@@ -91,6 +91,6 @@ Zoek je bedrijf en je belangrijkste diensten op zoals een klant dat zou doen, op
 
 Die derde beller in de border stelt zijn vraag volgend voorjaar niet meer aan jou, mits het antwoord ergens staat waar Google het kan lezen. Dat is het hele idee, en het is niet veranderd. Alleen de plek is verschoven: van een vakje op je profiel naar je profielvelden en je eigen site.
 
-Benieuwd waar jouw profiel en website nu staan? Vraag de [gratis AI-scan voor hoveniers](/gratis-scan) aan, dan zie je binnen een paar minuten waar je de meeste klussen laat liggen. Kies je daarna voor de aanpak van HovenierAI, dan werk je met de Groei-of-Geld-Terug Garantie vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij maakt tuinen mooi, wij regelen de rest.
+Benieuwd waar jouw profiel en website nu staan? Vraag de [gratis AI-scan voor hoveniers](/gratis-scan) aan, dan zie je binnen een paar minuten waar je de meeste klussen laat liggen. Jij maakt tuinen mooi, wij regelen de rest.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/stadspaginas-hovenier-ranken-zonder-duplicate-content" class="text-dark fw-semibold">Stadspagina's voor hoveniers zonder duplicate content</a> →</p>

@@ -96,7 +96,7 @@ Onderhoudscontracten beheren hoeft geen administratieve last te zijn:
 
 Onderhoudscontracten zijn de sleutel tot een stabiel hoveniersbedrijf. Ze geven je voorspelbare inkomsten, vullen de wintermaanden en bouwen langdurige klantrelaties.
 
-Met [HovenierAI](/) automatiseren we je contractbeheer, herinneringen en facturering. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [HovenierAI](/) automatiseren we je contractbeheer, herinneringen en facturering. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je vaste inkomsten opbouwt.
 

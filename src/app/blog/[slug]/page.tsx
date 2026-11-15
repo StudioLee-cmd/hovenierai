@@ -8,6 +8,8 @@ import { getAuthorBySlug } from '@/data/authors';
 import { siteDetails } from '@/data/siteDetails';
 import Container from '@/components/Container';
 import BlogContent from '@/components/BlogContent';
+import { scrollableWide } from '@/utils/articleHtml';
+import { postLastmod } from '@/utils/lastmod';
 import { FiArrowLeft, FiClock } from 'react-icons/fi';
 
 const SITE_URL = 'https://www.hovenierai.nl';
@@ -55,7 +57,7 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
         notFound();
     }
 
-    const contentHtml = await getPostHtml(slug);
+    const contentHtml = scrollableWide(await getPostHtml(slug));
     const author = getAuthorBySlug(post.authorSlug);
     const related = getRelatedPosts(slug);
 
@@ -68,7 +70,7 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
         description: post.excerpt,
         url: postUrl,
         datePublished: post.date,
-        dateModified: post.date,
+        dateModified: postLastmod(post).toISOString(),
         image: post.image?.startsWith('http') ? post.image : `${SITE_URL}${post.image}`,
         author: {
             '@type': 'Person',
@@ -118,12 +120,12 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
                     </div>
                 </div>
 
-                <div className="max-w-3xl mx-auto">
+                <div data-article-body className="max-w-3xl mx-auto" style={{ overflowWrap: 'break-word', hyphens: 'auto' }}>
                     <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-6 text-[var(--foreground)] leading-tight">
                         {post.title}
                     </h1>
 
-                    <div className="flex flex-wrap items-center gap-x-6 gap-y-3 text-sm text-[var(--foreground-accent)] mb-8 pb-8 border-b border-[var(--card-border)]">
+                    <div data-article-meta className="flex flex-wrap items-center gap-x-6 gap-y-3 text-sm text-[var(--foreground-accent)] mb-8 pb-8 border-b border-[var(--card-border)]">
                         {author && (
                             <Link href={`/author/${author.slug}`} className="flex items-center gap-2 hover:text-[var(--secondary)] transition-colors">
                                 <Image
@@ -136,13 +138,13 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
                                 <span className="whitespace-nowrap">{author.name}</span>
                             </Link>
                         )}
-                        <div className="flex items-center gap-2">
+                        <div className="flex items-center gap-2 whitespace-nowrap">
                             <FiClock size={18} />
                             <span className="whitespace-nowrap">{new Date(post.date).toLocaleDateString("nl-NL", { timeZone: "Europe/Amsterdam", year: 'numeric', month: 'long', day: 'numeric' })}</span>
                         </div>
                         <div className="flex flex-wrap gap-2">
                             {post.tags.map(tag => (
-                                <span key={tag} className="text-xs font-semibold text-[var(--secondary)] bg-[var(--secondary)]/10 px-2 py-1 rounded-full">
+                                <span key={tag} className="text-xs font-semibold text-[var(--secondary)] bg-[var(--secondary)]/10 px-2 py-1 rounded-full whitespace-nowrap">
                                     {tag}
                                 </span>
                             ))}
@@ -160,7 +162,7 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
                     </aside>
 
                     {related.length > 0 && (
-                        <nav aria-labelledby="verder-lezen" className="mt-12 pt-8 border-t border-[var(--card-border)]">
+                        <section data-related-articles aria-labelledby="verder-lezen" className="mt-12 pt-8 border-t border-[var(--card-border)]">
                             <h2 id="verder-lezen" className="text-2xl font-bold mb-6 text-[var(--foreground)]">Verder lezen</h2>
                             <ul className="grid gap-4 md:grid-cols-2">
                                 {related.map((item) => (
@@ -171,7 +173,7 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
                                     </li>
                                 ))}
                             </ul>
-                        </nav>
+                        </section>
                     )}
 
                     {author && (

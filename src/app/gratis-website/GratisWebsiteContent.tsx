@@ -101,7 +101,7 @@ export default function GratisWebsiteContent() {
                 <p className="font-semibold mb-3">En daarna? Jij kiest:</p>
                 <div className="space-y-2 text-sm text-foreground-accent">
                   <div className="flex justify-between">
-                    <span>Laten draaien: live gezet, gevonden worden, telefoon die opneemt</span>
+                    <span>Laten draaien: live gezet en bijgehouden, met een chatbot</span>
                     <span className="font-semibold text-primary whitespace-nowrap">vanaf €79/mnd</span>
                   </div>
                   <div className="flex justify-between border-t border-[var(--card-border)] pt-2 mt-2">

@@ -1,4 +1,5 @@
 import React from "react";
+import EzidaPlanFrame from "@/components/EzidaPlanFrame";
 import Hero from "@/components/Hero";
 import Testimonials from "@/components/Testimonials";
 import Pricing from "@/components/Pricing/Pricing";
@@ -51,6 +52,7 @@ const HomePage: React.FC = () => {
         title="Tarieven"
         description="Eerlijke, transparante prijzen. Geen verrassingen."
       >
+        <EzidaPlanFrame />
         <Pricing />
         <Container>
           <CreditPricing />

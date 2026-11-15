@@ -14,16 +14,12 @@ export const tiers: IPricing[] = [
         priceMonthly: 79, // Direct monthly price
         ctaType: 'trial',
         features: [
-
-            'Je eigen dashboard: agenda, berichten en klanten op één plek',
-            'Elke week een nieuw artikel op je site, zodat je gevonden wordt',
-            'De eerste 14 dagen voor €1 uitproberen',
-            'Elke maand een kwartier overleg over wat er beter kan',
-            'Maandelijks tegoed voor gesprekken en beelden',
-            'Beelden voor je social, automatisch klaargezet',
-            'Telefoon die opneemt als jij je handen niet vrij hebt',
-            'Posts en advertenties die vanzelf klaarstaan',
-            'Chatbot op je site die vragen opvangt buiten openingstijden',
+            "Website op maat, door ons opgezet",
+            "Hosting en SSL",
+            "AI-chatbot op je website, met beperkt gebruik",
+            "Maandelijks opzegbaar",
+            "14 dagen proberen voor €1",
+            "Artikelen, posts en de AI-telefonist neem je erbij wanneer jij wilt",
         ],
         focus: 'Focus: de instap. Zodat je site gaat draaien in plaats van stilstaan.',
         savings: 'BTW Inclusief',

@@ -54,7 +54,7 @@ export default function GratisWebsiteContent() {
     { q: "Kan ik het bestand krijgen?", a: "Ja. De website bestanden zijn van jou. Vraag het aan en we sturen ze door." },
     { q: "Wat krijg ik dan níét gratis?", a: "Het draaiend krijgen en houden: live zetten, gevonden worden, teksten die blijven komen, iemand die opneemt. Dát is het werk, en dat zit in het abonnement vanaf €79 per maand. Een website die stilstaat levert niets op." },
     { q: "Wat kost het als ik het los zou regelen?", a: "Meer. Iemand voor je telefoon en je planning, iemand voor je marketing, iemand voor je vindbaarheid, plus de losse abonnementen: bij elkaar loopt dat flink op. Bij ons zit het in één rekening, en die is lager dan die onderdelen los bij elkaar. Vergelijk dus de rekening, niet de onderdelen." },
-    { q: "Hoe snel is het klaar?", a: "Meestal binnen 48 uur, uiterlijk binnen een week. Je ontvangt een live link naar je ontwerp. Aanmelden zelf kost je minder dan een minuut: naam, plaats en hoe we je kunnen bereiken." },
+    { q: "Hoe snel is het klaar?", a: "Binnen 48 uur maken we drie voorbeelden van jouw eigen website, met je eigen naam, diensten en foto's. Je kiest er één, en we zeggen erbij welke wij je aanraden. Je ontvangt een live link naar je ontwerp. Aanmelden zelf kost je minder dan een minuut: naam, plaats en hoe we je kunnen bereiken." },
     { q: "Moet ik al een website hebben?", a: "Nee, ook als je nog geen website hebt kunnen wij een design maken. We vragen alleen je bedrijfsnaam en wat informatie over je diensten." },
   ];
 
@@ -86,7 +86,7 @@ export default function GratisWebsiteContent() {
               <motion.div
                 className="space-y-3 mb-8 sl-reveal sl-reveal-2"
               >
-                {["Live preview op eigen link", "SEO-geoptimaliseerd", "Professioneel design op maat", "Bestanden zijn van jou"].map((item) => (
+                {["Binnen 48 uur maken we drie voorbeelden van jouw eigen website, met je eigen naam, diensten en foto's. Je kiest er één, en we zeggen erbij welke wij je aanraden.", "Live preview op eigen link", "SEO-geoptimaliseerd", "Professioneel design op maat", "Bestanden zijn van jou"].map((item) => (
                   <div key={item} className="flex items-center gap-3">
                     <BsCheckCircleFill className="text-green-500 flex-shrink-0" />
                     <span className="text-foreground-accent">{item}</span>
@@ -230,7 +230,7 @@ export default function GratisWebsiteContent() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
               { step: "1", title: "Naam, plaats, en hoe we je bereiken", desc: "Meer vragen we niet. Minder dan een minuut werk, geen account, geen betaalgegevens." },
-              { step: "2", title: "Wij zetten jouw gegevens in het ontwerp", desc: "Je hoeft zelf niets in te richten. Wij kijken naar je huidige site en je omgeving en maken het ontwerp klaar." },
+              { step: "2", title: "Wij zetten jouw gegevens in het ontwerp", desc: "Je hoeft zelf niets in te richten. Wij kijken naar je huidige site en je omgeving en maken het ontwerp klaar. Binnen 48 uur maken we drie voorbeelden van jouw eigen website, met je eigen naam, diensten en foto's. Je kiest er één, en we zeggen erbij welke wij je aanraden." },
               { step: "3", title: "Je krijgt meteen een live link plus het bestand", desc: "Binnen 48 uur staat je ontwerp online op een eigen link en is het bestand van jou. Wil je 'm ook echt laten draaien, dan begint dat bij €79 per maand." },
             ].map((s) => (
               <div key={s.step} className="text-center">

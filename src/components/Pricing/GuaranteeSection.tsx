@@ -22,7 +22,7 @@ const GuaranteeSection: React.FC = () => {
                 </h3>
 
                 <p className="text-green-200 font-medium mb-8 max-w-2xl mx-auto relative z-10">
-                    Geldig vanaf Managed Groei Pro. Word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Je zit nergens aan vast: maandelijks opzegbaar.
+                    Geldig op de betaalde SEO-uitbreidingen. Word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Je zit nergens aan vast: maandelijks opzegbaar.
                 </p>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-left relative z-10">

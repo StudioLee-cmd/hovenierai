@@ -18,15 +18,15 @@ Onderzoek bevestigt het: bedrijven die binnen één uur reageren op een online a
 
 ## Waarom de meeste hoveniers te traag zijn
 
-Het probleem is bijna nooit luiheid. Het probleem is dat je tussen 8:00 en 17:00 in iemands tuin staat met een schoffel of een grasmaaier. Je telefoon zit in je broekzak, je handen zijn vies, en je bent geconcentreerd op de klus. Die offerteaanvraag uit je inbox wordt 's avonds pas gezien — als je nog energie hebt om de computer aan te zetten.
+Het probleem is bijna nooit luiheid. Het probleem is dat je tussen 8:00 en 17:00 in iemands tuin staat met een schoffel of een grasmaaier. Je telefoon zit in je broekzak, je handen zijn vies, en je bent geconcentreerd op de klus. Die offerteaanvraag uit je inbox wordt 's avonds pas gezien, als je nog energie hebt om de computer aan te zetten.
 
 Ondertussen heeft de klant al twee andere hoveniers gesproken. Misschien zelfs een afspraak gemaakt. Jouw mailtje 12 uur later is te laat, ook al ben je technisch gezien de betere vakman.
 
 Er zijn drie soorten vertraging die je moet aanpakken:
 
-1. **De eerste reactie** — hoe lang duurt het tussen "ik zie de aanvraag" en "klant heeft een bericht van mij"
-2. **De tijd tot het bezoek** — wanneer kun je realistisch langskomen om te kijken
-3. **De tijd tot de offerte** — hoe lang na het bezoek komt de prijs op papier
+1. **De eerste reactie**: hoe lang duurt het tussen "ik zie de aanvraag" en "klant heeft een bericht van mij"
+2. **De tijd tot het bezoek**: wanneer kun je realistisch langskomen om te kijken
+3. **De tijd tot de offerte**: hoe lang na het bezoek komt de prijs op papier
 
 Alle drie kun je met een goed proces drastisch verkorten.
 
@@ -62,7 +62,7 @@ Op het tuinbezoek doe je meer dan rondlopen en knikken. Je verzamelt alle inform
 - **Afmetingen** ter plekke noteren (notities-app of een offerte-app)
 - **Wensen en voorkeuren** van de klant: stijl (modern, klassiek, natuur), onderhoudsniveau, kleurvoorkeuren
 - **Praktische uitdagingen**: bereikbaarheid voor materialen, parkeerruimte, bomen die in de weg staan
-- **Een mondelinge richtprijs** als je dat kunt — dat kweekt vertrouwen
+- **Een mondelinge richtprijs** als je dat kunt, want dat kweekt vertrouwen
 - **Een belofte**: "Je hebt vrijdag mijn definitieve offerte"
 
 Het verzamelen ter plekke is cruciaal. Anders ben je een dag later met je foto's aan het puzzelen welke afmeting bij welke zone hoort.

@@ -55,7 +55,7 @@ Houd bij:
 - Welke pagina's het meest bezocht worden
 - Waar bezoekers afhaken (Google Analytics)
 
-Vergelijk maandelijks. Een verbetering van twee naar zes aanvragen per maand betekent vier extra potentiele klussen — zonder extra marketingkosten.
+Vergelijk maandelijks. Een verbetering van twee naar zes aanvragen per maand betekent vier extra potentiele klussen, zonder extra marketingkosten.
 
 ## Veelgemaakte fouten
 

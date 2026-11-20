@@ -279,7 +279,7 @@ export default function PruneGame({ onComplete, onExit }: PruneGameProps) {
             <ul className="text-green-200 space-y-2 text-sm sm:text-base">
               <li className="flex items-start gap-2">
                 <span className="text-green-400 mt-0.5">{'\uD83C\uDF3F'}</span>
-                <span>8 heggen groeien omhoog &mdash; knip ze op de juiste hoogte!</span>
+                <span>8 heggen groeien omhoog: knip ze op de juiste hoogte!</span>
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-red-400 mt-0.5">- -</span>
@@ -394,7 +394,7 @@ export default function PruneGame({ onComplete, onExit }: PruneGameProps) {
                   'bg-gray-600/80 text-gray-300'
                 }`}>
                   <div className="text-sm">
-                    {r.result === 'perfect' || r.result === 'goed' ? '\u2713' : r.result === 'fout' ? '\u2717' : '\u2014'}
+                    {r.result === 'perfect' || r.result === 'goed' ? '\u2713' : r.result === 'fout' ? '\u2717' : 'n.v.t.'}
                   </div>
                   <div className="text-[10px] opacity-80">{r.coins > 0 ? `+${r.coins}` : ''}</div>
                 </div>

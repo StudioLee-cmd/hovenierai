@@ -46,10 +46,10 @@ const UnlimitedOptionBlock = () => {
 
                         <div className="relative z-10 flex-1 text-center md:text-left">
                             <h3 className="text-2xl lg:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-700 to-indigo-700 mb-2 flex items-center justify-center md:justify-start gap-3">
-                                🚀 Unlimited Option
+                                🚀 Meer gebruik
                             </h3>
                             <p className="text-gray-700 font-medium text-lg mb-2">
-                                Upgrade naar onbeperkt gebruik van <strong>Voice AI en alle workflows</strong>.
+                                Meer gebruik nodig van <strong>Voice AI en alle workflows</strong>.
                             </p>
                             <p className="text-xs text-gray-400 italic max-w-2xl leading-relaxed">
                                 *Kan op elk moment wijzigen. Exclusief de premium-versies van de AI's (Credits). Bevat wel alle standaard tools voor dagelijks gebruik.
@@ -58,9 +58,9 @@ const UnlimitedOptionBlock = () => {
 
                         <div className="relative z-10 flex flex-col items-center md:items-end flex-shrink-0">
                             <div className="text-3xl lg:text-4xl font-extrabold text-blue-900">
-                                € 197,-
+                                Credits
                             </div>
-                            <div className="text-sm font-semibold text-blue-700 uppercase tracking-wide">p/m extra</div>
+                            <div className="text-sm font-semibold text-blue-700 uppercase tracking-wide">vooraf, naar gebruik</div>
                         </div>
                     </div>
                 </div>
@@ -211,13 +211,13 @@ const Pricing: React.FC = () => {
 
                                 <div className="relative z-10 flex-1 text-center md:text-left">
                                     <h3 className="text-2xl lg:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-[var(--secondary)] to-orange-400 mb-2 flex items-center justify-center md:justify-start gap-3">
-                                        🚀 Unlimited Option
+                                        🚀 Meer gebruik
                                         <span className="hidden sm:inline-block text-xs font-bold text-white bg-[var(--secondary)] px-3 py-1 rounded-full shadow-md group-hover:bg-orange-500 transition-colors">
                                             Populair
                                         </span>
                                     </h3>
                                     <p className="text-[var(--foreground-accent)] font-medium text-lg mb-2">
-                                        Upgrade naar onbeperkt gebruik van <strong className="text-[var(--foreground)]">Voice AI en alle workflows</strong>.
+                                        Meer gebruik nodig van <strong className="text-[var(--foreground)]">Voice AI en alle workflows</strong>.
                                     </p>
                                     <p className="text-xs text-[var(--foreground-accent)] italic max-w-2xl leading-relaxed">
                                         *Kan op elk moment wijzigen. Exclusief de premium-versies van de AI's (Credits). Bevat wel alle standaard tools voor dagelijks gebruik.
@@ -226,9 +226,9 @@ const Pricing: React.FC = () => {
 
                                 <div className="relative z-10 flex flex-col items-center md:items-end flex-shrink-0 bg-[var(--secondary)]/10 px-6 py-4 rounded-xl border border-[var(--secondary)]/30 group-hover:bg-[var(--secondary)]/20 transition-colors">
                                     <div className="text-3xl lg:text-4xl font-extrabold text-[var(--secondary)]">
-                                        € 197,-
+                                        Credits
                                     </div>
-                                    <div className="text-sm font-semibold text-[var(--secondary)] uppercase tracking-wide">p/m extra</div>
+                                    <div className="text-sm font-semibold text-[var(--secondary)] uppercase tracking-wide">vooraf, naar gebruik</div>
                                 </div>
                             </div>
                         </div>

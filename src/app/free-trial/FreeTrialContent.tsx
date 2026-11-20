@@ -219,7 +219,7 @@ const FreeTrialPage = () => {
 
                             {/* ⚑ NOOIT `required`: toestemming die je moet geven om een account te
                                 krijgen is niet vrij gegeven en daarmee ongeldig (AVG art. 7(4)).
-                                Ook niet voorgevinkt — een vakje dat al aanstaat is geen keuze. */}
+                                Ook niet voorgevinkt, want een vakje dat al aanstaat is geen keuze. */}
                             <div className="flex items-start">
                                 <div className="flex items-center h-5 mt-1">
                                     <input

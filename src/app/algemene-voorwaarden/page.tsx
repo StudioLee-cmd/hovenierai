@@ -47,7 +47,7 @@ const TermsPage: React.FC = () => {
                         Bij niet-tijdige betaling is de opdrachtgever van rechtswege in verzuim, zonder dat een nadere ingebrekestelling is vereist. Vanaf het moment van verzuim is de opdrachtgever de wettelijke handelsrente verschuldigd over het openstaande bedrag.
                     </p>
                     <p className="mt-4">
-                        Alle redelijke kosten ter verkrijging van voldoening buiten rechte — waaronder buitengerechtelijke incassokosten — komen voor rekening van de opdrachtgever, met een minimum van € 150,-.
+                        Alle redelijke kosten ter verkrijging van voldoening buiten rechte, waaronder buitengerechtelijke incassokosten, komen voor rekening van de opdrachtgever, met een minimum van € 150,-.
                     </p>
                     <p className="mt-4">
                         Bij niet-tijdige betaling behoudt {siteDetails.siteName} zich daarnaast het recht voor om de dienstverlening (tijdelijk) op te schorten totdat alle openstaande facturen zijn voldaan.
@@ -98,7 +98,7 @@ const TermsPage: React.FC = () => {
 
                     <h2 className="text-2xl font-semibold text-foreground mt-8 mb-4">8. Intellectueel Eigendom & Maatwerk</h2>
                     <p>
-                        Alle door {siteDetails.siteName} in opdracht van de opdrachtgever ontwikkelde werken — waaronder websites, automatiseringen, workflows, content en overige op maat gemaakte oplossingen — worden na volledige betaling eigendom van de opdrachtgever. De opdrachtgever is vrij om deze werken naar eigen inzicht te gebruiken, aan te passen of over te dragen aan derden.
+                        Alle door {siteDetails.siteName} in opdracht van de opdrachtgever ontwikkelde werken, waaronder websites, automatiseringen, workflows, content en overige op maat gemaakte oplossingen, worden na volledige betaling eigendom van de opdrachtgever. De opdrachtgever is vrij om deze werken naar eigen inzicht te gebruiken, aan te passen of over te dragen aan derden.
                     </p>
                     <p className="mt-4">
                         Het voorgaande geldt niet voor door {siteDetails.siteName} voorafgaand aan of onafhankelijk van de opdracht ontwikkelde software, templates, tooling en systemen. Hierop behoudt {siteDetails.siteName} alle intellectuele eigendomsrechten. De opdrachtgever verkrijgt hierop een niet-exclusief gebruiksrecht voor de duur van de overeenkomst.

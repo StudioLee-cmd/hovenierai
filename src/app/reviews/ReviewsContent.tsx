@@ -113,7 +113,7 @@ const faqs = [
   },
   {
     question: "Wat doe ik met een negatieve review?",
-    answer: `Negatieve reviews zijn niet het einde van de wereld - het gaat erom hoe je reageert. We sturen je direct een alert bij een negatieve review en bieden kant-en-klare response templates. Een professionele reactie laat zien dat je klantgericht bent. Vaak veranderen klanten hun review zelfs na een goed gesprek.`,
+    answer: `Negatieve reviews zijn niet het einde van de wereld. Het gaat erom hoe je reageert. We sturen je direct een alert bij een negatieve review en bieden kant-en-klare response templates. Een professionele reactie laat zien dat je klantgericht bent. Vaak veranderen klanten hun review zelfs na een goed gesprek.`,
   },
   {
     question: `Kan ik review management ook los afnemen?`,
@@ -197,7 +197,7 @@ export default function ReviewsContent() {
           <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
             <Image
               src="/images/services/reviews-hero.jpg"
-              alt="5-sterren review op smartphone — Google review na hovenier klus"
+              alt="5-sterren review op smartphone: Google review na hovenier klus"
               fill
               priority
               className="object-cover"
@@ -221,7 +221,7 @@ export default function ReviewsContent() {
             <div className="prose prose-lg dark:prose-invert max-w-none text-gray-700 dark:text-gray-300">
               <p>
                 93% van de consumenten leest online reviews voordat ze een {niche} kiezen. Google
-                Reviews zijn het digitale equivalent van mond-tot-mondreclame - en ze zijn
+                Reviews zijn het digitale equivalent van mond-tot-mondreclame, en ze zijn
                 zichtbaar voor iedereen. Meer en betere reviews betekent niet alleen meer
                 vertrouwen, maar ook hogere rankings in Google Maps.
               </p>
@@ -513,7 +513,7 @@ export default function ReviewsContent() {
               transition={{ duration: 0.6 }}
             >
               <h2 className="text-2xl md:text-3xl font-bold mb-4">Lokaal worden gevonden = vooral reviews</h2>
-              <p className="text-foreground-accent leading-relaxed">Voor hoveniers zijn Google reviews de allerbelangrijkste ranking-factor in lokale search. Klanten kiezen in 87% van de gevallen voor het bedrijf met de meeste én hoogste sterren. Ons systeem stuurt automatisch een review-verzoek na elke klus — met directe link naar Google.</p>
+              <p className="text-foreground-accent leading-relaxed">Voor hoveniers zijn Google reviews de allerbelangrijkste ranking-factor in lokale search. Klanten kiezen in 87% van de gevallen voor het bedrijf met de meeste én hoogste sterren. Ons systeem stuurt automatisch een review-verzoek na elke klus, met directe link naar Google.</p>
             </motion.div>
           </div>
           <h3 className="text-xl md:text-2xl font-bold text-center mb-6">Combineer met andere AI-tools</h3>
@@ -525,7 +525,7 @@ export default function ReviewsContent() {
               </Link>
               <Link href="/seo" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
                 <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">SEO voor Hoveniers</h3>
-                <p className="text-foreground-accent text-sm mb-3">Reviews voeden je Google Maps ranking — combineer met lokale SEO voor maximale impact.</p>
+                <p className="text-foreground-accent text-sm mb-3">Reviews voeden je Google Maps ranking, dus combineer met lokale SEO voor maximale impact.</p>
                 <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
               </Link>
               <Link href="/automatisering" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">

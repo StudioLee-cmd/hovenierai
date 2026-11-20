@@ -24,7 +24,7 @@ const CostComparison: React.FC = () => {
         <Section
             id="comparison"
             title="Wat dit los bij elkaar kost"
-            description="Dezelfde dingen los inkopen — een vaste kracht voor je social, iemand voor je teksten, losse abonnementen voor je agenda en je website. Dit is wat je daar per maand aan kwijt bent, naast wat je hier voor hetzelfde werk betaalt."
+            description="Dezelfde dingen los inkopen: een vaste kracht voor je social, iemand voor je teksten, losse abonnementen voor je agenda en je website. Dit is wat je daar per maand aan kwijt bent, naast wat je hier voor hetzelfde werk betaalt."
         >
             <Container>
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
@@ -56,7 +56,7 @@ const CostComparison: React.FC = () => {
 
                             <div className="space-y-4 mb-10 relative z-10">
                                 {/* PROPOSITIE-CONTRACT ⛔1: hier stonden drie TOOL-NAMEN in het vet
-                                    ("Review AI", "SEO Blog AI", "Photo & Social AI") — de gereedschapskist
+                                    ("Review AI", "SEO Blog AI", "Photo & Social AI"): de gereedschapskist
                                     in plaats van de uitkomst, op de plek waar de bezoeker juist de REKENING
                                     vergelijkt (§②). Zelfde pas als het credit-blok eronder, 26-07. */}
                                 <div className="flex items-center gap-3">
@@ -80,7 +80,7 @@ const CostComparison: React.FC = () => {
                             <div className="border-t border-gray-700 pt-8 relative z-10">
                                 <p className="text-gray-400 font-medium mb-1">Jouw investering:</p>
                                 <div className="flex items-baseline gap-2">
-                                    <span className="text-5xl lg:text-6xl font-black text-primary">€ {onzePrijsPerMaand},-</span>
+                                    <span className="text-5xl lg:text-6xl font-black text-primary">Vanaf € {onzePrijsPerMaand},-</span>
                                     <span className="text-xl text-gray-400">/ maand</span>
                                 </div>
                                 <motion.p
@@ -89,7 +89,7 @@ const CostComparison: React.FC = () => {
                                     transition={{ delay: 0.3, type: "spring" }}
                                     className="mt-4 text-green-400 font-bold bg-green-400/10 inline-block px-4 py-2 rounded-full"
                                 >
-                                    Verschil per maand: € {totalTraditionalCost - onzePrijsPerMaand},-
+                                    Verschil per maand: tot € {totalTraditionalCost - onzePrijsPerMaand},-
                                 </motion.p>
                             </div>
                         </motion.div>

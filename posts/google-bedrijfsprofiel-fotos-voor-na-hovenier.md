@@ -13,21 +13,21 @@ tags: ["Foto's", "Lokale SEO"]
 
 Voor-na foto's zijn de sterkste visuele advertentie die een hovenier kan plaatsen op zijn Google Bedrijfsprofiel. Een aanvankelijk verwilderde tuin die zes weken later strakgeplant en met een nette terrasrand staat, vertelt in twee beelden meer dan tien alinea's tekst. En toch laten verreweg de meeste hoveniers de foto-sectie ofwel leeg, ofwel vol met willekeurige losse shots zonder duidelijk verhaal.
 
-Wie het wel goed doet, ziet binnen een seizoen een ranking-impact. Profielen met 50+ foto's en herkenbare voor-na series krijgen volgens een 2026-onderzoek van BrightLocal 2,3x meer routebezoeken en 1,8x meer telefoontjes dan profielen met minder dan 10 willekeurige foto's. Voor een hovenier met gemiddeld 4.500 euro per project is dat het verschil tussen een halve klant per week erbij — letterlijk genoeg om 60.000-100.000 euro extra omzet per jaar te draaien.
+Wie het wel goed doet, ziet binnen een seizoen een ranking-impact. Profielen met 50+ foto's en herkenbare voor-na series krijgen volgens een 2026-onderzoek van BrightLocal 2,3x meer routebezoeken en 1,8x meer telefoontjes dan profielen met minder dan 10 willekeurige foto's. Voor een hovenier met gemiddeld 4.500 euro per project is dat het verschil tussen een halve klant per week erbij, letterlijk genoeg om 60.000-100.000 euro extra omzet per jaar te draaien.
 
 In dit artikel: welke foto's je daadwerkelijk maakt, in welke volgorde, hoe je ze rechtmatig uploadt zonder klantprivacy te schenden, en hoe je een 12-maands foto-cadans inricht zonder dat het een tweede baan wordt.
 
 ## Waarom voor-na foto's zwaarder wegen dan losse shots
 
-Google's algoritme telt geen foto's — het weegt foto's. Drie factoren bepalen de impact:
+Google's algoritme telt geen foto's. Het weegt foto's. Drie factoren bepalen de impact:
 
 **1. Engagement.** Klanten die een foto-galerij doorklikken, signaleren aan Google dat je profiel waardevol is. Voor-na series krijgen aantoonbaar meer klikken (gemiddeld 4.2x) dan losse shots, omdat ze een visueel verhaal vertellen waarvan mensen het einde willen zien.
 
-**2. Recency.** Profielen die wekelijks 2-4 foto's toevoegen ranken hoger dan profielen die ééns per kwartaal een batch uploaden. Voor-na series helpen je natuurlijk om consequent te blijven posten — er is altijd een nieuwe afgeronde tuin om te delen.
+**2. Recency.** Profielen die wekelijks 2-4 foto's toevoegen ranken hoger dan profielen die ééns per kwartaal een batch uploaden. Voor-na series helpen je natuurlijk om consequent te blijven posten, want er is altijd een nieuwe afgeronde tuin om te delen.
 
 **3. Lokale relevantie.** Foto's met EXIF-locatiedata (automatisch toegevoegd door telefooncamera's) helpen Google koppelen aan zoekopdrachten in dat gebied. Een voor-na uit Almere helpt voor "hovenier Almere"-rankings, een uit Utrecht-Oost helpt daar.
 
-Wij beschrijven het bredere fundament in onze [hovenier vindbaar op Google: 7 tips](/blog/hovenier-vindbaar-google-tips) gids — foto-strategie is laag 5 in de optimalisatie-stack.
+Wij beschrijven het bredere fundament in onze [hovenier vindbaar op Google: 7 tips](/blog/hovenier-vindbaar-google-tips) gids; foto-strategie is laag 5 in de optimalisatie-stack.
 
 ## De vier shot-types die elk project moet hebben
 
@@ -37,13 +37,13 @@ Voor elk afgerond project mik op minimaal 4 foto's, ideaal 6-8.
 Vanaf hetzelfde standpunt als de "na"-shot. Maak het op de eerste werkdag voordat je begint, met natuurlijk daglicht (geen flits). Mobiel landscape, 4:3 aspect.
 
 **2. Brede "na"-shot vanaf hetzelfde standpunt**
-De punchline. Identieke compositie als de "voor", liefst hetzelfde tijd van dag voor consistente lichtinval. Maak hem op de oplever-dag, voordat je gereedschap weghaalt — een net opgeleverde tuin met scherp afgewerkte randen vertelt het verhaal het beste.
+De punchline. Identieke compositie als de "voor", liefst hetzelfde tijd van dag voor consistente lichtinval. Maak hem op de oplever-dag, voordat je gereedschap weghaalt: een net opgeleverde tuin met scherp afgewerkte randen vertelt het verhaal het beste.
 
 **3. Detail "voor"-shot van een specifiek probleem**
-Bijvoorbeeld: een dood plekje in het gazon, een verzakte tegel op het terras, een doorgeschoten heg. Eén tot twee per project — kies wat je opdrachtgever zelf benoemde als probleem.
+Bijvoorbeeld: een dood plekje in het gazon, een verzakte tegel op het terras, een doorgeschoten heg. Eén tot twee per project: kies wat je opdrachtgever zelf benoemde als probleem.
 
 **4. Detail "na"-shot op dezelfde plek**
-Het opgeloste probleem. Niet noodzakelijk perfect symmetrisch met de voor-shot — een wat creatievere hoek mag, zolang de plek herkenbaar is. Een opgeleverde plantenbed met een duidelijk patroon van bodembedekkers, of een net gevoegd terras met scherpe randen.
+Het opgeloste probleem. Niet noodzakelijk perfect symmetrisch met de voor-shot: een wat creatievere hoek mag, zolang de plek herkenbaar is. Een opgeleverde plantenbed met een duidelijk patroon van bodembedekkers, of een net gevoegd terras met scherpe randen.
 
 Optionele extra's:
 - **In-uitvoering shot** (project halverwege) toont vakmanschap en helpt klanten de scope inschatten.
@@ -56,7 +56,7 @@ Voor-na foto's die werken houden zich aan vijf principes:
 - **Identiek standpunt.** Markeer de plek waar je staat met een steen of stoeptegel als ezelsbruggetje. Bij grotere projecten: gebruik een statief of telefoon-houder op een vast hoogte (bijvoorbeeld 1,4m, ooghoogte van een gemiddelde Nederlander).
 - **Identiek dagdeel + weer.** Een zonnige voor-shot om 14:00 + een bewolkte na-shot om 09:00 = ondoorgrondelijke vergelijking. Wacht een dag op vergelijkbaar weer als nodig.
 - **Geen mensen in beeld.** Klanten in de tuin = privacy-issues + visueel ruis. Zorg dat alle gereedschap, kruiwagens, klanten en monteurs uit beeld zijn.
-- **Geen rommel of "in transitie"-staat.** De voor-shot is hoe het was, de na-shot is hoe het is — niet hoe het halverwege was.
+- **Geen rommel of "in transitie"-staat.** De voor-shot is hoe het was, de na-shot is hoe het is, niet hoe het halverwege was.
 - **Vermijd extreme lenzen.** Smartphone groothoek (0.5x of 0.6x) vervormt afstand. Gebruik 1x lens (de "gewone" telefooncamera) voor consistent en eerlijk beeld.
 
 ![Werkbalie close-up: smartphone face-up met een Google Bedrijfsprofiel foto-galerij geopend (geblurde miniatuur-rijen), een schoffel met aarde, een snoeischaar, een notitieboekje en een mok dampende koffie op een houten tuintafel in late ochtendzon](/images/blog/google-bedrijfsprofiel-fotos-voor-na-hovenier-2.jpg)
@@ -82,7 +82,7 @@ In `business.google.com`:
 2. Klik "Foto toevoegen" rechtsboven.
 3. Kies categorie: "Op de werkplek" werkt best voor hovenier-projecten (lijkt erop bedoeld voor binnenfoto's, maar is dé categorie waarbij Google op-locatie-werk verwacht).
 4. Upload max 5 tegelijk om upload-fouten te voorkomen, wacht 30 seconden tussen batches.
-5. Voeg geen titel of beschrijving toe in Google's interface — de EXIF-data en de bestandsnaam zijn belangrijker.
+5. Voeg geen titel of beschrijving toe in Google's interface, want de EXIF-data en de bestandsnaam zijn belangrijker.
 
 **Tip voor bestandsnamen:** hernoem voor upload naar bijvoorbeeld `tuinaanleg-voor-Almere-hovenier-naam.jpg` en `tuinaanleg-na-Almere-hovenier-naam.jpg`. Google leest dit als context-signaal.
 
@@ -115,7 +115,7 @@ Een [gratis ai scan voor hoveniers](/gratis-scan) van je huidige profiel laat zi
 
 Foto's alleen brengen je niet in de Local Pack. Ze helpen wel om binnen de juiste categorie hoger te ranken. Andere lagen die ermee samenwerken:
 
-- **Reviews** (mik op 50+ reviews, 4.6+ gemiddeld) — zie [review management voor hoveniers](/reviews).
+- **Reviews** (mik op 50+ reviews, 4.6+ gemiddeld): zie [review management voor hoveniers](/reviews).
 - **Posts cadans** (wekelijks updates over werkzaamheden of seizoenstips).
 - **NAP-consistentie** (naam, adres, telefoonnummer over al je kanalen identiek).
 - **Website-signalen** zoals lokale SEO-content die je projecten benoemt.
@@ -130,11 +130,11 @@ Mik op 50-100 foto's binnen 6 maanden. Top-rankende hovenier-profielen hebben 10
 
 ### Mag ik foto's van projecten uit 2018 nu nog uploaden?
 
-Ja, maar Google waardeert recente foto's hoger. Mix oude met recente — een paar oude succesverhalen kunnen tussen de nieuwe staan, maar het overgrote deel van de foto's zou jonger dan 12 maanden moeten zijn.
+Ja, maar Google waardeert recente foto's hoger. Mix oude met recente: een paar oude succesverhalen kunnen tussen de nieuwe staan, maar het overgrote deel van de foto's zou jonger dan 12 maanden moeten zijn.
 
 ### Kan ik klanten zelf foto's laten uploaden van mijn werk?
 
-Ja, klanten met een Google-account kunnen foto's toevoegen aan jouw profiel. Aanmoedigen mag, sturen niet — Google ziet sturen als manipulatie.
+Ja, klanten met een Google-account kunnen foto's toevoegen aan jouw profiel. Aanmoedigen mag, sturen niet, want Google ziet sturen als manipulatie.
 
 ### Wat als een klant achteraf de foto wil verwijderen?
 

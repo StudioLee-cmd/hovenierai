@@ -3,7 +3,7 @@ export const siteDetails = {
     niche: 'Hoveniers',
     siteUrl: 'https://www.hovenierai.nl/',
     metadata: {
-        title: 'HovenierAI - AI voor hoveniers',
+        title: 'HovenierAI | AI voor hoveniers',
         description: 'HovenierAI helpt hoveniersbedrijven groeien met AI. Van automatische telefoonbeantwoording tot slimme planning & offertes.',
     },
     language: 'nl-NL',

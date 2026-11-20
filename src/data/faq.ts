@@ -23,7 +23,7 @@ export const faqs: IFAQ[] = [
     },
     {
         question: "Wat als de AI het antwoord niet weet?",
-        answer: "De AI is getraind om eerlijk te zijn. Weet hij iets niet, of is de vraag te specifiek — een advies over een specifieke beplanting bijvoorbeeld — dan verwijst hij netjes naar jou of noteert hij een terugbelverzoek. Je raakt dus nooit een klant kwijt.",
+        answer: "De AI is getraind om eerlijk te zijn. Weet hij iets niet, of is de vraag te specifiek (een advies over een specifieke beplanting bijvoorbeeld), dan verwijst hij netjes naar jou of noteert hij een terugbelverzoek. Je raakt dus nooit een klant kwijt.",
     },
     {
         question: "Is dit geschikt voor een eenmanszaak of alleen voor grote hoveniersbedrijven?",

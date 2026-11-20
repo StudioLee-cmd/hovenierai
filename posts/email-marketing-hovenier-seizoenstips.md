@@ -12,9 +12,9 @@ cluster: "automatisering"
 ---
 ## Waarom email marketing werkt voor hoveniers
 
-Tuinen zijn seizoensgebonden. In het voorjaar moet er gesnoeid worden, in de zomer bewaterd, in de herfst opgeruimd en in de winter beschermd. Dat maakt hoveniers uniek geschikt voor email marketing — er is altijd een reden om contact op te nemen.
+Tuinen zijn seizoensgebonden. In het voorjaar moet er gesnoeid worden, in de zomer bewaterd, in de herfst opgeruimd en in de winter beschermd. Dat maakt hoveniers uniek geschikt voor email marketing: er is altijd een reden om contact op te nemen.
 
-De meeste hoveniers wachten tot klanten bellen. Maar klanten vergeten hun tuin tot het te laat is: het onkruid overwoekert alles, de heg is uit model gegroeid of de vijver is groen uitgeslagen. Een tijdige herinnering van jou voorkomt dat — en levert je een opdracht op.
+De meeste hoveniers wachten tot klanten bellen. Maar klanten vergeten hun tuin tot het te laat is: het onkruid overwoekert alles, de heg is uit model gegroeid of de vijver is groen uitgeslagen. Een tijdige herinnering van jou voorkomt dat en levert je een opdracht op.
 
 Social media is goed voor zichtbaarheid, maar email is persoonlijker. Een email landt direct in de inbox van je klant, precies op het moment dat het relevant is.
 
@@ -22,9 +22,9 @@ Social media is goed voor zichtbaarheid, maar email is persoonlijker. Een email 
 
 **Start met je bestaande klanten**. Ga je facturen door van de afgelopen drie jaar. Elk emailadres is een potentiele herhaalklant. De meeste hoveniers hebben al 50-200 adressen zonder het te weten.
 
-**Vraag bij elke nieuwe klus**. "Ik stuur elk seizoen onderhoudstips voor je tuin — mag ik je op de lijst zetten?" Tuinbezitters vinden dat nuttig, dus de meeste zeggen ja.
+**Vraag bij elke nieuwe klus**. "Ik stuur elk seizoen onderhoudstips voor je tuin. Mag ik je op de lijst zetten?" Tuinbezitters vinden dat nuttig, dus de meeste zeggen ja.
 
-**Via je [website](/blog/hovenierwebsite-offerte-machine)**. Bied een gratis seizoenskalender aan: "Download de tuinkalender 2026 — weet precies wanneer je wat moet doen in je tuin." Dit trekt geinteresseerde bezoekers en levert emailadressen op.
+**Via je [website](/blog/hovenierwebsite-offerte-machine)**. Bied een gratis seizoenskalender aan: "Download de tuinkalender 2026 en weet precies wanneer je wat moet doen in je tuin." Dit trekt geinteresseerde bezoekers en levert emailadressen op.
 
 **Segmenteer op tuintype**. Een klant met een grote tuin heeft andere tips nodig dan iemand met een stadstuin of balkon. Hoe relevanter je tips, hoe meer engagement.
 
@@ -32,13 +32,13 @@ Social media is goed voor zichtbaarheid, maar email is persoonlijker. Een email 
 
 De kracht van email marketing voor hoveniers zit in timing. Vier keer per jaar een relevante email is genoeg:
 
-**Februari/maart — voorjaarstips**. "Het voorjaar komt eraan: tijd om te snoeien, te bemesten en de eerste onkruidronde te doen. Wil je dat wij het doen? Plan nu je voorjaarsbeurt in." Dit is het belangrijkste moment van het jaar — veel tuinklussen starten in het voorjaar.
+**Februari/maart: voorjaarstips**. "Het voorjaar komt eraan: tijd om te snoeien, te bemesten en de eerste onkruidronde te doen. Wil je dat wij het doen? Plan nu je voorjaarsbeurt in." Dit is het belangrijkste moment van het jaar, want veel tuinklussen starten in het voorjaar.
 
-**Mei/juni — zomertips**. "Je tuin in topvorm voor de zomer: bewateringstips, gazononderhoud en het juiste moment om te planten." Combineer het met een aanbod voor tuinonderhoud in de zomermaanden.
+**Mei/juni: zomertips**. "Je tuin in topvorm voor de zomer: bewateringstips, gazononderhoud en het juiste moment om te planten." Combineer het met een aanbod voor tuinonderhoud in de zomermaanden.
 
-**September/oktober — herfsttips**. "Bereid je tuin voor op de winter: bladeren ruimen, bollen planten en gevoelige planten beschermen." Herfstwerk is vaak groot en levert goede opdrachten op.
+**September/oktober: herfsttips**. "Bereid je tuin voor op de winter: bladeren ruimen, bollen planten en gevoelige planten beschermen." Herfstwerk is vaak groot en levert goede opdrachten op.
 
-**December — terugblik en planning**. "Terugblik op het tuinjaar en wat je in 2027 kunt verwachten. Wil je alvast je jaaronderhoud plannen?" Dit is het perfecte moment om [onderhoudscontracten](/blog/onderhoudscontracten-hovenier-vaste-inkomsten) aan te bieden.
+**December: terugblik en planning**. "Terugblik op het tuinjaar en wat je in 2027 kunt verwachten. Wil je alvast je jaaronderhoud plannen?" Dit is het perfecte moment om [onderhoudscontracten](/blog/onderhoudscontracten-hovenier-vaste-inkomsten) aan te bieden.
 
 ## Project-updates delen
 
@@ -54,11 +54,11 @@ Naast seizoenstips zijn project-updates krachtige emails:
 
 Houd het simpel en beheerbaar:
 
-- **Vier seizoensmails per jaar** — ingepland in januari voor het hele jaar
+- **Vier seizoensmails per jaar**, ingepland in januari voor het hele jaar
 - **Automatische welkomstmail** voor nieuwe abonnees met je tuinkalender
 - **Na elke klus**: automatisch een tevredenheidsmail na drie dagen en een [reviewverzoek](/blog/meer-google-reviews-als-hovenier) na een week
 
-Een gratis tool als MailerLite is voldoende. Plan een ochtend per kwartaal om je mails te schrijven en in te plannen — vier ochtenden per jaar voor een marketingkanaal dat direct opdrachten oplevert.
+Een gratis tool als MailerLite is voldoende. Plan een ochtend per kwartaal om je mails te schrijven en in te plannen: vier ochtenden per jaar voor een marketingkanaal dat direct opdrachten oplevert.
 
 **De gouden regel**: stuur alleen mails die je zelf nuttig zou vinden. Elke mail moet een tip, een inspiratie of een relevant aanbod bevatten. Geen lege nieuwsbrieven.
 

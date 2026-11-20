@@ -9,7 +9,7 @@ tags: ["Lokale SEO", "Google Maps"]
 ---
 ## Waarom lokale SEO perfect past bij hoveniers
 
-Tuinwerk is hyperlocaal. Klanten willen een hovenier uit de buurt — iemand die de grondsoort kent, weet welke planten gedijen in de regio en snel kan inspringen voor onderhoud. Wanneer iemand "hovenier [stad]" googelt, wil jij bovenaan staan.
+Tuinwerk is hyperlocaal. Klanten willen een hovenier uit de buurt: iemand die de grondsoort kent, weet welke planten gedijen in de regio en snel kan inspringen voor onderhoud. Wanneer iemand "hovenier [stad]" googelt, wil jij bovenaan staan.
 
 De meeste hoveniers vertrouwen op mond-tot-mondreclame. Dat werkt, maar het schaalt niet. [lokale SEO](/seo) is de digitale versie van mond-tot-mond: je wordt aanbevolen door Google aan iedereen in je werkgebied die een hovenier zoekt.
 
@@ -24,13 +24,13 @@ Je Bedrijfsprofiel is je digitale etalage. Een compleet profiel scoort significa
 
 ### Seizoensgebonden updates
 
-Hoveniers hebben een natuurlijk voordeel: elk seizoen brengt nieuw materiaal. Lente: bloeiende borders. Zomer: aangelegde terrassen. Herfst: snoeiwerk. Winter: tuinontwerpen. Plaats elke week een seizoensfoto — Google beloont activiteit.
+Hoveniers hebben een natuurlijk voordeel: elk seizoen brengt nieuw materiaal. Lente: bloeiende borders. Zomer: aangelegde terrassen. Herfst: snoeiwerk. Winter: tuinontwerpen. Plaats elke week een seizoensfoto, want Google beloont activiteit.
 
 ## Reviews verzamelen na elk project
 
 Na een tuinproject is de klant trots op het resultaat. Dat is het perfecte moment voor een review. Stuur dezelfde dag een WhatsApp: "Geniet van je nieuwe tuin! Zou je een review willen achterlaten? [link]"
 
-Reageer op elke review — het toont betrokkenheid en Google waardeert het.
+Reageer op elke review: het toont betrokkenheid en Google waardeert het.
 
 ![Professioneel tuingereedschap op groen gazon](/images/blog/lokale-seo-hovenier-tuinklussen-2.jpg)
 
@@ -67,4 +67,4 @@ De basis (Bedrijfsprofiel, reviews) kun je zelf. Content en technische optimalis
 
 Lokale SEO is de meest kosteneffectieve manier om als hovenier meer klanten uit je regio te bereiken. Begin met je Google Bedrijfsprofiel, verzamel actief reviews en schrijf seizoensgebonden content.
 
-Wil je ontdekken hoe HovenierAI je vindbaarheid automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het — jij ontwerpt tuinen.
+Wil je ontdekken hoe HovenierAI je vindbaarheid automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het. Jij ontwerpt tuinen.

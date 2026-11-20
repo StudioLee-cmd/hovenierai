@@ -14,7 +14,7 @@ Een tuinproject is een investering. Huiseigenaren willen zekerheid dat ze de jui
 
 Tuinwerk is visueel en blijvend. Een slechte tuin zie je elke dag. Daarom lezen klanten extra zorgvuldig reviews voordat ze een hovenier kiezen.
 
-Een hovenier met 25+ positieve reviews en projectfoto's wint het altijd van een hovenier zonder reviews — ongeacht vakmanschap.
+Een hovenier met 25+ positieve reviews en projectfoto's wint het altijd van een hovenier zonder reviews, ongeacht vakmanschap.
 
 ## Meer reviews verzamelen
 
@@ -32,7 +32,7 @@ Vraag of je foto's mag maken van het project voor je portfolio. Klanten die hier
 
 ## Omgaan met negatieve reviews
 
-Tuinwerk is seizoensafhankelijk. Planten die het niet redden, tegenvallende groei, of een project dat langer duurde dan gepland — klachten kunnen terecht of onterecht zijn.
+Tuinwerk is seizoensafhankelijk. Planten die het niet redden, tegenvallende groei, of een project dat langer duurde dan gepland: klachten kunnen terecht of onterecht zijn.
 
 Reageer altijd professioneel. Bied een oplossing aan. Potentiele klanten lezen je reactie en beoordelen hoe je met problemen omgaat.
 
@@ -40,9 +40,9 @@ Reageer altijd professioneel. Bied een oplossing aan. Potentiele klanten lezen j
 
 | Platform | Belang |
 |----------|--------|
-| Google | Zeer hoog — eerste zoekresultaat |
-| Werkspot | Hoog — veel klussen via dit platform |
-| Facebook | Gemiddeld — lokale groepen |
+| Google | Zeer hoog, eerste zoekresultaat |
+| Werkspot | Hoog: veel klussen via dit platform |
+| Facebook | Gemiddeld: lokale groepen |
 
 Je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-hovenier) is je belangrijkste digitale visitekaartje. Maar vergeet Werkspot niet: veel hoveniers halen er een deel van hun klussen vandaan, en de reviews daar tellen mee in je totale online reputatie.
 
@@ -50,17 +50,17 @@ Je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-hovenier) is je belangr
 
 Online reputatie versterkt [mond-tot-mondreclame](/blog/mond-tot-mondreclame-hovenier). Een buurman zegt: "Neem die hovenier." De potentiele klant googelt je, ziet sterke reviews en projectfoto's, en belt direct.
 
-De combinatie van sterke reviews, een professioneel Google Bedrijfsprofiel en een portfolio met foto's is onverslaanbaar. Elke tevreden klant wordt een ambassadeur voor je bedrijf — online en offline.
+De combinatie van sterke reviews, een professioneel Google Bedrijfsprofiel en een portfolio met foto's is onverslaanbaar. Elke tevreden klant wordt een ambassadeur voor je bedrijf, online en offline.
 
 ## Seizoensgebonden reputatiemanagement
 
-In het voorjaar zoeken de meeste klanten een hovenier. Zorg dat je reviewscore op dat moment sterk is. Vraag in het najaar — wanneer tuinprojecten worden afgerond — actief om reviews, zodat je in het voorjaar goed scoort.
+In het voorjaar zoeken de meeste klanten een hovenier. Zorg dat je reviewscore op dat moment sterk is. Vraag in het najaar (wanneer tuinprojecten worden afgerond) actief om reviews, zodat je in het voorjaar goed scoort.
 
 Plan je reviewstrategie mee in je seizoensplanning. September tot november: oplevering zomerprojecten, ideaal reviewmoment. Januari tot maart: winteronderhoud en voorjaarsconsultaties, goed moment voor foto-updates op je Google profiel. Als het voorjaar begint en de eerste klanten zoeken, sta jij klaar met een sterke online aanwezigheid.
 
 ## Wat levert het op?
 
-Hoveniers die structureel aan hun online reputatie werken, merken het verschil binnen een seizoen. Meer aanvragen via Google, minder prijsonderhandeling en meer doorverwijzingen van tevreden klanten. Het is een investering in je toekomst die geen geld kost — alleen aandacht.
+Hoveniers die structureel aan hun online reputatie werken, merken het verschil binnen een seizoen. Meer aanvragen via Google, minder prijsonderhandeling en meer doorverwijzingen van tevreden klanten. Het is een investering in je toekomst die geen geld kost, alleen aandacht.
 
 ## Hulp nodig?
 

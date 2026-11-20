@@ -8,7 +8,7 @@ image: "/images/blog/samenwerken-als-hovenier-partnerschappen.png"
 tags: ["Samenwerkingen"]
 cluster: "branding"
 ---
-De meeste hoveniers zijn afhankelijk van seizoenen en mond-tot-mondreclame. Maar er zijn bedrijven die het hele jaar door dezelfde klanten bedienen als jij — en die nu nog niet naar jou doorverwijzen. Dat verandert met de juiste samenwerkingen.
+De meeste hoveniers zijn afhankelijk van seizoenen en mond-tot-mondreclame. Maar er zijn bedrijven die het hele jaar door dezelfde klanten bedienen als jij, en die nu nog niet naar jou doorverwijzen. Dat verandert met de juiste samenwerkingen.
 
 ## Waarom partnerschappen voor hoveniers werken
 
@@ -52,7 +52,7 @@ De wintermaanden zijn traditioneel rustig voor hoveniers. Maar met de juiste par
 
 ## Online zichtbaarheid
 
-Vermeld je samenwerkingspartners op je [website](/blog/hovenierwebsite-offerte-machine). Deel gezamenlijke [projectfoto's](/blog/social-media-hoveniers-tuinprojecten) op sociale media. Link naar elkaars websites — dit versterkt je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-hovenier).
+Vermeld je samenwerkingspartners op je [website](/blog/hovenierwebsite-offerte-machine). Deel gezamenlijke [projectfoto's](/blog/social-media-hoveniers-tuinprojecten) op sociale media. Link naar elkaars websites, want dit versterkt je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-hovenier).
 
 ## Resultaten meten
 

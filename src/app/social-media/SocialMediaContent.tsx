@@ -21,26 +21,26 @@ const painPoints = [
   },
   {
     title: "Geen idee welk platform werkt",
-    desc: `Instagram, Facebook, LinkedIn, TikTok — welk platform werkt voor ${niche}? Zonder advies gooi je tijd en energie in het verkeerde kanaal.`,
+    desc: `Instagram, Facebook, LinkedIn, TikTok: welk platform werkt voor ${niche}? Zonder advies gooi je tijd en energie in het verkeerde kanaal.`,
   },
 ];
 
 const features = [
-  { icon: <BsMegaphone className="text-2xl" />, title: "Social media strategie op maat", desc: `We analyseren je markt, doelgroep en concurrenten en maken een strategie die werkt voor ${niche}. Welke platforms, welke content, hoe vaak — alles uitgedacht.` },
+  { icon: <BsMegaphone className="text-2xl" />, title: "Social media strategie op maat", desc: `We analyseren je markt, doelgroep en concurrenten en maken een strategie die werkt voor ${niche}. Welke platforms, welke content, hoe vaak: alles uitgedacht.` },
   { icon: <BsCalendar3 className="text-2xl" />, title: "Content planning & kalender", desc: "Een maandelijkse contentkalender met thema's, seizoensgebonden content en afwisseling. Je weet precies wat er wanneer gepost wordt." },
   { icon: <BsCamera className="text-2xl" />, title: "AI-gegenereerde content", desc: "Professionele posts, afbeeldingen en korte video's gegenereerd met AI. Aangevuld met jouw eigen projectfoto's voor een authentiek portfolio." },
-  { icon: <BsPalette className="text-2xl" />, title: "Automatisch scheduling", desc: "Content wordt automatisch ingepland en gepost op al je platformen. Facebook, Instagram, LinkedIn — alles vanuit één systeem." },
-  { icon: <BsBarChart className="text-2xl" />, title: "Maandelijkse analyse & rapportage", desc: "Elke maand een overzicht van wat werkt en wat niet. Bereik, engagement, groei — en concrete acties om te verbeteren." },
+  { icon: <BsPalette className="text-2xl" />, title: "Automatisch scheduling", desc: "Content wordt automatisch ingepland en gepost op al je platformen. Facebook, Instagram, LinkedIn: alles vanuit één systeem." },
+  { icon: <BsBarChart className="text-2xl" />, title: "Maandelijkse analyse & rapportage", desc: "Elke maand een overzicht van wat werkt en wat niet. Bereik, engagement, groei. En concrete acties om te verbeteren." },
   { icon: <BsPeople className="text-2xl" />, title: "Platform-specifiek advies", desc: `Niet elk platform is hetzelfde. Wij adviseren welke platforms het meest opleveren voor ${niche} en hoe je ze optimaal inzet.` },
-  { icon: <BsGraphUp className="text-2xl" />, title: "Portfolio-stijl content", desc: `Jouw afgeronde projecten worden omgezet naar professionele social media content. Van klusfoto naar portfolio-moment — zelfde moeite, dubbel het resultaat.` },
-  { icon: <BsCheck2Circle className="text-2xl" />, title: "Brand consistentie", desc: "Elke post past bij je merk. Kleuren, tone of voice, logo — alles consistent. Geen losse flodders meer." },
+  { icon: <BsGraphUp className="text-2xl" />, title: "Portfolio-stijl content", desc: `Jouw afgeronde projecten worden omgezet naar professionele social media content. Van klusfoto naar portfolio-moment: zelfde moeite, dubbel het resultaat.` },
+  { icon: <BsCheck2Circle className="text-2xl" />, title: "Brand consistentie", desc: "Elke post past bij je merk. Kleuren, tone of voice, logo: alles consistent. Geen losse flodders meer." },
 ];
 
 const faqs = [
   { q: "Is het alleen automatisch posten?", a: `Nee. Social media bij ${brand} is veel meer dan automatisch posten. We beginnen met een complete strategie: welke platformen passen bij ${niche}, welke content werkt, hoe vaak posten, en voor welke doelgroep. Daarna voeren we het uit én automatiseren we het. Strategie en consulting zijn inbegrepen in het maandtarief.` },
-  { q: "Welke platformen worden ondersteund?", a: "Facebook, Instagram en LinkedIn zijn standaard. TikTok en andere platformen op aanvraag. We adviseren welke platformen het meest opleveren voor jouw situatie — niet elk platform is voor elke branche relevant." },
-  { q: "Moet ik zelf content aanleveren?", a: `Het liefst wel projectfoto's — die zijn het meest authentiek en presteren het best. Maar ook zonder eigen foto's kunnen we starten. Onze AI genereert professionele afbeeldingen en video's. Ideaal: jij stuurt af en toe een foto van een klus, wij maken er professionele content van.` },
-  { q: "Wat kost social media management bij een bureau?", a: `Een traditioneel social media bureau rekent €600 tot €1.500 per maand voor strategie + uitvoering. Bij ${brand} zit social media management — inclusief strategie, content creatie en automatisch posten — inbegrepen in het platform vanaf €79/maand.` },
+  { q: "Welke platformen worden ondersteund?", a: "Facebook, Instagram en LinkedIn zijn standaard. TikTok en andere platformen op aanvraag. We adviseren welke platformen het meest opleveren voor jouw situatie, want niet elk platform is voor elke branche relevant." },
+  { q: "Moet ik zelf content aanleveren?", a: `Het liefst wel projectfoto's, want die zijn het meest authentiek en presteren het best. Maar ook zonder eigen foto's kunnen we starten. Onze AI genereert professionele afbeeldingen en video's. Ideaal: jij stuurt af en toe een foto van een klus, wij maken er professionele content van.` },
+  { q: "Wat kost social media management bij een bureau?", a: `Een traditioneel social media bureau rekent €600 tot €1.500 per maand voor strategie + uitvoering. Bij ${brand} zit social media management (inclusief strategie, content creatie en automatisch posten) inbegrepen in het platform vanaf €79/maand.` },
   { q: "Zit consulting echt in de prijs?", a: "Ja. Strategie, content planning, platform advies en maandelijkse evaluatie zitten inbegrepen. Geen verborgen uurtarieven, geen extra kosten voor advies. Je krijgt agency-kwaliteit voor een fractie van de prijs." },
 ];
 
@@ -63,7 +63,7 @@ export default function SocialMediaContent() {
           <motion.p
             className="text-lg text-foreground-accent max-w-2xl mx-auto mb-8 sl-reveal sl-reveal-1"
           >
-            Niet alleen automatisch posten — wij helpen met de complete social media strategie.
+            Niet alleen automatisch posten: wij helpen met de complete social media strategie.
             Content planning, platform keuze, portfolio-content en consulting. Alles inbegrepen.
           </motion.p>
           <motion.div
@@ -108,7 +108,7 @@ export default function SocialMediaContent() {
               Bij {brand} krijg je niet alleen een tool die automatisch post. Je krijgt een team dat
               meedenkt over je content strategie, adviseert welke platformen het meest opleveren, en
               een contentkalender maakt die aansluit bij je seizoenen en diensten. De consulting en het
-              strategisch advies zitten inbegrepen — geen extra uurtarieven, geen verborgen kosten.
+              strategisch advies zitten inbegrepen, dus geen extra uurtarieven, geen verborgen kosten.
             </p>
           </div>
         </div>
@@ -186,7 +186,7 @@ export default function SocialMediaContent() {
               />
             </div>
             <p className="text-center text-sm text-foreground-accent mt-3 max-w-2xl mx-auto">
-              Wij plannen, ontwerpen en publiceren — jij focust op je vak.
+              Wij plannen, ontwerpen en publiceren. Jij focust op je vak.
             </p>
           </motion.div>
 
@@ -197,7 +197,7 @@ export default function SocialMediaContent() {
         <div className="max-w-5xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-center mb-3">Wat krijg je?</h2>
           <p className="text-foreground-accent text-center mb-10 max-w-xl mx-auto">
-            Strategie, uitvoering én automatisering — alles in één pakket.
+            Strategie, uitvoering én automatisering: alles in één pakket.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {features.map((f, i) => (
@@ -230,12 +230,12 @@ export default function SocialMediaContent() {
             <p>
               Je klanten zitten op social media. Ze scrollen door Instagram, bekijken Facebook en checken
               LinkedIn. Als jij daar niet zichtbaar bent, vinden ze je concurrent. Maar social media kost
-              tijd — tijd die je als {nicheSingular} niet hebt. Je bent de hele dag aan het werk.
+              tijd, tijd die je als {nicheSingular} niet hebt. Je bent de hele dag aan het werk.
             </p>
             <p>
               Daarom nemen wij het over. Niet als een tool die willekeurig post, maar als een partner die
               meedenkt. We kennen de {nicheSingular}sbranche, weten welke content werkt en op welke platformen
-              je moet zijn. De strategie en het advies zijn inbegrepen — geen extra kosten. Dat is het verschil
+              je moet zijn. De strategie en het advies zijn inbegrepen, zonder extra kosten. Dat is het verschil
               met een traditioneel bureau dat €600 tot €1.500 per maand rekent voor alleen social media management.
               Bij ons zit het in het pakket.
             </p>
@@ -327,15 +327,15 @@ export default function SocialMediaContent() {
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
             >
-              <h2 className="text-2xl md:text-3xl font-bold mb-4">Social media die nieuwe klanten oplevert — niet vanity metrics</h2>
-              <p className="text-foreground-accent leading-relaxed">Voor hoveniers draait social om vertrouwen: nieuwe klanten ontdekken je via voor/na fotos, behind-the-scenes content en lokale resultaat-posts. Onze planner zorgt dat je consistent zichtbaar bent met content die klanten daadwerkelijk overtuigt — zonder dat jij uren per week kwijt bent.</p>
+              <h2 className="text-2xl md:text-3xl font-bold mb-4">Social media die nieuwe klanten oplevert, geen vanity metrics</h2>
+              <p className="text-foreground-accent leading-relaxed">Voor hoveniers draait social om vertrouwen: nieuwe klanten ontdekken je via voor/na fotos, behind-the-scenes content en lokale resultaat-posts. Onze planner zorgt dat je consistent zichtbaar bent met content die klanten daadwerkelijk overtuigt, zonder dat jij uren per week kwijt bent.</p>
             </motion.div>
           </div>
           <h3 className="text-xl md:text-2xl font-bold text-center mb-6">Combineer met andere AI-tools</h3>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               <Link href="/chatbot" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
                 <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">AI Chatbot</h3>
-                <p className="text-foreground-accent text-sm mb-3">Vangt nieuwe leads op die via Instagram naar je website komen — direct boekbaar.</p>
+                <p className="text-foreground-accent text-sm mb-3">Vangt nieuwe leads op die via Instagram naar je website komen, direct boekbaar.</p>
                 <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
               </Link>
               <Link href="/seo" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">

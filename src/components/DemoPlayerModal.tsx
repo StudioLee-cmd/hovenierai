@@ -72,7 +72,7 @@ const DemoPlayerModal: React.FC<DemoPlayerModalProps> = ({ demos, onClose }) => 
                     <div className="mb-6 pr-8">
                         <h2 className="text-2xl font-bold text-foreground">Hoor het zelf</h2>
                         <p className="mt-1 text-sm text-foreground-accent">
-                            Echte gesprekken met onze AI-telefonist — elk gesprek gaat een andere kant op.
+                            Echte gesprekken met onze AI-telefonist: elk gesprek gaat een andere kant op.
                         </p>
                     </div>
 

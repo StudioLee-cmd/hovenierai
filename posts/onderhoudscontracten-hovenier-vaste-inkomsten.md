@@ -50,7 +50,7 @@ Alles van het basispakket, plus:
 
 Na een tuinaanleg of renovatie: "Wil je dat ik je tuin het hele jaar door bijhoud? Met een onderhoudscontract ziet je tuin er altijd zo mooi uit als nu."
 
-Dit is het perfecte moment — de klant is tevreden met het resultaat en wil dat behouden.
+Dit is het perfecte moment, want de klant is tevreden met het resultaat en wil dat behouden.
 
 ### 2. Maak het financieel aantrekkelijk
 
@@ -82,7 +82,7 @@ Reken mee met 20 onderhoudscontracten:
 | Premium (€149/maand) | 8 | €1.192 | €14.304 |
 | **Totaal** | **20** | **€2.260** | **€27.120** |
 
-€27.120 aan gegarandeerde jaaromzet — ongeacht het seizoen. Dat is een fundament waarop je kunt bouwen.
+€27.120 aan gegarandeerde jaaromzet, ongeacht het seizoen. Dat is een fundament waarop je kunt bouwen.
 
 ## Automatiseer het beheer
 

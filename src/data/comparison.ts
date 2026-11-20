@@ -52,4 +52,4 @@ export const totalTraditionalCost = 3000;
 // Merk-neutrale naam: de export droeg de merknaam van een andere niche-site
 // (template-kopieerlek). Alleen de NAAM is gecorrigeerd; het bedrag blijft ongewijzigd,
 // want prijzen zijn een business-beslissing (RULE 5).
-export const onzePrijsPerMaand = 297;
+export const onzePrijsPerMaand = 379;

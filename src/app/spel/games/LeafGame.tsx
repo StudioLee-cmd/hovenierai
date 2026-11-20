@@ -547,7 +547,7 @@ export default function LeafGame({ onComplete, onExit }: LeafGameProps) {
                 transition: 'left 0.3s ease, top 0.3s ease',
               }}
               disabled={b.tapped}
-              aria-label="Vlinder - niet aantikken!"
+              aria-label="Vlinder: niet aantikken!"
             >
               {BUTTERFLY_EMOJI}
             </button>

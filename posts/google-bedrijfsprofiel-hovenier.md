@@ -8,7 +8,7 @@ image: "/images/blog/google-bedrijfsprofiel-hovenier.png"
 tags: ["Google", "Lokale Marketing"]
 cluster: "vindbaarheid"
 ---
-"Hovenier in de buurt" — het is een van de meest gebruikte zoekopdrachten als huiseigenaren hun tuin willen laten aanleggen of onderhouden. En wat ze zien is het Google Maps-blok met drie hoveniers, hun reviews, en een bel-knop. Als jij niet in dat blok staat, mis je het grootste deel van de potentiële klanten in je werkgebied.
+"Hovenier in de buurt" is een van de meest gebruikte zoekopdrachten als huiseigenaren hun tuin willen laten aanleggen of onderhouden. En wat ze zien is het Google Maps-blok met drie hoveniers, hun reviews, en een bel-knop. Als jij niet in dat blok staat, mis je het grootste deel van de potentiële klanten in je werkgebied.
 
 In dit artikel lees je hoe je als hovenier je Google Bedrijfsprofiel optimaliseert om meer tuinklussen uit je buurt binnen te halen.
 
@@ -16,26 +16,26 @@ In dit artikel lees je hoe je als hovenier je Google Bedrijfsprofiel optimalisee
 
 Google toont bij lokale zoekopdrachten het Local Pack: drie bedrijven op een kaart. De volgorde wordt bepaald door relevantie (past je bij de zoekopdracht?), afstand (hoe ver is de zoeker?) en prominentie (hoe goed is je online reputatie?).
 
-Voor hoveniers is afstand bijzonder relevant. De meeste klanten zoeken een hovenier binnen 15-20 kilometer. Dat betekent dat je niet hoeft te concurreren met hoveniers aan de andere kant van het land — alleen met die in jouw regio. En dát is precies waarom je Google Bedrijfsprofiel zo krachtig is: het laat je domineren in je eigen werkgebied.
+Voor hoveniers is afstand bijzonder relevant. De meeste klanten zoeken een hovenier binnen 15-20 kilometer. Dat betekent dat je niet hoeft te concurreren met hoveniers aan de andere kant van het land, alleen met die in jouw regio. En dát is precies waarom je Google Bedrijfsprofiel zo krachtig is: het laat je domineren in je eigen werkgebied.
 
 ## Het fundament: een compleet profiel
 
 **Categorie.** Kies "Hovenier" als primaire categorie. Voeg secundaire categorieën toe: "Tuinontwerper" (als je ontwerpen maakt), "Boomverzorger" (als je bomen snoeit), "Bestratingsspecialist" (als je terrassen en opritten legt).
 
-**Servicegebied.** Stel de steden en gemeentes in waar je actief werkt. Wees precies — Google gebruikt dit om te bepalen bij welke zoekopdrachten je verschijnt. Als je in een straal van 30 kilometer werkt, voeg al die gemeentes toe.
+**Servicegebied.** Stel de steden en gemeentes in waar je actief werkt. Wees precies, want Google gebruikt dit om te bepalen bij welke zoekopdrachten je verschijnt. Als je in een straal van 30 kilometer werkt, voeg al die gemeentes toe.
 
-**Beschrijving.** Gebruik alle 750 tekens: "[Bedrijfsnaam] is een allround hoveniersbedrijf in [regio]. Wij verzorgen tuinontwerp, tuinaanleg, snoeiwerk, bestrating en seizoensonderhoud voor particulieren. Van een compleet nieuwe tuin tot het jaarlijks onderhoud van je borders — wij zorgen dat je tuin er het hele jaar op zijn best uitziet."
+**Beschrijving.** Gebruik alle 750 tekens: "[Bedrijfsnaam] is een allround hoveniersbedrijf in [regio]. Wij verzorgen tuinontwerp, tuinaanleg, snoeiwerk, bestrating en seizoensonderhoud voor particulieren. Van een compleet nieuwe tuin tot het jaarlijks onderhoud van je borders: wij zorgen dat je tuin er het hele jaar op zijn best uitziet."
 
-**Openingstijden en contact.** Vul je werkdagen in en zorg dat je telefoonnummer klopt. Link naar je website — bij voorkeur een pagina over je hoveniersdiensten.
+**Openingstijden en contact.** Vul je werkdagen in en zorg dat je telefoonnummer klopt. Link naar je website, bij voorkeur een pagina over je hoveniersdiensten.
 
 ## Foto's: laat je tuin spreken
 
 Voor hoveniers zijn foto's misschien wel het krachtigste element van je profiel. Een mooi aangelegde tuin zegt meer dan duizend woorden. Upload regelmatig:
 
-- **Voor-en-na foto's** — het verschil is vaak spectaculair en overtuigt direct
-- **Seizoensfoto's** — laat zien dat je tuinen er het hele jaar goed uitzien
-- **Detail-opnames** — een mooi stenen pad, een perfect gesnoeid haag, een bloeiende border
-- **Materialen en werktuigen** — je bus, je apparatuur, je materiaalopslag
+- **Voor-en-na foto's**: het verschil is vaak spectaculair en overtuigt direct
+- **Seizoensfoto's**: laat zien dat je tuinen er het hele jaar goed uitzien
+- **Detail-opnames**: een mooi stenen pad, een perfect gesnoeid haag, een bloeiende border
+- **Materialen en werktuigen**: je bus, je apparatuur, je materiaalopslag
 
 Maak er een gewoonte van: na elke klus twee foto's uploaden. Binnen een paar maanden heb je een indrukwekkend portfolio op je profiel dat voor je verkoopt.
 
@@ -43,13 +43,13 @@ Lees ook ons artikel over duurzame tuinen als groeiende markt voor inspiratie bi
 
 ## Reviews: de motor achter lokale groei
 
-Een hovenier met 60 [reviews](/reviews) en 4.8 sterren wint het van een concurrent met 5 reviews en 5.0 sterren. Volume én kwaliteit tellen — maar volume wint het van perfectie.
+Een hovenier met 60 [reviews](/reviews) en 4.8 sterren wint het van een concurrent met 5 reviews en 5.0 sterren. Volume én kwaliteit tellen, maar volume wint het van perfectie.
 
 Het beste moment om een review te vragen: wanneer de klant voor het eerst de afgeronde tuin ziet. Dat moment van "wauw" is wanneer de bereidheid om een review te schrijven het hoogst is. Stuur direct een WhatsApp-link.
 
 Vraag klanten om specifiek te zijn: "Zou je willen noemen wat we voor je hebben gedaan? Dat helpt andere tuineigenaren." Reviews als "Prachtig terras gelegd, precies zoals besproken, binnen drie dagen klaar" zijn vele malen waardevoller dan "Goed bedrijf."
 
-Reageer op elke review — een kort "Bedankt! We zijn blij dat je geniet van je nieuwe tuin" is voldoende. Bij negatieve reviews: professioneel, empathisch, oplossingsgericht.
+Reageer op elke review: een kort "Bedankt! We zijn blij dat je geniet van je nieuwe tuin" is voldoende. Bij negatieve reviews: professioneel, empathisch, oplossingsgericht.
 
 Meer tips in ons artikel over [meer Google reviews als hovenier](/blog/meer-google-reviews-als-hovenier).
 
@@ -57,20 +57,20 @@ Meer tips in ons artikel over [meer Google reviews als hovenier](/blog/meer-goog
 
 Hoveniers hebben een natuurlijk ritme dat perfect past bij Google Posts:
 
-- **Voorjaar:** "Tijd om je tuin lenteproof te maken! Snoei, bemest en plant — we helpen je graag."
+- **Voorjaar:** "Tijd om je tuin lenteproof te maken! Snoei, bemest en plant. We helpen je graag."
 - **Zomer:** "Geniet van je tuin deze zomer. Bekijk ons laatste project: een complete tuinrenovatie in [stad]."
 - **Herfst:** "Herfstklaar maken? Blad ruimen, beplanting winterklaar maken, en laatste snoeibeurten."
 - **Winter:** "Nu is het perfecte moment om je droomtuin te ontwerpen. In het voorjaar leggen we hem aan."
 
-Eén post per twee weken houdt je profiel actief. Voeg altijd een foto toe — tuinfoto's trekken aandacht.
+Eén post per twee weken houdt je profiel actief. Voeg altijd een foto toe, want tuinfoto's trekken aandacht.
 
 ## Veelgestelde vragen
 
 De vragensectie waarin bezoekers iets op je profiel konden vragen bestaat niet meer. Google stopte op 3 november 2025 de koppeling waarmee software vragen en antwoorden kon lezen en plaatsen, en faseerde de publieke sectie vanaf 3 december 2025 uit. De vragen blijven, alleen stelt Google het antwoord nu zelf samen uit je profiel, je website en je reviews. Zorg dus dat deze drie antwoorden echt ergens staan:
 
-- "Wat kost een tuin aanleggen?" — op je tarieven- of offertepagina: "Prijzen variëren sterk afhankelijk van omvang en materialen. Een gemiddelde achtertuin kost €5.000-€15.000. Vraag een gratis offerte aan voor een prijsindicatie op maat."
-- "Doen jullie ook onderhoud?" — als aparte dienst in de dienstenlijst van je profiel: "Ja, we bieden seizoensabonnementen aan voor regelmatig tuinonderhoud."
-- "Hoe lang duurt een tuinaanleg?" — bij de dienst zelf op je site: "Een gemiddelde tuin is in 1-2 weken aangelegd, afhankelijk van de complexiteit."
+- "Wat kost een tuin aanleggen?" Op je tarieven- of offertepagina: "Prijzen variëren sterk afhankelijk van omvang en materialen. Een gemiddelde achtertuin kost €5.000-€15.000. Vraag een gratis offerte aan voor een prijsindicatie op maat."
+- "Doen jullie ook onderhoud?" Als aparte dienst in de dienstenlijst van je profiel: "Ja, we bieden seizoensabonnementen aan voor regelmatig tuinonderhoud."
+- "Hoe lang duurt een tuinaanleg?" Bij de dienst zelf op je site: "Een gemiddelde tuin is in 1-2 weken aangelegd, afhankelijk van de complexiteit."
 
 ## Veelgemaakte fouten
 

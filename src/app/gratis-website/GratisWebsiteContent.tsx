@@ -69,7 +69,7 @@ export default function GratisWebsiteContent() {
               <motion.span
                 className="inline-block bg-green-500/10 text-green-500 text-sm font-bold px-4 py-1.5 rounded-full mb-4 sl-reveal"
               >
-                100% Gratis — Geen Verplichtingen
+                100% Gratis, Geen Verplichtingen
               </motion.span>
               <motion.h1
                 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 !leading-tight sl-reveal sl-reveal-1"
@@ -212,7 +212,7 @@ export default function GratisWebsiteContent() {
           <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
             <Image
               src="/images/services/gratis-website-hero.jpg"
-              alt="Gratis website voor hoveniers — laptop met website design"
+              alt="Gratis website voor hoveniers: laptop met website design"
               fill
               priority
               className="object-cover"
@@ -261,7 +261,7 @@ export default function GratisWebsiteContent() {
               />
             </div>
             <p className="text-center text-sm text-foreground-accent mt-3 max-w-2xl mx-auto">
-              Eerst gratis preview — geen wireframe-fase, geen wekenlange offertes. Wij ontwerpen, jij beoordeelt.
+              Eerst gratis preview: geen wireframe-fase, geen wekenlange offertes. Wij ontwerpen, jij beoordeelt.
             </p>
           </motion.div>
 
@@ -276,7 +276,7 @@ export default function GratisWebsiteContent() {
           <div className="text-foreground-accent space-y-4 text-base leading-relaxed">
             <p>
               De meeste {niche} hebben geen website, of een verouderde site die niet gevonden wordt in Google.
-              Een traditioneel webbureau rekent al snel €3.000 tot €10.000 voor een nieuwe website — dat is voor
+              Een traditioneel webbureau rekent al snel €3.000 tot €10.000 voor een nieuwe website. Dat is voor
               veel {niche} simpelweg niet haalbaar.
             </p>
             <p>
@@ -321,7 +321,7 @@ export default function GratisWebsiteContent() {
               transition={{ duration: 0.6 }}
             >
               <h2 className="text-2xl md:text-3xl font-bold mb-4">Een website die nieuwe klanten oplevert</h2>
-              <p className="text-foreground-accent leading-relaxed">Voor hoveniers draait de website om één ding: een klant zoekt online, vindt je site, en boekt direct — of belt. Wij ontwerpen websites met duidelijke CTAs, werkgebied-vermelding en directe boekings-optie. Live preview binnen 48 uur, en het bestand is van jou. Laten draaien vanaf €79 per maand.</p>
+              <p className="text-foreground-accent leading-relaxed">Voor hoveniers draait de website om één ding: een klant zoekt online, vindt je site, en boekt direct (of belt). Wij ontwerpen websites met duidelijke CTAs, werkgebied-vermelding en directe boekings-optie. Live preview binnen 48 uur, en het bestand is van jou. Laten draaien vanaf €79 per maand.</p>
             </motion.div>
           </div>
           <h3 className="text-xl md:text-2xl font-bold text-center mb-6">Combineer met andere AI-tools</h3>
@@ -333,7 +333,7 @@ export default function GratisWebsiteContent() {
               </Link>
               <Link href="/seo" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
                 <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">SEO voor Hoveniers</h3>
-                <p className="text-foreground-accent text-sm mb-3">Een SEO-geoptimaliseerde site is alleen het begin — combineer met lokale SEO automatisering.</p>
+                <p className="text-foreground-accent text-sm mb-3">Een SEO-geoptimaliseerde site is alleen het begin, dus combineer met lokale SEO automatisering.</p>
                 <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
               </Link>
               <Link href="/voice-ai" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">

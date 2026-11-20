@@ -68,7 +68,7 @@ Verdeel je 30 minuten als volgt:
 
 De analyse-tabel zelf is niet waardevol; de beslissingen die je eruit trekt wel. Vier typische uitkomsten en wat je ermee doet:
 
-- **Je tarief is significant lager dan markt.** Verhoog je uurtarief in stappen over 6 maanden — reken met 5 tot 10 procent per stap — en communiceer dat naar bestaande klanten met een korte uitleg ("door investering in materiaal en duurzaam-werk verhogen wij ons tarief per 1 juli").
+- **Je tarief is significant lager dan markt.** Verhoog je uurtarief in stappen over 6 maanden (reken met 5 tot 10 procent per stap) en communiceer dat naar bestaande klanten met een korte uitleg ("door investering in materiaal en duurzaam-werk verhogen wij ons tarief per 1 juli").
 - **Je portfolio is dun vergeleken met top-3.** Investeer in voor/na fotografie van komende projecten. Lees ook hoe je [een sterk hoveniers-portfolio opbouwt](/blog/portfolio-hovenier-opbouwen).
 - **Je hebt geen duidelijke USP.** Kies één onderscheidende factor (bijvoorbeeld "alle planten met groei-garantie 1 jaar" of "vaste teams, geen onderaannemers"). Communiceer dit op homepage, op offertes, en in elk klantgesprek.
 - **Concurrenten bieden service die jij niet hebt.** Overweeg uitbreiding alleen als die service complementair is aan je core. Beregening of sierbestrating zijn vaak goede toevoegingen; sneeuwopruiming alleen in regio's met veel sneeuwval.

@@ -39,7 +39,7 @@ export default function ReviewPage() {
                     <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-700 shadow-2xl">
                         <Image
                             src="/images/services/review-pakket-hero.jpg"
-                            alt="Review pakket voor hoveniers — NFC kaartjes en software setup"
+                            alt="Review pakket voor hoveniers: NFC kaartjes en software setup"
                             fill
                             priority
                             className="object-cover"
@@ -139,7 +139,7 @@ export default function ReviewPage() {
                         >
                             <h2 className="text-2xl md:text-3xl font-bold mb-4 dark:text-white">Waarom 5-sterren je instroom verdubbelen</h2>
                             <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-                                In Google Maps lokale resultaten kiest 87% van de zoekers voor het hoveniers-bedrijf met de meeste en hoogste sterren. Onze NFC-kaartjes en software maken het voor je klanten dood-simpel om een 5-sterren review achter te laten — direct vanaf hun telefoon.
+                                In Google Maps lokale resultaten kiest 87% van de zoekers voor het hoveniers-bedrijf met de meeste en hoogste sterren. Onze NFC-kaartjes en software maken het voor je klanten dood-simpel om een 5-sterren review achter te laten, direct vanaf hun telefoon.
                             </p>
                         </motion.div>
                     </div>
@@ -152,7 +152,7 @@ export default function ReviewPage() {
                         </Link>
                         <Link href="/seo" className="group border border-gray-200 dark:border-gray-700 rounded-2xl p-6 bg-white dark:bg-neutral-800 hover:border-blue-400 transition-all">
                             <h3 className="text-lg font-bold mb-2 group-hover:text-blue-600 dark:text-white transition-colors">SEO voor Hoveniers</h3>
-                            <p className="text-gray-600 dark:text-gray-400 text-sm mb-3">Reviews voeden je Google Maps ranking — combineer met lokale SEO automatisering.</p>
+                            <p className="text-gray-600 dark:text-gray-400 text-sm mb-3">Reviews voeden je Google Maps ranking, dus combineer met lokale SEO automatisering.</p>
                             <span className="inline-flex items-center gap-1 text-blue-600 dark:text-blue-400 text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
                         </Link>
                         <Link href="/automatisering" className="group border border-gray-200 dark:border-gray-700 rounded-2xl p-6 bg-white dark:bg-neutral-800 hover:border-blue-400 transition-all">

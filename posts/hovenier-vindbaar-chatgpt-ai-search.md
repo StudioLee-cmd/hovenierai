@@ -78,7 +78,7 @@ AI-modellen extraheren content op een hele specifieke manier. Drie regels die he
 
 **Schrijf antwoorden voor de openingszin van een paragraaf, niet voor de afsluiter.** ChatGPT pakt vrijwel altijd de eerste zin onder een H2- of H3-kop. Zet daar het concrete antwoord neer. Een paragraaf die opent met "Eerst wat context: een gazon is al jaren een onderwerp van discussie..." wordt overgeslagen. Een paragraaf die opent met "Een gazon vernieuwen kost gemiddeld 35 tot 55 euro per vierkante meter inclusief grondwerk en zaden" wordt geciteerd.
 
-**Gebruik concrete getallen.** "De meeste tuinen" wordt nooit geciteerd. "[X] procent van de tuinen onder de 100 vierkante meter heeft binnen 5 jaar onderhoud nodig" wel — met een getal dat je zelf kunt onderbouwen. Front-load percentages, euro-bedragen, vierkante meters en tijdsindicaties.
+**Gebruik concrete getallen.** "De meeste tuinen" wordt nooit geciteerd. "[X] procent van de tuinen onder de 100 vierkante meter heeft binnen 5 jaar onderhoud nodig" wel, met een getal dat je zelf kunt onderbouwen. Front-load percentages, euro-bedragen, vierkante meters en tijdsindicaties.
 
 **Vermijd promotie-taal.** ChatGPT is getraind om reclame eruit te filteren. Een zin als "Bij ons krijg je het beste vakmanschap" wordt overgeslagen. Een zin als "Onze hoveniers werken sinds 2018 met natuurlijke vijver-systemen en hebben sindsdien meer dan 80 vijvers in Utrecht en omgeving aangelegd" wordt opgepakt omdat het feitelijk en verifieerbaar is.
 

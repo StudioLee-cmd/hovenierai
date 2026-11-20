@@ -126,7 +126,7 @@ export default function TarievenContent() {
           >
             <p className="text-sm text-gray-400 mb-2">Traditioneel bureau voor {niche}</p>
             <p className="text-2xl md:text-3xl font-bold mb-2">
-              <span className="line-through text-gray-500">€1.500 – €3.000/mnd</span>
+              <span className="line-through text-gray-500">€1.500 tot €3.000/mnd</span>
             </p>
             <p className="text-sm text-gray-400 mb-4">Alleen toegankelijk voor bedrijven met €1M+ omzet</p>
             <div className="w-16 h-px bg-gray-600 mx-auto mb-4"></div>
@@ -228,13 +228,13 @@ export default function TarievenContent() {
               en bedienen vooral grote bedrijven. Dat maakt hun diensten onbetaalbaar voor de meeste {niche}.
             </p>
             <p>
-              Wij werken anders. Door AI-technologie slim in te zetten leveren we dezelfde kwaliteit — strategie,
-              consulting én uitvoering — maar zonder de overhead. Geen grote teams, geen dure kantoren, geen
+              Wij werken anders. Door AI-technologie slim in te zetten leveren we dezelfde kwaliteit (strategie,
+              consulting én uitvoering), maar zonder de overhead. Geen grote teams, geen dure kantoren, geen
               eindeloze vergaderingen. Wel: directe lijnen, snelle resultaten en persoonlijke aandacht.
             </p>
             <p>
               Het resultaat? Agency-kwaliteit voor een tiende van de prijs. Toegankelijk voor elk {nicheSingular}sbedrijf,
-              ook als je net begint. Inclusief consulting en strategisch advies — dat zit gewoon in het pakket.
+              ook als je net begint. Inclusief consulting en strategisch advies: dat zit gewoon in het pakket.
             </p>
           </div>
         </div>

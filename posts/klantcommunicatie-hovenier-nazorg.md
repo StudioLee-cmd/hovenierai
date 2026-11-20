@@ -10,7 +10,7 @@ cluster: "automatisering"
 ---
 ## Waarom communicatie klanten behoudt
 
-Een mooie tuin is het begin. Maar de klantrelatie wordt gebouwd door communicatie — voor, tijdens en na het project. Hoveniers die goed communiceren krijgen meer herhaalopdrachten, meer aanbevelingen en betere [Google reviews](/blog/meer-google-reviews-als-hovenier).
+Een mooie tuin is het begin. Maar de klantrelatie wordt gebouwd door communicatie: voor, tijdens en na het project. Hoveniers die goed communiceren krijgen meer herhaalopdrachten, meer aanbevelingen en betere [Google reviews](/blog/meer-google-reviews-als-hovenier).
 
 Het verschil zit in de details. De hovenier die voor aanvang belt om de planning door te nemen, tussentijds foto-updates stuurt en na oplevering onderhoudstips geeft, wordt onthouden. De hovenier die komt, werkt en vertrekt, wordt vergeten.
 
@@ -30,7 +30,7 @@ Leg dit vast in een kort bericht (WhatsApp of e-mail) zodat de klant het kan ter
 Klanten zijn nieuwsgierig naar de voortgang, maar willen je niet storen. Los dit op met dagelijkse foto-updates:
 
 - **Ochtend**: kort bericht over het werkplan van vandaag
-- **Einde dag**: foto van de voortgang — "Bestrating is gelegd, morgen beginnen we met de beplanting"
+- **Einde dag**: foto van de voortgang ("Bestrating is gelegd, morgen beginnen we met de beplanting")
 - **Bijzonderheden**: als je iets tegenkomt (slechte grond, een wortel die verwijderd moet worden)
 
 Dit kost je 2 minuten per dag maar geeft de klant het gevoel betrokken te zijn bij het project. Bovendien bouw je hiermee een fotodocumentatie op die je later kunt gebruiken voor je portfolio.
@@ -42,7 +42,7 @@ Het moment na oplevering bepaalt of de klant een terugkerende klant wordt:
 - **Opleveringsgesprek**: loop samen de tuin door, leg uit wat je hebt gedaan
 - **Onderhoudsinstructies**: welke planten wanneer snoeien, hoe vaak bewateren, wanneer bemesten
 - **Garantie**: wat valt onder garantie (beplanting die niet aanslaat, bestrating die verzakt)
-- **Onderhoudscontract**: bied een jaarlijks onderhoudsabonnement aan — lees hoe je [vaste inkomsten opbouwt](/blog/onderhoudscontracten-hovenier-vaste-inkomsten)
+- **Onderhoudscontract**: bied een jaarlijks onderhoudsabonnement aan (lees hoe je [vaste inkomsten opbouwt](/blog/onderhoudscontracten-hovenier-vaste-inkomsten))
 
 Stuur de onderhoudsinstructies ook digitaal, zodat de klant het kan bewaren en terugvinden.
 

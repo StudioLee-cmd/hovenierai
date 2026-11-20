@@ -688,7 +688,7 @@ export const benefits: IBenefit[] = [
     // ① CHATBOT — vangt de bezoeker op die liever typt dan belt
     {
         title: "Chatbot op je site",
-        description: "Vangt de bezoeker op die liever typt dan belt. Beantwoordt de vraag, pakt de gegevens en zet de afspraak klaar — ook om elf uur 's avonds, als je hoveniersbedrijf allang dicht is.",
+        description: "Vangt de bezoeker op die liever typt dan belt. Beantwoordt de vraag, pakt de gegevens en zet de afspraak klaar, ook om elf uur 's avonds, als je hoveniersbedrijf allang dicht is.",
         bullets: [
         {
             title: "Altijd open",
@@ -717,12 +717,12 @@ export const benefits: IBenefit[] = [
         bullets: [
         {
             title: "Neemt altijd op",
-            description: "Verstaat meerdere talen en accenten en boekt direct in je agenda — ook tijdens het voorjaar.",
+            description: "Verstaat meerdere talen en accenten en boekt direct in je agenda, ook tijdens het voorjaar.",
             icon: <FiSmartphone size={26} />
         },
         {
             title: "Gemist is niet weg",
-            description: "Wie geen gehoor krijgt, heeft binnen een tel een bericht — voordat 'ie de concurrent verderop belt.",
+            description: "Wie geen gehoor krijgt, heeft binnen een tel een bericht, voordat 'ie de concurrent verderop belt.",
             icon: <FiLifeBuoy size={26} />
         },
         {
@@ -738,7 +738,7 @@ export const benefits: IBenefit[] = [
     // ③ GEAUTOMATISEERDE MARKETING — gevonden worden, van je laten horen, betaald krijgen
     {
         title: "Marketing die vanzelf loopt",
-        description: "Je wordt gevonden, je klanten horen van je en je krijgt betaald — zonder dat jij eraan denkt. Teksten, socials, reviews, mail en facturen lopen op de achtergrond door.",
+        description: "Je wordt gevonden, je klanten horen van je en je krijgt betaald, zonder dat jij eraan denkt. Teksten, socials, reviews, mail en facturen lopen op de achtergrond door.",
         bullets: [
         {
             title: "Gevonden worden",
@@ -779,7 +779,7 @@ export const benefits: IBenefit[] = [
         },
         {
             title: "Snel en op elk scherm",
-            description: "Laadt snel en ziet er op mobiel net zo goed uit — en dat helpt je meteen in Google.",
+            description: "Laadt snel en ziet er op mobiel net zo goed uit, en dat helpt je meteen in Google.",
             icon: <FiZap size={26} />,
             isHighlighted: true
         }

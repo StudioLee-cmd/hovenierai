@@ -254,7 +254,7 @@ export default function SpelContent() {
         🌿 TuinBaas
       </h1>
       <p className="text-xs text-green-700 mb-4 text-center">
-        Hovenier Simulator — Klik om te lopen, bezoek stations voor tuinklussen
+        Hovenier Simulator: Klik om te lopen, bezoek stations voor tuinklussen
       </p>
 
       {/* Game container */}

@@ -795,7 +795,7 @@ export default function MowGame({ onComplete, onExit }: MowGameProps) {
     switch (cell.type) {
       case 'rock': return <span className="text-lg sm:text-xl select-none opacity-90">🪨</span>;
       case 'flower': return <span className="text-lg sm:text-xl select-none animate-sway">🌺</span>;
-      case 'gem': return null; // Hidden — looks like grass
+      case 'gem': return null; // Hidden, looks like grass
       case 'snail': return <span className="text-lg sm:text-xl select-none animate-bob">🐌</span>;
       case 'water': return <span className="text-sm sm:text-base select-none opacity-60 animate-bob">🌊</span>;
       case 'end': return <span className="text-lg sm:text-xl select-none animate-pulse">🏁</span>;

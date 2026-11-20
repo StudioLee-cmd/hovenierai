@@ -32,7 +32,7 @@ const features = [
   {
     icon: BsCalendar3,
     title: "Plant afspraken via Calendly",
-    desc: `De telefonist checkt jouw beschikbaarheid en plant direct afspraken in — zonder dat jij iets hoeft te doen.`,
+    desc: `De telefonist checkt jouw beschikbaarheid en plant direct afspraken in, zonder dat jij iets hoeft te doen.`,
   },
   {
     icon: BsWhatsapp,
@@ -47,7 +47,7 @@ const features = [
   {
     icon: BsGlobe,
     title: "Meertalig Nederlands",
-    desc: `De telefonist spreekt vloeiend Nederlands, Engels, Duits en meer — perfect voor een diverse klantenkring.`,
+    desc: `De telefonist spreekt vloeiend Nederlands, Engels, Duits en meer, perfect voor een diverse klantenkring.`,
   },
   {
     icon: BsPersonCheck,
@@ -88,14 +88,14 @@ const painPoints = [
   {
     icon: BsXCircle,
     title: "Steeds dezelfde planningsvragen",
-    desc: `"Kan ik morgen langskomen?", "Wat kost een afspraak?", "Hebben jullie plek?" — dagelijks dezelfde telefoontjes die jouw tijd kosten.`,
+    desc: `"Kan ik morgen langskomen?", "Wat kost een afspraak?", "Hebben jullie plek?" Dagelijks dezelfde telefoontjes die jouw tijd kosten.`,
   },
 ];
 
 const faqs = [
   {
     q: "Hoe klinkt de Voice AI telefonist?",
-    a: "De AI klinkt natuurlijk en professioneel — vergelijkbaar met een echte receptionist. Je kunt de stem, toon en begroeting aanpassen aan jouw bedrijf. Bellers merken in de meeste gevallen geen verschil.",
+    a: "De AI klinkt natuurlijk en professioneel, vergelijkbaar met een echte receptionist. Je kunt de stem, toon en begroeting aanpassen aan jouw bedrijf. Bellers merken in de meeste gevallen geen verschil.",
   },
   {
     q: "Kan de telefonist ook afspraken inplannen?",
@@ -135,7 +135,7 @@ export default function VoiceAIContent() {
             className="text-lg text-foreground-accent max-w-2xl mx-auto mb-8 sl-reveal sl-reveal-1"
           >
             Een AI telefonist die elke oproep opneemt in jouw bedrijfsnaam,
-            afspraken inplant en samenvattingen stuurt via WhatsApp — ook als
+            afspraken inplant en samenvattingen stuurt via WhatsApp, ook als
             jij niet kunt opnemen.
           </motion.p>
           <motion.div
@@ -163,7 +163,7 @@ export default function VoiceAIContent() {
           <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
             <Image
               src="/images/services/voice-ai-hero.jpg"
-              alt="Voice AI telefonist voor hoveniers — automatische oproep-beantwoording"
+              alt="Voice AI telefonist voor hoveniers: automatische oproep-beantwoording"
               fill
               priority
               className="object-cover"
@@ -184,7 +184,7 @@ export default function VoiceAIContent() {
             <p>
               Een Voice AI telefonist is een slimme AI die jouw telefoon
               opneemt wanneer jij niet beschikbaar bent. Geen voicemailbericht
-              dat nooit wordt teruggebeld — de AI voert een echt gesprek,
+              dat nooit wordt teruggebeld. De AI voert een echt gesprek,
               beantwoordt vragen over jouw diensten en plant indien gewenst
               direct een afspraak in.
             </p>
@@ -194,7 +194,7 @@ export default function VoiceAIContent() {
               telefonist wordt elke oproep professioneel beantwoord in jouw
               bedrijfsnaam. De AI kent jouw openingstijden, diensten en
               prijzen, en stuurt na elk gesprek een samenvatting via WhatsApp.
-              Zo weet je precies wie er belde en wat ze nodig hadden — zonder
+              Zo weet je precies wie er belde en wat ze nodig hadden, zonder
               dat je ook maar een seconde van je werk hoeft te onderbreken.
             </p>
           </div>
@@ -275,7 +275,7 @@ export default function VoiceAIContent() {
               />
             </div>
             <p className="text-center text-sm text-foreground-accent mt-3 max-w-2xl mx-auto">
-              Terwijl jij geconcentreerd bezig bent, neemt de AI elke oproep op — in jouw bedrijfsnaam, met jouw openingstijden.
+              Terwijl jij geconcentreerd bezig bent, neemt de AI elke oproep op, in jouw bedrijfsnaam, met jouw openingstijden.
             </p>
           </motion.div>
 
@@ -286,7 +286,7 @@ export default function VoiceAIContent() {
         <div className="max-w-6xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-center mb-3">Wat krijg je?</h2>
           <p className="text-foreground-accent text-center mb-10 max-w-xl mx-auto">
-            Alles wat je nodig hebt om nooit meer een oproep te missen — inbegrepen in je pakket.
+            Alles wat je nodig hebt om nooit meer een oproep te missen, inbegrepen in je pakket.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {features.map((feature, idx) => (
@@ -319,7 +319,7 @@ export default function VoiceAIContent() {
             <p>
               Bereikbaarheid is het verschil tussen een volle agenda en lege
               weken. In de {nicheSingular}sbranche bellen klanten het liefst direct
-              — ze willen nu een afspraak, niet morgen. Onderzoek laat zien
+              want ze willen nu een afspraak, niet morgen. Onderzoek laat zien
               dat 80% van de bellers die op een voicemail uitkomen, niet
               terugbellen. Ze bellen simpelweg het volgende bedrijf in de
               Google-resultaten.
@@ -329,7 +329,7 @@ export default function VoiceAIContent() {
               dat je extra personeel hoeft aan te nemen. De AI neemt op in
               jouw bedrijfsnaam, voert een natuurlijk gesprek en handelt de
               meest voorkomende vragen zelfstandig af. Van het plannen van
-              afspraken tot het beantwoorden van prijsvragen — alles
+              afspraken tot het beantwoorden van prijsvragen, alles
               automatisch. Na elk gesprek ontvang je een samenvatting via
               WhatsApp, zodat je precies weet wat er speelt. Het resultaat?
               Meer afspraken, tevreden klanten en nul gemiste oproepen.
@@ -352,12 +352,12 @@ export default function VoiceAIContent() {
           >
             <p className="text-sm text-gray-400 mb-2">Traditioneel bureau voor {niche}</p>
             <p className="text-2xl md:text-3xl font-bold mb-2">
-              <span className="line-through text-gray-500">€1.500 – €3.000/mnd</span>
+              <span className="line-through text-gray-500">€1.500 tot €3.000/mnd</span>
             </p>
             <p className="text-sm text-gray-400 mb-4">Telefoonservice als losse add-on, alleen tijdens kantooruren</p>
             <div className="w-16 h-px bg-gray-600 mx-auto mb-4"></div>
             <p className="text-primary font-semibold text-lg">{brand}</p>
-            <p className="text-3xl md:text-4xl font-bold">€79/maand — alles inbegrepen</p>
+            <p className="text-3xl md:text-4xl font-bold">€79/maand, alles inbegrepen</p>
             <p className="text-sm text-gray-300 mt-2">Voice AI telefonist standaard inbegrepen. Inclusief strategie & consulting.</p>
           </motion.div>
 
@@ -390,7 +390,7 @@ export default function VoiceAIContent() {
               <h3 className="text-lg font-bold mb-4 mt-1">{brand}</h3>
               <ul className="space-y-3">
                 {[
-                  "€79 per maand — alles inbegrepen",
+                  "€79 per maand, alles inbegrepen",
                   "Live binnen 1-2 werkdagen",
                   "Voice AI telefonist standaard inbegrepen",
                   "24/7 bereikbaar, ook buiten kantooruren",
@@ -435,14 +435,14 @@ export default function VoiceAIContent() {
               transition={{ duration: 0.6 }}
             >
               <h2 className="text-2xl md:text-3xl font-bold mb-4">Spoedoproepen 24/7 opvangen, ook `'`s nachts</h2>
-              <p className="text-foreground-accent leading-relaxed">60% van hoveniers-oproepen komt buiten kantooruren binnen. Zonder Voice AI gaan die naar de concurrent. Met Voice AI plant de AI direct een afspraak, stuurt een WhatsApp-samenvatting en plant in jouw agenda — zonder dat jij iets hoeft te doen.</p>
+              <p className="text-foreground-accent leading-relaxed">60% van hoveniers-oproepen komt buiten kantooruren binnen. Zonder Voice AI gaan die naar de concurrent. Met Voice AI plant de AI direct een afspraak, stuurt een WhatsApp-samenvatting en plant in jouw agenda, zonder dat jij iets hoeft te doen.</p>
             </motion.div>
           </div>
           <h3 className="text-xl md:text-2xl font-bold text-center mb-6">Combineer met andere AI-tools</h3>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               <Link href="/chatbot" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
                 <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">AI Chatbot</h3>
-                <p className="text-foreground-accent text-sm mb-3">Vangt website-aanvragen op die liever typen dan bellen — zelfde flow.</p>
+                <p className="text-foreground-accent text-sm mb-3">Vangt website-aanvragen op die liever typen dan bellen: zelfde flow.</p>
                 <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
               </Link>
               <Link href="/automatisering" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
@@ -483,7 +483,7 @@ export default function VoiceAIContent() {
           <h2 className="text-2xl md:text-3xl font-bold mb-4">Nooit meer een oproep missen?</h2>
           <p className="text-foreground-accent mb-8">
             Plan een gratis strategiegesprek van 15 minuten. We laten zien hoe een Voice AI telefonist
-            jouw {nicheSingular}sbedrijf 24/7 bereikbaar maakt — zonder extra personeel.
+            jouw {nicheSingular}sbedrijf 24/7 bereikbaar maakt, zonder extra personeel.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a

@@ -66,7 +66,7 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTria
                 <div className="mb-6 h-6">
                     {isAnnual ? (
                         <span className="text-xs font-semibold text-green-600 bg-green-50 px-2 py-1 rounded-full border border-green-200">
-                            {name === 'Managed Groei Basis' ? `Eenmalig €${(typeof basePrice === 'number' ? basePrice : 0) * 12},- — nooit meer maandkosten` : `Eenmalig €${(typeof basePrice === 'number' ? basePrice : 0) * 12},- per jaar`}
+                            {name === 'Managed Groei Basis' ? `Eenmalig €${(typeof basePrice === 'number' ? basePrice : 0) * 12},- en nooit meer maandkosten` : `Eenmalig €${(typeof basePrice === 'number' ? basePrice : 0) * 12},- per jaar`}
                         </span>
                     ) : (
                         <span className="text-xs font-semibold text-[var(--foreground-accent)]">

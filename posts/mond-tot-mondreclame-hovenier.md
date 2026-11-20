@@ -10,7 +10,7 @@ cluster: "branding"
 ---
 Als hovenier werkt je marketing letterlijk in de voortuin. Buren zien het resultaat. Voorbijgangers stoppen om te kijken. En als de klant tevreden is, vertelt die het aan iedereen in de straat.
 
-Mond-tot-mondreclame is al eeuwen de krachtigste marketingvorm — en voor hoveniers is dat nog steeds zo. Maar je kunt het versterken en versnellen. In dit artikel leer je hoe.
+Mond-tot-mondreclame is al eeuwen de krachtigste marketingvorm, en voor hoveniers is dat nog steeds zo. Maar je kunt het versterken en versnellen. In dit artikel leer je hoe.
 
 ## Waarom mond-tot-mond werkt voor hoveniers
 
@@ -39,7 +39,7 @@ De meeste hoveniers vertrouwen op passieve mond-tot-mond: goed werk leveren en h
 
 ### 1. De oplevering is je marketingmoment
 
-Het moment dat je de tuin oplevert en de klant voor het eerst het eindresultaat ziet — dat is het moment om te vragen. Niet twee weken later. Nu.
+Het moment dat je de tuin oplevert en de klant voor het eerst het eindresultaat ziet: dat is het moment om te vragen. Niet twee weken later. Nu.
 
 ### 2. Buurteffect benutten
 

@@ -9,7 +9,7 @@ cluster: "automatisering"
 ---
 ## Wat kost een gemiste afspraak je als hovenier?
 
-Een gemiste afspraak als hovenier is dubbel vervelend. Je hebt niet alleen omzet misgelopen, maar ook je dag­planning is in de war. Met materiaal in de bus en een ploeg die klaarstaat, kost een no-show je al snel €200 tot €500 — afhankelijk van de klus.
+Een gemiste afspraak als hovenier is dubbel vervelend. Je hebt niet alleen omzet misgelopen, maar ook je dag­planning is in de war. Met materiaal in de bus en een ploeg die klaarstaat, kost een no-show je al snel €200 tot €500, afhankelijk van de klus.
 
 Reken je door: bij één no-show per week verlies je €10.000 tot €25.000 per jaar. Dat is het verschil tussen een goed jaar en een matig jaar.
 
@@ -57,7 +57,7 @@ Hoe duidelijker de afspraken, hoe minder verrassingen. En minder verrassingen be
 
 ## Weersgevoelige planning slim aanpakken
 
-Als hovenier werk je buiten. Weer is een factor — maar het moet geen excuus zijn voor no-shows.
+Als hovenier werk je buiten. Weer is een factor, maar het moet geen excuus zijn voor no-shows.
 
 Communiceer proactief over weer:
 
@@ -73,6 +73,6 @@ Door zelf het initiatief te nemen over weerupdates, voorkom je dat klanten denke
 
 Minder no-shows betekent meer productieve uren. Met een combinatie van automatische herinneringen, duidelijke afspraken bij de offerte en proactieve weercommunicatie kun je als hovenier 1 tot 2 extra klussen per week realiseren.
 
-Dat is geen extra marketing of acquisitie — het is gewoon beter gebruik maken van de klussen die je al hebt. De kosten zijn minimaal: een automatiseringssysteem kost je na de opzet geen extra tijd per dag.
+Dat is geen extra marketing of acquisitie. Het is gewoon beter gebruik maken van de klussen die je al hebt. De kosten zijn minimaal: een automatiseringssysteem kost je na de opzet geen extra tijd per dag.
 
 Wil je weten hoe je no-shows als hovenier kunt voorkomen? Vraag een [gratis AI-scan](/gratis-scan) aan.

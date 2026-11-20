@@ -57,7 +57,7 @@ const steps = [
   {
     icon: BsSearch,
     title: "Keyword Research",
-    description: `We onderzoeken waar jouw ideale klanten op zoeken. Van "${niche} [stad]" tot specifieke diensten - we brengen alle kansen in kaart.`,
+    description: `We onderzoeken waar jouw ideale klanten op zoeken. Van "${niche} [stad]" tot specifieke diensten: we brengen alle kansen in kaart.`,
   },
   {
     icon: BsPencilSquare,
@@ -111,11 +111,11 @@ const faqs = [
   },
   {
     question: `Wat kost SEO voor een ${niche}?`,
-    answer: `Bij een traditioneel SEO-bureau betaal je al snel \u20AC1.500 tot \u20AC3.000 per maand. Bij ${siteDetails.siteName} zit SEO inbegrepen in je abonnement vanaf \u20AC79 per maand - inclusief blogartikelen, lokale SEO en technische optimalisatie. Geen verborgen kosten.`,
+    answer: `Bij een traditioneel SEO-bureau betaal je al snel \u20AC1.500 tot \u20AC3.000 per maand. Bij ${siteDetails.siteName} zit SEO inbegrepen in je abonnement vanaf \u20AC79 per maand, inclusief blogartikelen, lokale SEO en technische optimalisatie. Geen verborgen kosten.`,
   },
   {
     question: `Moet ik zelf content schrijven?`,
-    answer: `Nee, dat hoef je niet. Onze AI schrijft professionele blogartikelen die geoptimaliseerd zijn voor de zoekwoorden waar jouw klanten op zoeken. Je hoeft er zelf niks voor te doen. Wil je zelf ook content aanleveren? Dat kan natuurlijk ook - we verwerken het graag.`,
+    answer: `Nee, dat hoef je niet. Onze AI schrijft professionele blogartikelen die geoptimaliseerd zijn voor de zoekwoorden waar jouw klanten op zoeken. Je hoeft er zelf niks voor te doen. Wil je zelf ook content aanleveren? Dat kan natuurlijk ook, we verwerken het graag.`,
   },
   {
     question: `Werkt SEO ook voor AI-zoekmachines zoals ChatGPT?`,
@@ -195,7 +195,7 @@ export default function SEOContent() {
           <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
             <Image
               src="/images/services/seo-hero.jpg"
-              alt="SEO voor hoveniers — Google ranking dashboard op laptop"
+              alt="SEO voor hoveniers: Google ranking dashboard op laptop"
               fill
               priority
               className="object-cover"
@@ -228,7 +228,7 @@ export default function SEOContent() {
                 duurzame online positie op die maanden- tot jarenlang verkeer naar je website
                 stuurt. Voor {nichePlural} is lokale SEO extra belangrijk: de meeste klanten zoeken
                 namelijk een {niche} in hun eigen regio. Met de juiste SEO-strategie verschijn
-                je bovenaan wanneer het ertoe doet - precies op het moment dat iemand jouw dienst
+                je bovenaan wanneer het ertoe doet: precies op het moment dat iemand jouw dienst
                 nodig heeft.
               </p>
             </div>
@@ -389,7 +389,7 @@ export default function SEOContent() {
                 De meeste klanten beginnen hun zoektocht naar een {niche} in Google. Ze typen
                 &ldquo;{niche} [stad]&rdquo; of &ldquo;goede {niche} bij mij in de buurt&rdquo; en
                 kiezen uit de eerste resultaten. Als jij daar niet tussen staat, mis je elke dag
-                potentiele klanten - klanten die vervolgens naar je concurrent gaan.
+                potentiele klanten, klanten die vervolgens naar je concurrent gaan.
               </p>
               <p>
                 Het goede nieuws: de meeste {nichePlural} doen nog geen SEO. Dat betekent dat er
@@ -520,7 +520,7 @@ export default function SEOContent() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               <Link href="/reviews" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
                 <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">Reviews</h3>
-                <p className="text-foreground-accent text-sm mb-3">Reviews zijn de #1 ranking-factor in Google Maps — combineer voor maximale lokale zichtbaarheid.</p>
+                <p className="text-foreground-accent text-sm mb-3">Reviews zijn de #1 ranking-factor in Google Maps, dus combineer voor maximale lokale zichtbaarheid.</p>
                 <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
               </Link>
               <Link href="/gratis-website" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
@@ -530,7 +530,7 @@ export default function SEOContent() {
               </Link>
               <Link href="/social-media" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
                 <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">Social Media</h3>
-                <p className="text-foreground-accent text-sm mb-3">Social signals versterken je lokale SEO — combineer voor maximale Google-zichtbaarheid.</p>
+                <p className="text-foreground-accent text-sm mb-3">Social signals versterken je lokale SEO, dus combineer voor maximale Google-zichtbaarheid.</p>
                 <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
               </Link>
           </div>

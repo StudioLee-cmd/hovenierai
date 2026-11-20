@@ -60,7 +60,7 @@ const Benefits: React.FC = () => {
                 <p className="mt-3 text-foreground-accent leading-normal">
                     De klant die &apos;s avonds op je site komt krijgt antwoord. De beller die jij niet kunt opnemen
                     wordt ingepland. Nieuwe klanten vinden je vanzelf, en je site staat er over een jaar nóg goed bij.
-                    Klik een van de vier open — er draait meer onder dan je hier ziet.
+                    Klik een van de vier open: er draait meer onder dan je hier ziet.
                 </p>
             </div>
 

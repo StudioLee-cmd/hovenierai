@@ -7,7 +7,7 @@ image: "/images/blog/hoe-hoveniers-meer-klanten-vinden-via-google.png"
 tags: ["Vindbaarheid", "Google"]
 cluster: "vindbaarheid"
 ---
-## Hoveniers worden gevonden online — zo ziet dat eruit
+## Hoveniers worden gevonden online: zo ziet dat eruit
 
 Iemand wil zijn tuin laten aanleggen of onderhouden. Ze googlen "hovenier [stad]" of "tuinman in de buurt". Ze zien een paar resultaten met foto's van eerder werk en reviews. Ze kiezen de hovenier die er het meest professioneel uitziet. En bellen.
 
@@ -29,7 +29,7 @@ Foto's zijn voor hoveniers extra belangrijk. Een mooie voor/na foto is het krach
 
 ## Stap 2: Bouw aan je reviews na elke klus
 
-Hoveniers die regelmatig terugkomen bij dezelfde klanten, vergeten reviews te vragen. Zonde — elke blije klant is een potentiële referentie voor iemand anders.
+Hoveniers die regelmatig terugkomen bij dezelfde klanten, vergeten reviews te vragen. Zonde, want elke blije klant is een potentiële referentie voor iemand anders.
 
 Stuur na elke klus automatisch een WhatsApp:
 
@@ -62,7 +62,7 @@ Elke pagina trekt een andere zoeker en vergroot je organisch bereik.
 Tuinliefhebbers lezen graag over tuinieren. Bied die content aan:
 
 - "Wanneer is het beste moment om je haag te snoeien?"
-- "Wat kost tuinonderhoud per jaar — een eerlijk overzicht"
+- "Wat kost tuinonderhoud per jaar: een eerlijk overzicht"
 - "Tuinaanleg van A tot Z: wat moet je weten?"
 - "Hoe kies je de juiste beplanting voor een schaduwrijke tuin?"
 
@@ -84,7 +84,7 @@ Naast je website en Google-profiel telt ook hoe vaak je naam ergens anders verme
 
 - Meld je bedrijf aan op Yelp en lokale directories
 - Vraag tevreden klanten of ze je aanbevelen in buurt-WhatsApp-groepen
-- Word lid van de branchevereniging VHG — hun ledenlijst telt mee
+- Word lid van de branchevereniging VHG, want hun ledenlijst telt mee
 - Deel voor/na foto's op sociale media met locatietags
 
 ---

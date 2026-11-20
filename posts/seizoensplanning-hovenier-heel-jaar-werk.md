@@ -10,7 +10,7 @@ cluster: "automatisering"
 ---
 ## Het seizoensritme van hoveniers
 
-Als hovenier leef je met de seizoenen. In het voorjaar en de zomer kun je de aanvragen nauwelijks aan. Tuinaanleg, onderhoud, terrasaanleg — alles moet tegelijk. Maar in november wordt het stil. En in januari staar je naar een lege agenda.
+Als hovenier leef je met de seizoenen. In het voorjaar en de zomer kun je de aanvragen nauwelijks aan. Tuinaanleg, onderhoud, terrasaanleg: alles moet tegelijk. Maar in november wordt het stil. En in januari staar je naar een lege agenda.
 
 Dit seizoenspatroon is de grootste uitdaging voor hoveniersbedrijven. Je inkomsten pieken in de zomer, maar je vaste lasten lopen het hele jaar door.
 
@@ -60,10 +60,10 @@ Voorbeeld-indeling:
 ### 2. Diversifieer je diensten
 
 Beperk je niet tot tuinaanleg. Winterdiensten die goed verkopen:
-- **Bestratingswerk** — minder weersafhankelijk dan je denkt
-- **Schuttingen en tuinafscheidingen** — kan ook in de winter
-- **Tuinverlichting** — donkere maanden = verlichting verkopen
-- **Sneeuwruimen** (voor zakelijke klanten) — vast contract
+- **Bestratingswerk**: minder weersafhankelijk dan je denkt
+- **Schuttingen en tuinafscheidingen**: kan ook in de winter
+- **Tuinverlichting**: donkere maanden = verlichting verkopen
+- **Sneeuwruimen** (voor zakelijke klanten): vast contract
 
 ### 3. Start je voorjaarscampagne in januari
 
@@ -77,15 +77,15 @@ Wie het eerst boekt, heeft een volle voorjaarsagenda.
 ### 4. Plan in het laagseizoen het hoogseizoen
 
 Gebruik de rustige winter voor:
-- **Tuinontwerpen maken** — besteed tijd aan mooie ontwerpen die klanten overtuigen
-- **Offertes uitwerken** — gedetailleerde offertes met 3D-visualisaties
-- **Materiaal inkopen** — voordelig inkopen als leveranciers ruimte hebben
-- **Personeel trainen** — seizoenskrachten alvast inwerken
+- **Tuinontwerpen maken**: besteed tijd aan mooie ontwerpen die klanten overtuigen
+- **Offertes uitwerken**: gedetailleerde offertes met 3D-visualisaties
+- **Materiaal inkopen**: voordelig inkopen als leveranciers ruimte hebben
+- **Personeel trainen**: seizoenskrachten alvast inwerken
 
 ### 5. Automatiseer je seizoenscommunicatie
 
 Laat het systeem automatisch seizoensgebonden berichten sturen naar je [klantenbestand](/crm):
-- **Februari**: "Het voorjaar komt eraan — plan nu je tuinproject"
+- **Februari**: "Het voorjaar komt eraan. Plan nu je tuinproject"
 - **Juni**: "Zomeronderhoud nodig? We hebben nog ruimte in juli"
 - **September**: "Tijd om je tuin winterklaar te maken"
 - **November**: "Kerstverlichting in je tuin? Wij regelen het"

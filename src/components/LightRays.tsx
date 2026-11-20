@@ -230,7 +230,7 @@ const LightRays: React.FC<LightRaysProps> = ({
                 }
             };
         } catch {
-            return;   // geen WebGL — de rays vervallen stil, de rest van de pagina niet
+            return;   // geen WebGL: de rays vervallen stil, de rest van de pagina niet
         }
     }, [raysOrigin, raysColor, raysSpeed, lightSpread, rayLength, followMouse, mouseInfluence, noiseAmount, distortion, pulsating, fadeDistance, saturation]);
 

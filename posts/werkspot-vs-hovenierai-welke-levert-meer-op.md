@@ -13,7 +13,7 @@ Veel hoveniers gebruiken Werkspot om klussen te vinden. Je betaalt per lead en c
 
 Op Werkspot reageer je op klusaanvragen van particulieren. Je betaalt credits per reactie. De klant ontvangt 3–5 offertes en kiest er één. Je conversie is dus per definitie een fractie van je reacties.
 
-**De rekening:** 20 leads × €10–€20 per stuk = €200–€400/maand. Daarvan win je 3–5 klussen. De klant is niet van jou — volgend seizoen gaat hij terug naar Werkspot.
+**De rekening:** 20 leads × €10–€20 per stuk = €200–€400/maand. Daarvan win je 3–5 klussen. De klant is niet van jou: volgend seizoen gaat hij terug naar Werkspot.
 
 ## HovenierAI: eigen klanten, eigen merk
 
@@ -37,7 +37,7 @@ HovenierAI bouwt je eigen klantenkanaal met 20 functies:
 
 ## Reviews als groeistrategie
 
-Reviews op Werkspot bepalen of klanten jou kiezen of een andere hovenier. HovenierAI automatiseert je reviewstrategie: na elke klus gaat automatisch een reviewverzoek uit. Deze reviews versterken niet alleen je Werkspot-profiel — ze bouwen ook je Google-reputatie op. Meer [Google Reviews](/reviews) betekent een hogere positie in Google, wat weer meer directe klanten oplevert. Zo groeit je bedrijf ook buiten Werkspot om.
+Reviews op Werkspot bepalen of klanten jou kiezen of een andere hovenier. HovenierAI automatiseert je reviewstrategie: na elke klus gaat automatisch een reviewverzoek uit. Deze reviews versterken niet alleen je Werkspot-profiel. Ze bouwen ook je Google-reputatie op. Meer [Google Reviews](/reviews) betekent een hogere positie in Google, wat weer meer directe klanten oplevert. Zo groeit je bedrijf ook buiten Werkspot om.
 
 Lees ook: [AI voor hoveniers: slimmer offreren en meer klanten](/blog/ai-voor-hoveniers-slimmer-offreren-meer-klanten).
 
@@ -47,6 +47,6 @@ Werkspot levert leads, HovenierAI bouwt je bedrijf. Twintig functies, één prij
 
 ## Managed service: jij focust op tuinen
 
-Met onze managed service hoef je zelf niets te doen. We houden alles draaiend — van je SEO en social media tot je reviews en AI-vindbaarheid. Je hebt alleen een maandelijks gesprek van 15 minuten nodig om op de hoogte te blijven. De rest doen wij.
+Met onze managed service hoef je zelf niets te doen. We houden alles draaiend, van je SEO en social media tot je reviews en AI-vindbaarheid. Je hebt alleen een maandelijks gesprek van 15 minuten nodig om op de hoogte te blijven. De rest doen wij.
 
 Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://www.studiolee.nl) om te ontdekken wat er mogelijk is.

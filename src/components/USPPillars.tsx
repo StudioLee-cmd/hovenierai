@@ -17,7 +17,7 @@ const pillars = [
     {
         title: "Je planning blijft vol",
         subtitle: "Meer afspraken",
-        description: "Elke beller wordt te woord gestaan en elke aanvraag komt in je agenda — ook als jij met je handen in de aarde zit.",
+        description: "Elke beller wordt te woord gestaan en elke aanvraag komt in je agenda, ook als jij met je handen in de aarde zit.",
         icon: <FiTrendingUp size={32} />,
         pillarLinks: [{ href: "/voice-ai", anchor: "ai telefonist voor hoveniers" }, { href: "/chatbot", anchor: "ai chatbot voor hoveniers" }],
     },

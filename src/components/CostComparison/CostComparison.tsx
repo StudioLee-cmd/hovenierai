@@ -24,7 +24,7 @@ const CostComparison: React.FC = () => {
         <Section
             id="comparison"
             title="Wat dit los bij elkaar kost"
-            description="Dezelfde dingen los inkopen — een vaste kracht voor je social, iemand voor je teksten, losse abonnementen voor je agenda en je website. Dit is wat je daar per maand aan kwijt bent, naast wat je hier voor hetzelfde werk betaalt."
+            description="Dezelfde dingen los inkopen: een vaste kracht voor je social, iemand voor je teksten, losse abonnementen voor je agenda en je website. Dit is wat je daar per maand aan kwijt bent, naast wat je hier voor hetzelfde werk betaalt."
         >
             <Container>
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
@@ -56,7 +56,7 @@ const CostComparison: React.FC = () => {
 
                             <div className="space-y-4 mb-10 relative z-10">
                                 {/* PROPOSITIE-CONTRACT ⛔1: hier stonden drie TOOL-NAMEN in het vet
-                                    ("Review AI", "SEO Blog AI", "Photo & Social AI") — de gereedschapskist
+                                    ("Review AI", "SEO Blog AI", "Photo & Social AI"): de gereedschapskist
                                     in plaats van de uitkomst, op de plek waar de bezoeker juist de REKENING
                                     vergelijkt (§②). Zelfde pas als het credit-blok eronder, 26-07. */}
                                 <div className="flex items-center gap-3">

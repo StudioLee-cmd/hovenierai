@@ -17,7 +17,7 @@ export default function NotFound() {
       </h2>
 
       <p className="text-green-300/80 max-w-md mb-8 text-sm sm:text-base">
-        Deze pagina bestaat niet (meer). Maar geen zorgen — speel een spelletje terwijl je hier bent!
+        Deze pagina bestaat niet (meer). Maar geen zorgen: speel een spelletje terwijl je hier bent!
       </p>
 
       <Link
@@ -36,7 +36,7 @@ export default function NotFound() {
       </Link>
 
       <p className="mt-12 text-green-600/40 text-xs">
-        HovenierAI.nl — AI-gestuurde hoveniersdiensten
+        HovenierAI.nl | AI-gestuurde hoveniersdiensten
       </p>
     </div>
   );

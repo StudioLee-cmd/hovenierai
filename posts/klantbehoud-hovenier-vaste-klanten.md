@@ -14,7 +14,7 @@ cluster: "automatisering"
 
 Een hovenier die elke maand opnieuw moet werven, heeft een kwetsbaar bedrijf. Een hovenier met 30 vaste klanten die elk seizoen terugkomen, heeft een stabiel bedrijf met voorspelbare omzet.
 
-Het verschil is enorm: nieuwe klanten kosten je tijd en geld via [Google](/blog/hoe-hoveniers-meer-klanten-vinden-via-google) of [Werkspot](/blog/hovenierai-vs-personeel). Vaste klanten bellen je direct — geen concurrentie, geen acquisitiekosten, geen prijsonderhandeling.
+Het verschil is enorm: nieuwe klanten kosten je tijd en geld via [Google](/blog/hoe-hoveniers-meer-klanten-vinden-via-google) of [Werkspot](/blog/hovenierai-vs-personeel). Vaste klanten bellen je direct: geen concurrentie, geen acquisitiekosten, geen prijsonderhandeling.
 
 ## Nazorg die indruk maakt
 
@@ -24,7 +24,7 @@ De meeste hoveniers leveren het project op en gaan door. Maar een paar minuten n
 
 **Verzorgingstips meegeven**. Een simpel blad met tips: wanneer water geven, wanneer snoeien, waar op letten in het eerste seizoen. Dit toont expertise en voorkomt teleurstelling als planten doodgaan door verkeerd onderhoud.
 
-**Foto's delen**. Stuur de klant foto's van de afgewerkte tuin. Ze delen dit met buren en vrienden — gratis marketing.
+**Foto's delen**. Stuur de klant foto's van de afgewerkte tuin. Ze delen dit met buren en vrienden: gratis marketing.
 
 ## Onderhoudscontracten als basis
 
@@ -40,9 +40,9 @@ Een [onderhoudscontract](/blog/onderhoudscontracten-hovenier-vaste-inkomsten) is
 
 Klanten zonder onderhoudscontract kun je toch vasthouden via [email marketing](/blog/email-marketing-hovenier-seizoenstips):
 
-- **Februari**: "Het voorjaar komt eraan — wil je dat wij je tuin klaar maken?"
+- **Februari**: "Het voorjaar komt eraan. Wil je dat wij je tuin klaar maken?"
 - **September**: "Herfst: tijd voor bladruimen en bollen planten"
-- **December**: "Terugblik op het tuinjaar — plan alvast je onderhoud voor 2027"
+- **December**: "Terugblik op het tuinjaar: plan alvast je onderhoud voor 2027"
 
 Drie contactmomenten per jaar houden je top-of-mind zonder opdringerig te zijn.
 

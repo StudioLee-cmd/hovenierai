@@ -182,7 +182,7 @@ export default function GratisScanPage() {
     const startScan = async (data: any) => {
         setIsModalOpen(true);
         try {
-            await fetch('https://n8n.aireclamestudio.nl/webhook/free-scan', {
+            await fetch('https://n8n.studiolee.nl/webhook/free-scan', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ ...data, niche: siteDetails.niche, bron: new URLSearchParams(window.location.search).get('bron') || 'direct' }),

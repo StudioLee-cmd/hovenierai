@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 
-const N8N_WEBHOOK_URL = "https://n8n.aireclamestudio.nl/webhook/Client-sign-up";
+const N8N_WEBHOOK_URL = "https://n8n.studiolee.nl/webhook/Client-sign-up";
 
 export async function POST(request: Request) {
     try {

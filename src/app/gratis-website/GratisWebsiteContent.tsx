@@ -13,7 +13,7 @@ const nicheLower = niche.toLowerCase();
 const nicheSingular = nicheLower.endsWith("s") ? nicheLower.slice(0, -1) : nicheLower;
 const brand = siteDetails.siteName;
 
-const WEBHOOK_URL = "https://n8n.aireclamestudio.nl/webhook/freewebsite";
+const WEBHOOK_URL = "https://n8n.studiolee.nl/webhook/freewebsite";
 
 export default function GratisWebsiteContent() {
   const [formData, setFormData] = useState({
